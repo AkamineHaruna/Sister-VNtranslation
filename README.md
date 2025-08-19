@@ -1,7 +1,7 @@
 # 🌸 Sister VN Translation Project
 
-A community project to translate **Sister** into Vietnamese.  
-(Dự án cộng đồng dịch game **Sister** sang tiếng Việt.)
+A self-project to translate **Sister** into Vietnamese.  
+(Dự án cá nhân dịch game **Sister** sang tiếng Việt.)
 
 ---
 
