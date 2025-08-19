@@ -1,0 +1,895 @@
+{
+    "3": {
+        "name": [
+            "Phụ kiện tóc kỳ lạ"
+        ],
+        "subtitle": "",
+        "description": [
+            "Phụ kiện tóc được trang trí bằng một hoa văn kỳ lạ",
+            "Đây là con thỏ… hay là cái bánh bao…?"
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "6": {
+        "name": [
+            "Sự Ra Đời Của Tai Ương"
+        ],
+        "subtitle": "",
+        "description": [
+            "Bị ký sinh bởi Hòn Đá Giả Kim, một sinh vật yếu ớt đã bị ép buộc",
+            "được truyền vào sức sống vô tận, luân hồi bất tận giữa sự sống và",
+            "cái chết cho đến khi cơn điên loạn chiếm lấy. Ngay cả khi bị tách bỏ,",
+            "sức mạnh này vẫn còn tồn tại."
+        ],
+        "ability": [
+            "Tăng HP. Cường hóa hiệu ứng hồi phục HP thêm 25%.",
+            "Kích hoạt hồi phục tự động khi được trang bị"
+        ]
+    },
+    "7": {
+        "name": [
+            "Bào Thai Nguyền Rủa"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một bào thai bị nguyền rủa còn chưa phát triển, thế nhưng vẫn còn sống.",
+            "Ý chí mãnh liệt khao khát tồn tại và nguồn sinh lực trào dâng",
+            "nguồn sinh lực ấy thậm chí có thể ảnh hưởng đến kẻ mang nó."
+        ],
+        "ability": [
+            "Tăng HP. Cường hóa hiệu ứng hồi phục HP thêm 20%."
+        ]
+    },
+    "8": {
+        "name": [
+            "Cụm Tinh Thạch Mana"
+        ],
+        "subtitle": "",
+        "description": [
+            "“Một loại khoáng chất được hun đúc trong Đại Mê Cung, xuất hiện dấu vết của mana",
+            "Mang theo sẽ gia tăng sự lĩnh hội phép thuật."
+        ],
+        "ability": [
+            "Khi trang bị sẽ tăng tốc độ thi triển và sức mạnh ma thuật."
+        ]
+    },
+    "9": {
+        "name": [
+            "Cụm Mana Vực Thẳm"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một cụm hiếm chứa đựng Mana đậm đặc,",
+            "Tỏa ra những làn sóng ma thuật hữu hình, được các nhà giả kim săn lùng ráo riết"
+        ],
+        "ability": [
+            "Khi trang bị sẽ tăng tốc độ thi triển và sức mạnh ma thuật."
+        ]
+    },
+    "10": {
+        "name": [
+            "Vòng Trán Tập Trung"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một chiếc vòng trán từng được đại hiền giả đeo khi còn trẻ như một nhà",
+            "mạo hiểm giả. Nó giúp tập trung tâm trí và ngăn chặn những xao nhãng từ bên ngoài."
+        ],
+        "ability": [
+            "Miễn nhiễm với Choáng",
+            "Tăng cường sức mạnh ma thuật và quy mô thi triển"
+        ]
+    },
+    "11": {
+        "name": [
+            "Găng Tay Hút Mana"
+        ],
+        "subtitle": "",
+        "description": [
+            "Đôi găng tay từng được đại hiền giả đeo khi còn trẻ như một nhà",
+            "mạo hiểm giả. Chúng tự nhiên hấp thụ Mana,",
+            "truyền vào vũ khí những thuộc tính ma thuật."
+        ],
+        "ability": [
+            "Vũ khí sẽ gây thêm sát thương ma thuật"
+        ]
+    },
+    "12": {
+        "name": [
+            "Vuốt Neko Đi Mượn"
+        ],
+        "subtitle": [
+            " \"...Meo~?\""		
+		],
+        "description": [
+            "Những móng vuốt Mèo ẩn bên trong một Slime Neko, dường như đã được thấm nhuần",
+            "linh hồn của mèo. Khi trang bị sẽ tăng sự nhanh nhẹn của bạn!"
+        ],
+        "ability": [
+            "Tăng sức mạnh tấn công và tốc độ tấn công"
+        ]
+    },
+    "13": {
+        "name": [
+            "Chân Neko Đi Mượn"
+        ],
+        "subtitle": [
+            " \"...Meo~?\""	
+		],
+        "description": [
+            "Những móng vuốt Mèo ẩn bên trong một Slime Neko, dường như đã được thấm nhuần",
+            "linh hồn của mèo. Khi trang bị sẽ tăng sự nhanh nhẹn của bạn!"
+        ],
+        "ability": [
+            "Tăng tốc độ tấn công và di chuyển, giảm thời gian hồi chiêu Senpo"
+        ]
+    },
+    "14": {
+        "name": [
+            "Nhẫn Cỏ Thơm"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một chiếc nhẫn được đan từ lá và thân rễ, tỏa ra mùi hương thảo mộc",
+            "Từng được dùng làm bùa hộ mệnh cho lữ khách, nó tượng trưng cho sức sống và năng lượng"
+        ],
+        "ability": [
+            "HP tối đa +\\c[29]${$gameActors.actor(1).skillMasteryLevel(35)>0?(($gameActors.actor(1).skillMasteryLevel(35)*($gameActors.actor(1).skillMasteryLevel(35) + 1)/2)*15)/$gameActors.actor(1).skillMasteryLevel(35):15}\\c[0]",
+            "Trang bị nhiều món này sẽ tăng cường hiệu quả"
+        ]
+    },
+    "15": {
+        "name": [
+            "Bộ Đồ Neko"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một bộ đồ mèo bông mềm mại, ấm áp — vừa bồng bềnh vừa quá khổ",
+            "Thiết kế rộng rãi ôm trọn cơ thể, thậm chí còn có thể giấu cả vài món đồ nhỏ bên trong~"
+        ],
+        "ability": [
+            "Sức chứa thêm vũ khí +10",
+            "Sức chứa thêm trang bị +20"
+        ]
+    },
+    "16": {
+        "name": [
+            "Mũ Gai Xuyên Thấu"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một bộ giáp kim loại gắn đầy gai nhọn, tỏa ra sự nguy hiểm từ mọi góc độ,",
+            "vừa mang lại khả năng phòng thủ vững chắc, vừa tự động gây sát thương kẻ địch ở gần."
+        ],
+        "ability": [
+            "Tự động gây sát thương lên kẻ địch xung quanh"
+        ]
+    },
+    "17": {
+        "name": [
+            "Giáp Gai Xuyên Thấu"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một bộ giáp kim loại gắn đầy gai nhọn, tỏa ra sự nguy hiểm từ mọi góc độ,",
+            "vừa mang lại khả năng phòng thủ vững chắc, vừa tự động gây sát thương kẻ địch ở gần."
+        ],
+        "ability": [
+            "Tự động gây sát thương lên kẻ địch xung quanh"
+        ]
+    },
+    "18": {
+        "name": [
+            "Găng Tay Gai Xuyên Thấu"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một bộ giáp kim loại gắn đầy gai nhọn, tỏa ra sự nguy hiểm từ mọi góc độ,",
+            "vừa mang lại khả năng phòng thủ vững chắc, vừa tự động gây sát thương kẻ địch ở gần."
+        ],
+        "ability": [
+            "Tự động gây sát thương lên kẻ địch xung quanh khi tấn công"
+        ]
+    },
+    "19": {
+        "name": [
+            "Ủng Gai Xuyên Thấu"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một bộ giáp kim loại gắn đầy gai nhọn, tỏa ra sự nguy hiểm từ mọi góc độ,",
+            "vừa mang lại khả năng phòng thủ vững chắc, vừa tự động gây sát thương kẻ địch ở gần."
+        ],
+        "ability": [
+            "Tự động gây sát thương lên kẻ địch xung quanh khi di chuyển"
+        ]
+    },
+    "20": {
+        "name": [
+            "Mũ Trụ Hiệp Sĩ"
+        ],
+        "subtitle": "",
+        "description": [
+            "Bộ giáp tiêu chuẩn của các hiệp sĩ hoàng gia. Thiết kế vừa chắc chắn vừa trang trí cầu kỳ",
+            "biểu tượng cho sự trung thành của họ với tinh thần hiệp sĩ"
+        ],
+        "ability": [
+            "Tăng phòng thủ khi HP dưới \\c[10]30%\\c[0]"
+        ]
+    },
+    "21": {
+        "name": [
+            "Giáp Hiệp sĩ"
+        ],
+        "subtitle": "",
+        "description": [
+            "Bộ giáp tiêu chuẩn của các hiệp sĩ hoàng gia. Thiết kế vừa chắc chắn vừa trang trí cầu kỳ",
+            "biểu tượng cho sự trung thành của họ với tinh thần hiệp sĩ"
+        ],
+        "ability": [
+            "Tăng phòng thủ khi HP dưới \\c[10]30%\\c[0]"
+        ]
+    },
+    "22": {
+        "name": [
+            "Găng Hiệp sĩ"
+        ],
+        "subtitle": "",
+        "description": [
+            "Bộ giáp tiêu chuẩn của các hiệp sĩ hoàng gia. Thiết kế vừa chắc chắn vừa trang trí cầu kỳ",
+            "biểu tượng cho sự trung thành của họ với tinh thần hiệp sĩ"
+        ],
+        "ability": [
+            "Tăng tấn công và phòng thủ khi HP dưới \\c[10]30%\\c[0]"
+        ]
+    },
+    "23": {
+        "name": [
+            "Giáp Chân Hiệp Sĩ"
+        ],
+        "subtitle": "",
+        "description": [
+            "Bộ giáp tiêu chuẩn của các hiệp sĩ hoàng gia. Thiết kế vừa chắc chắn vừa trang trí cầu kỳ",
+            "biểu tượng cho sự trung thành của họ với tinh thần hiệp sĩ"
+        ],
+        "ability": [
+            "Tăng tốc độ di chuyển khi HP dưới \\c[10]30%\\c[0]"
+        ]
+    },
+    "26": {
+        "name": [
+            "Lông Chim Lửa"
+		],
+		"subtitle": [
+		    ""
+		],
+        "description": [
+            "Một chiếc lông vũ của Chim Lửa.",
+			"Biểu tượng của sự sống vĩnh hằng, vẫn cháy rực với ngọn lửa ấm áp.",
+			"Chỉ một chiếc lông cũng mang sức mạnh hồi sinh kẻ đã khuất."
+		],
+        "ability": [
+            "Kích hoạt khi HP giảm xuống 0, hồi phục lại toàn bộ HP",
+			"Vật phẩm sẽ biến mất sau khi kích hoạt"
+		]
+    },
+    "27": {
+        "name": [
+            "Giấy Vệ Sinh"
+        ],
+        "subtitle": "",
+        "description": [
+            "Cuộn giấy vệ sinh mang từ nhà",
+            "Một vật dụng tiện lợi cho nhà thám hiểm khi bất chợt cần",
+            "để giải quyết nỗi buồn giữa hầm ngục nguy hiểm"
+        ],
+        "ability": [
+            "Giảm sát thương Mất Máu nhận vào \\c[10]30%\\c[0]"
+        ]
+    },
+    "29": {
+        "name": [
+            "Saucy Jacky"
+        ],
+        "subtitle": [
+            "\"Thứ này khao khát những tiếng gào thét...\""		
+		],
+        "description": [
+            "Một trong những vũ khí chết chóc của kẻ sát nhân khét tiếng,",
+            "vẫn còn run rẩy trong sự háo hức"
+        ],
+        "ability": [
+            "Gây sát thương cao hơn lên kẻ địch có HP thấp, tối đa đến \\c[10]30%\\c[0]"
+        ]
+    },
+    "32": {
+        "name": [
+            "Cú Đấm Neko"
+        ],
+        "subtitle": "",
+        "description": [
+            "\"Hyaa—!! Đừng có chọc vào ta nya!\"",
+            "Bao tay hình móng mèo mềm mại, vũ khí quý giá của một cô mèo gái nào đó",
+            "Mang chúng sẽ ban cho sự nhanh nhẹn của mèo và cả cơn thèm cá..."
+        ],
+        "ability": [
+            "Tăng tốc độ tấn công. Đòn tấn công thêm +1",
+            "Tỉ lệ các đòn tấn công thêm kích hoạt hiệu ứng đặc biệt bị giảm một nửa"
+        ]
+    },
+    "33": {
+        "name": [
+            "Mũ Táo"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một cái mũ đội đầu làm từ táo, nên bạn chẳng thể",
+            "mong chờ khả năng phòng thủ gì cả. Nhưng táo thì ngon tuyệt!"
+        ],
+        "ability": [
+            "Có tỉ lệ nhỏ kích hoạt hồi phục HP khi bị thương"
+        ]
+    },
+    "36": {
+        "name": [
+            "Mèo Thần Tài"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một Servant nhỏ tham lam với vẻ mặt lúc nào cũng không hài lòng",
+            "Nó háo hức nhặt hết mọi vật phẩm rơi ra, bất kể giá trị ra sao"
+        ],
+        "ability": [
+            "Mèo Thần Tài sẽ tự động thu thập mọi loại vật phẩm rơi ra cho bạn",
+            "Trang bị nhiều sẽ chỉ làm tăng phạm vi thu thập vật phẩm"
+        ]
+    },
+    "37": {
+        "name": [
+            "Heo Đất"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một Servant dễ thương dùng để cất giữ tiền thu thập được",
+            "Có thể sẽ xảy ra điều gì đó khi nó đầy, nhưng hiện tại thì nó khá mong manh"
+        ],
+        "ability": [
+            "Vui vẻ thu thập tiền. Số tiền hiện có: \\c[6]${$gameSelfVariables.value([1, 110, 'deposit'])}\\c[0]yen!",
+            "Dễ dàng vỡ khi bị tấn công, mất toàn bộ số tiền đã cất giữ"
+        ]
+    },
+    "38": {
+        "name": [
+            "Heo Đất Tham Lam"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một con heo đất chất đầy của cải, giấc mơ đã trở thành hiện thực",
+            "Thế nhưng, dù bụng đã đầy vàng, lòng tham của nó vẫn không có giới hạn"
+        ],
+        "ability": [
+            "Tỏa ra hào quang Mamon’s Demand. Số tiền hiện có: \\c[6]${$gameSelfVariables.value([1, 110, 'deposit'])}\\c[0]yen!",
+            "Thu thập tiền vô tận, nhả ra lãi suất mỗi 10 giây"
+        ]
+    },
+    "40": {
+        "name": [
+            "Đồng Phục Hầu Gái"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một chiến lợi phẩm có được sau khi dạy dỗ cô gái tai thỏ nghịch ngợm",
+            "Nó vẫn còn vương mùi đất và cà rốt"
+        ],
+        "ability": [
+            "Khi trang bị sẽ ngụy trang thành quái vật nhưng không thể tấn công",
+            "Trang bị nó sẽ khiến bạn trở thành bạn thân của Thỏ Hầu Gái"
+        ]
+    },
+    "41": {
+        "name": [
+            "Tai Thỏ Moe"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một phụ kiện tai thỏ có thể tháo rời",
+            "Bất kể ai đeo vào cũng sẽ trở nên cực kỳ dễ thương!"
+        ],
+        "ability": [
+            "Được ban phước may mắn! Tỉ lệ rơi vật phẩm tăng lên!"
+        ]
+    },
+    "42": {
+        "name": [
+            "Linh Hồn Quái Bom"
+        ],
+        "subtitle": [
+            "\"Ẹc sờ bờ lô————giần!!\""		
+		],
+        "description": [
+            "Một ý chí đã hi sinh tất cả vì những vụ nổ",
+            "Giờ đây khi ngươi mang nó, chẳng lẽ không muốn tạo ra những vụ nổ lớn hơn sao?"
+        ],
+        "ability": [
+            "Có tỉ lệ nhỏ kích hoạt vụ nổ khi tấn công hoặc bị đánh trúng",
+            "Giảm 50% sát thương nổ tự gây ra"
+        ]
+    },
+    "45": {
+        "name": [
+            "Vòng Quay Kịch Độc"
+        ],
+        "subtitle": [
+            "\"Con dao găm này đã tẩm đầy kịch độc đấy, biết không— (liếm\""		
+		],
+        "description": [
+            "Một thanh đoản kiếm ma thuật tẩm độc—hãy giữ khoảng cách"
+        ],
+        "ability": [
+            "Một Servant tự động bay vòng quanh",
+            "Có tỉ lệ cao gây Trúng Độc khi chạm vào"
+        ]
+    },
+    "46": {
+        "name": [
+            "Nắm Đấm Cuồng Nộ"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một nắm đấm ma thuật đầy uy lực",
+            "Ngùn ngụt cơn thịnh nộ vô danh, luôn siết chặt không buông..."
+        ],
+        "ability": [
+            "Một Servant tự động bay vòng quanh",
+            "Hất văng bất kỳ kẻ địch nào nó chạm phải"
+        ]
+    },
+    "47": {
+        "name": [
+            "Bàn Tay Nguyền Rủa Của Xerise"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một bàn tay bị chặt đứt, thấm đẫm sức mạnh xác sống",
+            "Dù không còn cơ thể, nó vẫn đầy sinh khí và hung hãn"
+        ],
+        "ability": [
+            "Một Servant tự động bay vòng quanh",
+            "Nguyền rủa bất kỳ mục tiêu nào nó chỉ ngón tay giữa vào"
+        ]
+    },
+    "50": {
+        "name": [
+            "Khoai Tây Chiên"
+        ],
+        "subtitle": "",
+        "description": [
+            "Mới chiên giòn còn nóng hổi,",
+            "tỏa hương thơm mặn mà. Cẩn thận lũ hải âu!"
+        ],
+        "ability": [
+            "Thu hút hải âu đến cướp khoai tây của bạn"
+        ]
+    },
+    "53": {
+        "name": [
+            "Nhẫn Xương Người Treo Cổ"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một chiếc nhẫn làm từ xương của Người Treo Cổ đã khuất",
+            "Dù phần lớn sức mạnh đã mất,",
+            "nó vẫn ban cho người đeo chút khả năng kháng trọng lực"
+        ],
+        "ability": [
+            "Giảm 50% sát thương khi rơi"
+        ]
+    },
+    "54": {
+        "name": [
+            "Chén Thánh Vàng Chưa Hoàn Thiện"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một thánh tích chưa được lấp đầy, ban phước cho người sở hữu",
+            "với vận may vô cùng lớn. Nguồn gốc của phước lành này vẫn chưa rõ,",
+            "nó âm thầm chờ ngày được hoàn thiện"
+        ],
+        "ability": [
+            "Tăng vận may đáng kể. Nhân đôi số tiền kiếm được"
+        ]
+    },
+    "55": {
+        "name": [
+            "Găng Tay Phá Hoại"
+        ],
+        "subtitle": [
+            "\"Ha, pháo hoa kinh tởm thật đấy.\""		
+		],
+        "description": [
+            "Găng tay dày, chịu nhiệt, tỏa mùi thuốc súng nồng nặc"
+        ],
+        "ability": [
+            "+30% bán kính nổ cho bom tự kích hoạt",
+            "Bom có tỉ lệ gây ra chuỗi nổ"
+        ]
+    },
+    "56": {
+        "name": [
+            "Lòng Thương Xót Của Thánh Nữ"
+        ],
+        "subtitle": [
+            "\"Đứa trẻ ngoan, đứa trẻ ngoan...\""		
+		],
+        "description": [
+            "Một trong những bộ trang phục của nữ tu, mềm mượt như lụa, khó quên",
+            "Ánh sáng thánh lan tỏa qua từng sợi vải, mang lại sự an ủi"
+        ],
+        "ability": [
+            "Ép buộc vào Chế Độ Hiền Triết",
+            "Tăng thiện cảm nhiều hơn khi xoa đầu \\str[120]"
+        ]
+    },
+    "59": {
+        "name": [
+            "Mặt Dây Chuyền Rubrum"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+		    "Báu vật quý giá của Phù Thủy Sa Ngã. ",
+            "Một mặt dây chuyền chế tác từ một lượng nhỏ Mảnh Hiền Triết Gia ",
+			"thấm đẫm sức mạnh giả kim mờ nhạt nhưng vĩnh cửu"
+        ],
+        "ability": [
+		    "Tăng sát thương ma thuật dựa trên số lượng Mảnh Triết Gia sở hữu",
+            "Giảm \\c[6]24%\\c[0] hao mòn vũ khí khi thi triển ma thuật"
+        ]
+    },
+    "62": {
+        "name": [
+            "Găng Tay Phù Thủy Sa Ngã"
+        ],
+        "subtitle": "",
+        "description": [
+            "Găng tay bị nguyền rủa, nhuốm đầy ma thuật đen tối,",
+            "thấm đẫm một linh hồn đầy thù hận, háo hức tấn công"
+        ],
+        "ability": [
+            "Đạn phép tự động đuổi theo kẻ địch gần đó"
+        ]
+    },
+    "63": {
+        "name": [
+            "Giày Phù Thủy Sa Ngã"
+        ],
+        "subtitle": "",
+        "description": [
+            "Đôi giày bị nguyền rủa, nhuốm đầy ma thuật đen tối,",
+            "thấm đẫm một linh hồn đầy thù hận, ban cho sự nhanh nhẹn như bóng ma"
+        ],
+        "ability": [
+            "Tăng tốc độ di chuyển, nhận trạng thái hư vô khi sử dụng Senpo"
+        ]
+    },
+    "65": {
+        "name": [
+            "Băng Đô Quyết Tâm"
+        ],
+        "subtitle": [
+            "\"Mày biết tao là ai không!?\""		
+		],
+        "description": [
+            "Một chiếc băng đô khơi dậy nhiệt huyết khi đeo vào",
+            "Không có hiệu quả thực sự, nhưng tinh thần kiên cường của nó thì vô song"
+        ],
+        "ability": [
+            "Giảm tỉ lệ trúng trạng thái bất thường",
+            "Có tỉ lệ nhỏ kháng sát thương chí mạng"
+        ]
+    },
+    "67": {
+        "name": [
+            "Băng Cổ Tay Võ Sĩ"
+        ],
+        "subtitle": "",
+        "description": [
+            "Băng quấn cổ tay, thường được võ sĩ đeo khi luyện tập đối kháng",
+            "Chúng bảo vệ khớp đồng thời cải thiện độ chính xác khi di chuyển"
+        ],
+        "ability": [
+            "-12% hao mòn vũ khí",
+            "Tăng tốc độ tấn công & tăng sát thương combo tay không"
+        ]
+    },
+    "68": {
+        "name": [
+            "Giày Võ Sĩ"
+        ],
+        "subtitle": "",
+        "description": [
+            "Đôi giày thường được võ sĩ đeo khi đã thành thạo",
+            "kỹ năng, tỏa ra hào quang mạnh mẽ"
+        ],
+        "ability": [
+            "Tăng tốc độ di chuyển. Nâng cấp hiệu quả Senpo"
+        ]
+    },
+    "69": {
+        "name": [
+            "Kẻ Phá Mặt"
+		],
+		"subtitle": [
+		    "\"Chết tiệt... Tao chỉ muốn đấm ai đó vào mặt thôi...!\""
+		],
+        "description": [
+            "Găng đấm còn sót lại của một tay đấm huyền thoại.",
+			"Bạn vẫn có thể cảm nhận được sức mạnh áp đảo còn lưu lại trên chúng."
+		],
+        "ability": [
+            "Không thể sử dụng vũ khí khi trang bị",
+			"Đòn đấm có thể gây sát thương bổ sung dựa trên HP của mục tiêu"
+		]
+    },
+    "70": {
+        "name": [
+            "Trái Tim Bù Nhìn"
+        ],
+        "subtitle": "",
+        "description": [
+            "Thân thể rỗng của một con bù nhìn",
+            "Không hơi ấm, không nhịp tim, nhưng nó có thể sống thay bạn"
+        ],
+        "ability": [
+            "Ngăn chặn mọi hình thức hồi HP khi trang bị",
+            "Khi HP bằng 0, bạn vẫn sẽ duy trì hoạt động thêm một thời gian trước khi gục"
+        ]
+    },
+    "73": {
+        "name": [
+            "Nhẫn Dung Nham"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một chiếc nhẫn rèn từ đá chảy với dung nham nóng bỏng",
+            "Đeo nó giảm bớt đau đớn từ cả sương giá lẫn lửa"
+        ],
+        "ability": [
+            "Giảm đáng kể tỉ lệ bị đóng băng",
+            "Giảm tỉ lệ bị thiêu đốt"
+        ]
+    },
+    "80": {
+        "name": [
+            "Chiếu Lệnh Hoàng Gia"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một chiếc nhẫn tượng trưng cho vinh quang tối cao của một vị vua thực thụ",
+            "Tăng đáng kể tinh thần của thuộc hạ!"
+        ],
+        "ability": [
+            "Tăng nhẹ tất cả chỉ số",
+            "Phóng to tất cả Servant và tăng cường thuộc tính đặc biệt của chúng"
+        ]
+    },
+    "125": {
+        "name": [
+            "Atsu Atsu Bouzu"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một con búp bê vải được tạo nên từ những lời cầu nguyện chân thành của ai đó.",
+            "Nó mang theo những ước nguyện, tạo ra những thay đổi nhẹ trong thời tiết",
+            "Tuy nhiên, con búp bê lặng lẽ biến mất ngay sau đó"
+        ],
+        "ability": [
+            "Đảm bảo thời tiết nắng nóng vào ngày hôm sau khi trang bị"
+        ]
+    },
+    "126": {
+        "name": [
+            "Teru Teru Bouzu"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một con búp bê vải được tạo nên từ những lời cầu nguyện chân thành của ai đó.",
+            "Nó mang theo những ước nguyện, tạo ra những thay đổi nhẹ trong thời tiết",
+            "Tuy nhiên, con búp bê lặng lẽ biến mất ngay sau đó"
+        ],
+        "ability": [
+            "Đảm bảo thời tiết nắng vào ngày hôm sau khi trang bị"
+        ]
+    },
+    "127": {
+        "name": [
+            "Kumo Kumo Bouzu"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một con búp bê vải được tạo nên từ những lời cầu nguyện chân thành của ai đó.",
+            "Nó mang theo những ước nguyện, tạo ra những thay đổi nhẹ trong thời tiết",
+            "Tuy nhiên, con búp bê lặng lẽ biến mất ngay sau đó"
+        ],
+        "ability": [
+            "Đảm bảo thời tiết nhiều mây vào ngày hôm sau khi trang bị"
+        ]
+    },
+    "128": {
+        "name": [
+            "Ame Ame Bouzu"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một con búp bê vải được tạo nên từ những lời cầu nguyện chân thành của ai đó.",
+            "Nó mang theo những ước nguyện, tạo ra những thay đổi nhẹ trong thời tiết",
+            "Tuy nhiên, con búp bê lặng lẽ biến mất ngay sau đó"
+        ],
+        "ability": [
+            "Đảm bảo thời tiết mưa vào ngày hôm sau khi trang bị"
+        ]
+    },
+    "129": {
+        "name": [
+            "Nụ Cười Của Một Cô Gái"
+        ],
+        "subtitle": [
+            "\"\\str[121], anh đã giữ lời hứa tốt lắm!\""		
+		],
+        "description": [
+            "Em gái luôn ngưỡng mộ và lo lắng cho",
+            "\\str[121] của em ấy cuối cùng cũng nở một nụ cười hài lòng",
+            "Đối với \\str[121], đó đã là động lực đủ để có thể tiếp tục"
+        ],
+        "ability": [
+            "Tăng ham muốn, tăng tất cả chỉ số"
+        ]
+    },
+    "130": {
+        "name": [
+            "Quần Lót Đã Tháo Của \\str[120]"
+        ],
+        "subtitle": [
+            "\"Nó vẫn còn mùi của \\str[120]...\""		
+		],
+        "description": [
+            "Quần lót nhận được từ \\str[120] do sự hiểu lầm",
+            "Chưa trả lại, nhưng sâu thẳm là niềm hạnh phúc"
+        ],
+        "ability": [
+            "Được truyền cảm bởi \\str[120]. Khi HP < 50%, nhận hồi phục tự động"
+        ]
+    },
+    "147": {
+        "name": [
+            "Băng Vết Thương"
+        ],
+        "subtitle": "",
+        "description": [
+            ""
+        ],
+        "ability": []
+    },
+    "150": {
+        "name": [
+            "Áo Thun Tặng Kèm"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một bộ trang phục được làm riêng từ hiệp sĩ,",
+            "được cho là để quảng bá trò chơi",
+            "Nhưng tôi thật sự không muốn mặc nó"
+        ],
+        "ability": []
+    },
+    "152": {
+        "name": [
+            "Pyjama Của \\str[120]"
+        ],
+        "subtitle": "",
+        "description": [
+            "Bộ pyjama hai dây mà \\str[120] thường mặc, ",
+			"được trang trí bằng những chiếc nơ mà em ấy yêu thích.",
+            "Nhưng nghĩ đi nghĩ lại... tại sao nó lại ở trong tay tôi?"
+        ],
+        "ability": []
+    },
+    "153": {
+        "name": [
+            "Quần Short Của \\str[120]"
+        ],
+        "subtitle": "",
+        "description": [
+            "Quần short mềm mại và bồng bềnh mà \\str[120] thường mặc, ",
+			"được trang trí bằng những chiếc nơ mà em ấy yêu thích.",
+            "Nhưng nghĩ đi nghĩ lại... tại sao nó lại ở trong tay tôi?"
+        ],
+        "ability": []
+    },
+    "154": {
+        "name": [
+            "Quần Lót Sọc Xanh Trắng"
+        ],
+        "subtitle": "",
+        "description": [
+		    ""
+        ],
+        "ability": []
+    },
+    "155": {
+        "name": [
+            "Quần Lót Sọc Hồng Trắng"
+        ],
+        "subtitle": "",
+        "description": [
+            ""
+        ],
+        "ability": []
+    },
+    "156": {
+        "name": [
+            "Quần Lót Màu Trắng"
+        ],
+        "subtitle": "",
+        "description": [
+            ""
+        ],
+        "ability": []
+    },
+    "157": {
+        "name": [
+            "Băng Vết Thương"
+        ],
+        "subtitle": "",
+        "description": [
+            ""
+        ],
+        "ability": []
+    },
+    "159": {
+        "name": [
+            "Không có quần lót..."
+        ],
+        "subtitle": "",
+        "description": [
+            ""
+        ],
+        "ability": []
+    },
+    "299": {
+        "name": [
+            "Vùng Tuyệt Đối"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "Khoảng không thiêng liêng giữa váy ngắn của cô gái và tất đùi",
+            "Không chỉ mang lại khả năng kháng ma thuật cao, mà còn sở hữu khả năng ",
+			"kỳ quặc là lấy ra mọi loại vật phẩm từ dưới váy theo ý muốn"
+        ],
+        "ability": [
+            "Tăng sức chứa vũ khí +99",
+            "Tăng sức chứa trang bị +99"
+        ]
+    },
+    "300": {
+        "name": [
+            "Catalyst Amatoria"
+        ],
+        "subtitle": [
+            "\"Hãy trao cho em tình yêu của anh—! Nếu không, hãy cùng chết đi~~~!\""
+        ],
+        "description": [
+            "Một cổ vật cấm được rèn bởi một ác quỷ yandere nào đó",
+            "Nó ép buộc bất kỳ ai chạm vào phải yêu người mang nó",
+			"bất chấp ý chí của họ"
+        ],
+        "ability": [
+            "Tăng mạnh các chỉ số nhận được khi vuốt ve đầu \\str[120]"
+        ]
+    }
+}

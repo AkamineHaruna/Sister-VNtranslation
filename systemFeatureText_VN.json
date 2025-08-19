@@ -1,0 +1,122 @@
+{
+  "gameTitle": [
+    "Một Cuộc Sống Bình Dị Bên Cô Gái Kín Đáo "
+  ],
+  "quantityHeld": [
+    "\\fs[16]•Số lượng hiện có:\\c[17] ${} \\c[0]\\py[-8]"
+  ],
+  "autoUpdate": [
+    "Có bản cập nhật khả dụng: Đã phát hiện dữ liệu game phiên bản ${}. ",
+    "Bạn có muốn tải xuống và cập nhật ngay bây giờ không?"
+  ],
+  "fullScreen": [ 
+    "Chế độ toàn màn hình"
+  ],
+  "masterVolume": [ 
+    "Âm lượng tổng"
+  ],
+  "voiceVolume": [ 
+    "Âm lượng thoại"
+  ],    
+  "BgmVolume": [
+    "Âm lượng nhạc nền"
+  ],
+  "BgsVolume": [
+    "Âm lượng hiệu ứng nền"
+  ],
+  "SeVolume": [
+    "Âm lượng hiệu ứng"
+  ],
+  "MaxPlayerMsgs": [
+    "Số tin nhắn tối đa"
+  ],
+  "GameFAQ": [
+    "Hỏi đáp game"
+  ],
+  "ShowWeaponDurability": [
+    "Hiển thị độ bền vũ khí"
+  ],
+  "DisableAutoUpdate": [
+    "Tắt cập nhật tự động"
+  ],
+  "LockedFPS": [
+    "Khoá ở 60 FPS"
+  ],
+  "Language": [
+    "Ngôn ngữ game"
+  ],
+  "SwitchLanguage": [
+    "Phát hiện thay đổi ngôn ngữ game!",
+    "Khởi động lại để áp dụng cài đặt ngôn ngữ mới!"
+  ],
+  "ErrorReport": [
+    "Đã xảy ra lỗi. Vui lòng báo lỗi trên server Discord của NLCH.",
+    "(Nhấn ‘OK’ để mở liên kết mời Discord)",
+    "(Đính kèm ảnh chụp màn hình của lỗi)"
+  ],
+  "UpdateComplete1": [
+    "Cập nhật game đã hoàn tất!",
+    "Game sẽ tự động khởi động lại sau khi đóng cửa sổ này.",
+    "Bạn có thể load file auto-save để tiếp tục tiến trình!"
+  ],
+  "UpdateComplete2": [
+    "Cập nhật game đã hoàn tất!",
+    "Game sẽ khởi động lại trong giây lát để áp dụng bản cập nhật!"
+  ],
+  "RemindToUpdate": [
+    "Đã xảy ra lỗi và game bị treo.",
+    "Một bản vá mới hơn đã có sẵn—",
+    "Vui lòng sử dụng cập nhật tự động để khắc phục sự cố!"
+  ],
+  "bagFull": [
+    "Vượt quá giới hạn kho đồ!!"
+  ],
+  "noStatusEffects": [
+    "Không có bất kì hiệu ứng nào!!"
+  ],
+  "unimplementedDoor": [
+    "Cánh cửa này không thể đẩy mở từ phía này"
+  ],
+  "zipUpdateComplete": [
+    "Bản vá đã được cài đặt thành công. ",
+	  "Đang khởi động lại game để áp dụng cập nhật!"
+  ],
+  "zipUpdateFail": [
+    "Không thể giải nén và cài đặt bản vá!",
+    "Vui lòng thử cập nhật tự động lại hoặc",
+    "giải nén thủ công các tệp bản vá để cài đặt!"
+  ],
+  "fileDownloadedSuccessfully": [
+    "${} tải xuống thành công!"
+  ],
+  "fileDownloadFailed": [
+    "${} tải xuống thất bại! Đang thử lại!"
+  ],
+  "installPatch": [
+    "Bản vá cần được giải nén—đang cài đặt. Quá trình này có thể làm game giật lag, vui lòng kiên nhẫn!"
+  ],
+  "totalFilesToUpdate": [
+    "Phát hiện ${} tệp cần cập nhật—bắt đầu quá trình tải xuống!"
+  ],
+  "renameCharacter": [
+    "Tôi nhớ ra rồi—",
+	  "em ấy là..."
+  ],
+  "heroName": [
+    "Onii-chan"
+  ],
+  "heroineName": [
+    "Em gái"
+  ],  
+  "nonHardwareAccelerated": [
+    "Game hiện đang chạy trên card đồ họa tích hợp!",
+	  "Nếu PC của bạn có card đồ họa rời, chúng tôi khuyến nghị thiết lập Game.exe ",
+	  "để sử dụng card đó trong graphics control panel để có trải nghiệm mượt mà hơn."
+  ],  
+  "isAmdCPU": [
+    "Hệ thống phát hiện CPU của bạn là bộ xử lý AMD.",
+	  "Một số chip AMD có thể gặp hiện tượng giật khung hình khi phát video VP9 (WebM) ",
+	  "trong môi trường Chromium. Nếu gặp vấn đề này, hãy thử để game ",
+	  "sử dụng GPU rendering hoặc cập nhật driver để cải thiện tình hình."
+  ]    
+}

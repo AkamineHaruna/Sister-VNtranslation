@@ -1,0 +1,337 @@
+{
+    "autoUpdateReminder": {
+        "0": [
+            "Quá trình cập nhật sẽ tự động bắt đầu khi bạn thức dậy vào ngày hôm sau.",
+			"Vui lòng đảm bảo kết nối internet ổn định trong suốt quá trình!",
+			"\\w[120]"
+		],
+		"1": [
+            "Không thể xem nhật ký cập nhật!",
+			"Kết nối mạng có thể đã bị gặp lỗi!",
+			"\\w[120]"
+        ]		
+    },		
+    "imoutoAhoge": {
+        "0": [
+            "Vô tình kéo ra ahoge của em gái."
+		],
+		"1": [
+            "Em ấy dường như không để ý thấy điều gì bất thường ",
+			"và cọng ahoge đó nhanh chóng mọc lại.",
+			"...Chẳng lẽ đây là một loại tài nguyên có thể tái tạo?"
+        ],
+        "2": [
+            "\\nl< >\"...Có chuyện gì vậy, Onii-chan?",
+			"Nhìn anh trông rất căng thẳng.\""
+        ],
+        "3": [
+            "Việc này hơi khó nói, ",
+			"nên em đừng nghĩ quá nhiều về nó."
+        ],
+        "4": [
+            "Tốt nhất không nên chạm vào nó lần nữa..."
+        ],	
+        "5": [
+            "\\nl< >\"...Đầu em hơi ngứa.   \\w[30]",
+			"Anh có làm gì em không vậy, Onii-chan?\""
+        ],
+        "6": [
+            "\"A-Anh không làm gì cả... Anh thề với em!\""
+        ]		
+    },
+    "cookingSystem": {
+        "0": [
+            "\\ii[\\v[\\v[85]]]đã sẵn sàng. Tôi nên làm gì tiếp?"
+		],
+		"1": [
+            "Đổi nó",
+			"Loại bỏ nó"
+        ],
+        "2": [
+            "Vẫn đang lựa chọn nguyên liệu!!"
+        ]	
+    },	
+    "inventoryExpansion": {
+        "0": [
+            "Có vẻ như dùng \\ii[312]",
+			"có thể mở rộng dung lượng balo..."
+		],	  
+        "1": [
+            "Mở rộng ô vũ khí",
+			"Mở rộng ô trang bị",
+			"Thôi bỏ đi"
+		],
+        "2": [
+            "Số lượng \\ii[312]",
+			"dường như không đủ..."
+		]	
+    },
+    "loadingEasterEgg": {
+        "0": [
+            "\\nl< >\"Bít tết Hamburg là món ăn ngon nhất.\"  \\w[180] \\^"
+		],	  
+        "1": [
+            "\\nl< >\"Onii-chan chắc chắn sẽ mang về ",
+			"một núi thịt cho Imouto của mình...\"   \\w[360] \\^"
+		],
+        "2": [
+            "Em gái tôi có vẻ đang nói cái gì đó..."
+		],
+        "3": [
+            "\\nl< >\"Nhưng ớt chuông là kẻ thù.   \\w[120]",
+			"Onii-chan, anh phải ăn hết chúng...       \\w[120]",
+			"Đi đánh bại kẻ thù màu xanh lá~!\"               \\w[120]\\^"
+		],	  
+        "4": [
+            "\\nl< >\"A, anh tỉnh lại rồi...     \\w[60]",
+			"Onii-chan, anh ngủ có ngon không?\""
+		],
+        "5": [
+            "\"Không hẳn... Nhân tiện, ",
+			"Anh đã nghe thấy một số âm thanh lạ ",
+			"suốt một khoảng thời gian rồi...\""
+		],	
+        "6": [
+            "\\nl< >\"Eh hehe, đó là    \\w[60]",
+			"dịch vụ chăm sóc giất ngủ đặc biệt cho anh đấy, Onii-chan!\""
+		],	
+        "7": [
+            "\\nl< >\"Em gái mình cực kì dễ thương...               \\w[120]",
+			"Em ấy là cô gái mà mình yêu quý nhất trên đời...  \\w[210]",
+			"Em gái mình là————                              \\w[150]\\^"
+		],	
+        "8": [
+            "Em gái tôi có vẻ đang nói cái gì đó..."
+		],	
+        "9": [
+            "\\nl< >\"Ah, onii-chan! Chào buổi tối—!\""
+		],
+        "10": [
+            "\\nl< >\"Um... Anh có nghe hết những gì em vừa nói không?\""
+		],
+        "11": [
+            "\\nl< >\"Onii-chan, khuôn mặt của anh lúc ngủ ",
+			"khi nãy trong rất buồn cười~\""
+		],
+        "12": [
+            "\\nl< >\"Hiếm khi thấy anh ngủ gật như vậy~\""
+		]		
+    },
+    "rubberDuck": {
+        "0": [
+            "Một chú vịt cao su đơn độc ",
+			"trôi trên mặt nước..."
+		],	  
+        "1": [
+            "Nhặt nó lên",
+			"Mặc kệ nó"
+		],
+        "2": [
+            "Ai đó vứt nó đi sao?",
+			"Trông hơi tội nhỉ..."
+		],	
+        "3": [
+            "Nhìn lại thì...",
+			"mình cũng bị cuốn từ trên thượng nguồn xuống..."
+		],	
+        "4": [
+            "Nếu tôi mang cái này về nhà...",
+			"Không biết em ấy sẽ vui không?"
+		],
+        "5": [
+            "Nhưng mà có vẻ hơi bẩn,",
+			"có lẽ tôi nên để nó ở lại thôi..."
+		]
+    },
+    "drowning": {
+        "0": [
+            "Ahhh... chút nữa thì chết... ",
+			"Mình trượt ngã khỏi bờ sông và suýt bị đuối nước!"
+		]
+    },
+    "erohon": {
+        "0": [
+            "(Vẫn còn người hoặc quái vật ở gần...",
+			"tốt hơn là không nên lấy cuốn sách này ra.)"
+		]
+    },
+    "ninja": {
+        "0": [
+            "Không thể tin được lại có một căn phòng bí mật do con người tạo ra ở chỗ như thế này.",
+			"Ai đã xây nó nhỉ...?"
+		],
+        "1": [
+            "Whoa…!?",
+			"Ngay cả một cô gái cũng nằm bất tỉnh ở đây..."
+		],
+        "2": [
+            "Nhìn lại thì, mình đã nghe thấy những tiếng ồn kì lạ...",
+			"Có phải đó là tiếng bụng cô ấy kêu không...?"
+		],	
+        "3": [
+            "Ugh...",
+			"Đói quá..."
+		],	
+        "4": [
+            "............",
+			"Cô ấy đói đến mức gần như bất tỉnh sao...?"
+		],	
+        "5": [
+            "Tuyệt vời! Có một đống lửa trại ở đây.",
+			"Mình sẽ nấu cho cô ấy gì đó ăn!"		
+		],
+        "6": [
+            "Mình có nên dùng \\ii[\\v[90]]     ",
+			"và nấu một món đơn giản không nhỉ?"
+		],	
+        "7": [
+            "Làm thôi!",
+			"Không làm..."
+		],	
+        "8": [
+            "Hmm... Có lẽ mình nên thay bằng",
+			"nguyên liệu tốt hơn..."
+		],	
+        "9": [
+            "Nè~ Tôi đã nấu đồ ăn nóng cho cô!",
+			"Cô có thể ăn được không?"
+		],	
+        "10": [
+            "Ngửi ngửi... Ngửi ngửi...",
+			"Mùi này... có phải là đồ ăn không?"
+		],		
+        "11": [
+            "Mùi của đồ ăn!!"
+		],		
+        "12": [
+            "\\{Được rồi, tôi ăn đây!!"
+		],		
+        "13": [
+            "Cô... cô cái đồ...",
+			"Tôi đã làm nó, cô có biết không..."
+		],		
+        "14": [
+            "(Cô ấy ăn xong chỉ trong vài nốt nhạc...",
+			"Chắc hẳn cô ấy đói lắm...)"
+		],		
+        "15": [
+            "Nhồm nhồm... Cậu cứu tôi rồi!",
+			"Mấy ngày nay tôi chưa ăn gì... nhồm nhồm..."
+		],			
+        "16": [
+            "Tôi cứ tưởng mình sẽ biến thành một hồn ma đói",
+			"lang thang trong hầm ngục này... Grrrr..."
+		],		
+        "17": [
+            "Này... ăn từ từ thôi... Nhân tiện,",
+			"sao cô lại ở chỗ này một mình vậy?"
+		],		
+        "18": [
+            "Ah! Tóm lại—!",
+			"Tôi đang nghiêm túc làm nhiệm vụ của mình, hiểu không!"
+		],		
+        "19": [
+            "Tôi muốn tìm kho báu bí ẩn trong khu vực này,",
+			"nên đã đào ra một căn phòng bí mật ở chỗ khuất!"
+		],		
+        "20": [
+            "Nhưng rồi... nhồm nhồm.",
+			"Sau khi tôi vào, lối đi bị chặn bởi một tấm bia mộ!"
+		],		
+        "21": [
+            "Ugh, tôi hoàn toàn không ngờ tới,",
+			"nên lương thực nhanh chóng hết... rồi sau đó..."
+		],	
+        "22": [
+            "Một ninja mà rơi vào rắc rối như thế này...",
+			"Tôi không còn mặt mũi để quay lại tổ chức..."
+		],	
+        "23": [
+            "Huh... huh? Nhưng sao cô lại",
+			"đào ra một căn phòng bí mật ngay từ đầu..."
+		],	
+        "24": [
+            "Bởi vì kho báu đó không phải lúc nào cũng xuất hiện,",
+			"nên tôi phải chuẩn bị cho một thời gian lâu ở đây... nhồm nhồm."
+		],	
+        "25": [
+            "Hơn nữa, tôi không thể để ai biết chuyện này,",
+			"đây là một nhiệm vụ siêu bí mật được giao trực tiếp từ sếp!"
+		],	
+        "26": [
+            "Nếu người khác biết...",
+			"cậu nghĩ chuyện gì sẽ xảy ra..."
+		],	
+        "27": [
+            "Tất nhiên, tôi phải âm thầm xử lý họ...",
+			"nếu không, tôi sẽ là một ninja thất bại... nhồm nhồm."
+		],	
+        "28": [
+            "...Khoan, đợi đã?!",
+			"Mình vừa làm lộ thông tin mật mất rồi!"
+		],	
+        "29": [
+            "Um... Tôi hứa sẽ hé răng nửa lời đâu...",
+			"nên, ừm..."
+		],		
+        "30": [
+            "...Huh!?"
+		],		
+        "31": [
+            "Tôi không thể tin mình lại làm hỏng việc như vậy một lần nữa...",
+			"Ugh... ngay cả khi cậu đã cứu tôi..."
+		],		
+        "32": [
+            "Ch-chờ đã!",
+			"Cô định giết tôi chỉ vì chuyện đó sao!?"
+		],		
+        "33": [
+            "Đó chính là bản chất của một ninja...",
+			"Tôi phải chiến đấu để sống sót..."
+		],		
+        "34": [
+            "Ý tôi là, tôi cũng không thực sự muốn làm cậu bị thương đâu,",
+			"nhưng tôi vẫn còn nợ cậu một bữa ăn..."
+		],	
+        "35": [
+            "N-nếu đã như vậy—",
+			"\\^"
+		],	
+        "36": [
+            "Vậy chỉ còn một cách—",
+			"Cậu cũng phải trở thành một ninja!"
+		],	
+        "37": [
+            "Nếu cậu gia nhập chúng tôi,",
+			"thì không có lý do gì để chúng ta phải đánh nhau cả!"
+		],	
+        "38": [
+            "Đ-đợi đã!",
+			"Tôi thật sự không còn lựa chọn nào khác, đúng không!?"
+		],	
+        "39": [
+            "Không sao đâu,",
+			"tôi sẽ nhẹ nhàng mà..."
+		],
+        "40": [
+            "...Oa!?",
+			"Tránh xa tôi ra!!"
+		],
+        "41": [
+            "Cậu thật sự có năng khiếu với mấy thứ ninja này...!",
+			"Cậu sẽ học được hết chỉ sau một chút luyện tập thôi!"
+		],
+        "42": [
+            "Giờ thì,",
+			"cậu cũng là một thành viên của chúng tôi rồi!"
+		],
+        "43": [
+            "Nhưng tôi sẽ phải đợi đến khi hoàn thành nhiệm vụ,",
+			"trước khi có thể giới thiệu cậu với ông chủ!"
+		],
+        "44": [
+            "Ở thời điểm này,",
+			"không còn gì quan trọng hơn nữa..."
+		]		
+    }	
+}

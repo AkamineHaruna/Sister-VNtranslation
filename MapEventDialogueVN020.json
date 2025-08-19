@@ -1,0 +1,390 @@
+{
+  	"3": {
+        "0": [
+            "\"Haa... thoải mái hơn hẳn...\""
+		],
+        "1": [
+            "...Vậy tiếp theo mình nên làm gì đây?"
+		],
+        "2": [
+            "Nhìn quanh",
+			"Mơ mộng",
+			"Giết thời gian",
+			"Rời đi"
+		],
+        "3": [
+            "Không gian nhỏ chật chội này, thứ gì có thể đang ẩn nấp ở đây...?    \\w[45]",
+			"Dù nói vậy, tôi vẫn không thể nhịn mà đào bới xung quanh."
+		],
+        "4": [
+            "\"Ooooh!! Đây là...!\""
+		],
+        "5": [
+            "——Giấy vệ sinh."
+		],
+        "6": [
+            "————Một đống rác."
+		],
+        "7": [
+            "\"Thôi, dù sao mình cũng đang ở toilet mà.\""
+		],
+        "8": [
+            "Cảm giác như mình đang lãng phí thời gian."
+		],
+        "9": [
+            "\"Hả? Tiếng gì vậy?\""
+		],
+        "10": [
+            "Là một con Tiểu Cường"
+		],
+        "11": [
+            "Một con Tiểu Cường nào đó từ đâu không rõ lao vụt qua chân tôi."
+		],
+        "12": [
+            "Đồ khốn, dám xuất hiện trước mặt tao!    \\{",
+			"Xem này!"
+		],
+        "13": [
+            "Trúng đích. Con Tiểu Cường chết ngay tại chỗ..."
+		],
+        "14": [
+            "\"Hmph, không hổ danh mình...\""
+		],
+        "15": [
+            "Trượt! ",
+			"Bị giật mình, con Tiểu Cường biến mất không dấu vết."
+		],
+        "16": [
+            "\"Chết tiệt, nó nhanh quá!\""
+		],
+        "17": [
+            "......Cách này không không có tác dụng mãi với nó.",
+			"Chắc nên lấy bình xịt côn trùng..."
+		],
+        "18": [
+            "\"Hả? Tiếng gì vậy?\""
+		],
+        "19": [
+            "...Âm thanh biến mất rồi. Chắc chỉ là tưởng tượng thôi?"
+		],
+        "20": [
+            "Không thể ngồi đây mãi được.",
+			"Có lẽ tôi nên đi ra ngoài—"
+		]
+    },	
+  	"9": {
+        "0": [
+            "\\nl< >\"\\str[121]! Anh vẫn đang ở trong toilet à?\""
+		],
+        "1": [
+            "\"...Anh ra ngay đây!\""
+		],
+        "2": [
+            "Có lẽ mình đã lãng phí quá nhiều thời gian, nên đi thôi..."
+		]
+    },		
+  	"21": {
+        "0": [
+            "Ngay lúc đó, một âm thanh quen thuộc vang lên."
+		],
+		"1": [
+            "\\{Chờ đã...\\w[45] âm thanh đó, là Tiểu Cường!"
+        ],
+		"2": [
+            "\\nl< >\\{\"…………Gì cơ?\""
+        ],
+		"3": [
+            "\\nl< >\\{\"Aaaaahhhh—!!\""
+        ],
+		"4": [
+            "\\str[120] cũng nhận ra Tiểu Cường rồi!",
+            "Tệ rồi! Nếu Tiểu Cường tấn công trong tình huống này,",
+            "em ấy có thể sẽ ngất vì quá sốc!!"
+        ],
+		"5": [
+            "\\{\"……！\""
+        ],
+		"6": [
+            "Trước khi kịp suy nghĩ, cơ thể tôi tự động chuyển động,",
+			"và tôi lao vào nhà vệ sinh với tốc độ ánh sáng."
+        ],
+		"7": [
+            "\\{\"Ngươi là kẻ khiến \\str[120] của ta khóc sao!?\""
+        ],
+		"8": [
+            "Trúng đích. Tiểu Cường chết ngay tại chỗ."
+        ],
+		"9": [
+            "\\nl< >\"Uuuh... \\str[121]...\""
+        ],
+		"10": [
+            "\"Bây giờ ổn rồi. ",
+			"Chuyện tồi tệ đã qua—\\str[121] đã giải quyết xong.\""
+        ],
+		"11": [
+            "\\nl< >\"Gì...?",
+			"\\str[121]... quần của anh...\""
+        ],
+		"12": [
+            "\"——————————Ah.\""
+        ],
+		"13": [
+            "Vì trước khi lao vào nhà vệ sinh tôi đã hưng phấn sẵn, ",
+			"con cu của tôi đã cương cứng—",
+			"ngay sát mặt của \\str[120]..."
+        ],
+		"14": [
+            "Đúng như tôi đã lo lắng, ",
+			"tôi nhận thấy điều gì đó lạ trong mắt của \\str[120],",
+			"cô ấy cũng bồn chồn.    \\w[60]",
+			"Liệu viên kẹo kỳ lạ đó vẫn còn tác dụng chăng?"
+        ],
+		"15": [
+            "Biểu cảm của \\str[120] bắt đầu lơ mơ,",
+			"rồi đột nhiên, ",
+			"em ấy nghiêng người và ngậm con cu của tôi."
+        ],
+		"16": [
+            "Hành động táo bạo đó phá tan hoàn toàn khả năng tự chủ của tôi. ",
+			"Tôi đặt tay lên đầu \\str[120],",
+			"và bắt đầu hướng dẫn em ấy ngậm sâu hơn."
+        ],
+		"17": [
+            "Dù còn khá vụng về,",
+			"nhiệt độ và độ mềm mại trong miệng em ấy ",
+			"vẫn rất tuyệt vời."
+        ],
+		"18": [
+            "Từ góc nhìn này, ",
+			"tôi có thể thấy vùng âm hộ ướt át của \\str[120] đang khẽ run,",
+			"như thứ gì đó từ trong một giấc mơ."
+        ],
+		"19": [
+            "Chẳng bao lâu, ",
+			"cái cảm giác muốn xuất tinh bắt đầu dâng trào—"
+        ],
+		"20": [
+            "Không muốn \\str[120] bị nghẹn, ",
+			"tôi rút con cu ra khỏi miệng em ấy."
+        ],
+		"21": [
+            "Ngay lúc đó, một trận tinh dịch bắn ra, ",
+			"văng khắp mặt cô ấy."
+        ],
+		"22": [
+            "\\nl< >\"Ugh... mùi vị kinh quá...\""
+        ],
+		"23": [
+            "\\str[120] lè lưỡi một cách nghịch ngợm, ",
+			"nhưng tôi thấy em ấy vẫn rất ngại.",
+			"Em ấy bình thường sẽ không táo bạo thế này—",
+			"chắc là tác dụng của viên kẹo đó."
+        ],
+		"24": [
+            "Nhưng thật lòng mà nói, nếu không có viên kẹo đó,",
+			"tôi không biết mọi chuyện sẽ kết thúc ra sao."
+        ],
+		"25": [
+            "Sau đó, chúng tôi cùng dọn dẹp nhà vệ sinh ",
+			"và trở về phòng ngủ,",
+			"im lặng như chưa từng có chuyện gì xảy ra."
+        ]
+    },		
+  	"22": {
+        "0": [
+            "Lén lút, lén lút..."
+		],
+		"1": [
+            "Hmm... Tôi chỉ lo ",
+			"nếu có chuyện gì đó không ổn với \\str[120]...",
+			"Tôi sẽ chỉ nhìn sơ qua rồi đi thôi..."
+        ],
+		"2": [
+            "Chờ đã... chuyện gì thế này!?"
+        ],
+		"3": [
+            "Bắt gặp \\str[120] đang thủ dâm.    \\w[60]",
+			"Chuyện gì đang xảy ra vậy... ",
+			"Có phải là tác dụng của ",
+			"viên kẹo tôi đã đưa cô ấy trước đó không!?"
+        ],
+		"4": [
+            "Mặc dù kỹ thuật còn hơi vụng về,",
+			"nhưng vài lần dịch tiết chảy ra ",
+			"chứng tỏ em ấy hoàn toàn đắm chìm trong khoái cảm."
+        ],
+		"5": [
+            "Nhìn \\str[120] cố gắng để làm bản thân cảm thấy sướng, ",
+			"tôi không thể không muốn bước vào và giúp em ấy..."
+        ],
+		"6": [
+            "Bắt gặp \\str[120] đang thủ dâm qua cái quần lót của mình.    \\w[60]",
+			"Chuyện gì đang xảy ra... ",
+			"Có phải là tác dụng của ",
+			"viên kẹo tôi đã đưa em ấy trước đó không!?"
+        ],
+		"7": [
+            "Có lẽ vì thiếu kinh nghiệm,  ",
+			"\\str[120] còn vụng về dùng ",
+			"đầu ngón tay cạ vào quần lót của mình,  ",
+			"khi chưa biết cách làm."
+        ],
+		"8": [
+            "Nhìn \\str[120] cố gắng để làm bản thân cảm thấy sướng, ",
+			"tôi không thể không muốn bước vào và giúp em ấy..."
+        ],
+		"9": [
+            "Nhưng xuất hiện bây giờ chắc chắn sẽ làm \\str[120] sợ,  ",
+			"hmm... đúng rồi, tốt nhất là lặng lẽ rút lui."
+        ],
+		"10": [
+            "Nhìn trộm lần nữa!",
+			"Rút lui"
+        ],
+		"11": [
+            "Không thể cưỡng lại cảm giác hưng phấn đang dâng trào,",
+			"tôi cúi sát vào khe cửa, ",
+			"cẩn thận quan sát."
+        ],
+		"12": [
+            "Thủ dâm",
+			"Xông vào!",
+			"Bỏ qua"
+        ],
+		"13": [
+            "Tôi cũng bắt đầu thấy hơi hưng phấn... ",
+			"Có nên tham gia với \\str[120] không...?"
+        ],
+		"14": [		
+			"Cảm giác hơi nguy hiểm... tốt nhất không nên.",
+			"Nếu cứ nhìn nữa sẽ không còn hay cho lắm.",
+			"Tôi nên lẻn đi trước khi \\str[120] phát hiện."	
+        ],
+		"15": [
+            "Vì không phải lần đầu thấy chuyện như thế này, ",
+			"tôi chỉ thuận theo cảm giác ",
+			"và cố tận hưởng khoảnh khắc này."
+        ],
+		"16": [
+            "Trong khi \\str[120] vẫn mải mê với thế giới riêng, ",
+			"tôi lặng lẽ đóng cửa sau lưng."
+        ],
+		"17": [
+            "\"Có vẻ \\str[120] đã đến tuổi",
+			"mà em ấy quan tâm đến những chuyện như thế này...\"",
+			" ",
+			" ",
+			"Cảm giác buồn lạ lùng, ",
+			"tôi quyết định giả vờ như chưa thấy gì..."			
+        ],
+		"18": [
+            "Khoảnh khắc cả hai đều lên đỉnh,",
+			"tôi buông thả hoàn toàn và bắn tùm lum."
+        ],
+		"19": [
+            "Cảm giác rùng mình chạy khắp cơ thể em ấy,",
+			"\\str[120] chậm rãi dừng lại ",
+			"và bắt đầu thở một cách đều đặn."
+        ],
+		"20": [
+            "Nếu cứ nhìn sẽ rất tệ.",
+			"Tốt nhất nên rút lui trước khi \\str[120] phát hiện."
+        ],	
+		"21": [
+            "Làm chuyện này với \\str[120], cảm giác thật kỳ lạ...",
+			"Chẳng biết từ lúc nào tay tôi đã bắt chước theo nhịp của em ấy,",
+			"và trong khoảnh khắc đó, ",
+			"cứ như giác quan chúng tôi đang đồng bộ với nhau."
+        ],
+		"22": [
+            "Nhìn những ngón tay của \\str[120], tôi không thể không tưởng tượng—",
+			"nếu không phải ngón tay em ấy chạm vào ",
+			"mà là con cu của tôi thì sao nhỉ...?"
+        ],
+		"23": [
+            "Khi lạc vào suy nghĩ đó,",
+			"tôi gần như cảm nhận được độ mềm mại ",
+			"từ âm hộ của \\str[120] ",
+			"Tưởng tượng thật đáng sợ."
+        ],
+		"24": [
+            "Tôi tự hỏi cảm giác sẽ ra sao nếu ",
+			"tôi đưa mình đến gần như ngón tay của \\str[120],",
+			"và bắt thủ dâm con cu mình ngay trước âm hộ của em ấy."
+        ],
+		"25": [
+            "Tôi bắt đầu hình dung hình ảnh đầu của con cu tôi áp vào ",
+			"cái âm hộ kín khép chặt của \\str[120], từ từ banh rộng ",
+			"nó ra trong khi tôi đang đẩy vào, lộ ra sự ướt át bên trong nó. Con cu ",
+			"của tôi sẽ trơn trượt bên trong em ấy, với dịch tiết cả hai kéo thành một sợi..."
+        ],
+		"26": [
+            "Cảm giác hưng phấn khi có em ấy khác hẳn ",
+			"so với khi tôi làm một mình. Khi đắm chìm trong tưởng tượng, ",
+			"cảm giác tội lỗi trong lòng chỉ trở thành nhiên liệu,",
+			"mang đến cho tôi những đợt khoái cảm liên tiếp."
+        ],
+		"27": [
+            "\\str[120] có vẻ em ấy sắp ra rồi, ",
+			"tôi không thể không tăng tốc độ của tay mình."
+        ],
+		"28": [
+            "\\{Ugh, tôi không chịu được nữa...!"
+        ]			
+    },
+  	"23": {
+        "0": [
+            "Với chuyện lần trước, ",
+			"tôi quyết định liều lĩnh lao thẳng vào nhà vệ sinh."
+		],
+		"1": [
+            "\\nl< >\\{\"…O-\\str[121]!?\""
+        ],
+		"2": [
+            "\\nl< >\"...\\str[121],",
+			"sao anh cũng vào đây...?\""
+        ],
+		"3": [
+            "Giọng cô ấy nghe hơi trách móc, nhưng nhìn kỹ ",
+			"biểu cảm lơ mơ và việc em ấy không đuổi tôi đi, ",
+			"có vẻ như tôi an toàn."
+        ],
+		"4": [
+            "Tôi lặng lẽ đứng cạnh \\str[120], con cu ",
+			"của tôi chỉ cách em ấy vài centimet. Em ấy tiếp tục ",
+			"dùng tay của mình trong khi nghiêng người lại gần tôi hơn ",
+			"và bắt đầu liếm con cu của tôi bằng lưỡi."
+        ],
+		"5": [
+            "Chiếc lưỡi thon của \\str[120] uấn quanh đầu cu của tôi ",
+			"như một con rắn nhỏ, một cảm giác ấm áp, ",
+			"nhột nhột làm tôi run rẩy không kiểm soát."
+        ],
+		"6": [
+            "Chúng tôi im lặng như vậy một lúc, ",
+			"và tôi cảm thấy mình đã đạt gần tới giới hạn...",
+			"\\str[120] chắc cũng nhận ra con cu tôi đang giật giật,",
+			"vì em ấy bắt đầu cử động tay của mình nhanh hơn."
+        ],
+		"7": [
+            "Cuối cùng, khi cơn xuất tinh không thể ngăn được dâng lên, ",
+			"tinh dịch bắt đầu phun ra khắp nơi.  \\w[60]",
+			"Ngay khi tia tinh dịch đầu tiên văng lên mặt \\str[120], ",
+			"em ấy lập tức ngậm con cu của tôi vào miệng."
+        ],
+		"8": [
+            "Khi em ấy mút, \\str[120] dùng lưỡi mình trêu đùa ",
+			"với cái cái lỗ trên đầu của con cu, nơi mà tinh tinh dịch bắn ra.",
+			" ",
+			" ",
+			"Sự nhẹ nhàng và ấm áp bất ngờ đó phá tan khả năng  ",
+			"tự chủ của tôi, và con cu của tôi tiếp tục bắn",
+			"hết phần tinh dịch còn lại thẳng vào miệng em ấy."
+        ],
+		"9": [
+            "Sau đó, chúng tôi cùng dọn dẹp nhà vệ sinh ",
+			"và trở về phòng ngủ,",
+			"im lặng như chưa từng có chuyện gì xảy ra."
+        ]		
+    }		
+}

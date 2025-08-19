@@ -1,0 +1,117 @@
+{
+    "1": {
+        "0": [
+            "Mmm, tôi dường như không thể ngủ được..."
+		],
+		"1": [
+            "Bụng tôi đau quá... Có phải bị đầy bụng không?",
+			"Có lẽ bữa tối vừa rồi ăn hơi nhiều..."
+        ],
+        "2": [
+            "Ah, tôi bỗng tỉnh dậy...!"
+        ],
+		"3": [
+            "Vẫn còn giữa đêm.",
+			"Tôi có thể ngủ thêm một chút nữa...\\w[30].\\w[30].\\w[30].",
+			"Có nên đi kiểm tra em gái không nhỉ?"
+        ],
+		"4": [
+            "Đến phòng \\str[120]",
+			"Đi ngủ"
+        ],
+		"5": [
+            "Ngủ đến sáng luôn sao...?"
+        ],	
+		"6": [
+            "Ngủ",
+			"Chờ đã"
+        ],
+		"7": [
+            "\"Ahhhhhhhhhhh—!!?\""
+        ],
+		"8": [
+            "G-Gì cơ? À, chỉ là một cơn ác mộng..."
+        ],
+		"9": [
+            "Nó làm tôi giật mình... ",
+			"Tôi nghĩ mình vừa thấy một phiên bản \\str[120] đáng sợ."
+        ],		
+		"10": [
+            "...Tôi nên đi kiểm tra \\str[120].",
+			"Nếu như giất mơ đó—"
+        ],	
+		"11": [
+            "Ừ, giấc mơ đó thật đáng sợ...",
+			"Tốt hơn là nghỉ ngơi sớm..."
+        ]			
+    },
+    "2": {
+        "0": [
+            "\\c[10]—Phát hiện yêu cầu cập nhật dữ liệu từ phiên bản \\str[1].  \\w[60]",
+			"Bạn có muốn thực hiện tự động cập nhật ngay bây giờ không?"
+		],
+		"1": [
+            "Bắt đầu cập nhật",
+			"Không, thôi"
+        ],
+        "2": [
+            "...Đã sáng rồi sao? ",
+			"Tôi cảm giác vừa có một giấc mơ về ",
+            "em gái mình, ",
+			"nhưng không nhớ rõ..."
+        ],
+        "3": [
+            "...Đã sáng rồi sao? ",
+			"Tôi có cái cảm giác ngủ không ngon..."
+        ],
+        "4": [
+            "Ah, đã sáng rồi sao? Tôi ngủ cực kì ngon."
+        ],
+        "5": [
+            "Hôm nay trời đẹp quá...\\w[45]nhỉ? ",
+			"Có phải nắng hơi gắt quá không?"
+        ],
+        "6": [
+            "Hôm nay trời đẹp quá!"
+        ],
+        "7": [
+            "Thời tiết hôm nay trông không được tốt lắm."
+        ],
+        "8": [
+            "Trời đang mưa à? ",
+			"Hi vọng nó không ảnh hưởng đến chuyến phiêu lưu của mình..."
+        ],
+        "9": [
+            "Mấy ngày nay chưa đi kiểm tra em gái... ",
+			"Chắc hôm nay nên ghé qua."
+        ],
+        "10": [
+            "Được rồi, dậy thôi. Kế hoạch hôm nay là gì—"
+        ],
+        "11": [
+            "Đến phòng \\str[120]",
+			"Rời khỏi nhà"
+        ],
+        "12": [
+            "Được rồi, đi kiểm tra \\str[120] thôi!"
+        ],
+        "13": [
+            "Được rồi, giờ sắp xếp lại mọi thứ ",
+			"và chuẩn bị cho chuyến phiêu lưu!"
+        ]		
+    },
+    "4": {
+        "0": [
+            "\"...Gì cơ!?\\w[60]...Chờ đã, \\w[60]",
+			"đã sáng rồi sao...?\""
+		],
+		"1": [
+            "Tôi cảm thấy cực kì chóng mặt... ",
+			"Tối qua tôi đã ngủ thiếp đi như vậy sao...?"
+        ],
+		"2": [
+            "\"Tôi không nhớ chuyện gì đã xảy ra tối qua...  \\w[90]",
+			"Chắc là tôi đã quá mệt thôi.\""
+        ]
+    }		
+}
