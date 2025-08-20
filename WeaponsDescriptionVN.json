@@ -78,7 +78,7 @@
             "cũng có thể khiến nó phát nổ, thiêu cháy cả người dùng"
         ],
         "ability": [
-            "Giữ chuột phải để thi triển \\c[27]Crimson Lotus Meteor\\c[0]"
+            "Giữ chuột phải để thi triển \\c[27]Hồng Liên Tinh\\c[0]"
         ]
     },
     "7": {
@@ -91,7 +91,7 @@
             "băng tuyết diện rộng. Rất khó kiểm soát. Cảm giác như đang đông cứng cả tay"
         ],
         "ability": [
-            "Giữ chuột phải để thi triển \\c[27]Frozen Spell\\c[0]"
+            "Giữ chuột phải để thi triển \\c[27]Băng Chú\\c[0]"
         ]
     },
     "8": {
@@ -122,7 +122,7 @@
     },
     "10": {
         "name": [
-            "Đại Kiếm Bạc"
+            "Đại Kiếm Ánh Ngân"
         ],
         "subtitle": "",
         "description": [
@@ -193,7 +193,7 @@
     },
     "15": {
         "name": [
-            "Frostmoon"
+            "Hàn Nguyệt"
         ],
         "subtitle": [
 		    "\"Liếm lưỡi kiếm rồi bị dính lưỡi... Lạnh quá, đau quá!\"",
@@ -223,7 +223,7 @@
     },
     "17": {
         "name": [
-            "Sunflare"
+            "Nhật Diễm"
         ],
         "subtitle": [
             "\"\\str[121], nhìn đáng sợ quá, đừng cầm nó nhé.\""		
@@ -580,7 +580,7 @@
     },
     "81": {
         "name": [
-            "Kiếm Ký Sinh Trùng"
+            "Kiếm Ô Uế"
         ],
         "subtitle": [
             "\"Ugh, chất nhầy vẫn còn ngọ nguậy... Ghê quá!!\""		
@@ -624,7 +624,7 @@
     },
     "103": {
         "name": [
-            "Mây Hoàng Hôn"
+            "Mây Tàn Hoàng"
         ],
         "subtitle": "",
         "description": [
@@ -638,7 +638,7 @@
     },
     "104": {
         "name": [
-            "Đồng Hồ Tuyết"
+            "Tuyết Giám"
         ],
         "subtitle": "",
         "description": [
@@ -652,7 +652,7 @@
     },
     "105": {
         "name": [
-            "Chidori"
+            "Thiên Điểu"
         ],
         "subtitle": "",
         "description": [
@@ -666,11 +666,11 @@
     },
     "106": {
         "name": [
-            "Cung Nguyền Chó Địa Ngục"
+            "Huyết Khuyển Cung"
         ],
         "subtitle": "",
         "description": [
-            "Sản phẩm của vực thẳm, cây cung hình thù kỳ lạ có thể",
+            "Di vật của vực thẳm, cây cung hình thù kỳ lạ có thể",
             "bắn nhiều mũi tên cùng lúc. Tuy nhiên,",
             "cây cung ma thuật này vẫn bị phong ấn, sức mạnh thật chưa được giải phóng"
         ],
@@ -680,7 +680,7 @@
     },
     "107": {
         "name": [
-            "Săn Máu"
+            "Huyết Liệt"
         ],
         "subtitle": "",
         "description": [
