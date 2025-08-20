@@ -5,6 +5,15 @@ A self-project to translate **Sister** into Vietnamese.
 
 ---
 
+## 📷 Preview
+![Preview](https://i.postimg.cc/1XqmDmff/image3.png)
+
+![Preview](https://i.postimg.cc/D0LWndQj/image4.png)
+
+![Preview](https://i.postimg.cc/wj01qBJp/image2.png)
+
+---
+
 ## 📥 Downloads
 - 👉 [Latest Release](https://github.com/AkamineHaruna/sister-vntranslation/releases/latest)
 
