@@ -18,10 +18,10 @@
         ],
         "subtitle": "",
         "description": [
-            "Bị ký sinh bởi Hòn Đá Giả Kim, một sinh vật yếu ớt đã bị ép buộc",
-            "được truyền vào sức sống vô tận, luân hồi bất tận giữa sự sống và",
-            "cái chết cho đến khi cơn điên loạn chiếm lấy. Ngay cả khi bị tách bỏ,",
-            "sức mạnh này vẫn còn tồn tại."
+            "Bị ký sinh bởi Hòn Đá Giả Kim, một sinh vật yếu ớt đã bị ép",
+            "truyền vào sức sống vô tận, luân hồi bất tận giữa sự sống và",
+            "cái chết cho đến khi cơn điên loạn chiếm lấy. Ngay cả khi ",
+            "Hòn Đá bị tách bỏ, sức mạnh này vẫn còn tồn tại."
         ],
         "ability": [
             "Tăng HP. Cường hóa hiệu ứng hồi phục HP thêm 25%.",
@@ -30,7 +30,7 @@
     },
     "7": {
         "name": [
-            "Bào Thai Nguyền Rủa"
+            "Bào Thai Bị Nguyền Rủa"
         ],
         "subtitle": "",
         "description": [
@@ -48,7 +48,7 @@
         ],
         "subtitle": "",
         "description": [
-            "“Một loại khoáng chất được hun đúc trong Đại Mê Cung, xuất hiện dấu vết của mana",
+            "Một loại khoáng chất được hun đúc trong Đại Mê Cung, xuất hiện dấu vết của mana",
             "Mang theo sẽ gia tăng sự lĩnh hội phép thuật."
         ],
         "ability": [
