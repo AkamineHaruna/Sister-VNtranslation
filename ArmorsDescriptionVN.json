@@ -70,12 +70,12 @@
     },
     "10": {
         "name": [
-            "Vòng Trán Tập Trung"
+            "Vòng Tập Trung"
         ],
         "subtitle": "",
         "description": [
-            "Một chiếc vòng trán từng được đại hiền giả đeo khi còn trẻ như một nhà",
-            "mạo hiểm giả. Nó giúp tập trung tâm trí và ngăn chặn những xao nhãng từ bên ngoài."
+            "Một chiếc vòng đeo đầu từng được đại hiền giả đeo khi còn trẻ như một nhà",
+            "mạo hiểm giả. Nó giúp tâm trí tập trung và ngăn chặn những xao nhãng từ bên ngoài."
         ],
         "ability": [
             "Miễn nhiễm với Choáng",
@@ -84,7 +84,7 @@
     },
     "11": {
         "name": [
-            "Găng Tay Hút Mana"
+            "Găng Tay Hấp Thụ Mana"
         ],
         "subtitle": "",
         "description": [
@@ -104,7 +104,7 @@
             " \"...Meo~?\""		
 		],
         "description": [
-            "Những móng vuốt Mèo ẩn bên trong một Slime Neko, dường như đã được thấm nhuần",
+            "Những móng vuốt Mèo ẩn bên trong một Neko Slime, dường như đã được thấm nhuần",
             "linh hồn của mèo. Khi trang bị sẽ tăng sự nhanh nhẹn của bạn!"
         ],
         "ability": [
@@ -119,7 +119,7 @@
             " \"...Meo~?\""	
 		],
         "description": [
-            "Những móng vuốt Mèo ẩn bên trong một Slime Neko, dường như đã được thấm nhuần",
+            "Những móng vuốt Mèo ẩn bên trong một Neko Slime, dường như đã được thấm nhuần",
             "linh hồn của mèo. Khi trang bị sẽ tăng sự nhanh nhẹn của bạn!"
         ],
         "ability": [
@@ -182,7 +182,7 @@
     },
     "18": {
         "name": [
-            "Găng Tay Gai Xuyên Thấu"
+            "Găng Gai Xuyên Thấu"
         ],
         "subtitle": "",
         "description": [
@@ -212,7 +212,7 @@
         ],
         "subtitle": "",
         "description": [
-            "Bộ giáp tiêu chuẩn của các hiệp sĩ hoàng gia. Thiết kế vừa chắc chắn vừa trang trí cầu kỳ",
+            "Bộ giáp tiêu chuẩn của các hiệp sĩ hoàng gia. Thiết kế vừa chắc chắn vừa cầu kỳ",
             "biểu tượng cho sự trung thành của họ với tinh thần hiệp sĩ"
         ],
         "ability": [
@@ -225,7 +225,7 @@
         ],
         "subtitle": "",
         "description": [
-            "Bộ giáp tiêu chuẩn của các hiệp sĩ hoàng gia. Thiết kế vừa chắc chắn vừa trang trí cầu kỳ",
+            "Bộ giáp tiêu chuẩn của các hiệp sĩ hoàng gia. Thiết kế vừa chắc chắn vừa cầu kỳ",
             "biểu tượng cho sự trung thành của họ với tinh thần hiệp sĩ"
         ],
         "ability": [
@@ -238,7 +238,7 @@
         ],
         "subtitle": "",
         "description": [
-            "Bộ giáp tiêu chuẩn của các hiệp sĩ hoàng gia. Thiết kế vừa chắc chắn vừa trang trí cầu kỳ",
+            "Bộ giáp tiêu chuẩn của các hiệp sĩ hoàng gia. Thiết kế vừa chắc chắn vừa cầu kỳ",
             "biểu tượng cho sự trung thành của họ với tinh thần hiệp sĩ"
         ],
         "ability": [
@@ -251,7 +251,7 @@
         ],
         "subtitle": "",
         "description": [
-            "Bộ giáp tiêu chuẩn của các hiệp sĩ hoàng gia. Thiết kế vừa chắc chắn vừa trang trí cầu kỳ",
+            "Bộ giáp tiêu chuẩn của các hiệp sĩ hoàng gia. Thiết kế vừa chắc chắn vừa cầu kỳ",
             "biểu tượng cho sự trung thành của họ với tinh thần hiệp sĩ"
         ],
         "ability": [
@@ -260,15 +260,15 @@
     },
     "26": {
         "name": [
-            "Lông Chim Lửa"
+            "Hỏa Điểu Vũ"
 		],
 		"subtitle": [
 		    ""
 		],
         "description": [
-            "Một chiếc lông vũ của Chim Lửa.",
+            "Một chiếc lông vũ của Hỏa Điểu.",
 			"Biểu tượng của sự sống vĩnh hằng, vẫn cháy rực với ngọn lửa ấm áp.",
-			"Chỉ một chiếc lông cũng mang sức mạnh hồi sinh kẻ đã khuất."
+			"Chỉ một chiếc lông của nó cũng mang sức mạnh hồi sinh kẻ đã khuất."
 		],
         "ability": [
             "Kích hoạt khi HP giảm xuống 0, hồi phục lại toàn bộ HP",
@@ -311,7 +311,7 @@
         "subtitle": "",
         "description": [
             "\"Hyaa—!! Đừng có chọc vào ta nya!\"",
-            "Bao tay hình móng mèo mềm mại, vũ khí quý giá của một cô mèo gái nào đó",
+            "Bao tay hình móng mèo mềm mại, vũ khí quý giá của một cô mèo nào đó",
             "Mang chúng sẽ ban cho sự nhanh nhẹn của mèo và cả cơn thèm cá..."
         ],
         "ability": [
@@ -406,7 +406,7 @@
             "Linh Hồn Quái Bom"
         ],
         "subtitle": [
-            "\"Ẹc sờ bờ lô————giần!!\""		
+            "\"Ẹc sờ bờ lô————siần!!\""		
 		],
         "description": [
             "Một ý chí đã hi sinh tất cả vì những vụ nổ",
@@ -475,11 +475,11 @@
     },
     "53": {
         "name": [
-            "Nhẫn Xương Người Treo Cổ"
+            "Nhẫn Xương Kẻ Bị Treo Cổ"
         ],
         "subtitle": "",
         "description": [
-            "Một chiếc nhẫn làm từ xương của Người Treo Cổ đã khuất",
+            "Một chiếc nhẫn làm từ xương của Kẻ Bị Treo Cổ đã khuất",
             "Dù phần lớn sức mạnh đã mất,",
             "nó vẫn ban cho người đeo chút khả năng kháng trọng lực"
         ],
@@ -555,8 +555,8 @@
         ],
         "subtitle": "",
         "description": [
-            "Găng tay bị nguyền rủa, nhuốm đầy ma thuật đen tối,",
-            "thấm đẫm một linh hồn đầy thù hận, háo hức tấn công"
+            "Găng tay bị nguyền rủa, nhuốm đầy ma thuật u tối,",
+            "thấm đẫm một linh hồn đầy thù hận, háo hức được tấn công"
         ],
         "ability": [
             "Đạn phép tự động đuổi theo kẻ địch gần đó"
@@ -580,7 +580,7 @@
             "Băng Đô Quyết Tâm"
         ],
         "subtitle": [
-            "\"Mày biết tao là ai không!?\""		
+            "\"Mày có biết bố mày là ai không!?\""		
 		],
         "description": [
             "Một chiếc băng đô khơi dậy nhiệt huyết khi đeo vào",
@@ -620,10 +620,10 @@
     },
     "69": {
         "name": [
-            "Kẻ Phá Mặt"
+            "Huỷ Dung"
 		],
 		"subtitle": [
-		    "\"Chết tiệt... Tao chỉ muốn đấm ai đó vào mặt thôi...!\""
+		    "\"Chết tiệt... Tao chỉ muốn đấm vào mặt ai đó thôi...!\""
 		],
         "description": [
             "Găng đấm còn sót lại của một tay đấm huyền thoại.",
@@ -654,7 +654,7 @@
         ],
         "subtitle": "",
         "description": [
-            "Một chiếc nhẫn rèn từ đá chảy với dung nham nóng bỏng",
+            "Một chiếc nhẫn rèn từ đá nóng chảy với dòng magma",
             "Đeo nó giảm bớt đau đớn từ cả sương giá lẫn lửa"
         ],
         "ability": [
@@ -737,7 +737,7 @@
             "Nụ Cười Của Một Cô Gái"
         ],
         "subtitle": [
-            "\"\\str[121], anh đã giữ lời hứa tốt lắm!\""		
+            "\"\\str[121], anh đã giữ lời hứa, tốt lắm!\""		
 		],
         "description": [
             "Em gái luôn ngưỡng mộ và lo lắng cho",
@@ -750,22 +750,22 @@
     },
     "130": {
         "name": [
-            "Quần Lót Đã Tháo Của \\str[120]"
+            "Quần Lót Của \\str[120]"
         ],
         "subtitle": [
-            "\"Nó vẫn còn mùi của \\str[120]...\""		
+            "\"Nó vẫn còn mùi hương của \\str[120]...\""		
 		],
         "description": [
             "Quần lót nhận được từ \\str[120] do sự hiểu lầm",
             "Chưa trả lại, nhưng sâu thẳm là niềm hạnh phúc"
         ],
         "ability": [
-            "Được truyền cảm bởi \\str[120]. Khi HP < 50%, nhận hồi phục tự động"
+            "Được truyền động lực bởi \\str[120]. Khi HP < 50%, nhận hồi phục tự động"
         ]
     },
     "147": {
         "name": [
-            "Băng Vết Thương"
+            "Băng Y Tế"
         ],
         "subtitle": "",
         "description": [
@@ -841,7 +841,7 @@
     },
     "157": {
         "name": [
-            "Băng Vết Thương"
+            "Băng Y Tế"
         ],
         "subtitle": "",
         "description": [
