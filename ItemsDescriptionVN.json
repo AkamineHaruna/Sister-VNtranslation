@@ -9,7 +9,7 @@
             "Nhưng mà... cửa hàng của NLCH ở đâu nhỉ?"
         ],
         "ability": [
-		    "Có thể bỏ vào máy gacha mà không bị hư để kích hoạt lượt quay",
+		    "Có thể bỏ vào máy gacha không bị hư để kích hoạt lượt quay",
 			"Luôn cho 11 lượt quay với ít nhất một quả bóng vàng"
 		]
     },
@@ -26,7 +26,7 @@
     },
     "4": {
         "name": [
-            "10Yen"
+            "10 Yên"
         ],
         "subtitle": "",
         "description": [
@@ -36,7 +36,7 @@
     },
     "5": {
         "name": [
-            "50Yen"
+            "50 Yên"
         ],
         "subtitle": "",
         "description": [
@@ -46,7 +46,7 @@
     },
     "6": {
         "name": [
-            "100Yen"
+            "100 Yên"
         ],
         "subtitle": "",
         "description": [
@@ -56,7 +56,7 @@
     },
     "7": {
         "name": [
-            "500Yen"
+            "500 Yên"
         ],
         "subtitle": "",
         "description": [
@@ -66,7 +66,7 @@
     },
     "8": {
         "name": [
-            "1000Yen"
+            "1000 Yên"
         ],
         "subtitle": "",
         "description": [
@@ -76,7 +76,7 @@
     },
     "9": {
         "name": [
-            "5000Yen"
+            "5000 Yên"
         ],
         "subtitle": "",
         "description": [
@@ -86,7 +86,7 @@
     },
     "10": {
         "name": [
-            "10000Yen"
+            "10000 Yên"
         ],
         "subtitle": "",
         "description": [
@@ -96,7 +96,7 @@
     },	
     "11": {
         "name": [
-            "50000Yen"
+            "50000 Yên"
         ],
         "subtitle": "",
         "description": [
@@ -106,7 +106,7 @@
     },	
     "12": {
         "name": [
-            "100000Yen"
+            "100000 Yên"
         ],
         "subtitle": "",
         "description": [
@@ -194,7 +194,7 @@
     },
     "20": {
         "name": [
-            "Mảnh Hiền Triết Gia"
+            "Mảnh Hiền Triết"
         ],
         "subtitle": [
             "\"Đây là ý chí kiên cường nhất trong tất cả các ý chí,",
@@ -292,7 +292,7 @@
             "Tỏa ra mùi đào khiến chỉ cần ngửi thôi cũng cảm thấy chóng mặt..."
         ],
         "ability": [
-            "Khi ăn sẽ khiến toàn thân bạn cảm thấy nóng!"
+            "Khi ăn sẽ khiến toàn thân bạn rạo rực!"
         ]
     },
     "31": {
@@ -363,7 +363,7 @@
             "\"Sức mạnh Khải Thị\""		
 		],
         "description": [
-            "Một viên đá khắc rune. Thiết kế sao cho",
+            "Một viên thạch khắc. Thiết kế sao cho",
             "ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng"
         ],
         "ability": [
@@ -376,10 +376,10 @@
             "Raido"
         ],
         "subtitle": [
-            "\"Sức mạnh Cưỡi\""
+            "\"Sức mạnh của việc Cưỡi\""
         ],
         "description": [
-            "Một viên đá khắc rune. Thiết kế sao cho",
+            "Một viên thạch khắc. Thiết kế sao cho",
             "ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng"
         ],
         "ability": [
@@ -394,7 +394,7 @@
             "\"Sức mạnh Biến đổi\""
         ],
         "description": [
-            "Một viên đá khắc rune. Thiết kế sao cho",
+            "Một viên thạch khắc. Thiết kế sao cho",
             "ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng"
         ],
         "ability": [
@@ -421,14 +421,14 @@
             "Nữ Tư Tế"
         ],
         "subtitle": [
-            "\"Mong bạn nhận được ân sủng của nàng...\""
+            "\"Mong ngươi nhận được ân sủng của nàng...\""
         ],
         "description": [
             "Một lá bài ma thuật được truyền phép. Thiết kế sao cho",
             "ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng"
         ],
         "ability": [
-            "Khi sử dụng, triệu hồi một cánh cổng dẫn đến Nhà Thờ Sụp Đổ"
+            "Khi sử dụng, triệu hồi một cánh cổng dẫn đến Nhà Thờ Sa Ngã"
         ]
     },
     "50": {
@@ -443,12 +443,12 @@
             "ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng"
         ],
         "ability": [
-            "Sử dụng Tiếng Gầm Rồng để làm choáng tất cả kẻ địch trên màn hình"
+            "Sử dụng Tiếng Gầm của Rồng để làm choáng tất cả kẻ địch trên màn hình"
         ]
     },
     "52": {
         "name": [
-            "Người Yêu"
+            "Tình Nhân"
         ],
         "subtitle": [
             "\"Hương Thơm Lưu Luyến Của Phù Thủy\""
@@ -466,7 +466,7 @@
             "Xe Ngựa"
         ],
         "subtitle": [
-            "\"Sẵn sàng phục vụ! Con đường nhanh xuống với Địa Ngục!\""
+            "\"Sẵn sàng phục vụ! Chuyển Phát Địa Ngục!\""
         ],
         "description": [
             "Một lá bài ma thuật được truyền phép. Thiết kế sao cho",
@@ -526,14 +526,14 @@
             "Cái Chết"
         ],
         "subtitle": [
-            "\"Mục tiêu của mọi sinh mệnh là cái chết\""
+            "\"Đích đến của mọi sinh mệnh là cái chết\""
         ],
         "description": [
             "Một lá bài ma thuật được truyền phép. Thiết kế sao cho",
             "ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng"
         ],
         "ability": [
-            "Khi sử dụng, sức mạnh của Quỷ Tử Thần sẽ hiện diện tại đây"
+            "Khi sử dụng, sức mạnh của Tử Thần sẽ hiện diện tại đây"
         ]
     },
     "60": {
@@ -563,7 +563,7 @@
             "ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng"
         ],
         "ability": [
-			"Triệu hồi Cánh Cửa Ngôi Sao gần người chơi để trở về điểm xuất phát"
+			"Triệu hồi Cửa Sao gần người chơi để trở về điểm xuất phát"
         ]
     },
     "65": {
@@ -578,7 +578,7 @@
             "ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng"
         ],
         "ability": [
-            "Khi sử dụng, ban cho Người Chơi Phép Lành của Chim Lửa"
+            "Khi sử dụng, ban Phép Lành của Hỏa Điểu"
         ]
     },
     "67": {
@@ -646,8 +646,8 @@
         "subtitle": "",
         "description": [
             "Một bảo vật ma thuật đặc biệt được khắc phép thuật niêm phong",
-            "Khi vỡ, nó sẽ kích hoạt hiệu ứng, khiến mọi thứ",
-            "trong phạm vi nhất định, bao gồm cả thời gian ngừng lại"
+            "Khi vỡ, nó sẽ kích hoạt hiệu ứng, khiến mọi thứ ngừng lại",
+            "trong phạm vi nhất định, bao gồm cả thời gian"
         ],
         "ability": ""
     },
@@ -665,7 +665,7 @@
     },
     "88": {
         "name": [
-            "Thịt Đùi Chim"
+            "Đùi Chim"
         ],
         "subtitle": "",
         "description": [
@@ -1098,7 +1098,7 @@
     },
     "153": {
         "name": [
-            "Một Quả Trứng Lớn"
+            "Quả Trứng Lớn"
         ],
         "subtitle": "",
         "description": [
@@ -1113,7 +1113,7 @@
         ],
         "subtitle": "",
         "description": [
-            "Cái quái gì thế này?"
+            "Cái quái gì thế này!?"
         ],
         "ability": ""
     },
@@ -1123,7 +1123,7 @@
         ],
         "subtitle": "",
         "description": [
-            "Cái quái gì thế này?"
+            "Cái quái gì thế này!?"
         ],
         "ability": ""
     },
@@ -1164,7 +1164,7 @@
             "Doujinshi Gái Mèo"
 		],
 		"subtitle": [
-		    "\"Chủ nhân... nya~ cho em xin chút vuốt đầu được không?\""
+		    "\"Chủ nhân... nya~ xoa đầu em được không?\""
 		],
         "description": [
             "Một doujinshi thoang thoảng mùi cỏ mèo.",
@@ -1246,7 +1246,7 @@
             "Polaroid#5 của NLCH"
         ],
         "subtitle": [
-            "\"Ôi Chúa ơi, xin tha thứ cho con vì đã bị cám dỗ bởi tiền bạc...\""
+            "\"Chúa ơi, tha thứ cho con vì đã bị cám dỗ bởi tiền bạc...\""
         ],
         "description": [
             "Những bức ảnh ghi lại cuộc sống hàng ngày của các cô gái",
@@ -1363,7 +1363,7 @@
             "Polaroid#14 của NLCH"
         ],
         "subtitle": [
-            "\"Ôi trời, cậu vào mà không gõ cửa~\""
+            "\"Ôi, cậu vào mà không gõ cửa sao~\""
         ],
         "description": [
             "Những bức ảnh ghi lại cuộc sống hàng ngày của các cô gái",
@@ -1376,7 +1376,7 @@
             "Polaroid#15 của NLCH"
         ],
         "subtitle": [
-            "\"ậy sao...? Một kiểu tỏ tình mà tớ chưa từng nghe qua...\""
+            "\"Vậy sao...? Một kiểu tỏ tình mà tớ chưa từng nghe qua...\""
         ],
         "description": [
             "Những bức ảnh ghi lại cuộc sống hàng ngày của các cô gái",
@@ -1389,7 +1389,7 @@
             "Polaroid#16 của NLCH"
         ],
         "subtitle": [
-            "\"Haa... Haa... Cơ thể tớ không chịu nổi nữa...!\""
+            "\"Haa... Haa... Tớ không chịu nổi nữa...!\""
         ],
         "description": [
             "Những bức ảnh ghi lại cuộc sống hàng ngày của các cô gái",
@@ -1519,7 +1519,7 @@
             "Polaroid#26 của NLCH"
         ],
         "subtitle": [
-            "\"Suýt bị bắt quả tang...\""
+            "\"Suýt chút thì bị bắt quả tang rồi...\""
         ],
         "description": [
             "Những bức ảnh ghi lại cuộc sống hàng ngày của các cô gái",
