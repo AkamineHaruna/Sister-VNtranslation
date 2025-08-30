@@ -159,7 +159,7 @@
   "29": {
     "name": [],
     "subtitle": [
-	  "Tắm "
+	  "Bathing "
 	],
     "description": [
       ""	
@@ -182,7 +182,7 @@
   "30": {
     "name": [],
     "subtitle": [
-	  "Nghỉ ngơi "
+	  "Resting "
 	],
     "description": [
       ""
@@ -197,7 +197,7 @@
 		"1": {
            "description": [
              "\\str[120] càng ngày càng dễ thương",
-			 "Có nên xoa đầu em ấy một cái không nhỉ!"
+			 "Nên xoa đầu em ấy một cái không nhỉ!"
            ]
 		},
 		"2": {
@@ -229,7 +229,7 @@
   "31": {
     "name": [],
     "subtitle": [
-	  "Ngủ "
+	  "Sleeping "
 	],
     "description": [
       ""
@@ -276,7 +276,7 @@
   "32": {
     "name": [],
     "subtitle": [
-	  "Đói "
+	  "Hungry "
 	],
     "description": [
       ""	
@@ -305,7 +305,7 @@
   "33": {
     "name": [],
     "subtitle": [
-	  "Thư giãn "
+	  "Relaxing "
 	],
     "description": [
       ""	
@@ -322,7 +322,7 @@
   "34": {
     "name": [],
     "subtitle": [
-	  "Đánh răng "
+	  "Brushing "
 	],
     "description": [
       ""	
@@ -354,7 +354,7 @@
   "40": {
     "name": [],
     "subtitle": [
-      "Khóc "	
+      "Crying "	
 	],	
     "description": [
       ""
