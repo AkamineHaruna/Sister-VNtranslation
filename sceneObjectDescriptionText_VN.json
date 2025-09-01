@@ -5,15 +5,14 @@
     "Có vẻ nó là mặt hàng bán chạy tại NLCH."
   ],
   "1": [
-    "✦Chiếc đèn lồng nhỏ mà cha để lại,",
-    "có vẻ là một dụng cụ giả kim.",
-    "Nó vẫn còn rất bền dù đã cũ, ",
-    "nó toả ra ánh sáng ấm áp, dễ chịu."
+    "✦Chiếc đèn lồng nhỏ mà cha đã để lại, có vẻ",
+    "là một dụng cụ giả kim. Dù đã cũ kĩ,",
+    "nhưng nó vẫn toả ra ánh sáng ấm áp, dễ chịu."
   ],
   "2": [
-    "✦Một chiếc đèn ngủ nhỏ dễ thương với ánh sáng dịu nhẹ,",
-    "rất thích hợp để bật lên khi thức dậy để",
-    "đi vệ sinh vào ban đêm. "
+    "✦Một chiếc đèn ngủ nhỏ dễ thương với ánh ",
+    "sáng dịu nhẹ, rất thích hợp để bật lên",
+    "khi thức dậy để đi vệ sinh vào ban đêm."
   ],
   "3": [
     "✦Một loại cây tên là “Ficus umbellata”.",
@@ -21,28 +20,26 @@
     "chăm sóc nó rất kỹ lưỡng mỗi ngày."
   ],
   "4": [
-    "✦Một loại cây tên là “Pothos”.",
-    "Nó trông không được khoẻ lắm,  ",
-    "nên \\str[120] đã đặt nó cạnh cửa sổ.",
-    "Mình có nên nói cho em ấy biết rằng Pothos thật ra ",
-    "không thích ánh nắng mặt trời không...? "
+    "✦Một loại cây tên là “Pothos”, nó trông không",
+    "được khoẻ lắm, nên \\str[120] đã đặt nó cạnh",
+    "cửa sổ. Mình có nên nói cho em ấy biết là Pothos",
+    "không thích ánh nắng mặt trời không...?"
   ],
   "5": [
-    "✦Một vài cuốn sách mà \\str[120] đã chọn ",
-    "từ thư phòng của cha.",
-    "Chúng hầu hết là sách triết học và ",
-    "hoàn toàn khó hiểu."
+    "✦Một vài cuốn sách mà \\str[120] đã chọn từ thư",
+    "phòng của cha. Chúng hầu hết là sách triết",
+    "học và hoàn toàn khó hiểu."
   ],
   "6": [
     "✦Nhặt được một cành cây bạch dương khô ",
-    "trên đường về. Thấy nó trông ngầu, ",
-    "nên mình đưa cho \\str[120].",
+    "trên đường về. Vì thấy nó trông rất",
+    "ngầu, nên tôi đã đưa nó cho \\str[120].",
     "Em ấy lặng lẽ cắm nó vào một chiếc lọ."
   ],
   "7": [
     "✦Một bức phác họa chim do \\str[120] vẽ, ",
-    "có vẻ dựa trên những con chim mà em ấy nhìn thấy ",
-    "khi ngắm bên ngoài cửa sổ."
+    "có vẻ dựa trên những con chim mà em ấy",
+    "đã nhìn thấy khi ngắm bên ngoài cửa sổ."
   ],
   "8": [
     "✦Một chiếc quạt nhỏ, cũ với luồng gió yếu. ",
@@ -62,8 +59,7 @@
   ],
   "11": [
     "✦Một loại dầu gội hương trái cây mà \\str[120] rất thích.",
-    "Nó khiến tóc em ấy siêu mượt, ",
-    "nhưng lại hết quá nhanh.",
+    "Nó giúp tóc em ấy mượt mà như sunsilk, nhưng lại hết quá nhanh.",
     "Hiện tại còn lại:\\c[20]${$gameSelfVariables.value([6, 8, 'shampoo'])}%"
   ],
   "12": [

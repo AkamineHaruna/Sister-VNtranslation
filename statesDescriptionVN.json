@@ -191,25 +191,25 @@
 		"0": {
            "description": [
              "\\str[120] trông rất vui,",
-			 "Có chuyện gì thú vị xảy ra không?"
+			 "Có gì thú vị xảy ra không?"
            ]
 		},		
 		"1": {
            "description": [
              "\\str[120] càng ngày càng dễ thương",
-			 "Nên xoa đầu em ấy một cái không nhỉ!"
+			 "Nên xoa đầu một cái không?"
            ]
 		},
 		"2": {
            "description": [
-             "\\str[120] chỉ ngồi",
-			 "đó thôi. Thử nói chuyện với em ấy xem..."
+             "\\str[120] chỉ ngồi đó thôi.",
+			 "Thử nói chuyện với em ấy xem..."
            ]
 		},
 		"3": {
            "description": [
              "\\str[120] trông hơi buồn",
-			 "Có nên thử an ủi em ấy không nhỉ?"
+			 "Nên thử an ủi em ấy không?"
            ]
 		},
 		"4": {
@@ -221,7 +221,7 @@
 		"5": {
            "description": [
              "\\str[120] trông buồn ngủ",
-			 "Có lẽ đến giờ đi ngủ rồi?"
+			 "Có lẽ đến giờ đi ngủ rồi."
            ]
 		}
 	}
