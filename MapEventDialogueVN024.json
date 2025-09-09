@@ -1,0 +1,343 @@
+{
+	"3": {
+		"0": [
+			"\"I’m back.\""
+		],
+		"1": [
+			"\\nl< >\"\\str[121]? You’re back early today.\""
+		],
+		"2": [
+			"\"Yeah, I felt a bit tired today,",
+			"so I didn’t push myself to go exploring…\""
+		],
+		"3": [
+			"\\nl< >\"This is that thing… called May Sickness, right?\""
+		],
+		"4": [
+			"May…? But it’s the middle of summer now."
+		],
+		"5": [
+			"\\nl< >\"I often feel the same way…",
+			"I thought it was still noon, but when I woke up, ",
+			"\\str[121] had already made dinner…\""
+		],
+		"6": [
+			"...Isn’t that just plain oversleeping?"
+		],
+		"7": [
+			"\\nl< >\"It’s nice to take it easy sometimes, \\str[121]. ",
+			"Come play with me!\""
+		],
+		"8": [
+			"\\nl< >\"Getting proper rest is important too, ",
+			"so be mindful next time.\""
+		],
+		"9": [
+			"\\nl< >\"I see,",
+			"then let me give you a massage, \\str[121]!\""
+		],
+		"10": [
+			"Yeah, there’s plenty of time—let’s just relax and rest today."
+		],
+		"11": [
+			"You’re right, there’s plenty of time—let’s just relax and rest today."
+		],
+		"12": [
+			"\nl< >\"Then why don’t you try napping too, \\str[121]…",
+			"it feels really good, you know?\""
+		],
+		"13": [
+			"In the end, I napped with \\str[120] until the sun went down."
+		],
+		"14": [
+			"I spent the whole day playing games with \\str[120]."
+		],
+		"15": [
+			"I spent a relaxing day with \\str[120]."
+		],
+		"16": [
+			"\\str[120] enthusiastically gave me a massage for a long time,",
+			"and because it felt so nice, I drifted off to sleep…"
+		]
+	},
+	"9": {
+		"0": [
+			"怀中那温热的触感时刻提醒着我，梦寐以求的药已经到手。",
+			"但这段过于不真实的经历，仍让我难以释怀。"
+		],
+		"1": [
+			"连通了家门口的星之塔罗牌。",
+			"这是父亲遗留下来的物品之一，",
+			"虽然父亲生前一直在研究可以让\\str[120]恢复正常的方法，",
+			"可为什么…这么轻易地就产生了反应……"
+		],
+		"2": [
+			"怎么想也得不出什么结论，胡思乱想也没意义。",
+			"结果而言我已经拿到了红髓液，找个机会让\\str[120]试一试吧。"
+		],
+		"3": [
+			"刚好颜色看起来像草莓汁，",
+			"说不定味道也和她喜欢的草莓牛奶一样呢…"
+		],
+		"4": [
+			"\\nl< >\"欢迎回家、\\str[121]。\""
+		],
+		"5": [
+			"\\nl< >\"肚子已经饿了…\""
+		],
+		"6": [
+			"\"知道了知道了、马上就准备晚饭呢。\""
+		],
+		"7": [
+			"轻轻摸了摸\\str[120]的头，安慰了她几句。",
+			"好了——接下来该怎么办呢？"
+		],
+		"8": [
+			"准备晚饭",
+			"去厕所"
+		],
+		"9": [
+			"是啊、已经不早了、得去准备晚饭了。"
+		],
+		"10": [
+			"\"今天晚上想吃什么？\""
+		],
+		"11": [
+			"\\nl< >\\{\"肉料理就好了！\""
+		],
+		"12": [
+			"嗯……预料之中的回答……",
+			"看样子还是得找个机会，好好给\\str[120]讲讲饮食均衡的重要性。"
+		],
+		"13": [
+			"唔、有点想去厕所了……"
+		],
+		"14": [
+			"\"抱歉、再等一下吧、之后再准备晚饭。\""
+		],
+		"15": [
+			"\\nl< >\"我知道了。\""
+		]
+	},
+	"13": {
+		"0": [
+			"\\nl< >\"\\str[121]今天按照约定没把自己搞得破破烂烂的、太好了！",
+			"要表扬一下在努力的\\str[121]呢！\""
+		],
+		"1": [
+			"\\nl< >\"今天\\str[121]也完成了约定呢、这是今天的表彰噢！\""
+		],
+		"2": [
+			"\\nl< >\"最近\\str[121]一直都在努力呢、这是今天的表彰噢——\""
+		],
+		"3": [
+			"\\nl< >\"马上就要一个月了呢、",
+			"\\str[121]真是辛苦了、来、这是今天的表彰——\""
+		],
+		"4": [
+			"\\nl< >\"\\str[121]！太好了、已经一个月了噢！",
+			"\\str[121]非常了不起呢！\""
+		],
+		"5": [
+			"\\nl< >\"总之这是最后的表彰呢！\""
+		],
+		"6": [
+			"\\nl< >\"好啦！画完了！",
+			"这个是\\str[121]作为好孩子的证明噢！",
+			"今天之内不许洗掉呢！\""
+		],
+		"7": [
+			"我看了看右手，\\str[120]用画笔在手背上画了一个可爱的图案。"
+		],
+		"8": [
+			"这可真是不得了的表彰啊…不过……"
+		],
+		"9": [
+			"\\nl< >\"诶？『继续收集下去会有什么特别奖励』吗？",
+			"……\\str[121]你还想要更多表扬吗？\""
+		],
+		"10": [
+			"\nl< >\"唔嗯……那\\str[121]继续这样保持一个月、",
+			"给你更特别的奖励吧……\""
+		],
+		"11": [
+			"\\nl< >\"因为太害羞了，现在还不能告诉你是什么奖励…\""
+		],
+		"12": [
+			"本来只是开玩笑说的，",
+			"但\\str[120]似乎真的在认真考虑什么特别的奖励，",
+			"感觉干劲上来了！"
+		],
+		"13": [
+			"\\nl< >\"特别的奖励还是秘密哟，现在不能告诉\\str[121]…！\""
+		],
+		"14": [
+			"\\nl< >\"来、\\str[121]！按照约定这是给你的特别奖励噢！\""
+		],
+		"15": [
+			"\\nl< >\"嘿嘿…这是我做的『什么都行』券。\""
+		],
+		"16": [
+			"\\nl< >\"\\str[121]一直都是为了我着想，但作为\\str[120]，",
+			"我也希望\\str[121]能放下那些负担，好好休息一下啊……\""
+		],
+		"17": [
+			"\\nl< >\"所以，\\str[121]可以用这个随便撒娇哦！\"",
+			"什么要求都可以，\\str[121]只要想着放松自己就好了！\""
+		],
+		"18": [
+			"\\nl< >\"诶！？     \\w[30]",
+			"『色色的事情也行吗……？』",
+			"那个、那个……\""
+		],
+		"19": [
+			"\\nl< >\"可以啦…如果\\str[121]就想做这种事情、",
+			"不会拒绝的啦…\""
+		],
+		"20": [
+			"\\nl< >\"说到底\\str[121]平时不就是一直在欺负人嘛……\""
+		],
+		"21": [
+			"\\>从\\str[120]那里收到了\\ii[199]！        \\w[60]",
+			"\\>可以向\\str[120]提出一个撒娇的请求了！     \\w[60]"
+		]
+	},
+	"15": {
+		"0": [
+			"\"…I’m back.\""
+		],
+		"1": [
+			"I greeted weakly,",
+			"and as soon as I stepped inside, ",
+			"the burning heat all over my body instantly faded away.",
+			"Damn weather… to think it could get this hot…"
+		],
+		"2": [
+			"\"—Hm? That's strange.\""
+		],
+		"3": [
+			"I realized \\str[120] didn’t come to greet me like usual. ",
+			"Is she still asleep?"
+		],
+		"4": [
+			"\\nl< >\"\\str[121], welcome home…\""
+		],
+		"5": [
+			"Wearing just a T-shirt, ",
+			"\\str[120] walked out sluggishly to greet me,",
+			"it was obvious the heat had worn her down too…"
+		],
+		"6": [
+			"\\nl< >\\{\"So hot…!\"",
+			"\\w[40]\\^"
+		],
+		"7": [
+			"\\nl< >\"\\str[121], your body’s burning hot…!\""
+		],
+		"8": [
+			"Looking down at my body still steaming with heat,",
+			"for a moment it even felt like I might explode…"
+		],
+		"9": [
+			"\\nl< >\"\\str[121], welcome home…    \\w[60]",
+			"It must’ve been really hot outside, huh?\""
+		],
+		"10": [
+			"\"Yeah, it felt like being inside an oven…   \\w[60]",
+			"What the heck is with this weather…\""
+		],
+		"11": [
+			"\"But it’s all fine now!!    \\w[40]",
+			"Ta-da! I got us a fan!\""
+		],
+		"12": [
+			"\\nl< >\"That’s great! Hurry, hurry!   \\w[60]",
+			"Set it up right now!\""
+		],
+		"13": [
+			"\\nl< >\"I’ve got the fan and popsicles ready, come on!\""
+		],
+		"14": [
+			"\"Ohhh—!\""
+		],
+		"15": [
+			"Coming home to a cool place with popsicles to eat,",
+			"this feeling isn’t so bad at all…"
+		],
+		"16": [
+			"After waiting a while, \\str[120] still didn’t come out.",
+			"Strange… could she still be napping?"
+		],
+		"17": [
+			"What should I do…"
+		],
+		"18": [
+			"Sneak Over",
+			"Call \\str[120]"
+		],
+		"19": [
+			"Alright! I’ll just quietly sneak to her room,",
+			"it’d be a shame if I woke her up while she’s napping."
+		],
+		"20": [
+			"\\{\"I’m homeー！\""
+		],
+		"21": [
+			"I called out casually,",
+			"and before long I could hear ",
+			"hurried footsteps coming downstairs."
+		],
+		"22": [
+			"…Wow, that fast?"
+		],
+		"23": [
+			"\\nl< >\"\\str[121]!?",
+			"You’re back really early today—\""
+		],
+		"24": [
+			"Probably because she came running,",
+			"\\str[120]’s cheeks were flushed and her ",
+			"breathing was unusually quick and uneven."
+		],
+		"25": [
+			"\"………Huh?    \\w[45]",
+			"\\str[120], could it be that you—\""
+		],
+		"26": [
+			"\\nl< >\"Eek!?\""
+		],
+		"27": [
+			"\"You were secretly eating chips just now, weren’t you!?",
+			"Look, there are crumbs at the corner of your mouth!\""
+		],
+		"28": [
+			"\\nl< >\"Eh… ah… \\w[45] umm… yeah, that’s right,    \\w[45]",
+			"ehehe… I was snacking a little…\"                 \\w[45]"
+		],
+		"29": [
+			"\\str[120] fumbled awkwardly with her excuse, ",
+			"and it just looked more suspicious…"
+		],
+		"30": [
+			"\\nl< >\"Alright, alright, I’ve got a portion for you too,",
+			"Let’s eat together…!\""
+		],
+		"31": [
+			"Not giving me a chance to question her further, ",
+			"\\str[120] slipped away."
+		],
+		"32": [
+			"Back at the entrance, my mind kept ",
+			"replaying the image of Imouto’s careless, revealing figure.     \\w[60]",
+			"…Well, it is summer after all."
+		],
+		"33": [
+			"\"Ahem ahem…         \\w[60]\\{",
+			"I’m homeー！\""
+		],
+		"34": [
+			"I pretended like I hadn’t noticed anything ",
+			"as I called out to \\str[120] inside."
+		]
+	}
+}
