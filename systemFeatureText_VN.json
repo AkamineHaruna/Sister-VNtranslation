@@ -51,7 +51,7 @@
 	],
 	"ErrorReport": [
 		"Đã xảy ra lỗi. Vui lòng báo lỗi trên server Discord của NLCH.",
-		"(Nhấn ‘OK’ để mở liên kết mời Discord)",
+		"(Nhấn 'OK' để mở liên kết mời Discord)",
 		"(Đính kèm ảnh chụp màn hình của lỗi)"
 	],
 	"UpdateComplete1": [
@@ -93,7 +93,7 @@
 		"${} tải xuống thất bại! Đang thử lại!"
 	],
 	"installPatch": [
-		"Bản vá cần được giải nén—đang cài đặt. Quá trình này có thể làm game giật lag, vui lòng kiên nhẫn!"
+		"Bản vá cần được giải nén và cài đặt. Quá trình này có thể làm game giật lag, vui lòng kiên nhẫn!"
 	],
 	"totalFilesToUpdate": [
 		"Phát hiện ${} tệp cần cập nhật—bắt đầu quá trình tải xuống!"
@@ -120,8 +120,8 @@
 		"sử dụng GPU rendering hoặc cập nhật driver để cải thiện tình hình."
 	],
 	"failedToLoad": [
-		"This kind of issue may be caused by:",
-		"① Game files corrupted or filenames garbled due to encoding issues during extraction/installation.",
-		"② The developer forgetting to include the file—please wait for a patch update to fix it."
+		"Loại sự cố này có thể do:",
+		"① Tệp game bị hỏng hoặc tên tệp bị lỗi do vấn đề mã hóa trong quá trình giải nén/cài đặt.",
+		"② Nhà phát triển quên không đưa tệp vào—hãy chờ bản vá cập nhật để khắc phục."
 	]    
 }
