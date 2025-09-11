@@ -6,6 +6,46 @@
         "1": [
             "Đói quá đi..."			
 		]		
+    },
+    "2": {
+        "0": [
+            "\\nl< >\"\\str[121]! Is there anything you’d like to eat!?\""
+        ],
+        "1": [
+            "She’s being so eager for once—",
+            "what should I even ask for?"
+        ],
+        "2": [
+            "Eat you!",
+            "Meat dishes!",
+            "Vegetable dishes!",
+            "Anything’s fine"
+        ],
+        "3": [
+            "\\nl< >\"Geez~ I’m not food, you know!          \\w[90]",
+            "If \\str[121] doesn’t have anything special in mind,",
+            "I’ll come up with a menu myself!\""
+        ],
+        "4": [
+            "\\nl< >\"Ehehe~ \\str[121]!",
+            "you’ve finally realized how delicious meat is!\""
+        ],
+        "5": [
+            "\\nl< >\"Just wait,",
+            "I’ll make you a huge steak!\""
+        ],
+        "6": [
+            "\\nl< >\"But… we don’t have enough ingredients…",
+            "I might only be able to make something else today.\""
+        ],
+        "7": [
+            "\\nl< >\"It’s not really my favorite…     \\w[120]",
+            "but since \\str[121] says wants it, I’ll do my best!\""
+        ],
+        "8": [
+            "\\nl< >\"So \\str[121], just sit nicely at the table ",
+            "and wait for the food to be ready!\"        \\w[120]"
+        ]
     },		
     "5": {
         "0": [
@@ -181,6 +221,17 @@
             "...Có vẻ \\str[120] đang cố gắng hết sức ",
 			"để học nấu ăn.",
 			"Thôi kệ, chắc mình phải làm bữa tối vậy."
+        ],
+        "4": [
+            "\\nl< >\\{\"\\str[121]!",
+            "do you want to eat the food I make!?\""
+        ],
+        "5": [
+            "\\nl< >\"Oh my, I really can’t say no to you~\""
+        ],
+        "6": [
+            "\\nl< >\"Leave it to me! ",
+            "I’m confident I can make something really tasty!\""
         ]			
     },
     "22": {

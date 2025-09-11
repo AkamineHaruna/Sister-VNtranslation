@@ -112,6 +112,207 @@
             "\"...Chắc đến lúc phải bắt đầu làm bữa sáng thôi.\""
 		]			
     },
+	"5": { 
+        "0": [
+            "Tôi đi theo \\str[120] vào phòng khách.",
+			"TV đã bật sẵn, còn em ấy thì đang cuộn tròn ",
+			"ở giữa ghế sofa như một chú chim non trong tổ,",
+			"ôm đầu gối và chăm chú nhìn vào màn hình."
+		],
+        "1": [
+    		"Không biết anime gì mà em ấy mê mệt đến vậy...?",
+			"Vì ban ngày tôi chẳng bao giờ ở nhà, nên cũng không rõ",
+   		    "em thường xem gì. Nhưng thấy em ấy hào hứng như thế",
+    		"thì cũng tò mò, thế là tôi ngồi xuống sofa và nhìn lên TV."
+		],
+        "2": [
+            "\\{\\c[27]“Ruby Cô Gái Phép Thuật Ánh Sao!”",
+			"Tập 1! ",
+			"Một Cô Gái Bình Thường và Phép Màu Từ Những Vì Sao! ",
+			"Hợp Đồng Bắt Đầu!"
+		],		
+        "3": [
+            "\\c[27]Ruby chỉ là một cô gái bình thường, học hành thì làng nhàng, ",
+			"thể thao thì tệ, và chẳng có chút tài năng phép thuật nào—",
+            "nhưng một ngày nọ, trên đường về nhà, cô bị một con quái vật truy đuổi và rơi vào đường cùng!",
+            "Trong khoảnh khắc tuyệt vọng ấy, tinh linh sao bí ẩn 'Noa' xuất hiện, ",
+			"thức tỉnh bởi ý chí sống còn của cô! 'Mình muốn sống!' Ruby hét lên—và ngay lúc đó, "
+
+		],	  
+        "4": [
+            "\\c[27]ánh sao bùng nổ, hợp đồng định mệnh được ký kết!",
+			"Màn biến hình đầu tiên! Theo bản năng, Ruby phản kháng và đánh bại con quái vật!",
+			"Nhìn đôi tay mình phát sáng trong ánh sao, ",
+			"Ruby sững sờ: 'Đây... là mình sao?'"
+		],	  
+        "5": [
+            "\\nl< >\"Cô ấy biến hình rồi! Thật tuyệt quá—! ",
+			"Với cả Noa dễ thương ghê! Ánh sao đẹp thật đó!   \\w[120]",
+			"Nhìn đi, \\str[121]! Ruby-chan trước giờ chẳng làm được gì cả!",
+			"Nhưng cuối cùng lại được chọn làm cô gái phép thuật!\""
+		],
+        "6": [
+            "\"Ờ, ừ thì...\""
+		],
+        "7": [
+            "……………………",
+			"……………………"
+		],		
+        "8": [
+			"Cô ấy... biến hình dễ dàng vậy sao!? ",
+			"Rồi trận chiến đã kết thúc luôn rồi?",
+			"Hợp đồng với quái vật đáng lẽ phải cực kỳ nguy hiểm chứ...",
+			"Giao cho một đứa trẻ lo liệu thế này chẳng phải sẽ khiến hội gặp rắc rối sao...?"
+		],
+        "9": [
+			"Tôi nhìn chằm chằm vào TV với vẻ mặt nghiêm túc, đầy hoang mang.",
+			"Nhưng khi liếc sang ánh mắt long lanh và cái miệng há hốc đầy ngưỡng mộ của \\str[120], ",
+			"tôi quyết định im lặng và không nói gì."
+		],
+        "10": [
+            "\"Ừ, hình ảnh đẹp thật. Miễn là em thấy vui khi xem là được...\""
+		],
+        "11": [
+            "Tôi chẳng hiểu cốt truyện cho lắm,",
+            "nhưng cũng có một khoảng thời gian yên tĩnh xem anime cùng \\str[120]!"
+		],
+        "12": [
+            "Tập trước thì thấy loạn xạ cả lên...",
+            "Nhưng \\str[120] thích nó, nên chắc cũng không phải anime dở hơi đâu nhỉ?   \\w[60]",
+            "Không! Không thể chỉ đánh giá qua vài cảnh được!",
+            "Nghĩ vậy, tôi ngồi trở lại ghế sofa và tiếp tục xem TV."
+		],
+        "13": [
+            "\\{\\c[27]“Ruby Cô Gái Phép Thuật Ánh Sao!”",
+			"Tập 2! ",
+			"Khóa Huấn Luyện Đặc Biệt Bắt Đầu! ",
+			"Sức Mạnh Phép Thuật Hỗn Loạn!"
+		],		
+        "14": [
+			"\\c[27]Khóa huấn luyện đặc biệt bắt đầu!",
+			"Những bài học đặc chế dùng sức mạnh sao của Noa đẩy Ruby đến giới hạn!",
+			"Sau khi rơi từ mái nhà xuống tận 37 lần, cuối cùng cô cũng có thể tự biến thân, ",
+			"nhưng phép thuật lại mất kiểm soát!",
+			"\\c[27]Hành lang trường học trở thành bãi chiến trường, biển hiệu ",
+			"ngoài phố thì nổ tung như pháo hoa! Người dân than phiền, an ninh phải can thiệp, ",
+			"liệu cô gái phép thuật yếu đuối nhất lịch sử có thể xoay chuyển tình thế ",
+			"dưới sự huấn luyện tàn khốc của Noa?!"
+		],	  
+        "15": [
+            "\\nl< >\"Ahh... tội nghiệp Ruby quá...    \\w[90]",
+			"Cô ấy chắc là rất thất vọng... Mới vừa có sức mạnh, ",
+			"và vẫn chưa quen cách sử dụng nó.\""
+		],	  
+        "16": [
+            "\"Ừ, xem cũng khó chịu thật...\""
+		],	  
+        "17": [
+            "Chẳng phải cái này... cơ bản là lạm dụng sức lao động ",
+            "của trẻ em sao...? Với cả cái tinh linh Noa này nữa...",
+            "Họ từng thành công lập hợp đồng khế ước kiểu này trong",
+			"quá khứ như thế nào vậy chứ...?"
+		],	  
+        "18": [
+			"Không muốn phá hỏng trải nghiệm xem phim của \\str[120],",
+			"tôi chỉ lẩm bẩm than thở trong lòng—"
+		],
+        "19": [
+            "\\{\\c[27]“Ruby Cô Gái Phép Thuật Ánh Sao!”",
+			"Tập 3! ",
+			"Cuộc Đụng Độ Đầu Tiên Giữa Ngọn Lửa và Bụi Sao!"
+		],		
+        "20": [
+			"\\c[27]Học sinh chuyển trường bí ẩn Reina xuất hiện cực ngầu!",
+			"Ma thuật lửa của cô ấy hoàn toàn áp đảo ánh sao vụng về của Ruby!",
+			"Đằng sau ánh mắt lạnh lùng là một quá khứ đau thương—",
+			"Khi tân binh rụt rè chạm trán chiến binh từng trải!",
+			"\\c[27]Lý tưởng đối lập bùng nổ khi quái vật xuất hiện!",
+			"Liệu ánh sao và ngọn lửa có thể hợp sức cùng nhau?!"
+		],	  
+        "21": [
+            "\\nl< >\"Reina đáng sợ quá... nhưng mạnh thật đấy!   \\w[90]",
+			"Dù vậy, Ruby cần một người đồng đội như cô ấy mà, đúng không?      \\w[90]",
+			"Hai người chắc sẽ thành bạn tốt thôi, nhỉ?\""
+		],	  
+        "22": [
+            "Ừ, Reina ngầu thật...",
+            "Chắc chắn sẽ là một đàn chị đáng tin cậy."
+		],	  
+        "23": [
+            "Tôi gật gù theo lời \\str[120],",
+            "vừa xem những cảnh chiến đấu mãn nhãn và hoạt ảnh tinh tế trong tập mới—",
+            "Thú thật, tôi cũng bắt đầu bị cuốn theo rồi."
+		],
+        "24": [
+            "Tôi cũng bắt đầu thấy háo hức chờ tập tiếp theo!",
+            "Có một khoảng thời gian yên bình cùng xem anime với \\str[120]!"
+		],
+        "25": [
+            "Ban đầu mình chỉ xem cho vui thôi, ",
+			"mà rồi lại cày luôn mấy tập lúc nào không hay...",
+            "Tiết tấu thì hơi loạn, nhưng bối cảnh lại bất ngờ thú vị.   \\w[60]",
+            "Nhìn \\str[120] hào hứng như vậy, có lẽ mình cũng bắt đầu hiểu rồi.",
+            "Chuyện gì sẽ xảy ra tiếp theo đây...? ",
+			"Tôi ngả lưng ra ghế sofa, ",
+			"bị màn hình thu hút lúc nào chẳng hay."
+		],
+        "26": [
+            "\\{\\c[27]“Ruby Cô Gái Phép Thuật Ánh Sao!”",
+			"Tập 4! ",
+			"Lời Thì Thầm Bóng Tối Trong Lễ Hội Rực Sáng!"
+		],		
+        "27": [
+			"\\c[27]Lễ hội trường bắt đầu náo nhiệt! ",
+			"Ruby và Reina bị ép phải cùng nhau trông quầy!",
+			"Máy làm kẹo bông nổ tung! Quả cầu tiên tri rơi vỡ tan tành!",
+			"Bộ đôi tệ hại nhất ra đời! Nhưng những tiếng thì thầm kỳ lạ ở một góc đã thu hút sự chú ý của Noa—",
+			"\\c[27]Trong đôi mắt trống rỗng ấy... một làn sương đen u ám xoáy tròn!",
+			"Khi pháo hoa rực sáng bầu trời, bóng tối ẩn mình bắt đầu lan rộng!",
+			"Bí mật gì đang ẩn giấu sau bầu không khí vui tươi của lễ hội?!"
+		],	  
+        "28": [
+            "\\nl< >\"Lễ hội trường vui thật đó!     \\w[90]",
+			"Ruby và Reina dường như cũng đang dần trở thành bạn bè rồi...!\""
+		],	  
+        "29": [
+            "\"Ừ, cũng thú vị thật...  \\}",
+			"Nhưng mà thật ra mối quan hệ của hai người họ đang nát bét đấy...\""
+		],
+        "30": [
+            "\\{\\c[27]“Ruby Cô Gái Phép Thuật Ánh Sao!”",
+			"Tập 5! ",
+			"Sự Thật Tàn Khốc Đằng Sau Quá Khứ Rực Cháy!"
+		],		
+        "31": [
+			"\\c[27]Một cuộc điều tra đột ngột về những vụ việc liên quan đến làn sương đen! ",
+			"Reina lại tỏ thái độ thù địch với nạn nhân?! Trong sâu thẳm nhà nguyện bỏ hoang, ",
+			"những vết cào của con quỷ ăn mòn trái tim lại khơi dậy ký ức của cô ấy— ",
+			"Ngọn lửa ma thuật mất kiểm soát! ",
+			"\\c[27]Những con búp bê cháy xém và khung hình vỡ vụn bốc lên trong biển lửa!",
+			"'Thị trấn của mình... đã bị thiêu rụi như thế!' Reina hét lên sự thật, nước mắt tuôn rơi! ",
+			"Ngay khoảnh khắc đó, một con quỷ ăn mòn trái tim khác thức tỉnh dưới ngôi trường!",
+			"Những vết thương cũ chưa kịp lành... lại sắp bị xé toạc một lần nữa sao?!"
+		],	  
+        "32": [
+            "\\nl< >\"Sao có thể như thế được... ",
+			"Em không ngờ Reina-chan lại có quá khứ như vậy...     \\w[90]",
+			"\\str[121], rồi họ sẽ ra sao đây...?\""
+		],	  
+        "33": [
+            "\"-S-Sẽ ổn thôi mà! Họ vẫn còn phép thuật, đúng không!?",
+			"Biết đâu Ruby sẽ tỏa sáng ở tập sau thì sao!?\""
+		],	  
+        "34": [
+            "Tôi vung tay múa chân, cố an ủi \\str[120].",
+			"Khoan đã, chẳng phải cái này đáng lẽ phải là câu chuyện ",
+			"về tình bạn tươi đẹp giữa các cô gái sao!? Nhưng cốt truyện ngày càng căng thẳng, ",
+			"chắc chắn sắp có một màn phản công hoành tráng rồi chứ!?"
+		],
+        "35": [
+            "Tôi háo hức chờ tập tiếp theo!",
+			"Cùng \\str[120] trải qua một khoảnh khắc căng thẳng nhưng đầy phấn khích khi xem anime!"
+		]			
+    },
   	"6": {
         "0": [
             "Cay quá... đau quá..."
@@ -377,202 +578,306 @@
             "\\nl< >\"Ehh... vậy sao!? Thật quá đáng đó, \\str[121]!\""
 		]			
     },
-  	"5": { 
-        "0": [
-            "Tôi đi theo \\str[120] vào phòng khách. TV đã bật sẵn,",
-			"còn em ấy thì đang cuộn tròn ở giữa ghế sofa như một chú chim non ",
-			"đang đợi về tổ, ôm đầu gối và chăm chú nhìn vào màn hình."
+	"8": {
+		"0": [
+			"When I got to \\str[120]’s room,",
+			"I found her lying on the floor like a ",
+			"dried-up salted fish, completely listless."
 		],
-        "1": [
-    		"Không biết anime gì mà êm ấy mê đến vậy nhỉ...? Vì ban ngày tôi chẳng bao giờ ở nhà, ",
-   		    "nên cũng không rõ em thường xem gì. Nhưng thấy em hào hứng như thế",
-    		"thì mình cũng tò mò, thế là tôi ngồi xuống sofa và nhìn lên TV."
+		"1": [
+			"The sweltering heat outside had clearly ",
+			"seeped into the house, the air scorching as it hit me."
 		],
-        "2": [
-            "\\{\\c[27]“Ruby Cô Gái Phép Thuật Ánh Sao!”",
-			"Tập 1! ",
-			"Một Cô Gái Bình Thường và Phép Màu Từ Những Vì Sao! ",
-			"Hợp Đồng Bắt Đầu!"
-		],		
-        "3": [
-            "\\c[27]Ruby chỉ là một cô gái bình thường, học hành thì làng nhàng, ",
-			"thể thao thì tệ, và chẳng có chút tài năng phép thuật nào—",
-            "nhưng một ngày nọ, trên đường về nhà, cô bị một con quái vật truy đuổi và rơi vào đường cùng!",
-            "Trong khoảnh khắc tuyệt vọng ấy, tinh linh sao bí ẩn 'Noa' xuất hiện, ",
-			"thức tỉnh bởi ý chí sống còn của cô! 'Mình muốn sống!' Ruby hét lên—và ngay lúc đó, "
-
-		],	  
-        "4": [
-            "\\c[27]ánh sao bùng nổ, hợp đồng định mệnh được ký kết!",
-			"Màn biến hình đầu tiên! Theo bản năng, Ruby phản kháng và đánh bại con quái vật!",
-			"Nhìn đôi tay mình phát sáng trong ánh sao, ",
-			"Ruby sững sờ: 'Đây... là mình sao?'"
-		],	  
-        "5": [
-            "\\nl< >\"Cô ấy biến hình rồi! Thật tuyệt quá—! ",
-			"Với cả Noa dễ thương ghê! Ánh sao đẹp thật đó!   \\w[120]",
-			"Nhìn đi, \\str[121]! Ruby-chan trước giờ chẳng làm được gì cả!",
-			"Nhưng cuối cùng lại được chọn làm cô gái phép thuật!\""
+		"2": [
+			"This can’t go on, I have to ",
+			"think of a way to help \\str[120] beat the heat…!"
 		],
-        "6": [
-            "\"Ờ, ừ thì...\""
+		"3": [
+			"I scrambled to take care of \\str[120], ",
+			"who was on the verge of heatstroke,",
+			"until the sunset painted the sky red ",
+			"and she finally started to recover…"
 		],
-        "7": [
-            "……………………",
-			"……………………"
-		],		
-        "8": [
-			"Cô ấy... biến hình dễ dàng vậy sao!? ",
-			"Rồi trận chiến đã kết thúc luôn rồi?",
-			"Hợp đồng với quái vật đáng lẽ phải cực kỳ nguy hiểm chứ...",
-			"Giao cho một đứa trẻ lo liệu thế này chẳng phải sẽ khiến hội gặp rắc rối sao...?"
+		"4": [
+			"We both licked our popsicles desperately, trying to cool down,",
+			"but with waves of hot air hitting us, ",
+			"we still ended up drenched in sweat."
 		],
-        "9": [
-			"Tôi nhìn chằm chằm vào TV với vẻ mặt nghiêm túc, đầy hoang mang.",
-			"Nhưng khi liếc sang ánh mắt long lanh và cái miệng há hốc đầy ngưỡng mộ của \\str[120], ",
-			"tôi quyết định im lặng và không nói gì."
+		"5": [
+			"\\str[120] feeling so uncomfortable she forgot her shyness, ",
+			"kept lifting her shirt hem, trying to create a bit of breeze."
 		],
-        "10": [
-            "\"Ừ, hình ảnh đẹp thật. Miễn là em thấy vui khi xem là được...\""
+		"6": [
+			"\\nl< >\"It’s so hot… I just want to take a bath…\""
 		],
-        "11": [
-            "Tôi chẳng hiểu cốt truyện cho lắm,",
-            "nhưng cũng có một khoảng thời gian yên tĩnh xem anime cùng \\str[120]!"
+		"7": [
+			"Let’s Go Together!",
+			"Let’s Go!"
 		],
-        "12": [
-            "Tập trước thì thấy loạn xạ cả lên...",
-            "Nhưng \\str[120] thích nó, nên chắc cũng không phải anime dở hơi đâu nhỉ?   \\w[60]",
-            "Không! Không thể chỉ đánh giá qua vài cảnh được!",
-            "Nghĩ vậy, tôi ngồi trở lại ghế sofa và tiếp tục xem TV."
+		"8": [
+			"\\nl< >\"No way, it’s too hot to be crammed together like that!\""
 		],
-        "13": [
-            "\\{\\c[27]“Ruby Cô Gái Phép Thuật Ánh Sao!”",
-			"Tập 2! ",
-			"Khóa Huấn Luyện Đặc Biệt Bắt Đầu! ",
-			"Sức Mạnh Phép Thuật Hỗn Loạn!"
-		],		
-        "14": [
-			"\\c[27]Khóa huấn luyện đặc biệt bắt đầu!",
-			"Những bài học đặc chế dùng sức mạnh sao của Noa đẩy Ruby đến giới hạn!",
-			"Sau khi rơi từ mái nhà xuống tận 37 lần, cuối cùng cô cũng có thể tự biến thân, ",
-			"nhưng phép thuật lại mất kiểm soát!",
-			"\\c[27]Hành lang trường học trở thành bãi chiến trường, biển hiệu ",
-			"ngoài phố thì nổ tung như pháo hoa! Người dân than phiền, an ninh phải can thiệp, ",
-			"liệu cô gái phép thuật yếu đuối nhất lịch sử có thể xoay chuyển tình thế ",
-			"dưới sự huấn luyện tàn khốc của Noa?!"
-		],	  
-        "15": [
-            "\\nl< >\"Ahh... tội nghiệp Ruby quá...    \\w[90]",
-			"Cô ấy chắc là rất thất vọng... Mới vừa có sức mạnh, ",
-			"và vẫn chưa quen cách sử dụng nó.\""
-		],	  
-        "16": [
-            "\"Ừ, xem cũng khó chịu thật...\""
-		],	  
-        "17": [
-            "Chẳng phải cái này... cơ bản là lạm dụng sức lao động trẻ em sao...?",
-            "Với cả cái tinh linh Noa này nữa...",
-            "Họ từng lập hợp đồng thành công kiểu này trong quá khứ như thế nào vậy chứ...? "
-		],	  
-        "18": [
-			"Không muốn phá hỏng trải nghiệm xem phim của \\str[120],",
-			"tôi chỉ lẩm bẩm than thở trong lòng—"
+		"9": [
+			"\\nl< >\"Geez! Don’t joke around at a time like this!\""
 		],
-        "19": [
-            "\\{\\c[27]“Ruby Cô Gái Phép Thuật Ánh Sao!”",
-			"Tập 3! ",
-			"Cuộc Đụng Độ Đầu Tiên Giữa Ngọn Lửa và Bụi Sao!"
-		],		
-        "20": [
-			"\\c[27]Học sinh chuyển trường bí ẩn Reina xuất hiện cực ngầu!",
-			"Ma thuật lửa của cô ấy hoàn toàn áp đảo ánh sao vụng về của Ruby!",
-			"Đằng sau ánh mắt lạnh lùng là một quá khứ đau thương—",
-			"Khi tân binh rụt rè chạm trán chiến binh từng trải!",
-			"\\c[27]Lý tưởng đối lập bùng nổ khi quái vật xuất hiện!",
-			"Liệu ánh sao và ngọn lửa có thể hợp sức cùng nhau?!"
-		],	  
-        "21": [
-            "\\nl< >\"Reina đáng sợ quá... nhưng mạnh thật đấy!   \\w[90]",
-			"Dù vậy, Ruby cần một người đồng đội như cô ấy mà, đúng không?      \\w[90]",
-			"Hai người chắc sẽ thành bạn tốt thôi, nhỉ?\""
-		],	  
-        "22": [
-            "Ừ, Reina ngầu thật...",
-            "Chắc chắn sẽ là một đàn chị đáng tin cậy."
-		],	  
-        "23": [
-            "Tôi gật gù theo lời \\str[120],",
-            "vừa xem những cảnh chiến đấu mãn nhãn và hoạt ảnh tinh tế trong tập mới—",
-            "Thú thật, tôi cũng bắt đầu bị cuốn theo rồi."
+		"10": [
+			"Yeah, it is summer after all…",
+			"but still, it feels a little lonely…"
 		],
-        "24": [
-            "Tôi cũng bắt đầu thấy háo hức chờ tập tiếp theo!",
-            "Có một khoảng thời gian yên bình cùng xem anime với \\str[120]!"
+		"11": [
+			"Because it was so hot, \\str[120] and I took turns bathing,",
+			"but not long after we finished, we were sweating again,",
+			"and we kept this up all the way till evening…"
 		],
-        "25": [
-            "Ban đầu mình chỉ xem cho vui thôi, ",
-			"mà rồi lại cày luôn mấy tập lúc nào không hay...",
-            "Tiết tấu thì hơi loạn, nhưng bối cảnh lại bất ngờ thú vị.   \\w[60]",
-            "Nhìn \\str[120] hào hứng như vậy, có lẽ mình cũng bắt đầu hiểu rồi.",
-            "Chuyện gì sẽ xảy ra tiếp theo đây...? ",
-			"Tôi ngả lưng ra ghế sofa, ",
-			"bị màn hình thu hút lúc nào chẳng hay."
+		"12": [
+			"Sneaking…",
+			"Sneaking…",
+			"I tiptoed to the doorway of \\str[120]’s room."
 		],
-        "26": [
-            "\\{\\c[27]“Ruby Cô Gái Phép Thuật Ánh Sao!”",
-			"Tập 4! ",
-			"Lời Thì Thầm Bóng Tối Trong Lễ Hội Rực Sáng!"
-		],		
-        "27": [
-			"\\c[27]Lễ hội trường bắt đầu náo nhiệt! ",
-			"Ruby và Reina bị ép phải cùng nhau trông quầy!",
-			"Máy làm kẹo bông nổ tung! Quả cầu tiên tri rơi vỡ tan tành!",
-			"Bộ đôi tệ hại nhất ra đời! Nhưng những tiếng thì thầm kỳ lạ ở một góc đã thu hút sự chú ý của Noa—",
-			"\\c[27]Trong đôi mắt trống rỗng ấy... một làn sương đen u ám xoáy tròn!",
-			"Khi pháo hoa rực sáng bầu trời, bóng tối ẩn mình bắt đầu lan rộng!",
-			"Bí mật gì đang ẩn giấu sau bầu không khí vui tươi của lễ hội?!"
-		],	  
-        "28": [
-            "\\nl< >\"Lễ hội trường vui thật đó!     \\w[90]",
-			"Ruby và Reina dường như cũng đang dần trở thành bạn bè rồi...!\""
-		],	  
-        "29": [
-            "\"Ừ, cũng thú vị thật...  \\}",
-			"Nhưng mà thật ra mối quan hệ của hai người họ đang nát bét đấy...\""
+		"13": [
+			"\"Staaare————  \\w[60]",
+			"W-what!?\""
 		],
-        "30": [
-            "\\{\\c[27]“Ruby Cô Gái Phép Thuật Ánh Sao!”",
-			"Tập 5! ",
-			"Sự Thật Tàn Khốc Đằng Sau Quá Khứ Rực Cháy!"
-		],		
-        "31": [
-			"\\c[27]Một cuộc điều tra đột ngột về những vụ việc liên quan đến làn sương đen! ",
-			"Reina lại tỏ thái độ thù địch với nạn nhân?! Trong sâu thẳm nhà nguyện bỏ hoang, ",
-			"những vết cào của con quỷ ăn mòn trái tim lại khơi dậy ký ức của cô ấy— ",
-			"Ngọn lửa ma thuật mất kiểm soát! ",
-			"\\c[27]Những con búp bê cháy xém và khung hình vỡ vụn bốc lên trong biển lửa!",
-			"'Thị trấn của mình... đã bị thiêu rụi như thế!' Reina hét lên sự thật, nước mắt tuôn rơi! ",
-			"Ngay khoảnh khắc đó, một con quỷ ăn mòn trái tim khác thức tỉnh dưới ngôi trường!",
-			"Những vết thương cũ chưa kịp lành... lại sắp bị xé toạc một lần nữa sao?!"
-		],	  
-        "32": [
-            "\\nl< >\"Sao có thể như thế được... ",
-			"Em không ngờ Reina-chan lại có quá khứ như vậy...     \\w[90]",
-			"\\str[121], rồi họ sẽ ra sao đây...?\""
-		],	  
-        "33": [
-            "\"-S-Sẽ ổn thôi mà! Họ vẫn còn phép thuật, đúng không!?",
-			"Biết đâu Ruby sẽ tỏa sáng ở tập sau thì sao!?\""
-		],	  
-        "34": [
-            "Tôi vung tay múa chân, cố an ủi \\str[120].",
-			"Khoan đã, chẳng phải cái này đáng lẽ phải là câu chuyện ",
-			"về tình bạn tươi đẹp giữa các cô gái sao!? Nhưng cốt truyện ngày càng căng thẳng, ",
-			"chắc chắn sắp có một màn phản công hoành tráng rồi chứ!?"
+		"14": [
+			"I thought \\str[120] was taking a nap,",
+			"but instead she was lounging comfortably in front of the fan."
 		],
-        "35": [
-            "Tôi háo hức chờ tập tiếp theo!",
-			"Cùng \\str[120] trải qua một khoảnh khắc căng thẳng nhưng đầy phấn khích khi xem anime!"
-		]			
-    }	
+		"15": [
+			"She must’ve thought no one was home and let herself fully relax,",
+			"completely unaware how defenseless her posture looked to others."
+		],
+		"16": [
+			"She must’ve thought no one was home and let herself fully relax,",
+			"even taking off her panties."
+		],
+		"17": [
+			"After feasting my eyes for a moment, ",
+			"I felt too embarrassed to keep watching,",
+			"so I quietly left and went back to the entrance."
+		],
+		"18": [
+			"Once I set up the electric fan, ",
+			"the air in the room immediately began to circulate, ",
+			"turning cool and refreshing."
+		],
+		"19": [
+			"\\nl< >\"Ohhh—so cool, it feels amazing~!\""
+		],
+		"20": [
+			"\"Come on, don’t sit right in front of the fan like that! ",
+			"You’ll catch a cold!\""
+		],
+		"21": [
+			"\\str[120] gnawed on her popsicle while sitting in the breeze, ",
+			"looking absolutely thrilled."
+		],
+		"22": [
+			"After quickly finishing a popsicle, ",
+			"I felt my body temperature drop noticeably.",
+			" ",
+			" ",
+			"Even though the cicadas outside kept droning ",
+			"and the waves of heat continued to roll in,",
+			"at least it no longer felt like I was about to be roasted alive…"
+		],
+		"23": [
+			"But \\str[120] still didn’t seem cool enough,",
+			"and lazily sat on the floor, enjoying the fan in comfort."
+		],
+		"24": [
+			"For a girl, that posture was a little too unreserved,",
+			"I wanted to remind her, but instead my attention ",
+			"was stolen by the unintentional glimpse of fanservice."
+		],
+		"25": [
+			"\\{Well, it is summer after all!!"
+		]
+  	},
+	"9": {
+		"0": [
+			"Feeling a bit bored…",
+			"I want some watermelon~"
+		],
+		"1": [
+			"\\nl< >\"It’s so hot… I really want a bath…\""
+		],
+		"2": [
+			"\\nl< >\"\\str[121]… do you want a popsicle?\""
+		],
+		"3": [
+			"Chat",
+			"SkinShip",
+			"Offer Cola",
+			"Feeling Sleepy"
+		],
+		"4": [
+			"\\nl< >\"It’s still so hot…",
+			"At times like this, a nap is the best choice~\""
+		],
+		"5": [
+			"Yeah, by evening the sun won’t be so harsh anymore…"
+		],
+		"6": [
+			"I napped with \\str[120] in the cool breeze until dusk."
+		],
+		"7": [
+			"Turns out there’s still that big bottle of cola from ",
+			"the weird vending machine in the fridge.",
+			"With weather this hot, \\str[120] would definitely ",
+			"be happy to drink it, right?"
+		],
+		"8": [
+			"\\nl< >\"\\{Cold cola!?         \\}\\w[60]",
+			"I want it! I want it!\""
+		],
+		"9": [
+			"Sure enough, \\str[120] looked delighted,",
+			"so what should I do—"
+		],
+		"10": [
+			"Shake It",
+			"Hand It Over"
+		],
+		"11": [
+			"This seems to be a special cola with extra carbonation,",
+			"if I shake it a little…"
+		],
+		"12": [
+			"Thinking that, ",
+			"I couldn’t resist secretly giving the bottle a shake,",
+			"then handed it to \\str[120]…"
+		],
+		"13": [
+			"\\str[120] was, of course, ",
+			"sprayed right in the face by the cola bursting out,",
+			"and afterward, she made me ‘pay for it’ by forcing me to ",
+			"chug most of the bottle too."
+		],
+		"14": [
+			"In the end, she downed almost the whole bottle in one ",
+			"go with an exaggerated appetite…",
+			"her belly visibly swelling up.",
+			"I-is this… really okay!?"
+		],
+		"15": [
+			"Since she was soaked in cola, ",
+			"by the time she finished bathing and changing,",
+			"the sky was already turning to dusk."
+		],
+		"16": [
+			"\\nl< >\"Uwaaahhh—mmmmmffff!!\""
+		],
+		"17": [
+			"Maybe because of past experiences, this time she reacted instantly,",
+			"instinctively pressing her mouth to the bottle to try ",
+			"and stop the fizz from bursting out."
+		],
+		"18": [
+			"But this cola was just too fizzy,",
+			"her small mouth couldn’t fully seal the opening,",
+			"and bubbles kept escaping from the corners of her ",
+			"lips and along her cheeks…"
+		],
+		"19": [
+			"In the end, she wound up like a clumsy little hamster,",
+			"her face completely covered in cola spray."
+		],
+		"20": [
+			"\\nl< >\"\\w[121], your way of patting is ",
+			"too rough! No way!\""
+		],
+		"21": [
+			"Lewd Topics",
+			"Summer Topics"
+		],
+		"22": [
+			"\"Wouldn’t it feel cooler if you took it off?\""
+		],
+		"23": [
+			"I made that suggestion to \\str[120]…",
+			"yeah, this really isn’t a weird idea…"
+		],
+		"24": [
+			"\\nl< >\"Eh… but, I still feel kind of embarrassed…\""
+		],
+		"25": [
+			"Of course, she turned me down.",
+			"Hmm—looks like I’ll have to take the lead myself—"
+		],
+		"26": [
+			"\"…Can I get a little closer and smell you?\""
+		],
+		"27": [
+			"Seeing the sweat glistening on her neck, ",
+			"I couldn’t help but ask."
+		],
+		"28": [
+			"\\nl< >\"What? I’m all sweaty—it’ll smell gross!\""
+		],
+		"29": [
+			"\"No, no, \\str[120] definitely smells nice!\""
+		],
+		"30": [
+			"\\nl< >\"Geez, there’s no way that’s true!\""
+		],
+		"31": [
+			"\"Then I'll let you sniff me in return——",
+			"\\w[30]\\^"
+		],
+		"32": [
+			"\\nl< >\"No way! \\str[121], ",
+			"you’re definitely smelly.\""
+		],
+		"33": [
+			"\\{",
+			"\"Ugh…!\""
+		],
+		"34": [
+			"And just like that, I was flat-out rejected."
+		],
+		"35": [
+			"Caught up in the summer heat, ",
+			"I chatted with her about all sorts of lewd topics,",
+			"but it was still so hot!"
+		],
+		"36": [
+			"\\nl< >\"The sound of cicadas… sometimes it’s really noisy…\""
+		],
+		"37": [
+			"Well, it is summer after all."
+		],
+		"38": [
+			"\\nl< >\"It feels like everyone eats watermelon this season,",
+			"I kinda want to try it too~\""
+		],
+		"39": [
+			"Hmm… watermelon, huh… where could I even get one?"
+		],
+		"40": [
+			"\\nl< >\"At times like this, popsicles are still the best!",
+			"\\w[120]\\^"
+		],
+		"41": [
+			"\\nl< > Ughhh… my head hurts…!      \\w[60]",
+			"But it feels so good!\""
+		],
+		"42": [
+			"Eh… just how many did she eat…?"
+		],
+		"43": [
+			"\\nl< >\"Is there even a difference between in the ocean and in a bathtub?",
+			"I totally don’t get it…\""
+		],
+		"44": [
+			"Oh, right—she’s never seen the ocean before.",
+			"Is there some way I could let her experience ",
+			"what it’s like at the seaside…"
+		],
+		"45": [
+			"Caught up in the summer heat, ",
+			"I chatted with her about all sorts of summer topics,",
+			"but it was still so hot!"
+		]
+  	}
+  		
 }

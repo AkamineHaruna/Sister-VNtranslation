@@ -104,7 +104,8 @@
             "tạo ra lực đủ mạnh để thổi bay ai đó"
         ],
         "ability": [
-            "Tốc độ di chuyển tăng khi dùng Chém Xoáy"
+            "Tốc độ di chuyển tăng khi dùng Chém Xoáy",
+            "Bổ sung sau"
         ]
     },
     "9": {
@@ -250,6 +251,20 @@
             "Gây thêm sát thương khi ném vũ khí"
         ]
     },
+    "19": {
+        "name": [
+            "Nichirin"
+        ],
+        "subtitle": "",
+        "description": [
+            "A replica forged in imitation of the forbidden blazing demon",
+            "sword from myth. Naturally, it cannot summon the earth-scorching ",
+            "hellfire like the true original."
+        ],
+        "ability": [
+            "May summon a meteor to strike a random location when attacking"
+        ]
+    },
     "21": {
         "name": [
             "Từ Địa Ngục"
@@ -286,7 +301,8 @@
         "subtitle": "",
         "description": [
             "Một cây trượng đính đá quý lấp lánh như Dải Ngân Hà Milky Way",
-            "Có khả năng tạo ra trường hấp dẫn mạnh, kéo kẻ xâm nhập vào bóng tối"
+            "Có khả năng tạo ra trường hấp dẫn mạnh, kéo kẻ xâm nhập vào bóng tối",
+            "xuống dòng"
         ],
         "ability": [
             "Giữ chuột phải để thi triển Hố Đen"

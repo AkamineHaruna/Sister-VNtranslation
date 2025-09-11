@@ -460,6 +460,22 @@
             "Nguyền rủa bất kỳ mục tiêu nào nó chỉ ngón tay giữa vào"
         ]
     },
+    "48": {
+        "name": [
+            "Chain SpellBinding Contract"
+        ],
+        "subtitle": [
+            "\"When the one you love dies, you must take your own life.",
+            "When the one you love dies, there is no other way.\""
+        ],
+        "description": [
+            "To save his familiar, a certain alchemist forged this contract…"
+        ],
+        "ability": [
+            "Link with your servant—any damage they take will be yours",
+            "Each linked servant grants you a healing effect"
+        ]
+    },
     "50": {
         "name": [
             "Khoai Tây Chiên"
@@ -530,6 +546,24 @@
         "ability": [
             "Ép buộc vào Chế Độ Hiền Triết",
             "Tăng thiện cảm nhiều hơn khi xoa đầu \\str[120]"
+        ]
+    },
+    "57": {
+        "name": [
+            "Ichigo Wo Torimodose!!"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "ASABA, consumed by grief over the lost strawberry, ",
+            "unleashes his ultimate art. Once targeted, you’re swallowed",
+            "by an unavoidable storm of combos… But sorrow lingers—",
+            "burned by fate’s emotions, you too inherit this forbidden technique! "
+        ],
+        "ability": [
+            "Unleash a special move with the right command ",
+            "The lower your HP, the stronger the special move"
         ]
     },
     "59": {
@@ -660,6 +694,22 @@
         "ability": [
             "Giảm đáng kể tỉ lệ bị đóng băng",
             "Giảm tỉ lệ bị thiêu đốt"
+        ]
+    },
+    "74": {
+        "name": [
+            "Volumen Salamandrae"
+        ],
+        "subtitle": [
+            "\"Yes, they do like chili peppers...\""
+        ],
+        "description": [
+            "A grimoire bound with salamander scales. Though it resembles",
+            "an encyclopedia, its records of volcano-dwelling salamanders ",
+            "grant deeper insight into fire when studied."
+        ],
+        "ability": [
+            "Strengthens the damage and form of fire-element magic"
         ]
     },
     "80": {

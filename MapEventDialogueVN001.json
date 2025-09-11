@@ -35,6 +35,12 @@
 			"nên nó ít có xu hướng tấn công. Vì lý do đó,",
 			"những nhà mạo hiểm giả đi ngang thường kết thúc bằng việc cho nó ăn..."
 			
+		],
+		"subtitle": [
+      		"Dwelling in Adventurer's Path"
+		],
+		"bossName": [
+			"The Berry Devourer"
 		],		
 		"1": [
             "ASABA nhìn tôi đầy mong chờ—",
@@ -70,7 +76,14 @@
         "9": [
             ".................?!  \\w[45]",
 			"ASABA... hỏng rồi!!"
-        ]
+        ],
+		"10": [
+      		"ASABA is already full—"
+		],
+		"11": [
+			"………………!",
+			"now ASABA holds a grudge against me…"
+		]
     },	  
   	"24": {
 		"objectName": [
@@ -373,7 +386,21 @@
 			"nó có khả năng kháng các đòn tấn công vật lý cao ",
 			"và có thể phun ra ngọn lửa ma quái chết người."
 		]	
-    },	  
+    },
+	"80": {
+		"bossName": [
+			"Frenzied Crimson Beast"
+		],
+		"subtitle": [
+			"Dwelling in Forgotten Catacomb"
+		],
+		"sentouryoku": [
+			"1600"
+		],
+		"description": [
+			""
+		]
+  	},	  
   	"87": {
 		"objectName": [
 		    "Slime Ăn Cỏ"

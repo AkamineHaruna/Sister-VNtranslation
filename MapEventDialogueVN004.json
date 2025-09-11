@@ -486,8 +486,9 @@
             "khiến tôi chẳng biết nên nhìn vào đâu cho phải."
         ],
         "24": [
-            "Câu hỏi bất ngờ của em khiến tôi mất tập trung trong chốc lát,",
-            "tay phải cầm máy sấy hơi nghiêng sang một bên, rồi— "
+            "Câu hỏi bất ngờ của em ấy khiến tôi ",
+            "mất tập trung trong chốc lát, tay phải",
+            "đang cầm máy sấy hơi nghiêng sang một bên— "
         ],
         "25": [
             "\".........!?\""
@@ -576,7 +577,8 @@
         ],
         "47": [
             "M-Mình phải làm sao đây... Thật sự rất muốn nhìn!     \\w[45]",
-            "Những ý nghĩ hoang dại cứ trỗi dậy, tôi gắng sức kìm nén, ",
+            "Những ý nghĩ hoang dại cứ trỗi dậy,",
+            "tôi gắng sức kìm nén nó lại,",
 			"thì bỗng lóe lên một ý tưởng!"		
         ],
         "48": [
@@ -660,6 +662,115 @@
         "70": [
             "Dù có chút sự cố, ",
 			"nhưng cuối cùng tôi vẫn giúp em ấy sấy tóc xong!"       
+        ]
+    },
+    "14": {
+        "0": [
+            "\\nl< >\"Welcome back, \\str[121]! ",
+            "Feeling a bit less tired now?\""
+        ],
+        "1": [
+            "\\nl< >\"Next, it’s time for me to go bathe~\""
+        ],
+        "2": [
+            "Eh… what’s that… a line you picked up from TV?"
+        ],
+        "3": [
+            "\\nl< >\"I guess it’s about time for me to head into the bath.\""
+        ],
+        "4": [
+            "\\nl< >\"Well then, I’ll go wash up too.\""
+        ],
+        "5": [
+            "Hmm, I’ll just find something random to pass the time—"
+        ],
+        "6": [
+            "\\str[120] went to take a bath, and I’m a bit bored on my own,",
+            "so I started daydreaming to kill time.   \\w[40]",
+            "Come to think of it, I used to bathe with her pretty often—",
+            "she was so cute back then~"
+        ],
+        "7": [
+            "It’s been so many years, she must have changed a lot,",
+            "in all sorts of ways…"
+        ],
+        "8": [
+            "Suddenly I got curious—what kind of girl has she grown into now?",
+            "Should I sneak a peek…?"
+        ],
+        "9": [
+            "Go!",
+            "Not going"
+        ],
+        "10": [
+            "\\{Go go go      \\}",
+            "Of course I have to go!"
+        ],
+        "11": [
+            "But peeking at \\str[120] bathing… ",
+            "isn’t that inappropriate for an adult…?"
+        ],
+        "12": [
+            "\\{ ",
+            "This is the time to firmly say no ",
+            "to such wicked thoughts…!"
+        ],
+        "13": [
+            "Doesn’t feel right… she’s grown up,",
+            "I need to give her enough privacy…"
+        ],
+        "14": [
+            "She went to bathe again, ",
+            "and for some reason I felt a little empty inside.",
+            "I can’t stop wondering how she’s grown, and it makes me restless."
+        ],
+        "15": [
+            "………………Should I just sneak a quick look?"
+        ],
+        "16": [
+            "\\nl< >\"\\str[121]… \\str[121]!\""
+        ],
+        "17": [
+            "I was lying on the bed spacing out,",
+            "when I suddenly heard what sounded faintly like her voice.   \\w[40]",
+            "Was it just my imagination…?"
+        ],
+        "18": [
+            "\\nl< >\"…\\str[121], could you come here for a moment?\""
+        ],
+        "19": [
+            "Huh, looks like it wasn’t my imagination!"
+        ],
+        "20": [
+            "\\{ \"I’ll be right there!\""
+        ],
+        "21": [
+            "She’s already gone to take a bath, ",
+            "so what should I do next————"
+        ],
+        "22": [
+            "Sneak Into Washroom",
+            "Peek At Diary",
+            "Do Nothing"
+        ],
+        "23": [
+            "Hmm… should I go peek at \\str[120] bathing?"
+        ],
+        "24": [
+            "Go now!",
+            "Wait A Bit…",
+            "Forget It"
+        ],
+        "25": [
+            "She only just went in, so she’s probably changing clothes right now…",
+            "That makes me a bit curious, maybe I should go check right away…"
+        ],
+        "26": [
+            "She only just went in, so she’s probably changing clothes right now…",
+            "But it feels like I’d get caught easily, maybe I should wait…"
+        ],
+        "27": [
+            "Hmm, I’ll just find something random to pass the time—"
         ]
     },		  
     "15": {
@@ -806,8 +917,9 @@
             "\\nl< >\"Ah... \\str[121]...\""
 		],
 		"1": [
-            "Ôi không, cái chuyện xấu hổ hồi nãy. ",
-			"Mình cần phải xin lỗi ngay."
+            "Không ổn rồi! ",
+            "Cái chuyện xấu hổ hồi nãy,",
+			"mình cần phải xin lỗi ngay."
         ],
         "2": [
             "\\nl< >\"\\str[121], em xin lỗi!\"  \\w[60]\\^"
@@ -1314,7 +1426,26 @@
         "10": [
             "\"Em có biết không? Có những cây nấm thật sự có thể chạy được đấy!\"",
 	        "Tôi kể cho \\str[120] nghe về những con quái vật kỳ lạ anh đã gặp trong Vực Thẳm."
-		]
+		],
+        "11": [
+            "\"Actually, I likes...\""
+        ],
+        "12": [
+            "\"Saying lewd things are bad is totally wrong!\""
+        ],
+        "13": [
+            "\"Girl's body...\""
+        ],
+        "14": [
+            "\"This part here...\""
+        ],
+        "15": [
+            "Chatted with \\str[120] about some grown-up topics."
+        ],
+        "16": [
+            "Panties Today?",
+            "Sex Education"
+        ]
     },
     "29": {
         "0": [
@@ -1585,7 +1716,115 @@
         "9": [
             "\\nl< >\"Bụng anh đau à?",
 			"Tội nghiệp \\str[121] quá...\""
-		]	
+		],
+        "10": [
+            "\\nl< >\"…I’ll just head to the toilet.\""
+        ],
+        "11": [
+            "\\str[120] went to the toilet…",
+            "I’ll just find something random to kill time."
+        ],
+        "12": [
+            "——Come to think of it,",
+            "I never managed to take care of C before, did I?"
+        ],
+        "13": [
+            "I’ve got a bad feeling, I can sense C’s presence.",
+            "To protect \\str[120], should I go check on her…?"
+        ],
+        "14": [
+            "Go Check",
+            "Forget It"
+        ],
+        "15": [
+            "Yeah… this is to protect \\str[120], ",
+            "and also to bring C to justice…",
+            "It’s not like I’m trying to peek or anything…"
+        ],
+        "16": [
+            "…Forget it.",
+            "Going to peek with such a flimsy excuse really isn’t right."
+        ],
+        "17": [
+            "\\nl< >\"Mmm… nghh…\""
+        ],
+        "18": [
+            "Huh? \\str[120] looks a little off,",
+            "her cheeks are bright red, and it seems like she’s enduring something…"
+        ],
+        "19": [
+            "\"What’s wrong? Do you feel sick?\""
+        ],
+        "20": [
+            "I reached out to touch her forehead. It was warmer than usual,",
+            "but it didn’t really feel like a fever—            \\w[30]\\^"
+        ],
+        "21": [
+            "\\nl< >\"Ah…!\\w[30]It’s nothing at all!\""
+        ],
+        "22": [
+            "\\nl< >\"I…\\w[30] I…\\w[30] I’ll just go to the toilet…!\"",
+            "\\w[120]\\^"
+        ],
+        "23": [
+            "She quickly ran out of the room,",
+            "Huh? Was she really just in a hurry to use the toilet?"
+        ],
+        "24": [
+            "What should I do… should I go see what’s going on with her?"
+        ],
+        "25": [
+            "Go Check",
+            "Forget It"
+        ],
+        "26": [
+            "Yeah, just in case…"
+        ],
+        "27": [
+            "…Forget it.",
+            "Going to peek with such a flimsy excuse really isn’t right."
+        ]	
+    },
+    "40": {
+        "0": [
+            "After returning to the room,",
+            "I could see \\str[120] trembling under the blanket."
+        ],
+        "1": [
+            "What on earth did she see that scared her so much…"
+        ],
+        "2": [
+            "\\nl< >\"Uuehh… \\str[121]…\""
+        ],
+        "3": [
+            "\"Don’t be scared… \\str[121]’s right here, ",
+            "nothing to fear now.\""
+        ],
+        "4": [
+            "I held her and comforted her for a while, ",
+            "and she finally calmed down."
+        ],
+        "5": [
+            "When I asked at the end, ",
+            "it seemed she had found a bug in the toilet.",
+            "Probably because the weather’s getting warmer… ",
+            "it’s about time to think of some pest control."
+        ],
+        "6": [
+            "After we went back to the room together,",
+            "she sadly hid under the blanket again."
+        ],
+        "7": [
+            "\\nl< >\"Bugs… so scary… I hate bugs…\""
+        ],
+        "8": [
+            "I could hear her mumbling to herself,",
+            "she really seemed to have taken quite a shock…"
+        ],
+        "9": [
+            "This can’t go on…",
+            "I’ve got to find a way to deal with the bugs in the house."
+        ]
     },
     "41": {
         "0": [
@@ -1739,7 +1978,8 @@
             "Hmm... mình muốn uống gì đó quá..."
 		],
         "3": [
-            "Thôi chắc mình cũng không thèm uống lắm nữa..."
+            "Thôi! Chắc mình cũng không",
+            "thèm uống lắm..."
 		],			
         "4": [
             "\"Em có muốn uống chút\\ii[\\v[90]] không?\""
@@ -1822,7 +2062,8 @@
 		],
         "26": [
             "Nhưng anh lại vô tình làm hỏng cái máy,",
-			"không biết có ai sẽ đến đòi bồi thường không nữa... ",
+			"không biết có ai sẽ đến tìm anh đòi ",
+            "tiền bồi thường không nữa...",
 			"Nghĩ lại thì cảm thấy hơi áy náy thật..."
 		],
         "27": [
@@ -1921,5 +2162,105 @@
 			"cũng chẳng thấy có gì thay đổi.",
 			"Chẳng lẽ nó thực sự không có tác dụng gì sao?"
 		]
+    },
+    "51": {
+        "0": [
+            "\\nl< >\"I’m back…\""
+        ],
+        "1": [
+            "\\str[120] cheeks are flushed, and there’s a faint, ",
+            "sweet scent coming from her body, this is…"
+        ],
+        "2": [
+            "\"What’s wrong? You were in such a hurry just now—\""
+        ],
+        "3": [
+            "\\nl< >\"N-no, it’s nothing…!     \\w[90]",
+            "It’s just that the milk tasted weird and made me ",
+            "feel like I had to rush to the toilet…!\""
+        ],
+        "4": [
+            "\\nl< >\\}\"Uuehh……      \\w[60]",
+            "My body still feels hot…\"         ",
+            " \\w[180]\\^"
+        ]
+    },
+    "53": {
+        "0": [
+            "\\nl< >\"\\str[121], ",
+            "don’t bring up weird topics right now...\""
+        ],
+        "1": [
+            "With a cheerful smile, ",
+            "I asked \\str[120] what kind of panties she’s wearing now."
+        ],
+        "2": [
+            "\\nl< >\"Mm... \\str[121],",
+            "do you really want to know that much?\""
+        ],
+        "3": [
+            "\\str[120] didn’t seem too resistant,",
+            "is this a chance?"
+        ],
+        "4": [
+            "\\nl< >\"What’s wrong, \\str[121]? ",
+            "Asking such a weird question...\""
+        ],
+        "5": [
+            "\"Ah... uh... it’s nothing...\""
+        ],
+        "6": [
+            "Seeing \\str[120]’s innocent expression, ",
+            "I turned my head away in shame."
+        ],
+        "7": [
+            "Unwilling to give up, I pressed \\str[120] again about ",
+            "the kind of panties she’s wearing now."
+        ],
+        "8": [
+            "\\nl< >\"Geez, I really can’t say no to you...\""
+        ],
+        "9": [
+            "\\nl< >\\}\"I'm not wearing anything at all...\""
+        ],
+        "10": [
+            "\\nl< >\\}\"It's a blue-and-white striped one...\""
+        ],
+        "11": [
+            "\\nl< >\\}\"It's a pink-and-white striped one...\""
+        ],
+        "12": [
+            "\\nl< >\\}\"It's a plain white one...\""
+        ],
+        "13": [
+            "She trotted over and leaned close, whispering softly in my ear.",
+            "A faint citrus fragrance, carried on her warm breath, brushed against me—",
+            "sending a tingling shiver down my spine."
+        ],
+        "14": [
+            "\\nl< >\"Does this make \\str[121] happy~?\""
+        ],
+        "15": [
+            "\\nl< >\"Eh... \\str[121],",
+            "what are you trying to do by asking that...?\""
+        ],
+        "16": [
+            "\\str[120] just looked at me with a confused expression."
+        ],
+        "17": [
+            "Summoning all my courage, ",
+            "I asked \\str[120] one last time what kind of panties ",
+            "she’s wearing now."
+        ],
+        "18": [
+            "\\nl< >\"\\str[121] already knows, doesn’t? ",
+            "I’m not telling you again!\""
+        ],
+        "19": [
+            "\\nl< >\"Geez, \\str[121], you’re so annoying!\""
+        ],
+        "20": [
+            "I ended up making her angry..."
+        ]
     }		
 }

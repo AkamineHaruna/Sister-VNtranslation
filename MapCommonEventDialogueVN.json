@@ -333,5 +333,15 @@
             "Ở thời điểm này,",
 			"không còn gì quan trọng hơn nữa..."
 		]		
+    },
+    "maidBunnyBoss": {
+        "0": [
+            "There’s really nothing special up ahead!",
+            "So there’s no need to go check it usa!"
+        ],
+        "1": [
+            "Th-there’s nothing here, really! D-don’t come any closer!",
+            "I-I swear there’s absolutely nothing hidden here usa!"
+        ]
     }	
 }

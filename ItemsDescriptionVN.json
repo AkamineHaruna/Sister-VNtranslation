@@ -355,6 +355,22 @@
             "Lắc mạnh có thể gây ra một vụ nổ lớn"
         ]
     },
+    "42": {
+        "name": [
+            "Kenaz"
+        ],
+        "subtitle": [
+            "\"Power of Explosion\""
+        ],
+        "description": [
+            "A stone engraved with magic runes, designed so even novices with ",
+            "no knowledge of magic can easily activate its effect"
+        ],
+        "ability": [
+            "Throws and turns the target it touches into a bomb",
+            "Detonates in 5s, with larger targets causing a wider blast"
+        ]
+    },
     "43": {
         "name": [
             "Ansuz"
@@ -964,6 +980,20 @@
         ],
         "ability": ""
     },
+    "122": {
+        "name": [
+            "ASABA's Strawberry"
+        ],
+        "subtitle": [
+            "\"Mmm… strawberries… my strawberries…\""
+        ],
+        "description": [
+            "ASABA’s most treasured, high-quality strawberry that it can’t bear",
+            "to eat. But even after desperately guarding it until the very end",
+            "it still ends up as nothing more than a trophy—"
+        ],
+        "ability": ""
+    },
     "127": {
         "name": [
             "Râu Bạch Tuộc"
@@ -1174,6 +1204,23 @@
         "ability": [
             "Tăng ham muốn sau khi đọc!"
 		]	
+    },
+    "197": {
+        "name": [
+            "Elixir Rubrum"
+        ],
+        "subtitle": [
+            "\"Haec est totius fortitudinis fortitudo fortis,  ",
+            "quia vincet omnem rem subtilem, omnemque solidam penetrabit.\""
+        ],
+        "description": [
+            "The reddened Philosopher's Fragment flows like blood",
+            "Its proper use is still unknown, but for now, ",
+            "just try drinking it like a beverage…"
+        ],
+        "ability": [
+            ""
+        ]
     },		
     "199": {
         "name": [
