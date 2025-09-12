@@ -105,7 +105,7 @@
         ],
         "ability": [
             "Tốc độ di chuyển tăng khi dùng Chém Xoáy",
-            "Bổ sung sau"
+            "Khi xoay với tốc độ cao, bước vào trạng thái lơ lửng, miễn nhiễm với việc bị rơi."
         ]
     },
     "9": {
@@ -253,16 +253,16 @@
     },
     "19": {
         "name": [
-            "Nichirin"
+            "Nhật Luân"
         ],
         "subtitle": "",
         "description": [
-            "A replica forged in imitation of the forbidden blazing demon",
-            "sword from myth. Naturally, it cannot summon the earth-scorching ",
-            "hellfire like the true original."
+            "Một bản sao của thanh ma kiếm truyền thuyết rực lửa.",
+            "Dĩ nhiên, nó không thể triệu hồi hỏa ngục thiêu đốt ",
+            "mặt đất như bản gốc."
         ],
         "ability": [
-            "May summon a meteor to strike a random location when attacking"
+            "Có thể triệu hồi một thiên thạch rơi xuống vị trí ngẫu nhiên khi tấn công"
         ]
     },
     "21": {
@@ -301,8 +301,8 @@
         "subtitle": "",
         "description": [
             "Một cây trượng đính đá quý lấp lánh như Dải Ngân Hà Milky Way",
-            "Có khả năng tạo ra trường hấp dẫn mạnh, kéo kẻ xâm nhập vào bóng tối",
-            "xuống dòng"
+            "Có khả năng tạo ra trường hấp dẫn mạnh, ",
+            "kéo kẻ xâm nhập vào bóng tối"
         ],
         "ability": [
             "Giữ chuột phải để thi triển Hố Đen"

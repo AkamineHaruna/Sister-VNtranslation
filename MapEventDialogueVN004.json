@@ -666,111 +666,111 @@
     },
     "14": {
         "0": [
-            "\\nl< >\"Welcome back, \\str[121]! ",
-            "Feeling a bit less tired now?\""
+            "\\nl< >\"Chào mừng anh về nhà, \\str[121]! ",
+            "Anh thấy đỡ mệt hơn chưa?\""
         ],
         "1": [
-            "\\nl< >\"Next, it’s time for me to go bathe~\""
+            "\\nl< >\"Đến lượt em đi tắm đây~\""
         ],
         "2": [
-            "Eh… what’s that… a line you picked up from TV?"
+            "Ể... cái gì thế... câu thoại em học trên TV à?"
         ],
         "3": [
-            "\\nl< >\"I guess it’s about time for me to head into the bath.\""
+            "\\nl< >\"Chắc cũng đến lúc em phải vào tắm rồi.\""
         ],
         "4": [
-            "\\nl< >\"Well then, I’ll go wash up too.\""
+            "\\nl< >\"Vậy thì, em cũng đi rửa ráy đây.\""
         ],
         "5": [
-            "Hmm, I’ll just find something random to pass the time—"
+            "Hm, mình sẽ làm gì đó để giết thời gian vậy—"
         ],
         "6": [
-            "\\str[120] went to take a bath, and I’m a bit bored on my own,",
-            "so I started daydreaming to kill time.   \\w[40]",
-            "Come to think of it, I used to bathe with her pretty often—",
-            "she was so cute back then~"
+            "\\str[120] đi tắm, còn tôi thì một mình buồn chán,",
+            "thế là tôi bắt đầu thả hồn mơ mộng để giết thời gian.   \\w[40]",
+            "Nghĩ lại thì, ngày trước tôi hay tắm cùng em ấy—",
+            "hồi đó em ấy cực kì dễ thương~"
         ],
         "7": [
-            "It’s been so many years, she must have changed a lot,",
-            "in all sorts of ways…"
+            "Đã nhiều năm trôi qua, chắc chắn em ấy đã thay đổi nhiều,",
+            "theo đủ mọi cách khác nhau..."
         ],
         "8": [
-            "Suddenly I got curious—what kind of girl has she grown into now?",
-            "Should I sneak a peek…?"
+            "Đột nhiên tôi thấy tò mò, giờ em ấy đã trở thành một cô gái thế nào?",
+            "Có nên lén nhìn thử không...?"
         ],
         "9": [
-            "Go!",
-            "Not going"
+            "Đi!",
+            "Không đi"
         ],
         "10": [
-            "\\{Go go go      \\}",
-            "Of course I have to go!"
+            "\\{Đi đi đi      \\}",
+            "Tất nhiên là phải đi rồi!"
         ],
         "11": [
-            "But peeking at \\str[120] bathing… ",
-            "isn’t that inappropriate for an adult…?"
+            "Nhưng lén nhìn \\str[120] đang tắm... ",
+            "chẳng phải điều đó không đúnng đắn với một người như tôi sao...?"
         ],
         "12": [
             "\\{ ",
-            "This is the time to firmly say no ",
-            "to such wicked thoughts…!"
+            "Đây là lúc phải kiên quyết nói không ",
+            "với những suy nghĩ tà đạo như thế...!"
         ],
         "13": [
-            "Doesn’t feel right… she’s grown up,",
-            "I need to give her enough privacy…"
+            "Không ổn đâu... em ấy đã lớn rồi,",
+            "mình cần cho em ấy đủ sự riêng tư..."
         ],
         "14": [
-            "She went to bathe again, ",
-            "and for some reason I felt a little empty inside.",
-            "I can’t stop wondering how she’s grown, and it makes me restless."
+            "Em ấy đi tắm rồi, ",
+            "và chẳng hiểu sao tôi lại thấy có chút trống trải.",
+            "Tôi không ngừng tự hỏi em ấy đã thay đổi thế nào, khiến lòng bồn chồn khó tả."
         ],
         "15": [
-            "………………Should I just sneak a quick look?"
+            "………………Mình có nên lén nhìn một chút không?"
         ],
         "16": [
-            "\\nl< >\"\\str[121]… \\str[121]!\""
+            "\\nl< >\"\\str[121]... \\str[121]!\""
         ],
         "17": [
-            "I was lying on the bed spacing out,",
-            "when I suddenly heard what sounded faintly like her voice.   \\w[40]",
-            "Was it just my imagination…?"
+            "Tôi đang nằm trên giường thẫn thờ,",
+            "thì bỗng nghe thấy tiếng em ấy vang lên khe khẽ.   \\w[40]",
+            "Chẳng lẽ là ảo giác của mình...?"
         ],
         "18": [
-            "\\nl< >\"…\\str[121], could you come here for a moment?\""
+            "\\nl< >\"...\\str[121], anh có thể đến đây một chút được không?\""
         ],
         "19": [
-            "Huh, looks like it wasn’t my imagination!"
+            "Hả, xem ra không phải là ảo giác rồi!"
         ],
         "20": [
-            "\\{ \"I’ll be right there!\""
+            "\\{ \"Anh tới đây!\""
         ],
         "21": [
-            "She’s already gone to take a bath, ",
-            "so what should I do next————"
+            "Em ấy đã đi tắm rồi, ",
+            "vậy mình nên làm gì tiếp theo đây————"
         ],
         "22": [
-            "Sneak Into Washroom",
-            "Peek At Diary",
-            "Do Nothing"
+            "Lén vào phòng tắm",
+            "Nhìn trộm nhật ký",
+            "Không làm gì"
         ],
         "23": [
-            "Hmm… should I go peek at \\str[120] bathing?"
+            "Hm... mình có nên đi lén nhìn \\str[120] đang tắm không?"
         ],
         "24": [
-            "Go now!",
-            "Wait A Bit…",
-            "Forget It"
+            "Đi ngay!",
+            "Đợi một chút...",
+            "Thôi bỏ đi"
         ],
         "25": [
-            "She only just went in, so she’s probably changing clothes right now…",
-            "That makes me a bit curious, maybe I should go check right away…"
+            "Em ấy mới vừa vào thôi, chắc giờ đang thay quần áo...",
+            "Điều đó khiến tôi hơi tò mò, có lẽ mình nên đi xem ngay bây giờ..."
         ],
         "26": [
-            "She only just went in, so she’s probably changing clothes right now…",
-            "But it feels like I’d get caught easily, maybe I should wait…"
+            "Em ấy mới vừa vào thôi, chắc giờ đang thay quần áo...",
+            "Nhưng cảm giác như sẽ bị phát hiện, có lẽ nên đợi thì hơn..."
         ],
         "27": [
-            "Hmm, I’ll just find something random to pass the time—"
+            "Ừm, mình sẽ tìm gì đó làm để giết thời gian vậy—"
         ]
     },		  
     "15": {
@@ -1378,9 +1378,9 @@
     },
     "25": {
         "0": [
-		    "",
+		    "Chủ đề nhạy cảm",
             "Cưng chiều \\str[120]",
-			"Nói về công việc mạo hiểm",
+			"Nói về công việc",
 			"Tán gẫu"
 		],
         "1": [
@@ -1428,23 +1428,23 @@
 	        "Tôi kể cho \\str[120] nghe về những con quái vật kỳ lạ anh đã gặp trong Vực Thẳm."
 		],
         "11": [
-            "\"Actually, I likes...\""
+            "\"Thật ra anh thích...\""
         ],
         "12": [
-            "\"Saying lewd things are bad is totally wrong!\""
+            "\"Nói mấy chuyện bậy bạ không hề xấu!\""
         ],
         "13": [
-            "\"Girl's body...\""
+            "\"Cơ thể con gái...\""
         ],
         "14": [
-            "\"This part here...\""
+            "\"Chỗ này nè...\""
         ],
         "15": [
-            "Chatted with \\str[120] about some grown-up topics."
+            "Tôi đã tán gẫu với \\str[120] về vài chủ đề của người lớn."
         ],
         "16": [
-            "Panties Today?",
-            "Sex Education"
+            "Hôm nay mặc quần lót gì?",
+            "Giáo dục giới tính"
         ]
     },
     "29": {
@@ -1718,112 +1718,112 @@
 			"Tội nghiệp \\str[121] quá...\""
 		],
         "10": [
-            "\\nl< >\"…I’ll just head to the toilet.\""
+            "\\nl< >\"...Em vào toilet đây.\""
         ],
         "11": [
-            "\\str[120] went to the toilet…",
-            "I’ll just find something random to kill time."
+            "\\str[120] đã đi toilet...",
+            "Mình sẽ tìm gì đó để giết thời gian."
         ],
         "12": [
-            "——Come to think of it,",
-            "I never managed to take care of C before, did I?"
+            "——Nghĩ lại thì,",
+            "mình vẫn chưa xử lý được chuyện của C trước đây, đúng không nhỉ?"
         ],
         "13": [
-            "I’ve got a bad feeling, I can sense C’s presence.",
-            "To protect \\str[120], should I go check on her…?"
+            "Mình có linh cảm xấu, cảm nhận rõ sự hiện diện của C.",
+            "Để bảo vệ \\str[120], mình có nên đi kiểm tra không...?"
         ],
         "14": [
-            "Go Check",
-            "Forget It"
+            "Đi kiểm tra",
+            "Thôi bỏ đi"
         ],
         "15": [
-            "Yeah… this is to protect \\str[120], ",
-            "and also to bring C to justice…",
-            "It’s not like I’m trying to peek or anything…"
+            "Ừ... đây là để bảo vệ \\str[120], ",
+            "và đưa C ra trước công lý...",
+            "Đâu phải mình định đi nhìn trộm gì cả..."
         ],
         "16": [
-            "…Forget it.",
-            "Going to peek with such a flimsy excuse really isn’t right."
+            "...Thôi bỏ đi.",
+            "Đi nhìn trộm với cái cớ vớ vẩn như thế thật sự không ổn."
         ],
         "17": [
             "\\nl< >\"Mmm… nghh…\""
         ],
         "18": [
-            "Huh? \\str[120] looks a little off,",
-            "her cheeks are bright red, and it seems like she’s enduring something…"
+            "Hả? \\str[120] trông có vẻ hơi lạ,",
+            "má em ấy đỏ bừng, dường như đang cố chịu đựng điều gì đó..."
         ],
         "19": [
-            "\"What’s wrong? Do you feel sick?\""
+            "\"Sao thế? Em thấy khó chịu à?\""
         ],
         "20": [
-            "I reached out to touch her forehead. It was warmer than usual,",
-            "but it didn’t really feel like a fever—            \\w[30]\\^"
+            "Tôi đưa tay chạm vào trán em ấy. Nó ấm hơn bình thường,",
+            "nhưng không giống cảm giác sốt cho lắm—            \\w[30]\\^"
         ],
         "21": [
-            "\\nl< >\"Ah…!\\w[30]It’s nothing at all!\""
+            "\\nl< >\"Ah...!\\w[30]Không có gì hết!\""
         ],
         "22": [
-            "\\nl< >\"I…\\w[30] I…\\w[30] I’ll just go to the toilet…!\"",
+            "\\nl< >\"E-em...\\w[30] Em...\\w[30] em muốn đi toilet...!\"",
             "\\w[120]\\^"
         ],
         "23": [
-            "She quickly ran out of the room,",
-            "Huh? Was she really just in a hurry to use the toilet?"
+            "Em ấy nhanh chóng chạy ra khỏi phòng,",
+            "Hả? Chẳng lẽ em ấy chỉ thực sự muốn đi toilet thôi sao?"
         ],
         "24": [
-            "What should I do… should I go see what’s going on with her?"
+            "Mình phải làm gì đây... có nên đi xem thử tình hình của em ấy không?"
         ],
         "25": [
-            "Go Check",
-            "Forget It"
+            "Đi kiểm tra",
+            "Thôi bỏ đi"
         ],
         "26": [
-            "Yeah, just in case…"
+            "Ừ, cứ đề phòng thì hơn..."
         ],
         "27": [
-            "…Forget it.",
-            "Going to peek with such a flimsy excuse really isn’t right."
+            "...Thôi bỏ đi.",
+            "Đi nhìn trộm với cái cớ vớ vẩn như thế thật sự không ổn."
         ]	
     },
     "40": {
         "0": [
-            "After returning to the room,",
-            "I could see \\str[120] trembling under the blanket."
+            "Sau khi quay lại phòng,",
+            "tôi có thể thấy \\str[120] đang run rẩy dưới chăn."
         ],
         "1": [
-            "What on earth did she see that scared her so much…"
+            "Rốt cuộc em ấy đã thấy gì mà sợ đến mức này chứ..."
         ],
         "2": [
-            "\\nl< >\"Uuehh… \\str[121]…\""
+            "\\nl< >\"Uuehh... \\str[121]...\""
         ],
         "3": [
-            "\"Don’t be scared… \\str[121]’s right here, ",
-            "nothing to fear now.\""
+            "\"Đừng sợ... \\str[121] ở ngay đây rồi, ",
+            "không có gì đáng sợ nữa đâu.\""
         ],
         "4": [
-            "I held her and comforted her for a while, ",
-            "and she finally calmed down."
+            "Tôi ôm em ấy và dỗ dành một lúc, ",
+            "cuối cùng em ấy cũng bình tĩnh lại."
         ],
         "5": [
-            "When I asked at the end, ",
-            "it seemed she had found a bug in the toilet.",
-            "Probably because the weather’s getting warmer… ",
-            "it’s about time to think of some pest control."
+            "Khi tôi hỏi thì ra, ",
+            "em ấy đã nhìn thấy một con bọ trong nhà vệ sinh.",
+            "Có lẽ là do thời tiết bắt đầu nóng lên... ",
+            "chắc đến lúc phải nghĩ cách diệt côn trùng rồi."
         ],
         "6": [
-            "After we went back to the room together,",
-            "she sadly hid under the blanket again."
+            "Sau khi cả hai quay lại phòng,",
+            "em ấy lại buồn bã chui vào chăn."
         ],
         "7": [
-            "\\nl< >\"Bugs… so scary… I hate bugs…\""
+            "\\nl< >\"Bọ... đáng sợ quá... em ghét bọ...\""
         ],
         "8": [
-            "I could hear her mumbling to herself,",
-            "she really seemed to have taken quite a shock…"
+            "Tôi nghe thấy em ấy lẩm bẩm một mình,",
+            "trông như thật sự đã bị sốc nặng..."
         ],
         "9": [
-            "This can’t go on…",
-            "I’ve got to find a way to deal with the bugs in the house."
+            "Thế này thì không ổn rồi...",
+            "Mình phải tìm cách xử lý đám bọ trong nhà thôi."
         ]
     },
     "41": {
@@ -2085,7 +2085,7 @@
 		],
         "32": [
             "Tôi lấy ra chiếc lọ nhỏ ",
-			"chứa Elixir Rubrum,",
+			"chứa Xích Sắc Linh Dược,",
 			"nhưng ngay khi định đưa cho em ấy, ",
 			"một nỗi sợ bỗng ập đến—"
 		],
@@ -2114,7 +2114,7 @@
 		],	
         "38": [
             "Em ấy đột nhiên nắm lấy bàn tay ",
-			"mà tôi đang cầm Elixir Rubrum."
+			"mà tôi đang cầm Xích Sắc Linh Dược."
 		],	
         "39": [
             "\\nl< >\"\\str[121], anh đã vất vả vì em nhiều lắm rồi.  \\w[90]",
@@ -2136,7 +2136,7 @@
 			"rồi đưa cho em ấy."
 		],
         "44": [
-            "Em ấy uống cốc sữa có pha Elixir Rubrum ",
+            "Em ấy uống cốc sữa có pha Xích Sắc Linh Dược ",
 			"gần như ngay lập tức ",
 			"và tôi hồi hộp quan sát phản ứng của em ấy."
 		],	
@@ -2158,109 +2158,109 @@
 			"Tất cả những lo lắng của mình bỗng trở nên thừa thãi..."
 		],
         "50": [
-            "Cuối cùng thì sau khi uống Elixir Rubrum, ",
+            "Cuối cùng thì sau khi uống Xích Sắc Linh Dược, ",
 			"cũng chẳng thấy có gì thay đổi.",
 			"Chẳng lẽ nó thực sự không có tác dụng gì sao?"
 		]
     },
     "51": {
         "0": [
-            "\\nl< >\"I’m back…\""
+            "\\nl< >\"Em quay lại rồi đây...\""
         ],
         "1": [
-            "\\str[120] cheeks are flushed, and there’s a faint, ",
-            "sweet scent coming from her body, this is…"
+            "Má \\str[120] đỏ ửng, và từ cơ thể em ấy tỏa ra ",
+            "một mùi hương ngọt ngào nhè nhẹ, đây là..."
         ],
         "2": [
-            "\"What’s wrong? You were in such a hurry just now—\""
+            "\"Sao vậy? Lúc nãy em vội vã thế—\""
         ],
         "3": [
-            "\\nl< >\"N-no, it’s nothing…!     \\w[90]",
-            "It’s just that the milk tasted weird and made me ",
-            "feel like I had to rush to the toilet…!\""
+            "\\nl< >\"K-không, không có gì hết...!     \\w[90]",
+            "Chỉ là sữa có vị lạ khiến em cảm thấy ",
+            "phải chạy gấp vào toilet thôi...!\""
         ],
         "4": [
             "\\nl< >\\}\"Uuehh……      \\w[60]",
-            "My body still feels hot…\"         ",
+            "Cơ thể em vẫn còn nóng quá...\"         ",
             " \\w[180]\\^"
         ]
     },
     "53": {
         "0": [
             "\\nl< >\"\\str[121], ",
-            "don’t bring up weird topics right now...\""
+            "đừng có nói mấy chuyện kỳ lạ lúc này chứ...\""
         ],
         "1": [
-            "With a cheerful smile, ",
-            "I asked \\str[120] what kind of panties she’s wearing now."
+            "Với một nụ cười vui vẻ, ",
+            "tôi hỏi \\str[120] rằng bây giờ em ấy đang mặc loại quần lót nào."
         ],
         "2": [
             "\\nl< >\"Mm... \\str[121],",
-            "do you really want to know that much?\""
+            "anh thật sự muốn biết đến mức đó sao?\""
         ],
         "3": [
-            "\\str[120] didn’t seem too resistant,",
-            "is this a chance?"
+            "\\str[120] dường như không quá phản đối,",
+            "đây có phải là cơ hội không?"
         ],
         "4": [
-            "\\nl< >\"What’s wrong, \\str[121]? ",
-            "Asking such a weird question...\""
+            "\\nl< >\"Có chuyện gì vậy, \\str[121]? ",
+            "Sao lại hỏi một câu kỳ cục như thế...\""
         ],
         "5": [
-            "\"Ah... uh... it’s nothing...\""
+            "\"À... ừm... không có gì đâu...\""
         ],
         "6": [
-            "Seeing \\str[120]’s innocent expression, ",
-            "I turned my head away in shame."
+            "Thấy vẻ mặt ngây thơ của \\str[120], ",
+            "tôi quay đầu đi vì xấu hổ."
         ],
         "7": [
-            "Unwilling to give up, I pressed \\str[120] again about ",
-            "the kind of panties she’s wearing now."
+            "Không cam lòng bỏ cuộc, tôi lại gặng hỏi \\str[120] ",
+            "về loại quần lót mà em ấy đang mặc."
         ],
         "8": [
-            "\\nl< >\"Geez, I really can’t say no to you...\""
+            "\\nl< >\"Thật là... em thật sự không thể từ chối anh được...\""
         ],
         "9": [
-            "\\nl< >\\}\"I'm not wearing anything at all...\""
+            "\\nl< >\\}\"Em chẳng mặc gì cả...\""
         ],
         "10": [
-            "\\nl< >\\}\"It's a blue-and-white striped one...\""
+            "\\nl< >\\}\"Là loại sọc xanh trắng...\""
         ],
         "11": [
-            "\\nl< >\\}\"It's a pink-and-white striped one...\""
+            "\\nl< >\\}\"Là loại sọc hồng trắng...\""
         ],
         "12": [
-            "\\nl< >\\}\"It's a plain white one...\""
+            "\\nl< >\\}\"Là loại trắng trơn...\""
         ],
         "13": [
-            "She trotted over and leaned close, whispering softly in my ear.",
-            "A faint citrus fragrance, carried on her warm breath, brushed against me—",
-            "sending a tingling shiver down my spine."
+            "Em ấy chạy lại gần và ghé sát, thì thầm vào tai tôi.",
+            "Một mùi hương cam thoang thoảng theo hơi thở ấm áp lướt qua—",
+            "khiến cả người tôi run lên vì rùng mình."
         ],
         "14": [
-            "\\nl< >\"Does this make \\str[121] happy~?\""
+            "\\nl< >\"Như vậy \\str[121] thấy vui chưa~?\""
         ],
         "15": [
             "\\nl< >\"Eh... \\str[121],",
-            "what are you trying to do by asking that...?\""
+            "anh định làm gì khi hỏi chuyện đó vậy...?\""
         ],
         "16": [
-            "\\str[120] just looked at me with a confused expression."
+            "\\str[120] chỉ nhìn tôi với vẻ mặt đầy bối rối."
         ],
         "17": [
-            "Summoning all my courage, ",
-            "I asked \\str[120] one last time what kind of panties ",
-            "she’s wearing now."
+            "Dồn hết can đảm, ",
+            "tôi hỏi \\str[120] lần cuối về loại quần lót ",
+            "mà em ấy đang mặc."
         ],
         "18": [
-            "\\nl< >\"\\str[121] already knows, doesn’t? ",
-            "I’m not telling you again!\""
+            "\\nl< >\"\\str[121] biết rồi còn gì? ",
+            "Em không nói lại nữa đâu!\""
         ],
         "19": [
-            "\\nl< >\"Geez, \\str[121], you’re so annoying!\""
+            "\\nl< >\"Thật là, \\str[121] anh phiền quá đi!\""
         ],
         "20": [
-            "I ended up making her angry..."
+            "Cuối cùng tôi lại chọc cho em ấy nổi giận..."
         ]
     }		
 }

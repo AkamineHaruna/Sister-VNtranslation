@@ -132,19 +132,20 @@
     },
     "12": {
         "name": [
-            "Musou Burst Stream"
+            "Vô Song Bạo Lưu"
         ],
         "subtitle": [
             ""
         ],
         "description": [
-            "A secret finisher inherited from ASABA, who embraced sorrow",
-            "In an instant too fast for the eye to see, a hundred strikes land—",
-            "leaving the enemy with nothing but final darkness!"
+            "Tuyệt chiêu bí mật được thừa kế từ ASABA, người đã ôm lấy nỗi bi thương.",
+            "Trong khoảnh khắc nhanh đến mức mắt thường không kịp nhìn thấy,",
+            "hàng trăm đòn tấn công giáng xuống—",
+            "khiến kẻ địch chỉ còn lại màn đêm vĩnh hằng!"
         ],
         "ability": [
-            "Skill command:  \\{⬆⬇⬅⮕⬆⬇\\}",
-            "Each use of the skill consumes some HP"
+            "Lệnh kỹ năng:  \\{⬆⬇⬅⮕⬆⬇\\}",
+            "Mỗi lần sử dụng kỹ năng sẽ tiêu hao một phần HP"
         ]
     },
     "15": {

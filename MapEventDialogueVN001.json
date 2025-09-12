@@ -37,10 +37,10 @@
 			
 		],
 		"subtitle": [
-      		"Dwelling in Adventurer's Path"
+      		"Ngụ tại Con Đường Của Mạo Hiểm Giả"
 		],
 		"bossName": [
-			"The Berry Devourer"
+			"Kẻ Nuốt Dâu"
 		],		
 		"1": [
             "ASABA nhìn tôi đầy mong chờ—",
@@ -58,7 +58,7 @@
             "Tôi có nên thử cho ASABA ăn không?"
         ],
         "5": [
-            "Cho nó ăn!",
+            "Cho ăn!",
 			"Không cho"
         ],
         "6": [
@@ -78,11 +78,11 @@
 			"ASABA... hỏng rồi!!"
         ],
 		"10": [
-      		"ASABA is already full—"
+      		"ASABA đã no bụng—"
 		],
 		"11": [
 			"………………!",
-			"now ASABA holds a grudge against me…"
+			"giờ ASABA đã ôm hận với tôi..."
 		]
     },	  
   	"24": {
@@ -389,10 +389,10 @@
     },
 	"80": {
 		"bossName": [
-			"Frenzied Crimson Beast"
+			"Cuồng Huyết Xích Thú"
 		],
 		"subtitle": [
-			"Dwelling in Forgotten Catacomb"
+			"Ngụ tại Hầm Mộ Bị Lãng Quên"
 		],
 		"sentouryoku": [
 			"1600"
@@ -489,130 +489,8 @@
 			"Mặc dù cứng cáp hơn, nhưng bản chất của nó vẫn là slime. ",
 			"Ngoài ra, quặng nó rơi ra có vẻ khá có giá trị..."
 		]	
-    },	  
-  	"101": {
-		"objectName": [
-		    "\\c[116]Hồng Thú Non"
-		],	  
-		"sentouryoku": [
-		    "380"
-		],	  
-        "description": [
-            "Một sinh vật quái dị sinh ra từ một quả trứng.",
-			"Môi trường phát triển biến dạng, bất thường ",
-			"đã làm cơ thể nó trở thành một khối mô rối tung.",
-			"Nó sở hữu một ham muốn tấn công dữ dội, ",
-			"bị thúc đẩy bởi khao khát ăn thịt và tái sinh."
-		]	
-    },				  
-  	"102": {
-		"objectName": [
-		    "Thùng Rác"
-		],	  
-		"sentouryoku": [
-		    "???"
-		],	  
-        "description": [
-            "Ngay cả ở Vực Thẳm chết chóc, việc xả rác cũng không hay.",
-			"Dù sao, bất cứ thứ gì bạn ném đi sẽ biến mất vào ngày hôm sau...",
-			"Cảm giác như có ai đó đang dọn dẹp.",
-			"Nhưng cẩn thận, đừng nên ném đồ dễ cháy vào.",
-			"Đối xử với nó một cách thô bạo, ",
-			"và bạn có thể kích hoạt điều gì đó cục kì khó chịu."
-		],
-		"1": [
-            "Tìm thấy một thùng rác...",
-			"Làm gì với nó bây giờ?"
-        ],
-        "2": [
-            "Tìm xung quanh",
-            "Vứt vũ khí",
-			"Vứt trang bị"
-        ],
-        "3": [
-            "Chỉ toàn là thứ tôi ",
-			"vừa ném đi..."
-        ],
-        "4": [
-            "(Ôi... Ba lô của tôi đầy rồi...",
-			"Tôi sẽ phải ném hết mọi thứ cùng lúc...)"
-        ],
-        "5": [
-            "Vứt hết!",
-			"Suy nghĩ lại..."
-        ],
-        "6": [
-            "...Liệu tôi có nên ném những thứ này đi không?",
-			"\\str[8]"
-        ],
-        "7": [
-            "\\fr${itemIcon}\\fr và tổng cộng ${itemLength} trang bị."
-        ]	
     },
-  	"110": {
-		"objectName": [
-		    "Bù Nhìn"
-		],	  
-		"sentouryoku": [
-		    "???"
-		],	  
-        "description": [
-            "\"Tôi chỉ là một con bù nhìn.",
-			"Vì tôi không có trái tim, ",
-			"nên tôi không thể cảm nhận đau đớn.\""
-		]
-    },	  
-  	"113": {
-		"objectName": [
-		    "Thỏ Gai"
-		],	  
-		"sentouryoku": [
-		    "50"
-		],	  
-        "description": [
-            "Một con thỏ hoang bị biến đổi bởi sự ô nhiễm của ma thuật—",
-			"cái sừng trên đầu là dấu hiệu của sự thay đổi này.",
-			"Tuy nhiên, nó vẫn đang trong giai đoạn phát triển ",
-			"và không quá nguy hiểm.",
-			"Ngoài ra, thịt của nó vẫn mềm và ngon."
-		]	
-    },	  
-  	"115": {
-		"objectName": [
-		    "\\c[115]Slime Lửa"
-		],	  
-		"sentouryoku": [
-		    "620"
-		],	  
-        "description": [
-            "Một slime bị bao trùm trong ngọn lửa—",
-			"chỉ cần tiến gần cũng tỏa ra nhiệt lượng dữ dội.",
-			"Các đòn tấn công bình thường gần như vô dụng với nó,",
-			"và các mạo hiểm giả chỉ có thể cảm thấy biết ơn",
-			"vì loại quái vật này chỉ xuất hiện trong ",
-			"những môi trường khắc nghiệt như các cánh đồng dung nham."
-		]	
-    },
-  	"119": {
-		"objectName": [
-		    "\\c[10]Quỷ Tử Thần"
-		],
-		"garble": [
-		    "true"
-		],		
-		"sentouryoku": [
-		    "???"
-		],	  
-        "description": [
-            "Chỉ là một bóng ma của ",
-			"ý chí Quỷ Tử Thần—",
-			"không một phàm nhân nào sống sót trước cái giá của nó.",
-			"Ngay cả tiếng vọng này cũng mang lại cái chết ",
-			"cho tất cả những gì nó thấy,",
-			"bao gồm cả người triệu hồi nó. "
-		]
-    }, 
-  	"97": {
+	"97": {
 		"objectName": [
 		    "\\c[10]Aki"
 		],		
@@ -933,5 +811,127 @@
 		    "Đúng rồi, đúng rồi~♥",
             "Chỉ cần đưa thêm một ít cá hồi thôi..."
         ]		
+    },	  
+  	"101": {
+		"objectName": [
+		    "\\c[116]Hồng Thú Non"
+		],	  
+		"sentouryoku": [
+		    "380"
+		],	  
+        "description": [
+            "Một sinh vật quái dị sinh ra từ một quả trứng.",
+			"Môi trường phát triển biến dạng, bất thường ",
+			"đã làm cơ thể nó trở thành một khối mô rối tung.",
+			"Nó sở hữu một ham muốn tấn công dữ dội, ",
+			"bị thúc đẩy bởi khao khát ăn thịt và tái sinh."
+		]	
+    },				  
+  	"102": {
+		"objectName": [
+		    "Thùng Rác"
+		],	  
+		"sentouryoku": [
+		    "???"
+		],	  
+        "description": [
+            "Ngay cả ở Vực Thẳm chết chóc, việc xả rác cũng không hay.",
+			"Dù sao, bất cứ thứ gì bạn ném đi sẽ biến mất vào ngày hôm sau...",
+			"Cảm giác như có ai đó đang dọn dẹp.",
+			"Nhưng cẩn thận, đừng nên ném đồ dễ cháy vào.",
+			"Đối xử với nó một cách thô bạo, ",
+			"và bạn có thể kích hoạt điều gì đó cục kì khó chịu."
+		],
+		"1": [
+            "Tìm thấy một thùng rác...",
+			"Làm gì với nó bây giờ?"
+        ],
+        "2": [
+            "Tìm xung quanh",
+            "Vứt vũ khí",
+			"Vứt trang bị"
+        ],
+        "3": [
+            "Chỉ toàn là thứ tôi ",
+			"vừa ném đi..."
+        ],
+        "4": [
+            "(Ôi... Ba lô của tôi đầy rồi...",
+			"Tôi sẽ phải ném hết mọi thứ cùng lúc...)"
+        ],
+        "5": [
+            "Vứt hết!",
+			"Suy nghĩ lại..."
+        ],
+        "6": [
+            "...Liệu tôi có nên ném những thứ này đi không?",
+			"\\str[8]"
+        ],
+        "7": [
+            "\\fr${itemIcon}\\fr và tổng cộng ${itemLength} trang bị."
+        ]	
+    },
+  	"110": {
+		"objectName": [
+		    "Bù Nhìn"
+		],	  
+		"sentouryoku": [
+		    "???"
+		],	  
+        "description": [
+            "\"Tôi chỉ là một con bù nhìn.",
+			"Vì tôi không có trái tim, ",
+			"nên tôi không thể cảm nhận đau đớn.\""
+		]
+    },	  
+  	"113": {
+		"objectName": [
+		    "Thỏ Gai"
+		],	  
+		"sentouryoku": [
+		    "50"
+		],	  
+        "description": [
+            "Một con thỏ hoang bị biến đổi bởi sự ô nhiễm của ma thuật—",
+			"cái sừng trên đầu là dấu hiệu của sự thay đổi này.",
+			"Tuy nhiên, nó vẫn đang trong giai đoạn phát triển ",
+			"và không quá nguy hiểm.",
+			"Ngoài ra, thịt của nó vẫn mềm và ngon."
+		]	
+    },	  
+  	"115": {
+		"objectName": [
+		    "\\c[115]Slime Lửa"
+		],	  
+		"sentouryoku": [
+		    "620"
+		],	  
+        "description": [
+            "Một slime bị bao trùm trong ngọn lửa—",
+			"chỉ cần tiến gần cũng tỏa ra nhiệt lượng dữ dội.",
+			"Các đòn tấn công bình thường gần như vô dụng với nó,",
+			"và các mạo hiểm giả chỉ có thể cảm thấy biết ơn",
+			"vì loại quái vật này chỉ xuất hiện trong ",
+			"những môi trường khắc nghiệt như các cánh đồng dung nham."
+		]	
+    },
+  	"119": {
+		"objectName": [
+		    "\\c[10]Quỷ Tử Thần"
+		],
+		"garble": [
+		    "true"
+		],		
+		"sentouryoku": [
+		    "???"
+		],	  
+        "description": [
+            "Chỉ là một bóng ma của ",
+			"ý chí Quỷ Tử Thần—",
+			"không một phàm nhân nào sống sót trước cái giá của nó.",
+			"Ngay cả tiếng vọng này cũng mang lại cái chết ",
+			"cho tất cả những gì nó thấy,",
+			"bao gồm cả người triệu hồi nó. "
+		]
     }	
 }

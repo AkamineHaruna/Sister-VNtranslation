@@ -462,18 +462,18 @@
     },
     "48": {
         "name": [
-            "Chain SpellBinding Contract"
+            "Liên Tỏa Chú Phược Khế Ước"
         ],
         "subtitle": [
-            "\"When the one you love dies, you must take your own life.",
-            "When the one you love dies, there is no other way.\""
+            "\"Khi người mà bạn yêu thương chết đi, bạn phải tự kết liễu chính mình.",
+            "Khi người mà bạn yêu thương chết đi, sẽ không còn cách nào khác.\""
         ],
         "description": [
-            "To save his familiar, a certain alchemist forged this contract…"
+            "Để cứu linh thú của mình, một nhà giả kim nọ đã tạo nên khế ước này..."
         ],
         "ability": [
-            "Link with your servant—any damage they take will be yours",
-            "Each linked servant grants you a healing effect"
+            "Liên kết với servant của bạn—bạn sẽ nhận sát thương như nó",
+            "Mỗi servent liên kết sẽ ban cho bạn hiệu ứng hồi phục"
         ]
     },
     "50": {
@@ -550,20 +550,20 @@
     },
     "57": {
         "name": [
-            "Ichigo Wo Torimodose!!"
+            "Đoạt Hồi Nhất Hộ!!"
         ],
         "subtitle": [
             ""
         ],
         "description": [
-            "ASABA, consumed by grief over the lost strawberry, ",
-            "unleashes his ultimate art. Once targeted, you’re swallowed",
-            "by an unavoidable storm of combos… But sorrow lingers—",
-            "burned by fate’s emotions, you too inherit this forbidden technique! "
+            "ASABA, chìm trong đau buồn vì quả dâu đã mất, ",
+            "giải phóng tuyệt kỹ tối thượng của mình. Một khi đã nhắm đến,",
+            "bạn sẽ bị dính một loạt combo không thể tránh... Nhưng nỗi buồn vẫn còn—",
+            "bị đốt cháy bởi cảm xúc của định mệnh, bạn cũng kế thừa cấm thuật này! "
         ],
         "ability": [
-            "Unleash a special move with the right command ",
-            "The lower your HP, the stronger the special move"
+            "Thi triển tuyệt chiêu khi dùng đúng câu lệnh ",
+            "HP càng thấp, tuyệt chiêu càng mạnh"
         ]
     },
     "59": {
@@ -698,18 +698,18 @@
     },
     "74": {
         "name": [
-            "Volumen Salamandrae"
+            "Hỏa Tích Chi Quyển"
         ],
         "subtitle": [
-            "\"Yes, they do like chili peppers...\""
+            "\"Đúng vậy, chúng thật sự thích ớt cay...\""
         ],
         "description": [
-            "A grimoire bound with salamander scales. Though it resembles",
-            "an encyclopedia, its records of volcano-dwelling salamanders ",
-            "grant deeper insight into fire when studied."
+            "Một quyển ma thư được đóng bằng vảy kỳ nhông lửa. Dù trông giống",
+            "một bách khoa toàn thư, nhưng những ghi chép về loài kỳ nhông sống trong ",
+            "núi lửa mang lại cái nhìn sâu sắc hơn về lửa khi nghiên cứu."
         ],
         "ability": [
-            "Strengthens the damage and form of fire-element magic"
+            "Tăng cường sát thương và hình thái của ma pháp nguyên tố lửa"
         ]
     },
     "80": {

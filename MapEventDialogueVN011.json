@@ -1,7 +1,7 @@
 {
     "1": {
         "0": [
-            "Mãn Hán Toàn Tịch..."				
+            "Yến Tiệc Mãn Hán..."				
 		],
         "1": [
             "Đói quá đi..."			
@@ -9,42 +9,42 @@
     },
     "2": {
         "0": [
-            "\\nl< >\"\\str[121]! Is there anything you’d like to eat!?\""
+            "\\nl< >\"\\str[121]! Anh có muốn ăn gì không!?\""
         ],
         "1": [
-            "She’s being so eager for once—",
-            "what should I even ask for?"
+            "Hôm nay em ấy lại nhiệt tình thế này—",
+            "mình nên nhờ làm món gì đây nhỉ?"
         ],
         "2": [
-            "Eat you!",
-            "Meat dishes!",
-            "Vegetable dishes!",
-            "Anything’s fine"
+            "Ăn em!",
+            "Món thịt!",
+            "Món rau!",
+            "Gì cũng được"
         ],
         "3": [
-            "\\nl< >\"Geez~ I’m not food, you know!          \\w[90]",
-            "If \\str[121] doesn’t have anything special in mind,",
-            "I’ll come up with a menu myself!\""
+            "\\nl< >\"Thật là~ em đâu phải đồ ăn đâu nhé!          \\w[90]",
+            "Nếu \\str[121] không có món nào đặc biệt muốn ăn,",
+            "thì em sẽ tự nghĩ ra!\""
         ],
         "4": [
             "\\nl< >\"Ehehe~ \\str[121]!",
-            "you’ve finally realized how delicious meat is!\""
+            "cuối cùng anh cũng nhận ra thịt ngon đến mức nào rồi nhỉ!\""
         ],
         "5": [
-            "\\nl< >\"Just wait,",
-            "I’ll make you a huge steak!\""
+            "\\nl< >\"Chờ chút nhé,",
+            "em sẽ làm cho anh một phần bít tết thật to!\""
         ],
         "6": [
-            "\\nl< >\"But… we don’t have enough ingredients…",
-            "I might only be able to make something else today.\""
+            "\\nl< >\"Nhưng mà... trong nhà không đủ nguyên liệu...",
+            "hôm nay chắc chỉ có thể làm món khác thôi.\""
         ],
         "7": [
-            "\\nl< >\"It’s not really my favorite…     \\w[120]",
-            "but since \\str[121] says wants it, I’ll do my best!\""
+            "\\nl< >\"Thật ra em không thích món này lắm...     \\w[120]",
+            "nhưng vì \\str[121] muốn ăn, nên em sẽ cố hết sức!\""
         ],
         "8": [
-            "\\nl< >\"So \\str[121], just sit nicely at the table ",
-            "and wait for the food to be ready!\"        \\w[120]"
+            "\\nl< >\"Vậy nên, \\str[121] cứ ngồi ngoan ngoãn ở bàn đi ",
+            "và chờ đồ ăn được dọn ra nhé!\"        \\w[120]"
         ]
     },		
     "5": {
@@ -224,14 +224,14 @@
         ],
         "4": [
             "\\nl< >\\{\"\\str[121]!",
-            "do you want to eat the food I make!?\""
+            "anh có muốn ăn món em nấu không!?\""
         ],
         "5": [
-            "\\nl< >\"Oh my, I really can’t say no to you~\""
+            "\\nl< >\"Trời ơi, đúng là em chẳng thể từ chối anh được~\""
         ],
         "6": [
-            "\\nl< >\"Leave it to me! ",
-            "I’m confident I can make something really tasty!\""
+            "\\nl< >\"Cứ để em lo! ",
+            "Em tự tin là mình có thể nấu ra món gì đó thật ngon!\""
         ]			
     },
     "22": {

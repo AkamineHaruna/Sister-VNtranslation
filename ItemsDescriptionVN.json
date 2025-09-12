@@ -360,15 +360,15 @@
             "Kenaz"
         ],
         "subtitle": [
-            "\"Power of Explosion\""
+            "\"Sức mạnh Vụ Nổ\""
         ],
         "description": [
-            "A stone engraved with magic runes, designed so even novices with ",
-            "no knowledge of magic can easily activate its effect"
+            "Một hòn đá khắc các phù văn ma pháp, được thiết kế để ngay cả những người mới ",
+            "không có kiến thức về ma pháp cũng có thể dễ dàng kích hoạt hiệu ứng của nó"
         ],
         "ability": [
-            "Throws and turns the target it touches into a bomb",
-            "Detonates in 5s, with larger targets causing a wider blast"
+            "Ném và biến mục tiêu mà nó chạm vào thành một quả bom",
+            "Phát nổ sau 5 giây, mục tiêu càng lớn thì vụ nổ càng to"
         ]
     },
     "43": {
@@ -392,7 +392,7 @@
             "Raido"
         ],
         "subtitle": [
-            "\"Sức mạnh của việc Cưỡi\""
+            "\"Sức mạnh Cưỡi\""
         ],
         "description": [
             "Một viên thạch khắc. Thiết kế sao cho",
@@ -982,15 +982,15 @@
     },
     "122": {
         "name": [
-            "ASABA's Strawberry"
+            "Dâu Tây Của ASABA"
         ],
         "subtitle": [
-            "\"Mmm… strawberries… my strawberries…\""
+            "\"Mmm... dâu tây... dâu tây của ta...\""
         ],
         "description": [
-            "ASABA’s most treasured, high-quality strawberry that it can’t bear",
-            "to eat. But even after desperately guarding it until the very end",
-            "it still ends up as nothing more than a trophy—"
+            "Quả dâu tây thượng hạng, quý giá nhất mà ASABA không nỡ",
+            "ăn. Nhưng cho dù có tuyệt vọng bảo vệ nó đến đầu thì",
+            "cuối cùng nó vẫn chỉ là một vật trưng bày không hơn—"
         ],
         "ability": ""
     },
@@ -1207,16 +1207,16 @@
     },
     "197": {
         "name": [
-            "Elixir Rubrum"
+            "Xích Sắc Linh Dược"
         ],
         "subtitle": [
             "\"Haec est totius fortitudinis fortitudo fortis,  ",
             "quia vincet omnem rem subtilem, omnemque solidam penetrabit.\""
         ],
         "description": [
-            "The reddened Philosopher's Fragment flows like blood",
-            "Its proper use is still unknown, but for now, ",
-            "just try drinking it like a beverage…"
+            "Mảnh Triết Gia nhuốm đỏ tuôn chảy như máu",
+            "Cách sử dụng đúng đắn vẫn chưa được biết, nhưng hiện tại, ",
+            "hãy thử uống nó như một loại đồ uống..."
         ],
         "ability": [
             ""
