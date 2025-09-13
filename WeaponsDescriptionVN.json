@@ -265,6 +265,20 @@
             "Có thể triệu hồi một thiên thạch rơi xuống vị trí ngẫu nhiên khi tấn công"
         ]
     },
+    "20": {
+		"name": [
+			"Rusty Iron Sword"
+		],
+		"subtitle": "",
+		"description": [
+			"An old iron sword covered in rust, long since lost its sharpness",
+			"From another perspective, the corrosion itself is dangerously lethal..."
+		],
+		"ability": [
+			"15% chance to inflict Poison state on attack",
+			"Always inflicts Poison on bleeding targets"
+		]
+	},
     "21": {
         "name": [
             "Từ Địa Ngục"
@@ -280,6 +294,20 @@
             "45% cơ hội gây trạng thái Chảy Máu khi tấn công"
         ]
     },
+    "22": {
+		"name": [
+			"Forging Hammer"
+		],
+		"subtitle": [],
+		"description": [
+			"A heavy hammer once used by blacksmiths to forge metal",
+			"Now held in someone’s hand and used for all sorts of odd purposes"
+		],
+		"ability": [
+			"Striking a weapon placed on the anvil repairs it",
+			"Unequipping this hammer also dispels the summoned anvil"
+		]
+	},
     "24": {
         "name": [
             "Rìu Orc Bão Tố"
@@ -451,7 +479,8 @@
             "khiến Hầu Gái Thỏ thèm đến phát khóc"
         ],
         "ability": [
-            "Khi ném, ép mục tiêu phải ăn"
+            "Khi ném, ép mục tiêu phải ăn",
+            "When thrown, it pierces and hits all units in its path"
         ]
     },
     "55": {
