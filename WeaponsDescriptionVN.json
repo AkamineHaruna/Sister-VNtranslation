@@ -69,7 +69,7 @@
     },
     "6": {
         "name": [
-            "Trượng Dung Nham"
+            "Hỏa Linh Trượng"
         ],
         "subtitle": "",
         "description": [
@@ -137,7 +137,7 @@
     },
     "11": {
         "name": [
-            "Búa Nặng"
+            "Trọng Búa"
         ],
         "subtitle": "",
         "description": [
@@ -160,7 +160,7 @@
         ],
         "ability": [
             "Tăng độ bền!",
-			"Sát thương nhân lên khi đánh bật vật thể bay"
+			      "Sát thương nhân lên khi đánh bật vật thể bay"
         ]
     },
     "13": {
@@ -197,8 +197,8 @@
             "Hàn Nguyệt"
         ],
         "subtitle": [
-		    "\"Liếm lưỡi kiếm rồi bị dính lưỡi... Lạnh quá, đau quá!\"",
-			"\"\\str[121], đừng liếm linh tinh nữa!\""
+		        "\"Liếm lưỡi kiếm rồi bị dính lưỡi... Lạnh quá, đau quá!\"",
+		       	"\"\\str[121], đừng liếm linh tinh nữa!\""
 		],
         "description": [
             "Một thanh kiếm ma thuật làm từ băng, chỉ cần lại gần đã thấy lạnh buốt"
@@ -209,7 +209,7 @@
     },
     "16": {
         "name": [
-            "Kiếm Rò Rỉ Điện"
+            "Kiếm Sét Rò Rỉ"
         ],
         "subtitle": [
             "\"Tách... tách...!\""		
@@ -224,7 +224,7 @@
     },
     "17": {
         "name": [
-            "Nhật Diễm"
+            "Ngọn Lửa Thái Dương"
         ],
         "subtitle": [
             "\"\\str[121], nhìn đáng sợ quá, đừng cầm nó nhé.\""		
@@ -243,8 +243,8 @@
         ],
         "subtitle": "",
         "description": [
-            "Một chiếc rìu lớn làm từ xương của kẻ thù bị đánh bại. Không",
-            "quá sắc bén, và orc thường thích ném nó hơn là",
+            "Một chiếc rìu lớn làm từ xương của kẻ thù bị đánh bại.",
+            "Không quá sắc bén, và orc thường thích ném nó hơn là",
             "dùng trong cận chiến"
         ],
         "ability": [
@@ -266,22 +266,22 @@
         ]
     },
     "20": {
-		"name": [
-			"Rusty Iron Sword"
-		],
-		"subtitle": "",
-		"description": [
-			"An old iron sword covered in rust, long since lost its sharpness",
-			"From another perspective, the corrosion itself is dangerously lethal..."
-		],
-		"ability": [
-			"15% chance to inflict Poison state on attack",
-			"Always inflicts Poison on bleeding targets"
+		    "name": [
+			      "Kiếm Rỉ Sét"
+	    	],
+		    "subtitle": "",
+		    "description": [
+			      "Thanh kiếm sắt cũ, rỉ sét bám đầy, sắc bén đã phai nhạt từ lâu.",
+			      "Nhìn từ góc độ khác, chính sự ăn mòn ấy lại trở nên nguy hiểm chết người…"
+		    ],
+		    "ability": [
+			      "15% khả năng gây trạng thái Độc khi tấn công",
+			      "Luôn gây Độc với mục tiêu đang chảy máu."
 		]
 	},
     "21": {
         "name": [
-            "Từ Địa Ngục"
+            "Địa Ngục Khởi Nguyên"
         ],
         "subtitle": [
             "\"Thứ này khát máu...\""		
@@ -295,17 +295,17 @@
         ]
     },
     "22": {
-		"name": [
-			"Forging Hammer"
-		],
-		"subtitle": [],
-		"description": [
-			"A heavy hammer once used by blacksmiths to forge metal",
-			"Now held in someone’s hand and used for all sorts of odd purposes"
-		],
-		"ability": [
-			"Striking a weapon placed on the anvil repairs it",
-			"Unequipping this hammer also dispels the summoned anvil"
+		    "name": [
+			      "Búa Rèn"
+		    ],
+		    "subtitle": [],
+		    "description": [
+			      "Một chiếc búa nặng từng được thợ rèn dùng để rèn kim loại.",
+			      "Giờ đây, nó được cầm trên tay ai đó, dùng cho những mục đích quái dị và bất thường."
+		    ],
+		    "ability": [
+			      "Đập vào vũ khí đặt trên đe sẽ sửa chữa nó",
+			      "Khi rút búa khỏi tay, đe triệu hồi cũng tan biến."
 		]
 	},
     "24": {
@@ -324,7 +324,7 @@
     },
     "26": {
         "name": [
-            "Đêm Sao"
+            "Đêm Sao Lấp Lánh"
         ],
         "subtitle": "",
         "description": [
@@ -352,7 +352,7 @@
     },
     "30": {
         "name": [
-            "Kanesada"
+            "Kiếm Kanesada"
         ],
         "subtitle": "",
         "description": [
@@ -366,7 +366,7 @@
     },
     "35": {
         "name": [
-            "Claíomh Solais"
+            "Quang Vũ"
         ],
         "subtitle": [
             "\"Hả? Mình không thấy gì cả! Đây đâu phải chuôi kiếm!?\""		
@@ -381,7 +381,7 @@
     },
     "36": {
         "name": [
-            "Tyrfing"
+            "Kiếm Tyrfing"
         ],
         "subtitle": "",
         "description": [
@@ -398,7 +398,7 @@
             "Búa Chống Bắt Nạt"
         ],
         "subtitle": [
-		    "\"KHÔNG ĐƯỢC BẮT NẠT!!\""
+		        "\"KHÔNG ĐƯỢC BẮT NẠT!!\""
 		],
         "description": [
             "Vũ khí sinh ra để trừng phạt những nhà thám mạo hiểm xấu xa. ",
@@ -406,15 +406,15 @@
         ],
         "ability": [
             "Gây sát thương phản lại khi dùng cho việc xấu",
-			"Giá trị Tội Lỗi càng thấp, sát thương càng cao"
+			      "Giá trị Tội Lỗi càng thấp, sát thương càng cao"
         ]
     },
     "42": {
         "name": [
-            "Lưỡi Hái Của Den"
+            "Đoạt Hồn Liềm Den"
         ],
         "subtitle": [
-		    "\"Nhớ nhé, Chém Xoáy dùng như thế này! \""
+		        "\"Nhớ nhé, Chém Xoáy dùng như thế này! \""
 		],
         "description": [
             "Lưỡi hái cán ngắn của người ngoài với thiết kế đáng sợ",
@@ -423,7 +423,7 @@
         ],
         "ability": [
             "Tự động tìm mục tiêu khi ném",
-			"Ý chí mạnh mẽ sẽ giúp bạn làm chủ kỹ năng chiến đấu đặc biệt"
+			      "Ý chí mạnh mẽ sẽ giúp bạn làm chủ kỹ năng chiến đấu đặc biệt"
         ]
     },
     "51": {
@@ -434,11 +434,11 @@
         "description": [
             "Vũ khí ăn được do Kanban Musume của NLCH chế tạo",
             "Que Kem ba vị: sô-cô-la, kem và dâu tây",
-			"Mát lạnh và ngon tuyệt! Nhưng nhớ ăn hết trước khi nó tan chảy..."
+			      "Mát lạnh và ngon tuyệt! Nhưng nhớ ăn hết trước khi nó tan chảy..."
         ],
         "ability": [
-            "Might get eaten when attacking...",
-			"Melts and disappears over time when equipped..."
+            "Có thể bị ăn thịt khi tấn công…",
+			      "Khi trang bị, sẽ tan chảy và biến mất theo thời gian…"
         ]
     },
     "52": {
@@ -480,7 +480,7 @@
         ],
         "ability": [
             "Khi ném, ép mục tiêu phải ăn",
-            "When thrown, it pierces and hits all units in its path"
+            "Khi ném, vật này xuyên thủng và trúng tất cả đơn vị trên đường đi."
         ]
     },
     "55": {
@@ -568,7 +568,7 @@
     },
     "62": {
         "name": [
-            "Cành Cây Cổ Đại"
+            "Nhánh Cây Cổ Đại"
         ],
         "subtitle": "",
         "description": [
@@ -599,12 +599,12 @@
             "Vinh Quang Cổ Đại"
         ],
         "subtitle": [
-            "\"Giải phóng Sức Mạnh Vàng ⬆⬆⬇⬇⬅⮕⬅⮕\""
+            "\"Giải phóng quyền năng Hoàng Kim ⬆⬆⬇⬇⬅⮕⬅⮕\""
         ],
         "description": [
             "Thanh kiếm quỷ vàng rực rỡ, một trong những bảo vật của ",
             "Quản trị viên Thế giới. Người đó từng cầm nó, ",
-			"chiến đấu dưới vực thẳm suốt ba ngày ba đêm không nghỉ"
+			      "chiến đấu dưới vực thẳm suốt ba ngày ba đêm không nghỉ"
         ],
         "ability": [
             "Giải phóng sức mạnh khi nhập lệnh bí mật"
@@ -636,7 +636,7 @@
         ],
         "ability": [
             "Gây thêm sát thương lên kẻ địch đang Chảy Máu",
-			"Hút máu nếu mục tiêu chết khi đang Chảy Máu"
+			      "Hút máu nếu mục tiêu đã chết khi đang Chảy Máu"
         ]
     },
     "101": {
@@ -669,7 +669,7 @@
     },
     "103": {
         "name": [
-            "Mây Tàn Hoàng"
+            "Mây Hoàng Hôn"
         ],
         "subtitle": "",
         "description": [
@@ -716,8 +716,8 @@
         "subtitle": "",
         "description": [
             "Di vật của vực thẳm, cây cung hình thù kỳ lạ có thể",
-            "bắn nhiều mũi tên cùng lúc. Tuy nhiên,",
-            "cây cung ma thuật này vẫn bị phong ấn, sức mạnh thật chưa được giải phóng"
+            "bắn nhiều mũi tên cùng lúc. Tuy nhiên, cây cung ma thuật này vẫn bị phong ấn",
+            "sức mạnh thật sự chưa được giải phóng"
         ],
         "ability": [
             "Giữ chuột phải để tích lực và bắn \\c[27]Mũi Tên Xuyên Phá\\c[0]"
@@ -735,7 +735,7 @@
         ],
         "ability": [
             "Giữ chuột phải để tích lực và bắn \\c[27]Mũi Tên Máu Xuyên Phá\\c[0]",
-			"Tiêu hao HP để cường hóa mũi tên. Mũi tên khi kết liễu sẽ hút máu"
+			      "Tiêu hao HP để cường hóa mũi tên. Mũi tên khi kết liễu sẽ hút máu"
         ]
     }
 }
