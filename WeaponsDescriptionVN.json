@@ -160,7 +160,7 @@
         ],
         "ability": [
             "Tăng độ bền!",
-			      "Sát thương nhân lên khi đánh bật vật thể bay"
+			"Sát thương nhân lên khi đánh bật vật thể bay"
         ]
     },
     "13": {
@@ -197,8 +197,8 @@
             "Hàn Nguyệt"
         ],
         "subtitle": [
-		        "\"Liếm lưỡi kiếm rồi bị dính lưỡi... Lạnh quá, đau quá!\"",
-		       	"\"\\str[121], đừng liếm linh tinh nữa!\""
+		    "\"Liếm lưỡi kiếm rồi bị dính lưỡi... Lạnh quá, đau quá!\"",
+		    "\"\\str[121], đừng liếm linh tinh nữa!\""
 		],
         "description": [
             "Một thanh kiếm ma thuật làm từ băng, chỉ cần lại gần đã thấy lạnh buốt"
@@ -266,17 +266,17 @@
         ]
     },
     "20": {
-		    "name": [
-			      "Kiếm Rỉ Sét"
-	    	],
-		    "subtitle": "",
-		    "description": [
-			      "Thanh kiếm sắt cũ, rỉ sét bám đầy, sắc bén đã phai nhạt từ lâu.",
-			      "Nhìn từ góc độ khác, chính sự ăn mòn ấy lại trở nên nguy hiểm chết người…"
-		    ],
-		    "ability": [
-			      "15% khả năng gây trạng thái Độc khi tấn công",
-			      "Luôn gây Độc với mục tiêu đang chảy máu."
+		"name": [
+			"Kiếm Rỉ Sét"
+	    ],
+		"subtitle": "",
+		"description": [
+			"Thanh kiếm sắt cũ, rỉ sét bám đầy, sắc bén đã phai nhạt từ lâu.",
+			"Nhìn từ góc độ khác, chính sự ăn mòn ấy lại trở nên nguy hiểm chết người…"
+		],
+		"ability": [
+			"15% khả năng gây trạng thái Độc khi tấn công",
+			"Luôn gây Độc với mục tiêu đang chảy máu."
 		]
 	},
     "21": {
@@ -295,17 +295,17 @@
         ]
     },
     "22": {
-		    "name": [
-			      "Búa Rèn"
-		    ],
-		    "subtitle": [],
-		    "description": [
-			      "Một chiếc búa nặng từng được thợ rèn dùng để rèn kim loại.",
-			      "Giờ đây, nó được cầm trên tay ai đó, dùng cho những mục đích quái dị và bất thường."
-		    ],
-		    "ability": [
-			      "Đập vào vũ khí đặt trên đe sẽ sửa chữa nó",
-			      "Khi rút búa khỏi tay, đe triệu hồi cũng tan biến."
+		"name": [
+			"Búa Rèn"
+		],
+		"subtitle": [],
+		"description": [
+			"Một chiếc búa nặng từng được thợ rèn dùng để rèn kim loại.",
+			"Giờ đây, nó được cầm trên tay ai đó, dùng cho những mục đích quái dị và bất thường."
+		],
+		"ability": [
+			"Đập vào vũ khí đặt trên đe sẽ sửa chữa nó",
+			"Khi rút búa khỏi tay, đe triệu hồi cũng tan biến."
 		]
 	},
     "24": {
@@ -398,7 +398,7 @@
             "Búa Chống Bắt Nạt"
         ],
         "subtitle": [
-		        "\"KHÔNG ĐƯỢC BẮT NẠT!!\""
+		    "\"KHÔNG ĐƯỢC BẮT NẠT!!\""
 		],
         "description": [
             "Vũ khí sinh ra để trừng phạt những nhà thám mạo hiểm xấu xa. ",
@@ -406,7 +406,7 @@
         ],
         "ability": [
             "Gây sát thương phản lại khi dùng cho việc xấu",
-			      "Giá trị Tội Lỗi càng thấp, sát thương càng cao"
+			"Giá trị Tội Lỗi càng thấp, sát thương càng cao"
         ]
     },
     "42": {
@@ -414,7 +414,7 @@
             "Đoạt Hồn Liềm Den"
         ],
         "subtitle": [
-		        "\"Nhớ nhé, Chém Xoáy dùng như thế này! \""
+		    "\"Nhớ nhé, Chém Xoáy dùng như thế này! \""
 		],
         "description": [
             "Lưỡi hái cán ngắn của người ngoài với thiết kế đáng sợ",
@@ -423,7 +423,7 @@
         ],
         "ability": [
             "Tự động tìm mục tiêu khi ném",
-			      "Ý chí mạnh mẽ sẽ giúp bạn làm chủ kỹ năng chiến đấu đặc biệt"
+			"Ý chí mạnh mẽ sẽ giúp bạn làm chủ kỹ năng chiến đấu đặc biệt"
         ]
     },
     "51": {
@@ -434,11 +434,11 @@
         "description": [
             "Vũ khí ăn được do Kanban Musume của NLCH chế tạo",
             "Que Kem ba vị: sô-cô-la, kem và dâu tây",
-			      "Mát lạnh và ngon tuyệt! Nhưng nhớ ăn hết trước khi nó tan chảy..."
+			"Mát lạnh và ngon tuyệt! Nhưng nhớ ăn hết trước khi nó tan chảy..."
         ],
         "ability": [
             "Có thể bị ăn thịt khi tấn công…",
-			      "Khi trang bị, sẽ tan chảy và biến mất theo thời gian…"
+			"Khi trang bị, sẽ tan chảy và biến mất theo thời gian…"
         ]
     },
     "52": {
@@ -604,7 +604,7 @@
         "description": [
             "Thanh kiếm quỷ vàng rực rỡ, một trong những bảo vật của ",
             "Quản trị viên Thế giới. Người đó từng cầm nó, ",
-			      "chiến đấu dưới vực thẳm suốt ba ngày ba đêm không nghỉ"
+			"chiến đấu dưới vực thẳm suốt ba ngày ba đêm không nghỉ"
         ],
         "ability": [
             "Giải phóng sức mạnh khi nhập lệnh bí mật"
@@ -636,7 +636,7 @@
         ],
         "ability": [
             "Gây thêm sát thương lên kẻ địch đang Chảy Máu",
-			      "Hút máu nếu mục tiêu đã chết khi đang Chảy Máu"
+			"Hút máu nếu mục tiêu đã chết khi đang Chảy Máu"
         ]
     },
     "101": {
@@ -735,7 +735,7 @@
         ],
         "ability": [
             "Giữ chuột phải để tích lực và bắn \\c[27]Mũi Tên Máu Xuyên Phá\\c[0]",
-			      "Tiêu hao HP để cường hóa mũi tên. Mũi tên khi kết liễu sẽ hút máu"
+		    "Tiêu hao HP để cường hóa mũi tên. Mũi tên khi kết liễu sẽ hút máu"
         ]
     }
 }
