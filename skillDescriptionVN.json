@@ -165,6 +165,24 @@
         "ability": [
 		    "Tăng độ Tội Lỗi dựa trên số lượng đồ con gái bạn mặt trên người!"
 		]
+    },
+    "16": {
+        "name": [
+            "Bladekeepers"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "\"No matter how you swing your weapons!\" \"We’ll rise to call you out!\"",
+            "\"To stop the blades from wearing away!\" \"To protect the dignity of arms!\"",
+            "\"For we believe the sword is master, and humans are but servants!\"",
+            "\"The most absurd yet unshakable believers!\"",
+            "\"We are—Weapon Preservationists—the Bladekeepers!\""
+        ],
+        "ability": [
+            "Wearing the badge makes you one of them now"
+        ]
     },		
     "18": {
         "name": [
