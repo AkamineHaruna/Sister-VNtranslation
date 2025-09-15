@@ -1,7 +1,7 @@
 {
 	"skillToggle": [
         "Kích hoạt",
-		"Ngừng kích hoạt"
+		"Vô hiệu"
     ],	
     "1": {
         "name": [
@@ -22,7 +22,7 @@
     },	
     "2": {
         "name": [
-            "Senpo"
+            "Senpo (Huyền Pháp)"
         ],
         "subtitle": [
 		    ""
@@ -38,7 +38,7 @@
     },
     "3": {
         "name": [
-            "Senpo Tachi"
+            "Senpo Tachi (Huyền Đao Pháp)"
         ],
         "subtitle": [
 		    ""
@@ -59,7 +59,7 @@
     },
     "4": {
         "name": [
-            "Chém Xoáy"
+            "Whirlwind Slash (Phong Trảm Cuồng Lốc)"
         ],
         "subtitle": [
 		    ""
@@ -80,15 +80,15 @@
     },	
     "7": {
         "name": [
-            "Cảm Nhận Nguy Hiểm"
+            "Danger Sense (Trực giác nguy hiểm)"
         ],
         "subtitle": [
 		    ""
 		],
         "description": [
-            "Thường được gọi là 'Con Mắt Tâm Trí', nhưng thực ra đây là ",
-            "một giác quan được mài giũa qua vô số lần thoát chết trong gang tấc.",
-			"Nói cách khác, nó giống như một phản xạ do sang chấn hơn là một kỹ năng thật sự..."
+            "Thường được gọi là 'Con Mắt Tâm Trí', nhưng thực ra đây là một giác quan ",
+            "được mài giũa qua vô số lần thoát chết trong gang tấc. Nói cách khác, nó giống như",
+			"một phản xạ do sang chấn hơn là một kỹ năng thật sự..."
         ],
         "ability": [
 		    "Di chuột qua mục tiêu để xem thông tin chi tiết"
@@ -99,7 +99,7 @@
     },	
     "10": {
         "name": [
-            "Ẩn Hơi Thở"
+            "Ẩn Thân Chi Thuật"
         ],
         "subtitle": [
 		    "true"
@@ -116,7 +116,7 @@
     },	
     "11": {
         "name": [
-            "Đâm Lén"
+            "Backstab (Ám Kích)"
         ],
         "subtitle": [
 		    "true"
@@ -132,7 +132,7 @@
     },
     "12": {
         "name": [
-            "Vô Song Bạo Lưu"
+            "Musou Burst Stream (Vô Song Bạo Lưu)"
         ],
         "subtitle": [
             ""
@@ -150,7 +150,7 @@
     },
     "15": {
         "name": [
-            "Giả Gái"
+            "Giả gái (Femboy??)"
         ],
         "subtitle": [
 		    ""
@@ -165,28 +165,10 @@
         "ability": [
 		    "Tăng độ Tội Lỗi dựa trên số lượng đồ con gái bạn mặt trên người!"
 		]
-    },
-    "16": {
-        "name": [
-            "Bladekeepers"
-        ],
-        "subtitle": [
-            ""
-        ],
-        "description": [
-            "\"No matter how you swing your weapons!\" \"We’ll rise to call you out!\"",
-            "\"To stop the blades from wearing away!\" \"To protect the dignity of arms!\"",
-            "\"For we believe the sword is master, and humans are but servants!\"",
-            "\"The most absurd yet unshakable believers!\"",
-            "\"We are—Weapon Preservationists—the Bladekeepers!\""
-        ],
-        "ability": [
-            "Wearing the badge makes you one of them now"
-        ]
     },		
     "18": {
         "name": [
-            "Phá Vũ Khí"
+            "Phá Hủy Vũ Khí"
         ],
         "subtitle": [
 		    ""
