@@ -214,7 +214,7 @@
 			},
 			"4": {
 				"description": [
-					"\\str[120] có vẻ hơi lạ",
+					"\\str[120] có vẻ hơi bối rối",
 					"Không biết nên làm gì đây..."
 				]
 			},
@@ -262,7 +262,7 @@
 			"4": {
 				"description": [
 					"Em ấy có vẻ nửa tỉnh nửa mê",
-					"lẩm bẩm vô thức"
+					"lẩm bẩm trong vô thức"
 				]
 			},
 			"5": {
@@ -296,7 +296,7 @@
 			},
 			"2": {
 				"description": [
-					"\\str[120] trông như ",
+					"\\str[120] có vẻ như ",
 					"muốn giúp một tay"
 				]
 			}
@@ -313,7 +313,7 @@
 		"variants": {
 			"0": {
 				"description": [
-					"\\str[120] ang liếm cây kem...",
+					"\\str[120] đang liếm cây kem...",
 					"trông cực kì ngây thơ..."
 				]
 			}
