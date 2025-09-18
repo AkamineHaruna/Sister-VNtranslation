@@ -1744,5 +1744,17 @@
             "Công dụng chính là làm nguyên liệu tiêu thụ cho phép thuật"
         ],
         "ability": ""
+    },
+    "314": {
+        "name": [
+            "Red Rhomboid Stone"
+        ],
+        "subtitle": "",
+        "description": [
+            "A red gemstone with a captivating glow",
+            "While lacking practical value, someone might pay a high price for it…",
+            "or have other intentions?"
+        ],
+        "ability": ""
     }
 }

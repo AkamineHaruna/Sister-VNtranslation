@@ -147,24 +147,6 @@
             "Lệnh kỹ năng:  \\{⬆⬇⬅⮕⬆⬇\\}",
             "Mỗi lần sử dụng kỹ năng sẽ tiêu hao một phần HP"
         ]
-    },
-    "16": {
-        "name": [
-            "Bladekeepers (Thủ Hộ Giả)"
-        ],
-        "subtitle": [
-		    ""
-		],
-        "description": [
-            "\"Dù ngươi vung vũ khí thế nào đi nữa!\" \"Chúng ta sẽ đứng lên thách thức ngươi!\"",
-			"\"Để vũ khí không bị hao mòn!\" \"Để bảo vệ phẩm giá của binh khí!\"",
-            "\"Vì chúng ta tin rằng kiếm mới là chủ, còn con người chỉ là kẻ phục tùng!\"",
-			"\"Những kẻ cuồng tín hoang đường nhất, nhưng cũng kiên định không lay chuyển\"",
-			"\"Chúng ta là—Những Kẻ Bảo Tồn Vũ Khí—Thủ Hộ Giả!\""
-        ],
-        "ability": [
-		    "Đeo huy hiệu này, giờ bạn đã trở thành một thành viên của họ."
-		]
     },			
     "15": {
         "name": [
@@ -182,6 +164,24 @@
         ],
         "ability": [
 		    "Tăng độ Tội Lỗi dựa trên số lượng đồ con gái bạn mặt trên người!"
+		]
+    },
+    "16": {
+        "name": [
+            "Bladekeepers (Thủ Hộ Giả)"
+        ],
+        "subtitle": [
+		    ""
+		],
+        "description": [
+            "\"Dù ngươi vung vũ khí thế nào đi nữa!\" \"Chúng ta sẽ đứng lên thách thức ngươi!\"",
+			"\"Để vũ khí không bị hao mòn!\" \"Để bảo vệ phẩm giá của binh khí!\"",
+            "\"Vì chúng ta tin rằng kiếm mới là chủ, còn con người chỉ là kẻ phục tùng!\"",
+			"\"Những kẻ cuồng tín hoang đường nhất, nhưng cũng kiên định không lay chuyển\"",
+			"\"Chúng ta là—Những Kẻ Bảo Tồn Vũ Khí—Thủ Hộ Giả!\""
+        ],
+        "ability": [
+		    "Đeo huy hiệu này, giờ bạn đã trở thành một thành viên của họ."
 		]
     },		
     "18": {
