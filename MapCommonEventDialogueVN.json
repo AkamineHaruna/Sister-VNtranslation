@@ -13,7 +13,7 @@
     },		
     "imoutoAhoge": {
         "0": [
-            "Vô tình kéo ra ahoge của em gái."
+            "Vô tình giật cọng ahoge của em gái."
 		],
 		"1": [
             "Em ấy dường như không để ý thấy điều gì bất thường ",
@@ -22,11 +22,11 @@
         ],
         "2": [
             "\\nl< >\"...Có chuyện gì vậy, Onii-chan?",
-			"Nhìn anh trông rất căng thẳng.\""
+			"Nhìn anh trông căng thẳng thế.\""
         ],
         "3": [
             "Việc này hơi khó nói, ",
-			"nên em đừng nghĩ quá nhiều về nó."
+			"nên em không cần nghĩ nhiều về nó đâu."
         ],
         "4": [
             "Tốt nhất không nên chạm vào nó lần nữa..."
@@ -44,7 +44,7 @@
             "\\ii[\\v[\\v[85]]]đã sẵn sàng. Tôi nên làm gì tiếp?"
 		],
 		"1": [
-            "Đổi nó",
+            "Đổi lại",
 			"Loại bỏ nó"
         ],
         "2": [
@@ -89,7 +89,7 @@
         "5": [
             "\"Không hẳn... Nhân tiện, ",
 			"Anh đã nghe thấy một số âm thanh lạ ",
-			"suốt một khoảng thời gian rồi...\""
+			"khoảng một lúc rồi...\""
 		],	
         "6": [
             "\\nl< >\"Eh hehe, đó là    \\w[60]",
@@ -177,8 +177,8 @@
 			"Cô ấy đói đến mức gần như bất tỉnh sao...?"
 		],	
         "5": [
-            "Tuyệt vời! Có một đống lửa trại ở đây.",
-			"Mình sẽ nấu cho cô ấy gì đó ăn!"		
+            "Tuyệt! Có sẵn một đống lửa trại ở đây.",
+			"Mình sẽ nấu cho cô ấy gì đó ăn vậy!"		
 		],
         "6": [
             "Mình có nên dùng \\ii[\\v[90]]     ",
