@@ -61,7 +61,7 @@
             "Tôi làm một bữa sáng đơn giản từ những nguyên liệu còn thừa."
         ],
         "2": [
-            "\"Ooh—!? Nó đang phát sáng—! Trông thật tuyệt vời!\""
+            "\"Ooh—!? Nó đang tỏa sáng—! Trông thật tuyệt vời!\""
         ],
         "3": [
             "Nấu ăn thành công!    \\w[30]",
@@ -78,8 +78,8 @@
 			"Nó bị cháy một chút..."
         ],
         "7": [
-            "Tôi ăn bữa sáng và nó có vị lạ lạ,",
-			"và chẳng hiểu sao có cảm giác không hề no..."
+            "Mình ăn bữa sáng có vị lạ lạ,",
+			"và chẳng hiểu sao có cảm giác không hề thỏa mãn..."
         ],
         "8": [
             "Aaaah————    \\w[30]",
@@ -149,7 +149,7 @@
         "0": [
             "\\nl< >\"\\str[121]... ",
 			"anh đã rửa sạch hết mùi trên cơ thể chưa vậy?",
-            "Lần sau đừng về nhà với quần áo bẩn thỉu như thế nữa nhé.\""			
+            "Lần sau đừng về nhà với quần áo dơ bẩn như thế nữa nhé.\""			
 		]			
     },
     "18": {
@@ -158,7 +158,7 @@
             "Aaah————\""			
 		],
 		"1": [
-            "......Hả? Déjà vu?",
+            "......Wut? Déjà vu?",
 			"Cảnh này cảm giác quen quen...!"
         ],
 		"2": [
@@ -166,7 +166,7 @@
 			"\\w[60]\\^"
         ],
 		"3": [
-            "\\nl< >\"Trời ơi, \\str[121]!",
+            "\\nl< >\"Trời ạ, \\str[121]!",
 			"Anh nên nhớ là anh đang bị thương đấy nhé!\""
         ],
 		"4": [
@@ -227,7 +227,7 @@
             "anh có muốn ăn món em nấu không!?\""
         ],
         "5": [
-            "\\nl< >\"Trời ơi, đúng là em chẳng thể từ chối anh được~\""
+            "\\nl< >\"Trời ạ, đúng là em chẳng thể từ chối anh được~\""
         ],
         "6": [
             "\\nl< >\"Cứ để em lo! ",
@@ -280,7 +280,7 @@
 			"Thế thì em sẽ nếm trước đi...\""
         ],
 		"10": [
-            "\\{  \"Để em thử! Làm ơn!\""
+            "\\{  \"Để anh thử! Làm ơn!\""
         ],
 		"11": [
             "Trước khi \\str[120] kịp phản ứng,",
@@ -308,7 +308,7 @@
         ],
 		"17": [
             "Ahh... món ăn do chính tay \\str[120] làm...",
-			"tiếc là mình không thể ăn hết..."
+			"tiếc là mình không thể ăn hết được..."
         ]			
     }
 }
