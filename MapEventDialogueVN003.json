@@ -1,14 +1,14 @@
 {
     "3": {
         "0": [
-            "Tôi định kiềm chế, nhưng cuối cùng, ",
-			"tôi không thể cưỡng lại. Trước khi nhận ra, ",
-			"tôi đã ở trong nhà tắm."
+            "Tôi định kiềm chế, nhưng cuối cùng thì ",
+			"lại không thể chịu được. Trước khi nhận ra, ",
+			"mình đã ở trong nhà tắm."
 		],
         "1": [
-            "Dù đây là nơi quen thuộc, ",
-			"lẻn vào như thế này",
-			"lại khiến mọi thứ trở nên hồi hộp và mới mẻ..."
+            "Dù đây là nơi quen thuộc, lẻn vào như thế này ",
+			"lại khiến mọi thứ trở nên hồi hộp và mới mẻ...",
+			" "
 		],
         "2": [
             "Tôi lẻn vào, từng bước nhẹ nhàng...!",
@@ -27,10 +27,10 @@
 			"\\str[120] phát hiện thì tệ lắm."
 		],
         "6": [
-            "Ừ, chẳng còn lâu nữa \\str[120] sẽ ra——"
+            "Phải, chẳng còn bao lâu nữa \\str[120] sẽ ra ngoài——"
 		],
         "7": [
-            "Có lẽ tôi sẽ ở lại đây thêm thêm một chút..."
+            "Có lẽ tôi sẽ ở lại đây thêm thêm một chút nữa..."
 		],
         "8": [
             "Tôi đã xâm nhập vào nhà tắm.",
@@ -43,7 +43,7 @@
 		],
         "10": [
             "Hmm... Tôi cần cẩn thận hơn,",
-			"tôi không muốn \\str[120] nghi ngờ..."
+			"mình không muốn \\str[120] nghi ngờ..."
 		],
         "11": [
             "Ừ... Tôi cần phải bình tĩnh lại.",
@@ -58,7 +58,7 @@
 			"........................"
 		],
         "14": [
-            "Whoa, với sự tập trung cao độ,",
+            "Thật kì diệu, với sự tập trung cao độ,",
 			"ngay cả tiếng nước từ vòi sen trong nhà tắm ",
 			"cũng rõ như ban ngày. Tôi thậm chí còn nghe thấy được ",
 			"giọng của \\str[120] một cách hoàn hảo—"
@@ -74,13 +74,13 @@
         "17": [
             "\\{Ở đây trong nhà tắm này!",
 			"Trong không gian chật hẹp đầy nguy hiểm!",
-			"Vận động cơ thể tôi!",
+			"Hãy để cơ thể ta chuyển động!",
 			"Mài giũa các kỹ năng giác quan và thăng bằng của ninja!"
 		],	
         "18": [
             "\\{Ở đây trong nhà tắm này!",
 			"Trong không gian chật hẹp đầy nguy hiểm!",
-			"Hãy để cơ thể tôi tự do vận động!"
+			"Hãy để cơ thể ta tự do vận động!"
 		],	
         "19": [
             "\\{...Hah!\\w[60] Hah!  \\w[60]"
@@ -106,8 +106,8 @@
 			"Bây giờ tôi có thể ra vào ngôi nhà này mà không phát ra âm thanh."
 		],
         "24": [
-            "Tôi là cái bóng! Tôi là gió! Tôi là— \\w[60]",
-			"...Không, tôi chỉ là kẻ ngốc đang nhảy trong nhà tắm..."
+            "Ta là cái bóng! Ta là ngọn gió! Ta là— \\w[60]",
+			"...Không, mình chỉ là kẻ ngốc đang nhảy trong nhà tắm..."
 		],	
         "25": [
             "...Nghĩ lại thì, ",
@@ -130,7 +130,7 @@
     "11": {
         "0": [
             "Sau khi rửa mặt, ",
-			"\\str[120] có vẻ năng động hơn hẳn.",
+			"\\str[120] có vẻ tươi tỉnh hơn hẳn.",
 			"Giờ chúng tôi đang đứng cạnh nhau, ",
 			"đánh răng trước gương."
 		],
@@ -138,7 +138,7 @@
             "Chia sẻ thói quen buổi sáng như thế này với em ấy ",
 			"thật hiếm hoi, và trong giây lát,",
 			"tôi cảm thấy hơi bồn chồn.",
-			"Ừm... chắc tôi sẽ chỉ nói chuyện phiếm thôi—"
+			"Ừm... chắc mình sẽ chỉ nói chuyện phiếm thôi—"
 		],
         "2": [
             "\"Hai cún... a ên ăn sán... ới kái ì hỉ...\""
@@ -164,28 +164,28 @@
     },
     "13": {
         "0": [
-            "\\nl< >\"...Lại một trò nghịch mới nữa, hả?\""
+            "\\nl< >\"...Lại một trò nghịch mới nữa à, hmm?\""
         ],
         "1": [
-            "Dù \\str[120] của tôi vẫn cố tỏ ra vẻ mạnh mẽ,",
+            "Dù \\str[120] của tôi vẫn cố tỏ ra vẻ mạnh miệng,",
             "em ấy cũng chỉ càu nhàu một chút thay vì đá tôi ra như lần trước."
        ],
         "2": [
-            "Tôi hiểu rồi, em ấy chỉ là hơi ngại tí thôi.",
+            "Mình hiểu rồi, em ấy chỉ là hơi ngại tí thôi.",
             "Em ấy chỉ cần một chút động viên ",
 	        "vào những lúc như thế này!"
         ],
         "3": [
-            "\"Thật ra, ",
-	        "tôi nghĩ mình lại bị Đại Ác Quỷ nguyền rủa lúc ở trong rừng nữa rồi.\""
+            "\"Thật ra, anh nghĩ mình ",
+	        "lại bị Ác Quỷ nguyền rủa lúc ở trong rừng nữa rồi.\""
         ],
         "4": [
-            "Ngay trước mặt \\str[120] của tôi, ",
+            "Ngay trước mặt \\str[120] của mình, ",
 	        "tôi kéo quần xuống chỉ trong một động tác,",
-            "lộ ra con cu cứng như đá, đang đung đưa."
+            "lộ ra dương vật cứng như đá, đang đung đưa."
         ],
         "5": [
-            "\\nl< >\"Này?! \\str[121]...!    \\w[30]",
+            "\\nl< >\"Ekk-Này?! \\str[121]...!    \\w[30]",
             "Sao anh lại cởi quần ở đây...?!\""
         ],
         "6": [
@@ -196,7 +196,7 @@
         "7": [
             "\"Con quỷ chết tiệt đó đã nguyền rủa anh, ",
 	        "biến con cu của anh thành một quả bom hẹn giờ.",
-            "Nếu chúng ta không lấy nó ra nhanh, cả nhà có thể nổ tung!\""
+            "Nếu chúng ta không thanh tẩy nó nhanh, cả nhà có thể nổ tung đó!\""
         ],
         "8": [
             "\\nl< >\"...V-Vậy chúng ta phải làm gì bây giờ?\""
@@ -209,21 +209,21 @@
             "\\nl< >\"Vậy sao anh không dùng tay của chính mình, \\str[121]?\""
         ],
         "11": [
-            "Câu phản pháo bất ngờ của em ấy khiến tôi câm nín."
+            "Câu phản đòn bất ngờ của em ấy khiến tôi câm nín cmnl."
         ],
         "12": [
             "Có lẽ việc lừa em ấy bằng những lời nói dối vớ vẩn quá nhiều lần",
-            "đã khiến em ấy bắt đầu trở nên lanh lợi hơn...?!"
+            "đã khiến em ấy tỉnh táo hơn nhiều rồi...?!"
         ],
         "13": [
-            "\"Nó sẽ bớt ngượng hơn nếu    \\}",
-	        "tay \\str[120] dễ thương của anh làm việc đó.\""
+            "\"Nếu là đôi tay đáng yêu    \\}",
+	        "của \\str[120] làm giúp anh chắc sẽ đỡ ngượng hơn nhiều.\""
         ],
         "14": [
             "Giọng tôi nhỏ dần, càng lúc càng yếu ớt."
         ],
         "15": [
-            "\\nl< >\"Nghe có vẻ đáng ngờ quá... \\str[121], ",
+            "\\nl< >\"Nghe có vẻ đáng ngờ quá nhỉ... \\str[121], ",
 	        "anh lại muốn chơi khăm nữa nữa hả?\""
         ],
         "16": [
@@ -235,7 +235,7 @@
         ],
         "18": [
             "\"Trong khi em đang do dự, ",
-	        "\\str[121] của em đang phải chịu đựng lời nguyền này, em biết không.",
+	        "\\str[121] của em đang phải chịu đựng lời nguyền này đó.",
             "Em thật sự chỉ đứng nhìn anh chịu khổ sao?\""
         ],
         "19": [
@@ -244,7 +244,7 @@
             "vuốt ve nó liên tục trên người em ấy."
         ],
         "20": [
-            "\\nl< >\"Nhưng... \\str[121], trông anh chẳng có vẻ đang chịu khổ chút nào...   \\w[120]",
+            "\\nl< >\"Nhưng... \\str[121], trông anh chẳng có vẻ đang chịu khổ chút nào cả...   \\w[120]",
             "Và đừng có đẩy mấy thứ kỳ lạ lên trên mặt của em nữa...!\""
         ],
         "21": [
@@ -305,10 +305,10 @@
         ],
         "36": [
             "Em ấy bắt đầu vuốt ve nó một cách chậm rãi, các động tác vụng về,",
-            "nhưng cảm nhận được hơi ấm của em ấy gần như vậy khiến tôi sắp không chịu nổi."
+            "nhưng cảm nhận được hơi ấm của em ấy gần như vậy khiến tôi sắp bùng nổ."
         ],
         "37": [
-            "\\nl< >\"...Em phải làm việc này trong bao lâu nữa?\""
+            "\\nl< >\"...Em phải làm việc này trong bao lâu nữa vậy?\""
         ],
         "38": [
             "\"Đừng vội... Nó sắp ra rồi—\""
@@ -328,7 +328,7 @@
             "cố gắng ngăn tinh dịch bắn tung tóe khắp nơi."
         ],
         "42": [
-            "\"Không sao đâu, anh nói thật thật, mấy thứ này không nguy hiểm đâu",
+            "\"Không sao đâu, anh nói thật đó, mấy thứ này không nguy hiểm đâu",
             "\\w[20]\\^"
         ],
         "43": [
@@ -400,7 +400,7 @@
         ],	
         "4": [
             "Phù... hôm nay làm nhiêu đó đủ rồi. ",
-			"Nếu tôi mất quá lâu, \\str[120] có thể sẽ nghi ngờ.",
+			"Làm lâu quá có thể khiến \\str[120] nghi ngờ mất.",
 			"Chỉ còn hai hoặc ba thay đổi nữa thôi ",
 			"là nó sẽ xong xuôi~~!"
         ],
@@ -454,7 +454,7 @@
         ],
         "2": [
             "Mình có thể thấy \\str[120] qua cửa phòng tắm,",
-            "Có vẻ em ấy vẫn đang rửa ráy..."
+            "Có vẻ em ấy vẫn đang tắm rửa..."
         ],
         "3": [
             "\\str[120] vẫn chưa nhận ra mình đang đứng trước ",
@@ -516,8 +516,8 @@
 			"Em ấy vui vẻ ngân nga một giai điệu."
         ],
         "18": [
-            "...Cũng đến lúc rồi.",
-			"\\str[120] gần xong rồi, tôi nên rời đi thì hơn."
+            "...Đến lúc rồi.",
+			"\\str[120] cũng sắp xong, mình nên rời đi thì hơn."
         ],
         "19": [
             "Đây là thời điểm hoàn hảo để mang ra ",
@@ -639,7 +639,7 @@
         "13": [
             "...Có vẻ \\str[120] đã phát hiện mình đang nhìn trộm!",
 			"Nhưng chẳng lẽ mình đang tưởng tượng hay gì?",
-			"Có cảm giác như em ấy còn cố tình dịch âm hộ ",
+			"Có cảm giác như em ấy còn cố tình lộ âm hộ ",
 			"sang một bên cho mình thấy vậy——"
         ],	
         "14": [
@@ -662,7 +662,7 @@
         ],
         "19": [
             "\\nl< >\"Cái—cái gì chứ...",
-			"Tại sao \\str[121] lại làm chuyện như thế......\""
+			"Tại sao \\str[121] lại làm chuyện như thế này......\""
         ],
         "20": [
             "\"Điều này cực kỳ quan trọng!",
@@ -743,11 +743,11 @@
 		    "Nếu anh đến mức đó thì em sẽ cho anh xem...\""
         ],
         "41": [
-            "Cô em ngây thơ \\str[120] của mình tin ngay lập tức,",
+            "\\str[120] ngây thơ của mình tin ngay lập tức,",
 			"khuôn mặt đỏ bừng đầy xấu hổ."
         ],
         "42": [
-            "\\nl< >\"Đấy, giờ thì hài lòng chưa?\""
+            "\\nl< >\"Đấy, giờ thì anh hài lòng chưa?\""
         ],
         "43": [
             "Em ấy thật sự quá đáng yêu, ",
