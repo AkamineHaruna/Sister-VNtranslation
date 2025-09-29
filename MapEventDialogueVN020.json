@@ -23,7 +23,7 @@
             "——Giấy vệ sinh."
 		],
         "6": [
-            "————Một đống rác."
+            "————Một mớ rác."
 		],
         "7": [
             "\"Thôi, dù sao mình cũng đang ở toilet mà.\""
@@ -122,7 +122,7 @@
 			"Chuyện tồi tệ đã qua—\\str[121] đã giải quyết xong.\""
         ],
 		"11": [
-            "\\nl< >\"Gì...?",
+            "\\nl< >\"Huh...?",
 			"\\str[121]... quần của anh...\""
         ],
 		"12": [
@@ -206,7 +206,7 @@
             "Bắt gặp \\str[120] đang thủ dâm.    \\w[60]",
 			"Chuyện gì đang xảy ra vậy... ",
 			"Có phải là tác dụng của ",
-			"viên kẹo tôi đã đưa cô ấy trước đó không!?"
+			"viên kẹo tôi đã đưa em ấy trước đó không!?"
         ],
 		"4": [
             "Mặc dù kỹ thuật còn hơi vụng về,",
@@ -235,7 +235,7 @@
         ],
 		"9": [
             "Nhưng xuất hiện bây giờ chắc chắn sẽ làm \\str[120] sợ,  ",
-			"hmm... đúng rồi, tốt nhất là lặng lẽ rút lui."
+			"hmm... đúng vậy, tốt nhất là lặng lẽ rút lui."
         ],
 		"10": [
             "Nhìn trộm lần nữa!",
