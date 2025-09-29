@@ -288,7 +288,7 @@
             "\"Fufufu... Tốt nhất là đừng nên biết thành phần~♥\""		
 		],
         "description": [
-            "Kẹo Konpeitō thủ công được Ác Ma chế tác tinh xảo",
+            "Kẹo Konpeitō thủ công được Ác Quỷ chế tác tinh xảo",
             "Tỏa ra mùi đào khiến chỉ cần ngửi thôi cũng cảm thấy chóng mặt..."
         ],
         "ability": [
@@ -303,7 +303,7 @@
             "\"Fufufu... Tốt nhất là đừng nên biết thành phần~♥\""	
 		],
         "description": [
-            "Kẹo Konpeitō thủ công được Ác Ma chế tác tinh xảo",
+            "Kẹo Konpeitō thủ công được Ác Quỷ chế tác tinh xảo",
             "Tỏa ra mùi việt quất khiến chỉ cần ngửi thôi cũng cảm thấy bình tĩnh..."
         ],
         "ability": [
@@ -318,7 +318,7 @@
             "\"Fufufu... Tốt nhất là đừng nên biết thành phần~♥\""		
 		],
         "description": [
-            "Kẹo Konpeitō thủ công được Ác Ma chế tác tinh xảo",
+            "Kẹo Konpeitō thủ công được Ác Quỷ chế tác tinh xảo",
             "Tỏa ra mùi dưa lưới khiến chỉ cần ngửi thôi cũng cảm thấy phấn chấn..."
         ],
         "ability": [
@@ -333,7 +333,7 @@
             "\"Fufufu... Tốt nhất là đừng nên biết thành phần~♥\""
         ],
         "description": [
-            "Bánh Mizumanju thủ công được Ác Ma chế tác, đàn hồi và mát lạnh",
+            "Bánh Mizumanju thủ công được Ác Quỷ chế tác, đàn hồi và mát lạnh",
             "Khi chạm vào lưỡi sẽ như một cú sốc!"
         ],
         "ability": [
@@ -673,8 +673,8 @@
         ],
         "subtitle": "",
         "description": [
-            "Một sinh vật đồng hành của một Ác Ma nào đó. Thả nó ra",
-            "sẽ dẫn bạn đến nơi ở của Ác Ma. Nhưng nó là mèo,",
+            "Một sinh vật đồng hành của một Ác Quỷ nào đó. Thả nó ra",
+            "sẽ dẫn bạn đến nơi ở của Ác Quỷ. Nhưng nó là mèo,",
             "sushi hay pudding? Trông vẫn rất ngon"
         ],
         "ability": ""
@@ -1742,18 +1742,6 @@
             "Một chất dạng thạch được hình thành hoàn toàn từ mana cô đặc. Có thể ăn được,",
             "nhưng hương vị thay đổi nhiều tùy theo trình độ ma pháp của người dùng",
             "Công dụng chính là làm nguyên liệu tiêu thụ cho phép thuật"
-        ],
-        "ability": ""
-    },
-    "314": {
-        "name": [
-            "Red Rhomboid Stone"
-        ],
-        "subtitle": "",
-        "description": [
-            "A red gemstone with a captivating glow",
-            "While lacking practical value, someone might pay a high price for it…",
-            "or have other intentions?"
         ],
         "ability": ""
     }
