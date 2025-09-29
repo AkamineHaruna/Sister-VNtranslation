@@ -1744,5 +1744,17 @@
             "Công dụng chính là làm nguyên liệu tiêu thụ cho phép thuật"
         ],
         "ability": ""
+    },
+    "314": {
+        "name": [
+            "Đá Hình Thoi Đỏ"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một viên đá quý đỏ tỏa ra ánh sáng mê hoặc.",
+            "Tuy không có nhiều giá trị thực tiễn, nhưng có lẽ ai đó sẽ sẵn sàng trả một cái giá cao cho nó…",
+            "hay họ có ý đồ toan tính khác?"
+        ],
+        "ability": ""
     }
 }
