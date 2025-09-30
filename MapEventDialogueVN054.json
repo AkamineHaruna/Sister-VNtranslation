@@ -5,9 +5,9 @@
 			"Mình nên làm gì đây?"
 		],
 		"1": [
-            "Đánh thức dậy",
-			"Xoa đầu",
-			"Để ngủ tiếp"
+            "Đánh thức em dậy",
+			"Xoa đầu em",
+			"Để em ngủ tiếp"
         ],
         "2": [
             "Elixir Rubrum dường như đã cải thiện ",
@@ -315,11 +315,11 @@
     },
   	"6": {
         "0": [
-            "Cay quá... đau quá..."
+            "Cay quá... rát quá..."
 		],
         "1": [
             "\\nl< >\"Uuuu... miệng em cay quá... ",
-			"đau quá... uuuu...\""
+			"rát quá... uuuu...\""
 		],
         "2": [
             "\\str[120] đang nằm trên giường, ",
@@ -557,17 +557,17 @@
 		],
         "3": [
             "\\str[120] vẫn lười biếng nằm trên giường, không chịu nhúc nhích.",
-			"Ôi trời, xem ra cũng chẳng còn cách nào khác..."
+			"Trời ạ, xem ra cũng chẳng còn cách nào khác..."
 		],
         "4": [
             "\"À đúng rồi, ",
-			"tối nay có hamburger steak mới chiên xong đấy—\""
+			"tối nay có hamburger thịt mới chiên xong đấy—\""
 		],
         "5": [
             "\\nl< >\"Ugh... em buồn ngủ quá—\""
 		],	
         "6": [
-            "\\nl< >\"Nhưng hamburger steak đâu!? ",
+            "\\nl< >\"Nhưng mà hamburger thịt đâu!? ",
 			"Ở đâu cơ!?\""
 		],
         "7": [
@@ -575,7 +575,7 @@
 			"trong mơ thôi—\""
 		],	
         "8": [
-            "\\nl< >\"Ehh... vậy sao!? Thật quá đáng đó, \\str[121]!\""
+            "\\nl< >\"Ehh... vậy sao!? Quá đáng thật đó, \\str[121]!\""
 		]			
     },
 	"8": {
@@ -706,7 +706,7 @@
 		],
 		"3": [
 			"Trò chuyện",
-			"SkinShip",
+			"Thân mật",
 			"Đưa Cola",
 			"Buồn ngủ"
 		],
