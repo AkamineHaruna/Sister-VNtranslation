@@ -583,6 +583,22 @@
             "Giảm 20% độ hao mòn của tất cả vũ khí"
         ]
     },
+    "44": {
+        "name": [
+            "◉▽◉"
+        ],
+        "subtitle": [
+            "\"The Sacabambaspis has seen it all before.\""
+        ],
+        "description": [
+            "A legendary ancient Servant—though it’s a fish, it can’t swim",
+            "It has tough skin, and its special move is a Cyclone Jet Cannon!"
+        ],
+        "ability": [
+            "Can lift up the Saccabankame turtle and throw it as an attack",
+            "Once it falls into the water, it can’t get back out..."
+        ]
+    },
     "45": {
         "name": [
             "Vòng Quay Độc Tử"
@@ -918,6 +934,21 @@
         "ability": [
             "Tăng nhẹ tất cả chỉ số",
             "Phóng to tất cả Servant và tăng cường thuộc tính đặc biệt của chúng"
+        ]
+    },
+    "100": {
+        "name": [
+            "Unit I Nexus"
+        ],
+        "subtitle": "",
+        "description": [
+            "A core far more advanced than modern tech, its surface glowing ",
+            "with mysterious energy circuits. Even with most parts missing, ",
+            "it still shows incredible computational and sensing power"
+        ],
+        "ability": [
+            "Grants area detection when equipped",
+            "Detected object types increase as the core’s level rises"
         ]
     },
     "125": {

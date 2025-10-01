@@ -342,6 +342,61 @@
         "1": [
             "Ch-chỗ này thật sự không có gì hết! Đ-đừng lại gần hơn nữa!",
             "T-tôi thề là hoàn toàn chẳng có gì được giấu ở đây đâu usa!"
+        ],
+        "2": [
+            "...Usa?",
+            "What’s that strange noise?"
+        ],
+        "3": [
+            "...Usa!?",
+            "How did you find this place—!"
+        ],
+        "4": [
+            "...Usa!?",
+            "A human...!!"
+        ],
+        "5": [
+            "Usaaaa, you bastard—                        \\w[45]",
+            "\\{Are you here to steal my carrots!!       \\w[60]\\^"
+        ],
+        "6": [
+            "Usa!? My carrots!!         \\w[45]",
+            "\\{A carrot thief!!         \\w[60]\\^"
         ]
-    }	
+    },
+    "noBombFishing": {
+        "0": [
+            "Fishing with bombs is strictly forbidden!",
+            "Do it at your own risk!"
+        ]
+    },
+    "PhilosophersFragment": {
+        "title": [
+            "Philosopher's Fragment"
+        ],
+        "description5": [
+            "A special shard obtained from the Red Beast",
+            "If various shards can be collected",
+            "it might help improve ${}'s condition"
+        ],
+        "description56": [
+            "A special shard obtained from the Maid Bunny",
+            "If various shards can be collected",
+            "it might help improve ${}'s condition"
+        ]
+    },
+    "mecha": {
+        "0": [
+            "A strange mech, long covered in dust, stands here...",
+            "It doesn’t respond even when touched."
+        ],
+        "1": [
+            "Huh...?",
+            "Something’s here?"
+        ],
+        "2": [
+            "A fallen part?",
+            "Looks like it could still be activated..."
+        ]
+    }
 }

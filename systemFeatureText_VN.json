@@ -123,5 +123,24 @@
 		"Loại sự cố này có thể do:",
 		"① Tệp game bị hỏng hoặc tên tệp bị lỗi do vấn đề mã hóa trong quá trình giải nén/cài đặt.",
 		"② Nhà phát triển quên không đưa tệp vào—hãy chờ bản vá cập nhật để khắc phục."
-	]    
+	],
+	"LowResMode": [
+    	"Chế độ đồ họa thấp"
+  	],
+	"lowResModeWarning": [
+		"Tính năng này chủ yếu dùng để tối ưu hiệu suất trên thiết bị Android và có thể ít tác dụng trên phiên bản PC.",
+		"Khi bật, trò chơi sẽ hiển thị bản đồ và hình ảnh ở độ phân giải thấp hơn rồi phóng to lên, ",
+		"giúp giảm tải cho GPU trên thiết bị di động, đồng thời giảm nhiệt và tiết kiệm pin.",
+		"Lưu ý: Đây là một tính năng thử nghiệm, hiệu quả có thể khác nhau tùy theo thiết bị.",
+		"Bạn có thể tắt tính năng này bất cứ lúc nào để khôi phục ngay chất lượng hình ảnh đầy đủ."
+	],
+	"nearbyMonstersCount": [
+		"Phát hiện quái vật đang ở gần"
+	],
+	"nearbyTreasuresCount": [
+		"Phát hiện Kho báu đang ở gần"
+	],
+	"underwaterTreasuresCount": [
+		"Phát hiện Kho báu dưới nước đang ở gần"
+	]
 }

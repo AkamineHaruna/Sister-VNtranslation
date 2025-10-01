@@ -667,6 +667,20 @@
         ],
         "ability": ""
     },
+    "76": {
+        "name": [
+            "Ginkela"
+        ],
+        "subtitle": "",
+        "description": [
+            "A strange feed of unknown origin, said to taste surprisingly good",
+            "Its aroma lures not only animals but even monsters!",
+            "Handle with care—the scent fades quickly if not stored well"
+        ],
+        "ability": [
+            "When thrown, it creates a scent cloud that draws in monsters"
+        ]
+    },
     "77": {
         "name": [
             "Sushi Pudding"

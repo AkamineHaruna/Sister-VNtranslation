@@ -175,7 +175,8 @@
             "vẫn bám trên đó, bốc mùi không chịu nổi"
         ],
         "ability": [
-            "Liên tục phát ra mùi hôi thối"
+            "Liên tục phát ra mùi hôi thối",
+            "Gives off a stench so foul, even monsters flee!"
         ]
     },
     "14": {
@@ -322,6 +323,21 @@
             "Khi HP dưới \\c[29]400\\c[0], sức mạnh tối đa của vũ khí bị hạn chế!"
         ]
     },
+    "25": {
+        "name": [
+            "Tidewyrm’s Song"
+        ],
+        "subtitle": "",
+        "description": [
+            "A staff crafted from damp magic crystals, always dripping wet",
+            "It only reveals its true power when using water as a medium",
+            "quite inconvenient!"
+        ],
+        "ability": [
+            "Casting near water enhances magic",
+            "Hold right mouse button to cast Ripple Thrust"
+        ]
+    },
     "26": {
         "name": [
             "Đêm Sao Lấp Lánh"
@@ -452,7 +468,8 @@
             "Nhưng phải tự trả tiền điện thoại"
         ],
         "ability": [
-            "Nhấn chuột phải tốn 400 yên để gọi hỗ trợ bắn tỉa"
+            "Nhấn chuột phải tốn 400 yên để gọi hỗ trợ bắn tỉa",
+            "Right-click to call a long-range snipe, 500 yen per use"
         ]
     },
     "53": {
@@ -465,7 +482,8 @@
             "Vừa giữ được sức mạnh vũ khí, vừa ngon miệng!"
         ],
         "ability": [
-            "Có thể bị ăn mất khi tấn công..."
+            "Có thể bị ăn mất khi tấn công...",
+            "Melts and disappears over time when equipped..."
         ]
     },
     "54": {
@@ -494,7 +512,8 @@
             "khiến Hầu Gái Thỏ thèm đến phát khóc"
         ],
         "ability": [
-            "Khi ném, ép mục tiêu phải ăn"
+            "Khi ném, ép mục tiêu phải ăn",
+            "When thrown, it pierces and hits all units in its path"
         ]
     },
     "56": {
@@ -508,7 +527,8 @@
             "khiến Hầu Gái Thỏ thèm đến phát khóc"
         ],
         "ability": [
-            "Khi ném, ép mục tiêu phải ăn"
+            "Khi ném, ép mục tiêu phải ăn",
+            "When thrown, it pierces and hits all units in its path"
         ]
     },
     "57": {

@@ -107,7 +107,24 @@
             "Usa...... tôi ngửi thấy...",
             "cậu có mùi cà rốt, usa..."
         ]	
-    },	  
+    },
+	"28": {
+		"objectName": [
+			"Giant Sacabambaspis"
+		],
+		"subtitle": [
+			"Dwelling in the water"
+		],
+		"bossName": [
+			"The River Lord—wasn’t it extinct!?"
+		],
+		"sentouryoku": [
+			"999"
+		],
+		"description": [
+			""
+		]
+  	},	  
   	"32": {
 		"objectName": [
 		    "Máy Gacha Kỳ Lạ"
@@ -209,7 +226,24 @@
 			"Nó vẫn giữ sự hung hăng và sở hữu ",
 			"khả năng chiến đấu đáng kể."
 		]	
-    },	  
+    },
+	"59": {
+		"objectName": [
+			"Wonderland’s White Rabbit"
+		],
+		"subtitle": [
+			"Dwelling in Forest of Ruins"
+		],
+		"bossName": [
+			"Wonderland’s White Rabbit"
+		],
+		"sentouryoku": [
+			"???"
+		],
+		"description": [
+			""
+		]
+  	},	  
   	"65": {
 		"objectName": [
 		    "\\c[116]Chim Khổng Lồ"
