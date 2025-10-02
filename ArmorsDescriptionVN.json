@@ -17,7 +17,7 @@
     },
     "2": {
         "name": [
-            "Vũ Khí Nạm Ngọc"
+            "Vũ Khí Khảm Ngọc"
         ],
         "subtitle": "",
         "description": [
@@ -588,15 +588,15 @@
             "◉▽◉"
         ],
         "subtitle": [
-            "\"The Sacabambaspis has seen it all before.\""
+            "\"Sacabambaspis nhìn cảnh này quen lắm nha.\""
         ],
         "description": [
-            "A legendary ancient Servant—though it’s a fish, it can’t swim",
-            "It has tough skin, and its special move is a Cyclone Jet Cannon!"
+            "Một Servant huyền thoại thời cổ đại—dù là cá, nhưng lại chẳng thể bơi",
+            "Nó có lớp da rắn chắc, và chiêu thức đặc biệt là Lốc Xoáy Phản Lực!"
         ],
         "ability": [
-            "Can lift up the Saccabankame turtle and throw it as an attack",
-            "Once it falls into the water, it can’t get back out..."
+            "Nắm chụp rùa Saccabankame và ném như một đòn tấn công.",
+            "Khi rơi xuống nước, nó không thể lên bờ được nữa…"
         ]
     },
     "45": {
@@ -795,7 +795,7 @@
     },
     "62": {
         "name": [
-            "Găng Tay Của Phù Thủy Sa Ngã"
+            "Găng Tay Của Pháp Sư Sa Ngã"
         ],
         "subtitle": "",
         "description": [
@@ -808,7 +808,7 @@
     },
     "63": {
         "name": [
-            "Giày Của Phù Thủy Sa Ngã"
+            "Giày Của Pháp Sư Sa Ngã"
         ],
         "subtitle": "",
         "description": [
@@ -942,18 +942,18 @@
         ],
         "subtitle": "",
         "description": [
-            "A core far more advanced than modern tech, its surface glowing ",
-            "with mysterious energy circuits. Even with most parts missing, ",
-            "it still shows incredible computational and sensing power"
+            "Một lõi năng lượng vượt xa công nghệ hiện đại, bề mặt khắc họa",
+            "những mạch năng lượng phát sáng huyền bí. Dù phần lớn linh kiện đã thất lạc, ",
+            "nó vẫn thể hiện khả năng tính toán và cảm ứng phi thường."
         ],
         "ability": [
-            "Grants area detection when equipped",
-            "Detected object types increase as the core’s level rises"
+            "Khi trang bị, cho phép phát hiện khu vực",
+            "Loại đối tượng có thể phát hiện sẽ tăng lên khi lõi được nâng cấp."
         ]
     },
     "125": {
         "name": [
-            "Atsu Atsu Bouzu"
+            "Atsu Bouzu"
         ],
         "subtitle": "",
         "description": [
@@ -967,7 +967,7 @@
     },
     "126": {
         "name": [
-            "Teru Teru Bouzu"
+            "Teru Bouzu"
         ],
         "subtitle": "",
         "description": [
@@ -981,7 +981,7 @@
     },
     "127": {
         "name": [
-            "Kumo Kumo Bouzu"
+            "Kumo Bouzu"
         ],
         "subtitle": "",
         "description": [
@@ -995,7 +995,7 @@
     },
     "128": {
         "name": [
-            "Ame Ame Bouzu"
+            "Ame Bouzu"
         ],
         "subtitle": "",
         "description": [
@@ -1009,7 +1009,7 @@
     },
     "129": {
         "name": [
-            "Nụ Cười Thuần Khiết Của Thiếu Nữ"
+            "Nụ Cười Thuần Khiết Của Em Gái"
         ],
         "subtitle": [
             "\"\\str[121], anh đã giữ lời hứa, tốt lắm!\""		
