@@ -176,7 +176,7 @@
         ],
         "ability": [
             "Liên tục phát ra mùi hôi thối",
-            "Gives off a stench so foul, even monsters flee!"
+            "Mùi hôi thối đến mức ngay cả quái vật cũng phải bỏ chạy!"
         ]
     },
     "14": {
@@ -325,17 +325,17 @@
     },
     "25": {
         "name": [
-            "Tidewyrm’s Song"
+            "Khúc Ca của Tidewyrm"
         ],
         "subtitle": "",
         "description": [
-            "A staff crafted from damp magic crystals, always dripping wet",
-            "It only reveals its true power when using water as a medium",
-            "quite inconvenient!"
+            "Một cây trượng được chế tác từ những tinh thể ma thuật ẩm ướt",
+            "luôn nhỏ từng giọt nước. Chỉ phát huy sức mạnh khi dùng nước",
+            "làm chất dẫn — thật rắc rối!"
         ],
         "ability": [
-            "Casting near water enhances magic",
-            "Hold right mouse button to cast Ripple Thrust"
+            "Thi triển gần nguồn nước sẽ cường hóa ma pháp.",
+            "Giữ chuột phải để thi triển Truy Kích Gợn Thủy."
         ]
     },
     "26": {
@@ -382,7 +382,7 @@
     },
     "35": {
         "name": [
-            "Quang Vũ"
+            "Claíomh Solais"
         ],
         "subtitle": [
             "\"Hả? Mình không thấy gì cả! Đây đâu phải chuôi kiếm!?\""		
@@ -468,8 +468,8 @@
             "Nhưng phải tự trả tiền điện thoại"
         ],
         "ability": [
-            "Nhấn chuột phải tốn 400 yên để gọi hỗ trợ bắn tỉa",
-            "Right-click to call a long-range snipe, 500 yen per use"
+            "Nhấp chuột trái để gọi hỗ trợ hỏa lực, 1000 yên mỗi lần sử dụng",
+            "Nhấp chuột phải để gọi súng bắn tỉa tầm xa, 500 yên mỗi lần sử dụng"
         ]
     },
     "53": {
@@ -483,7 +483,7 @@
         ],
         "ability": [
             "Có thể bị ăn mất khi tấn công...",
-            "Melts and disappears over time when equipped..."
+            "Khi trang bị, nó sẽ tan chảy và biến mất theo thời gian..."
         ]
     },
     "54": {
@@ -513,7 +513,7 @@
         ],
         "ability": [
             "Khi ném, ép mục tiêu phải ăn",
-            "When thrown, it pierces and hits all units in its path"
+            "Khi ném, vật này xuyên thủng và trúng tất cả đơn vị trên đường đi."
         ]
     },
     "56": {
@@ -528,7 +528,7 @@
         ],
         "ability": [
             "Khi ném, ép mục tiêu phải ăn",
-            "When thrown, it pierces and hits all units in its path"
+            "Khi ném, vật này xuyên thủng và trúng tất cả đơn vị trên đường đi."
         ]
     },
     "57": {
