@@ -669,16 +669,16 @@
     },
     "76": {
         "name": [
-            "Ginkela"
+            "Bạch quả"
         ],
         "subtitle": "",
         "description": [
-            "A strange feed of unknown origin, said to taste surprisingly good",
-            "Its aroma lures not only animals but even monsters!",
-            "Handle with care—the scent fades quickly if not stored well"
+            "Một loại thức ăn kỳ lạ có nguồn gốc không rõ ràng, được đồn là có hương vị",
+            "bất ngờ ngon miệng. Mùi hương của nó không chỉ thu hút động vật mà còn cả quái vật!",
+            "Hãy cẩn thận khi bảo quản—mùi thơm sẽ nhanh chóng phai nhạt nếu không cất giữ đúng cách."
         ],
         "ability": [
-            "When thrown, it creates a scent cloud that draws in monsters"
+            "Khi ném ra, nó tạo thành một đám làn hương thơm dụ lũ quái vật kéo đến"
         ]
     },
     "77": {
