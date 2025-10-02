@@ -29,11 +29,11 @@
 		    "2333"
 		],	  
         "description": [
-            "Một sinh vật lạ thích ăn dâu tây",
-			"Nó có lớp da cứng và phòng thủ phi lý, nhưng vì ",
-			"nó quá tập trung vào dâu tây,  ",
+            "Một sinh vật lạ thích ăn dâu tây. Nó có lớp da cứng",
+			"và phòng thủ phi lý, nhưng vì nó quá tập trung vào dâu tây",
 			"nên nó ít có xu hướng tấn công. Vì lý do đó,",
-			"những nhà mạo hiểm giả đi ngang thường kết thúc bằng việc cho nó ăn..."
+			"những nhà mạo hiểm giả đi ngang thường kết thúc,",
+			"bằng việc cho nó ăn..."
 			
 		],
 		"subtitle": [
@@ -110,13 +110,13 @@
     },
 	"28": {
 		"objectName": [
-			"Giant Sacabambaspis"
+			"Sacabambaspis Khổng Lồ"
 		],
 		"subtitle": [
-			"Dwelling in the water"
+			"Cư ngụ trong nước"
 		],
 		"bossName": [
-			"The River Lord—wasn’t it extinct!?"
+			"Chúa Tể Thủy Lưu—chẳng phải đã tuyệt chủng rồi sao!?"
 		],
 		"sentouryoku": [
 			"999"
@@ -229,13 +229,13 @@
     },
 	"59": {
 		"objectName": [
-			"Wonderland’s White Rabbit"
+			"Thỏ Trắng Xứ Wonderland"
 		],
 		"subtitle": [
-			"Dwelling in Forest of Ruins"
+			"Cư ngụ trong Khu Rừng Tàn Tích"
 		],
 		"bossName": [
-			"Wonderland’s White Rabbit"
+			"Thỏ Trắng Xứ Wonderland"
 		],
 		"sentouryoku": [
 			"???"
