@@ -1,8 +1,8 @@
 {
 	"0": [
-		"✦Một chiếc cốc mà \\str[120] thích, ",
-		"có hoạ tiết hình thỏ kỳ lạ. ",
-		"Có vẻ nó là mặt hàng bán chạy tại NLCH."
+		"✦Một chiếc cốc mà \\str[120] rất thích, ",
+		"nó có hoạ tiết hình thỏ kỳ lạ.",
+		"Có vẻ như là mặt hàng bán chạy tại NLCH."
 	],
 	"1": [
 		"✦Chiếc đèn lồng nhỏ mà cha đã để lại,",
@@ -21,11 +21,11 @@
 		"chăm sóc nó rất kỹ lưỡng mỗi ngày."
 	],
 	"4": [
-		"✦Một loại cây tên là “Pothos”, ",
-		"nó trông không được khoẻ lắm, nên \\str[120]",
-		"đã đặt nó cạnh cửa sổ. Mình có nên nói cho ",
-		"em ấy biết là Pothos không thích",
-		"ánh nắng mặt trời không...?"
+		"✦Một loại cây tên là “Pothos”, nó trông không",
+		"được khoẻ lắm, nên \\str[120] đã đặt nó cạnh",
+		"cửa sổ. Mình có nên nói cho em ấy biết là Pothos",
+		"không thích ánh nắng mặt trời không...?",
+		""
 	],
 	"5": [
 		"✦Một vài cuốn sách mà \\str[120]",
