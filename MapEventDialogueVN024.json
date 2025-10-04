@@ -267,217 +267,217 @@
 	},
 	"9": {
 		"0": [
-			"The warmth in my arms reminded me that ",
-			"I had finally obtained the medicine I longed for. ",
-			"Yet the surreal nature of this experience still left me unsettled."
+			"Cảm giác ấm áp trong tay khiến tôi chợt nhận ra rằng. ",
+			"Tôi đã thực sự có được loại thuốc mà mình tìm kiếm bấy lâu nay. ",
+			"Thế nhưng, mọi thứ diễn ra ra như giấc mơ khiến lòng tôi bất an."
 		],
 		"1": [
-			"The Star tarot card at the entrance connected.",
-			"It was one of the belongings left behind by my father.",
-			"Although he had spent his life researching a way to cure \\str[120],",
-			"why did it react so easily now…?"
+			"Lá bài The Star ở lối vào đã phát tín hiệu kết nối.",
+			"Đó là một trong những vật kỷ niệm mà cha để lại.",
+			"Dù ông đã dành cả đời để nghiên cứu phương pháp chữa trị cho \\str[120],",
+			"nhưng tại sao bây giờ nó lại dễ dàng phản ứng đến thế…?"
 		],
 		"2": [
-			"No matter how I thought about it, I couldn’t reach a conclusion.",
-			"Overthinking was meaningless. ",
-			"The important thing is—I now have the Elixir Rubrum.",
-			"I should find a chance to let \\str[120] try it."
+			"Dù suy nghĩ thế nào đi nữa, tôi vẫn không thể tìm ra đáp án.",
+			"Nghĩ ngợi thêm cũng chỉ vô ích. ",
+			"Điều quan trọng là—giờ đây tôi đã có trong tay Elixir Rubrum.",
+			"Giờ chỉ cần tìm dịp thích hợp cho \\str[120] thử xem sao."
 		],
 		"3": [
-			"Its color even looks like strawberry juice,",
-			"maybe it even tastes like her favorite strawberry milk…"
+			"Màu sắc của nó trông hệt như nước ép dâu vậy,",
+			"biết đâu còn có vị giống món sữa dâu mà em ấy thích nữa…"
 		],
 		"4": [
-			"\\nl< >\"Welcome home, \\str[121].\""
+			"\\nl< >\"Chào mừng trở về, \\str[121].\""
 		],
 		"5": [
-			"\\nl< >\"My stomach’s already empty…\""
+			"\\nl< >\"Bụng của em đói quá đi...\""
 		],
 		"6": [
-			"\"Alright, alright, I’ll get dinner ready right away.\""
+			"\"Được rồi, được rồi, anh sẽ chuẩn bị bữa tối ngay đây.\""
 		],
 		"7": [
-			"I gently patted \\str[120]’s head and comforted her a little. ",
-			"Alright—what should I do next?"
+			"Tôi nhẹ nhàng xoa đầu \\str[120] và an ủi em ấy một chút. ",
+			"Được rồi—mình nên làm gì tiếp theo nhỉ?"
 		],
 		"8": [
-			"Prepare dinner",
-			"Go to the toilet"
+			"Chuẩn bị bữa tối",
+			"Đi vào toilet"
 		],
 		"9": [
-			"Yeah, it’s getting late, I’d better go prepare dinner."
+			"Ừ, cũng muộn rồi, tôi nên đi chuẩn bị bữa tối."
 		],
 		"10": [
-			"\"What would you like to eat tonight?\""
+			"\"Em muốn ăn gì cho bữa tối nay?\""
 		],
 		"11": [
-			"\\nl< >\\{\"Meat dishes are fine!\""
+			"\\nl< >\\{\"Cứ có thịt là được!\""
 		],
 		"12": [
-			"Hmm… just as expected…",
-			"Looks like I really need to find a chance to explain to ",
-			"\\str[120] how important a balanced diet is."
+			"Hmm… đúng như mình nghĩ…",
+			"Có vẻ mình thật sự phải tìm cơ hội để giải thích cho \\str[120] ",
+			"hiểu tầm quan trọng của việc ăn uống cân bằng rồi."
 		],
 		"13": [
-			"Ugh, I kind of feel like going to the toilet…"
+			"Ugh, tôi hơi muốn đi vệ sinh…"
 		],
 		"14": [
-			"\"Sorry, just wait a bit, I’ll prepare dinner afterward.\""
+			"\"Xin lỗi, đợi lát nữa, anh sẽ chuẩn bị bữa tối sau nha.\""
 		],
 		"15": [
-			"\\nl< >\"Got it.\""
+			"\\nl< >\"Hiểu rồi.\""
 		]
 	},
 	"13": {
 		"0": [
-			"\\nl< >\"\\str[121], you didn’t come back all beaten up today ",
-			"just like we promised, great job! ",
-			"You deserve some praise for working so hard!\""
+			"\\nl< >\"\\str[121], hôm nay anh về mà không bị bầm dập gì hết ",
+			"Giỏi quá~ đúng như lời hứa luôn! ",
+			"Anh xứng đáng được khen thưởng vì đã cố gắng hết mình đó!\""
 		],
 		"1": [
-			"\\nl< >\"\\str[121], you kept our promise again today. ",
-			"Here’s today’s reward!\""
+			"\\nl< >\"\\str[121], hôm nay anh lại giữ đúng lời hứa rồi. ",
+			"Đây là phần thưởng của hôm nay nhé!\""
 		],
 		"2": [
-			"\\nl< >\"\\str[121], you’ve been working hard lately. ",
-			"Here’s today’s reward—\""
+			"\\nl< >\"\\str[121], dạo này anh làm việc chăm chỉ quá. ",
+			"Đây là phần thưởng của hôm nay nhé—\""
 		],
 		"3": [
-			"\\nl< >\"It’s almost been a month now. You’ve done so well,",
-			"\\str[121]. Come on, here’s today’s reward—\""
+			"\\nl< >\"Sắp tròn một tháng rồi đó. Anh đã làm rất rốt,",
+			"\\str[121]. Nè, phần thưởng hôm nay đây—\""
 		],
 		"4": [
-			"\\nl< >\"\\str[121]! Wonderful, it’s already been a month! ",
-			"You’re amazing, \\str[121]!\""
+			"\\nl< >\"\\str[121]! Tuyệt quá, đã một tháng trôi qua rồi nè. ",
+			"Anh thật tuyệt vời, \\str[121]!\""
 		],
 		"5": [
-			"\\nl< >\"Anyway, this is the final reward!\""
+			"\\nl< >\"Dù sao đi nữa~ đây là phần thưởng cuối cùng đó nha!\""
 		],
 		"6": [
-			"\\nl< >\"Alright! Done drawing!",
-			"This is proof that you’ve been such a good kid, \\str[121]! ",
-			"You’re not allowed to wash it off today!\""
+			"\\nl< >\"Hehe~ vẽ xong rồi nè!",
+			"Đây là bằng chứng cho thấy hôm nay \\str[121] ngoan lắm nhé! ",
+			"Cấm rửa nha, ít nhất cũng phải giữ tới mai đó!\""
 		],
 		"7": [
-			"I looked at my right hand, where \\str[120] had drawn ",
-			"a cute little picture on the back with her brush."
+			"Tôi nhìn xuống bàn tay phải của mình, nơi \\str[120] đã dùng bút ",
+			"vẽ lên đó một bức hình vẽ nhỏ nhắn đáng yêu vô cùng."
 		],
 		"8": [
-			"What an incredible kind of reward… but still…"
+			"Thật là một phần thưởng tuyệt vời… nhưng dù sao thì…"
 		],
 		"9": [
 			"\\nl< >\"Eh? ",
-			"‘Will there be some special reward if I keep collecting them?’",
-			"…\\str[121], do you want even more praise?\""
+			"‘Nếu cứ tiếp tục sưu tầm thì sẽ có phần thưởng đặc biệt à?’",
+			"…\\str[121], anh muốn được khen thêm nữa hả?\""
 		],
 		"10": [
-			"\nl< >\"Hmm… well, if you keep this up for another month,",
-			"I’ll give you an even more special reward…\""
+			"\nl< >\"Hmm… well, nếu anh tiếp tục thế này thêm một tháng nữa,",
+			"em sẽ thưởng cho anh một phần quà đặc biệt hơn nữa nhé…\""
 		],
 		"11": [
-			"\\nl< >\"But… it’s too embarrassing, ",
-			"so I can’t tell you what it is just yet…\""
+			"\\nl< >\"Nhưng… xấu hổ lắm, ",
+			"nên giờ em chưa thể nói cho anh biết được đâu…\""
 		],
 		"12": [
-			"I was only joking, but \\str[120] seemed to be ",
-			"seriously thinking about some kind of special reward. ",
-			"It actually made me feel motivated!"
+			"Tôi chỉ nói đùa một chút thôi, thế mà\\str[120] lại có vẻ ",
+			"đang thật sự suy nghĩ nghiêm túc về phần thưởng đặc biệt. ",
+			"Nhìn em ấy như thế, tự nhiên mình lại thấy động lực hẳn lên!"
 		],
 		"13": [
-			"\\nl< >\"The special reward is still a secret. ",
-			"I can’t tell you now, \\str[121]…!\""
+			"\\nl< >\"Phần thưởng đặc biệt ấy… vẫn là bí mật nhé~. ",
+			"Giờ em không thể nói cho anh biết được, \\str[121]…!\""
 		],
 		"14": [
-			"\\nl< >\"Here you go, \\str[121]! ",
-			"Just as promised, this is your special reward!\""
+			"\\nl< >\"Của anh đây, \\str[121]! ",
+			"Đúng như đã hứa, đây là phần thưởng đặc biệt của anh nè!\""
 		],
 		"15": [
-			"\\nl< >\"Hehe… it’s a ‘Do Anything’ coupon I made.\""
+			"\\nl< >\"Hehe… đó là tấm phiếu ‘Làm bất cứ điều gì’ mà em đã làm ra.\""
 		],
 		"16": [
-			"\\nl< >\"\\str[121], you’re always thinking about me, but…",
-			"I also want you to be able to put down those burdens and take it easy…\""
+			"\\nl< >\"\\str[121], Anh lúc nào cũng nghĩ cho em, nhưng...",
+			"Em cũng muốn anh có thể gác lại gánh nặng đó, thả lỏng một chút…\""
 		],
 		"17": [
-			"\\nl< >\"So, you can use this to pamper yourself ",
-			"with me as much as you like!\"",
-			"Any request is fine—just focus on relaxing yourself!\""
+			"\\nl< >\"Thế nên, hãy xem đây như là phần thưởng để anh được ",
+			"thoải mái tận hưởng cùng em nhé!\"",
+			"Bất cứ điều gì anh muốn cũng được — miễn là giúp anh thư giãn thật tốt!\""
 		],
 		"18": [
 			"\\nl< >\"Eh!?     \\w[30]",
-			"‘Even… lewd things would be okay…?’",
+			"‘Cả… những chuyện hơi nhạy cảm cũng được… sao?’",
 			"Um, um…\""
 		],
 		"19": [
-			"\\nl< >\"It’s fine… if that’s what you really want,",
-			"I won’t refuse…\""
+			"\\nl< >\"Không sao đâu… nếu đó thật sự là điều anh muốn,",
+			"Thì em sẽ không từ chối...\""
 		],
 		"20": [
-			"\\nl< >\"After all, \\str[121], ",
-			"you’re always teasing me anyway…\""
+			"\\nl< >\"Dù sao thì, \\str[121], ",
+			"anh lúc nào cũng chọc ghẹo em mà…\""
 		],
 		"21": [
-			"\\>Received \\ii[199] from \\str[120]!                   \\w[60]",
-			"\\>You can now make a spoiled request to \\str[120]!     \\w[60]"
+			"\\>Nhận được \\ii[199] từ \\str[120]!                   \\w[60]",
+			"\\>Giờ bạn có thể làm nũng và đưa ra một yêu cầu với \\str[120]!     \\w[60]"
 		]
 	},
 	"14": {
 		"0": [
-			"\\nl< >\"Oh? \\str[121], what’s that you’re holding?\""
+			"\\nl< >\"Oh? \\str[121], anh đang cầm cái gì thế?\""
 		],
 		"1": [
-			"\"Ah… today I just received this outfit from a knight,",
-			"he said it was a game bonus—\"          \\w[30]\\^"
+			"\"Ah… hôm nay anh vừa nhận được bộ đồ này từ một hiệp sĩ,",
+			"anh ấy nói đó là phần thưởng của trò chơi—\"          \\w[30]\\^"
 		],
 		"2": [
-			"\\nl< >\"The knight from 'Shadow Soul'!? ",
-			"Quick, let me see—\""
+			"\\nl< >\"Hiệp sĩ từ 'Shadow Soul'!? ",
+			"Nhanh lên, cho em xem với—\""
 		],
 		"3": [
-			"\\str[120] darted in front of me at lightning speed ",
-			"and snatched the clothes—",
-			"Huh… looks like she really likes this gift."
+			"\\str[120] lao đến trước mặt tôi với tốc độ tia chớp ",
+			"và giật lấy bộ đồ—",
+			"Huh… có vẻ như em ấy thật sự thích món quà này."
 		],
 		"4": [
-			"\\nl< >\"Ooooh—! There’s even the knight’s autograph on it!\""
+			"\\nl< >\"Ooooh—! Thậm chí còn có chữ ký của hiệp sĩ trên đó nữa nè!\""
 		],
 		"5": [
-			"\\nl< >\"I’ll try it on right now—\""
+			"\\nl< >\"Em sẽ mặc thử nó ngay bây giờ—\""
 		],
 		"6": [
-			"\\{\"Ah, wait—!? ",
-			"We’re still at the entrance!\""
+			"\\{\"Ah, khoan đã—!? ",
+			"Chúng ta vẫn còn ở lối vào!\""
 		],
 		"7": [
-			"I hurriedly turned away and quickly shut the front door. ",
-			"\\str[120]’s skin can’t withstand long exposure to the sun. ",
-			"Was she so excited that she forgot her own weakness!?"
+			"Tôi hoảng hốt quay đi, vội vàng đóng sầm cửa lại. ",
+			"Làn da của \\str[120] không chịu được khi tiếp xúc với ánh nắng quá lâu. ",
+			"Chẳng lẽ em ấy phấn khích đến mức quên cả điểm yếu của mình rồi sao!?"
 		],
 		"8": [
-			"\\nl< >\"All done changing—!\""
+			"\\nl< >\"Đã thay đồ xong—!\""
 		],
 		"9": [
-			"\"Heh… it actually fits pretty well.\""
+			"\"Heh… nó thực sự vừa vặn này.\""
 		],
 		"10": [
-			"That knight insisted on always wearing heavy armor, ",
-			"so I assumed he must have been tall and broad. ",
-			"I worried \\str[120] wouldn’t be able to wear it properly, ",
-			"but to my surprise, the size fit her perfectly…"
+			"Hiệp sĩ đó lúc nào cũng bọc mình trong bộ giáp nặng nề, ",
+			"khiến tôi nghĩ anh ta hẳn là người cao lớn. ",
+			"Tôi lo \\str[120] sẽ không thể mặc vừa, ",
+			"nhưng thật ngạc nhiên nó lại vừa vặn đến hoàn hảo…"
 		],
 		"11": [
-			"\\nl< >\"Ehehe… I’ll just use this as pajamas from now on~\""
+			"\\nl< >\"Ehehe… từ giờ em sẽ lấy bộ này làm đồ ngủ nhé~\""
 		],
 		"12": [
-			"\"That’ll wrinkle it… ",
-			"isn’t it supposed to be a collector’s item…\""
+			"\"Nhăn hết rồi kìa… ",
+			"chẳng phải đây là đồ sưu tầm sao…\""
 		],
 		"13": [
-			"\"Also, it’s almost time to eat. ",
-			"Hurry and change out of it first.\""
+			"\"Với lại cũng sắp đến giờ ăn rồi đấy. ",
+			"Mau thay đồ ra trước đi.\""
 		],
 		"14": [
-			"\\nl< >\"Okay~\""
+			"\\nl< >\"Biết rồi~\""
 		]
 	},
 	"15": {
