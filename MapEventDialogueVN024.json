@@ -122,7 +122,7 @@
 			"Em nói đúng, còn nhiều thời gian nên hôm nay cứ nghỉ ngơi thư giãn thôi."
 		],
 		"12": [
-			"\nl< >\"Vậy thì sao anh không thử ngủ trưa luôn đi, \\str[121]…",
+			"\\nl< >\"Vậy thì sao anh không thử ngủ trưa luôn đi, \\str[121]…",
 			"ngủ vậy thật sự rất dễ chịu đó nha~\""
 		],
 		"13": [
@@ -371,7 +371,7 @@
 			"…\\str[121], anh muốn được khen thêm nữa hả?\""
 		],
 		"10": [
-			"\nl< >\"Hmm… well, nếu anh tiếp tục thế này thêm một tháng nữa,",
+			"\\nl< >\"Hmm… well, nếu anh tiếp tục thế này thêm một tháng nữa,",
 			"em sẽ thưởng cho anh một phần quà đặc biệt hơn nữa nhé…\""
 		],
 		"11": [
