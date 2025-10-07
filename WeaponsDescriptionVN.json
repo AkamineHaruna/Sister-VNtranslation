@@ -492,72 +492,58 @@
         ],
         "subtitle": "",
         "description": [
-            "Cà rốt hảo hạng được Hầu Gái Thỏ bí mật trồng",
-            "Được truyền sức mạnh của đá, phát triển thành món ngon",
-            "khiến Hầu Gái Thỏ thèm đến phát khóc"
+            "Cà rốt thượng hạng được Thỏ Hầu Gái bí mật trồng.",
+            "Được truyền sức mạnh của Đá Hiền Triết, phát triển thành",
+            "món ngon khiến Thỏ Hầu Gái thèm đến phát khóc"
         ],
         "ability": [
-            "Khi ném, ép mục tiêu phải ăn",
-            "Khi ném, vật này xuyên thủng và trúng tất cả đơn vị trên đường đi."
+            "Có thể bị ăn mất khi tấn công...",
+            "Khi ném, vật này xuyên qua và trúng tất cả đơn vị trên đường đi."
         ]
     },
     "55": {
         "name": [
-            "Đại Kiếm Cà Rốt"
+            "Đại Kiếm Cà Rốt Băng Giá"
         ],
         "subtitle": "",
         "description": [
-            "Cà rốt hảo hạng được Hầu Gái Thỏ bí mật trồng",
-            "Được truyền sức mạnh của đá, phát triển thành món ngon",
-            "khiến Hầu Gái Thỏ thèm đến phát khóc"
+            "Cà rốt thượng hạng được Thỏ Hầu Gái bí mật trồng.",
+            "Sau khi đông lạnh, nó cứng như đá và không thể ăn được.",
+            "Nghe đồn đây là đồ dự trữ mùa đông của Thỏ Hầu Gái."
         ],
         "ability": [
-            "Khi ném, ép mục tiêu phải ăn",
+            "Có tỉ lệ 40% gây trạng thái Đóng Băng khi tấn công.",
             "Khi ném, vật này xuyên thủng và trúng tất cả đơn vị trên đường đi."
         ]
     },
     "56": {
         "name": [
-            "Đại Kiếm Cà Rốt"
+            "Đại Kiếm Cà Rốt Mốc"
         ],
         "subtitle": "",
         "description": [
-            "Cà rốt hảo hạng được Hầu Gái Thỏ bí mật trồng",
-            "Được truyền sức mạnh của đá, phát triển thành món ngon",
-            "khiến Hầu Gái Thỏ thèm đến phát khóc"
+            "Cà rốt thượng hạng được Thỏ Hầu Gái bí mật trồng.",
+            "Bảo quản quá lâu, giờ đã mốc meo và thối rữa...",
+            "Không ăn được nữa—Thỏ Hầu Gái giữ lại để xua đuổi kẻ thù."
         ],
         "ability": [
-            "Khi ném, ép mục tiêu phải ăn",
+            "Có tỉ lệ 40% gây trạng thái Độc khi tấn công.",
             "Khi ném, vật này xuyên thủng và trúng tất cả đơn vị trên đường đi."
         ]
     },
     "57": {
         "name": [
-            "Đại Kiếm Cà Rốt"
+            "Cà rốt?"
         ],
         "subtitle": "",
         "description": [
-            "Cà rốt hảo hạng được Hầu Gái Thỏ bí mật trồng",
-            "Được truyền sức mạnh của đá, phát triển thành món ngon",
-            "khiến Hầu Gái Thỏ thèm đến phát khóc"
+            "Một loại cà rốt thượ.....",
+            "Hả? Đây thực sự là... cà rốt sao!?"
         ],
         "ability": [
-            "Khi ném, ép mục tiêu phải ăn"
+            "Khi ném, vật này xuyên thủng và trúng tất cả đơn vị trên đường đi."
         ]
-    },
-    "58": {
-        "name": [
-            "Đại Kiếm Cà Rốt"
-        ],
-        "subtitle": "",
-        "description": [
-            "Cà rốt hảo hạng được Hầu Gái Thỏ bí mật trồng",
-            "Được truyền sức mạnh của đá, phát triển thành món ngon",
-            "khiến Hầu Gái Thỏ thèm đến phát khóc"
-        ],
-        "ability": [
-            "Khi ném, ép mục tiêu phải ăn"
-        ]
+    
     },
     "60": {
         "name": [
