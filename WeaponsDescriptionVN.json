@@ -47,8 +47,8 @@
         "subtitle": "",
         "description": [
             "Không trang bị vũ khí? Vậy thì cứ tung ra loạt cú đấm!",
-            "Có thể chỉ là giải pháp tạm thời, nhưng một nắm đấm đầy nhiệt huyết vẫn rất mạnh",
-            "Tại sao phải dùng vũ khí khi nắm đấm cũng đủ dùng?"
+            "Có thể chỉ là giải pháp tạm thời, nhưng một nắm đấm đầy nhiệt huyết",
+            "vẫn rất mạnh. Tại sao phải dùng vũ khí khi nắm đấm cũng đủ dùng?"
         ],
         "ability": [
             "Sát thương đấm tỷ lệ với HP tối đa!"
@@ -60,8 +60,8 @@
         ],
         "subtitle": "",
         "description": [
-            "Vũ khí cha từng dùng khi còn trẻ,",
-            "được bảo quản tốt và dường như từng cấp cho các hiệp sĩ trong cung điện"
+            "Vũ khí cha từng dùng khi còn trẻ, được bảo quản tốt và dường như từng cấp",
+            "cho các hiệp sĩ trong cung điện"
         ],
         "ability": [
             "Khi HP<\\c[10]30%\\c[0], sát thương của vũ khí này tăng gấp đôi"
@@ -73,9 +73,9 @@
         ],
         "subtitle": "",
         "description": [
-            "Một cây trượng làm từ khoáng chất núi lửa, dễ dàng",
-            "tập trung nguyên tố lửa. Tuy nhiên, chỉ cần sơ suất nhỏ",
-            "cũng có thể khiến nó phát nổ, thiêu cháy cả người dùng"
+            "Một cây trượng làm từ khoáng chất núi lửa, dễ dàng tập trung nguyên tố lửa.",
+            "Tuy nhiên, chỉ cần sơ suất nhỏ cũng có thể khiến nó phát nổ,",
+            "thiêu cháy cả người sử dụng"
         ],
         "ability": [
             "Giữ chuột phải để thi triển \\c[27]Hồng Liên Tinh\\c[0]"
@@ -87,8 +87,8 @@
         ],
         "subtitle": "",
         "description": [
-            "Một cây trượng làm từ tinh thể ma thuật, giải phóng",
-            "băng tuyết diện rộng. Rất khó kiểm soát. Cảm giác như đang đông cứng cả tay"
+            "Một cây trượng làm từ tinh thể ma thuật, giải phóng băng tuyết diện rộng.",
+            "Rất khó kiểm soát. Cảm giác như đang đông cứng cả tay"
         ],
         "ability": [
             "Giữ chuột phải để thi triển \\c[27]Băng Chú\\c[0]"
@@ -104,8 +104,8 @@
             "tạo ra lực đủ mạnh để thổi bay ai đó"
         ],
         "ability": [
-            "Tốc độ di chuyển tăng khi dùng Chém Xoáy",
-            "Khi xoay với tốc độ cao, bước vào trạng thái lơ lửng, miễn nhiễm với việc bị rơi."
+            "Tốc độ di chuyển tăng khi dùng Phong Trảm",
+            "Khi xoay liên tục, bước vào trạng thái lơ lửng, miễn nhiễm với việc bị rơi."
         ]
     },
     "9": {
@@ -175,7 +175,7 @@
             "vẫn bám trên đó, bốc mùi không chịu nổi"
         ],
         "ability": [
-            "66% cơ hội gây trạng thái Nhiễm Độc khi tấn công.",
+            "Liên tục phát ra mùi hôi thối",
             "Mùi hôi thối đến mức ngay cả quái vật cũng phải bỏ chạy!"
         ]
     },
@@ -302,7 +302,7 @@
 		"subtitle": [],
 		"description": [
 			"Một chiếc búa nặng từng được thợ rèn dùng để rèn kim loại.",
-			"Giờ đây, nó được cầm trên tay ai đó, dùng cho những mục đích quái dị và bất thường."
+			"Giờ đây, nó được ai đó dùng cho những mục đích quái dị và bất thường."
 		],
 		"ability": [
 			"Đập vào vũ khí đặt trên đe sẽ sửa chữa nó",
@@ -388,8 +388,8 @@
             "\"Hả? Mình không thấy gì cả! Đây đâu phải chuôi kiếm!?\""		
 		],
         "description": [
-            "Được ban phước bởi ánh sáng, lưỡi kiếm uốn cong ánh sáng, trở thành kiếm vô hình",
-            "Nhờ đó cực kỳ sắc bén, và khi cần, ánh sáng sẽ bùng phát"
+            "Được ban phước bởi ánh sáng, lưỡi kiếm uốn cong ánh sáng, trở thành",
+            "thanh kiếm vô hình. Nhờ đó cực kỳ sắc bén, và khi cần, ánh sáng sẽ bùng phát"
         ],
         "ability": [
             "Đòn đánh hoàn toàn bỏ qua phòng thủ của mục tiêu"
@@ -430,7 +430,7 @@
             "Đoạt Hồn Liềm Den"
         ],
         "subtitle": [
-		    "\"Nhớ nhé, Chém Xoáy dùng như thế này! \""
+		    "\"Nhớ nhé, Phong Trảm dùng như thế này! \""
 		],
         "description": [
             "Lưỡi hái cán ngắn của người ngoài với thiết kế đáng sợ",
@@ -438,7 +438,7 @@
             "nghe thấy tiếng nói lạ vang lên trong đầu"
         ],
         "ability": [
-            "Tự động quay lại tay sau khi được ném và trúng mục tiêu",
+            "Tự động tìm mục tiêu khi ném",
 			"Ý chí mạnh mẽ sẽ giúp bạn làm chủ kỹ năng chiến đấu đặc biệt"
         ]
     },
@@ -453,7 +453,7 @@
 			"Mát lạnh và ngon tuyệt! Nhưng nhớ ăn hết trước khi nó tan chảy..."
         ],
         "ability": [
-            "Có thể bị ăn thịt khi tấn công…",
+            "Có thể bị ăn mất khi tấn công…",
 			"Khi trang bị, sẽ tan chảy và biến mất theo thời gian…"
         ]
     },
@@ -492,7 +492,7 @@
         ],
         "subtitle": "",
         "description": [
-            "Cà rốt thượng hạng được Thỏ Hầu Gái bí mật trồng.",
+            "Cà rốt hảo hạng được Thỏ Hầu Gái bí mật trồng.",
             "Được truyền sức mạnh của Đá Hiền Triết, phát triển thành",
             "món ngon khiến Thỏ Hầu Gái thèm đến phát khóc"
         ],
@@ -507,7 +507,7 @@
         ],
         "subtitle": "",
         "description": [
-            "Cà rốt thượng hạng được Thỏ Hầu Gái bí mật trồng.",
+            "Cà rốt hảo hạng được Thỏ Hầu Gái bí mật trồng.",
             "Sau khi đông lạnh, nó cứng như đá và không thể ăn được.",
             "Nghe đồn đây là đồ dự trữ mùa đông của Thỏ Hầu Gái."
         ],
@@ -522,7 +522,7 @@
         ],
         "subtitle": "",
         "description": [
-            "Cà rốt thượng hạng được Thỏ Hầu Gái bí mật trồng.",
+            "Cà rốt hảo hạng được Thỏ Hầu Gái bí mật trồng.",
             "Bảo quản quá lâu, giờ đã mốc meo và thối rữa...",
             "Không ăn được nữa—Thỏ Hầu Gái giữ lại để xua đuổi kẻ thù."
         ],
@@ -609,8 +609,8 @@
         ],
         "description": [
             "Thanh kiếm quỷ vàng rực rỡ, một trong những bảo vật của ",
-            "Quản trị viên Thế giới. Người đó từng cầm nó, ",
-			"chiến đấu dưới vực thẳm suốt ba ngày ba đêm không nghỉ"
+            "Quản trị viên Thế giới. Người đó từng cầm nó, chiến đấu dưới Vực Thẳm",
+			"suốt ba ngày ba đêm không nghỉ"
         ],
         "ability": [
             "Giải phóng sức mạnh khi nhập lệnh bí mật"
@@ -693,7 +693,7 @@
         ],
         "subtitle": "",
         "description": [
-            "Cung ma thuật phủ đầy băng. Bắn tên băng",
+            "Cung ma thuật phủ đầy băng. Bắn những mũi tên băng lạnh lẽo",
             "và có thể đóng băng diện rộng."
         ],
         "ability": [
