@@ -198,7 +198,7 @@
         ],
         "subtitle": [
             "\"Đây là sức mạnh kiên cường nhất trong tất cả các loại ý chí,",
-            "vững chắc và xuyên thấu qua mọi điều tinh vi\""
+            "  vững chắc và xuyên thấu qua mọi điều tinh vi\""
 		],
         "description": [
             "Ngay cả một mảnh nhỏ cũng chứa sức mạnh to lớn—"
@@ -357,14 +357,14 @@
     },
     "42": {
         "name": [
-            "Kenaz"
+            "Phù văn Kenaz"
         ],
         "subtitle": [
             "\"Sức mạnh Bùng Nổ\""
         ],
         "description": [
-            "Một hòn đá khắc đầy ký tự ma pháp, được thiết kế để ngay cả những người mới",
-            "không có kiến thức về ma pháp cũng có thể dễ dàng kích hoạt hiệu ứng của nó"
+            "Một hòn đá khắc ký tự ma pháp, được thiết kế để ngay cả những người mới",
+            "không có kiến thức về ma pháp cũng có thể dễ dàng kích hoạt nó."
         ],
         "ability": [
             "Ném và biến mục tiêu mà nó chạm vào thành một quả bom",
@@ -373,14 +373,14 @@
     },
     "43": {
         "name": [
-            "Ansuz"
+            "Phù văn Ansuz"
         ],
         "subtitle": [
             "\"Sức mạnh Khải Huyền\""		
 		],
         "description": [
-            "Một hòn đá khắc đầy ký tự ma pháp, được thiết kế để ngay cả những người mới",
-            "không có kiến thức về ma pháp cũng có thể dễ dàng kích hoạt hiệu ứng của nó"
+            "Một hòn đá khắc ký tự ma pháp, được thiết kế để ngay cả những người mới",
+            "không có kiến thức về ma pháp cũng có thể dễ dàng kích hoạt nó."
         ],
         "ability": [
             "Khi sử dụng sẽ để lại kí hiệu có chữ tại vị trí đó",
@@ -389,14 +389,14 @@
     },
     "44": {
         "name": [
-            "Raido"
+            "Phù văn Raido"
         ],
         "subtitle": [
             "\"Sức mạnh Kỵ Sĩ\""
         ],
         "description": [
-            "Một hòn đá khắc đầy ký tự ma pháp, được thiết kế để ngay cả những người mới",
-            "không có kiến thức về ma pháp cũng có thể dễ dàng kích hoạt hiệu ứng của nó"
+            "Một hòn đá khắc ký tự ma pháp, được thiết kế để ngay cả những người mới",
+            "không có kiến thức về ma pháp cũng có thể dễ dàng kích hoạt nó."
         ],
         "ability": [
             "Ném ra một kí hiệu cho phép hoán đổi vị trí"
@@ -404,14 +404,14 @@
     },
     "45": {
         "name": [
-            "Ehwaz"
+            "Phù văn Ehwaz"
         ],
         "subtitle": [
             "\"Sức mạnh Chuyển Hóa\""
         ],
         "description": [
-            "Một hòn đá khắc đầy ký tự ma pháp, được thiết kế để ngay cả những người mới",
-            "không có kiến thức về ma pháp cũng có thể dễ dàng kích hoạt hiệu ứng của nó"
+            "Một hòn đá khắc ký tự ma pháp, được thiết kế để ngay cả những người mới",
+            "không có kiến thức về ma pháp cũng có thể dễ dàng kích hoạt nó"
         ],
         "ability": [
             "Ném và hoán đổi vị trí với mục tiêu mà nó chạm phải"
@@ -425,8 +425,8 @@
             "\"Sự tò mò vô tận của một nhà phiêu lưu ngu ngốc\""
         ],
         "description": [
-            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho",
-            "ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng"
+            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
+            "cũng có thể dễ dàng kích hoạt hiệu ứng."
         ],
         "ability": [
             "Sử dụng sẽ ép bạn dịch chuyển ngẫu nhiên đến một bản đồ khác"
@@ -440,8 +440,8 @@
             "\"Mong ngươi nhận được ân sủng của nàng...\""
         ],
         "description": [
-            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho",
-            "ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng"
+            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
+            "cũng có thể dễ dàng kích hoạt hiệu ứng."
         ],
         "ability": [
             "Khi sử dụng, triệu hồi một cánh cổng dẫn đến Nhà Thờ Sa Ngã"
@@ -455,11 +455,11 @@
             "\"Uy nghi của rồng, bất khả xâm phạm\""
         ],
         "description": [
-            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho",
-            "ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng"
+            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
+            "cũng có thể dễ dàng kích hoạt hiệu ứng."
         ],
         "ability": [
-            "Sử dụng Tiếng Gầm của Rồng để làm choáng tất cả kẻ địch trên một khu vực"
+            "Triệu hồi Tiếng Gầm của Rồng làm choáng tất cả kẻ địch trên một khu vực"
         ]
     },
     "52": {
@@ -470,11 +470,11 @@
             "\"Hương Thơm Lưu Luyến Của Phù Thủy\""
         ],
         "description": [
-            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho",
-            "ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng"
+            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
+            "cũng có thể dễ dàng kích hoạt hiệu ứng."
         ],
         "ability": [
-            "Khi sử dụng, triệu hồi quái vật và khiến chúng cuồng loạn trong thời gian ngắn"
+            "Triệu hồi quái vật và khiến chúng cuồng loạn trong thời gian ngắn"
         ]
     },
     "53": {
@@ -485,8 +485,8 @@
             "\"Sẵn sàng phục vụ! Chuyển Phát Địa Ngục!\""
         ],
         "description": [
-            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho",
-            "ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng"
+            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
+            "cũng có thể dễ dàng kích hoạt hiệu ứng."
         ],
         "ability": [
             "Khi sử dụng, một chiếc xe tải NLCH đâm vào người chơi"
@@ -500,8 +500,8 @@
             "\"Giải phóng sức mạnh của Chiến Binh Thần Khổng Lồ\""
         ],
         "description": [
-            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho",
-            "ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng"
+            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
+            "cũng có thể dễ dàng kích hoạt hiệu ứng."
         ],
         "ability": [
             "Vũ khí cận chiến tạm thời to ra và tăng tấn công"
@@ -515,8 +515,8 @@
             "\"Roulette Cá Cược Linh Hồn\""
         ],
         "description": [
-            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho",
-            "ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng"
+            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
+            "cũng có thể dễ dàng kích hoạt hiệu ứng."
         ],
         "ability": [
             "Khi sử dụng, nhận một hiệu ứng có lợi hoặc bất lợi ngẫu nhiên"
@@ -530,8 +530,8 @@
             "\"Tro về với tro, bụi về với bụi\""
         ],
         "description": [
-            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho",
-            "ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng"
+            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
+            "cũng có thể dễ dàng kích hoạt hiệu ứng."
         ],
         "ability": [
             "Khi sử dụng, loại bỏ tất cả trạng thái khỏi người chơi"
@@ -545,8 +545,8 @@
             "\"Đích đến của mọi sinh mệnh là cái chết\""
         ],
         "description": [
-            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho",
-            "ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng"
+            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
+            "cũng có thể dễ dàng kích hoạt hiệu ứng"
         ],
         "ability": [
             "Khi sử dụng, sức mạnh của Tử Thần sẽ hiện diện tại đây"
@@ -560,8 +560,8 @@
             "\"Chiếc Hộp Pandora của Vực Thẳm\""
         ],
         "description": [
-            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho",
-            "ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng"
+            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
+            "cũng có thể dễ dàng kích hoạt hiệu ứng"
         ],
         "ability": [
             "Khi sử dụng, triệu hồi một máy gacha"
@@ -575,8 +575,8 @@
             "\"Ngôi sao là ngọn hải đăng dẫn lối về nhà\""
         ],
         "description": [
-            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho",
-            "ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng"
+            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
+            "cũng có thể dễ dàng kích hoạt hiệu ứng"
         ],
         "ability": [
 			"Triệu hồi Cửa Sao gần người chơi để trở về điểm xuất phát"
@@ -590,11 +590,11 @@
             "\"Tái sinh từ tro tàn\""
         ],
         "description": [
-            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho",
-            "ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng"
+            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
+            "cũng có thể dễ dàng kích hoạt hiệu ứng"
         ],
         "ability": [
-            "Khi sử dụng, ban Phép Lành của Hỏa Điểu"
+            "Khi sử dụng, ban Phép Lành của Phượng Hoàng"
         ]
     },
     "67": {
@@ -605,11 +605,11 @@
             " \"Mời bạn đến với thế giới vườn mini bí ẩn...\""
         ],
         "description": [
-            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho",
-            "ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng"
+            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
+            "cũng có thể dễ dàng kích hoạt hiệu ứng"
         ],
         "ability": [
-            "Khi sử dụng, đặt lại đồng hồ đếm ngược cho các sự kiện liên quan đến rơi đồ"
+            "Đặt lại đồng hồ đếm ngược cho các sự kiện liên quan đến rơi đồ"
         ]
     },
     "70": {
@@ -674,11 +674,11 @@
         "subtitle": "",
         "description": [
             "Một loại thức ăn kỳ lạ có nguồn gốc không rõ ràng, được đồn là có hương vị",
-            "bất ngờ ngon miệng. Mùi hương của nó không chỉ thu hút động vật mà còn cả quái vật!",
-            "Hãy cẩn thận khi bảo quản—mùi thơm sẽ nhanh chóng phai nhạt nếu không cất giữ đúng cách."
+            "ngon bất ngờ. Mùi hương của nó không chỉ thu hút động vật mà còn cả quái vật!",
+            "Hãy bảo quản cẩn thận—mùi thơm nhanh chóng phai nhạt nếu cất giữ sai cách."
         ],
         "ability": [
-            "Khi ném ra, nó tạo thành một đám làn hương thơm dụ lũ quái vật kéo đến"
+            "Khi ném ra, nó tạo thành một làn hương thơm dụ lũ quái vật kéo đến"
         ]
     },
     "77": {
@@ -1002,9 +1002,9 @@
             "\"Mmm... dâu tây... dâu tây của ta...\""
         ],
         "description": [
-            "Quả dâu tây thượng hạng, quý giá nhất mà ASABA không nỡ",
-            "ăn. Nhưng cho dù có tuyệt vọng bảo vệ nó đến đầu thì",
-            "cuối cùng nó vẫn chỉ là một vật trưng bày không hơn—"
+            "Quả dâu tây thượng hạng, quý giá nhất mà ASABA không nỡ ăn.",
+            "Nhưng cho dù có tuyệt vọng bảo vệ nó đến đâu thì cuối cùng",
+            "nó vẫn chỉ là một vật trưng bày không hơn không kém—"
         ],
         "ability": ""
     },
@@ -1179,9 +1179,9 @@
 		    "\"Onee-chan... em cảm thấy... em không thể sống thiếu chị được nữa...\""
 		],
         "description": [
-            "Một doujinshi với tranh vẽ đẹp mắt.",
-			"Nhưng nó mô tả một tình yêu cấm kị giữa hai cô gái xinh đẹp...",
-			"Câu chuyện nóng bỏng đến mức cả trang sách cũng tỏa ra hương hồng nhẹ nhàng."
+            "Một doujinshi với tranh vẽ đẹp mắt. Nhưng nó mô tả một tình yêu",
+			"cấm kị giữa hai cô gái xinh đẹp... Câu chuyện nóng bỏng đến mức ",
+			"cả trang sách cũng tỏa ra hương thơm nhẹ nhàng."
 		],
         "ability": [
             "Tăng ham muốn sau khi đọc!"
@@ -1244,9 +1244,9 @@
             "\"Nó đầy những nét viết nguệch ngoạc...\""
 		],
         "description": [
-            "Đây là phần thưởng đặc biệt từ em gái dành cho onii-chan chăm chỉ",
-            "Bạn có thể yêu cầu bất cứ điều gì với em ấy, kể cả những điều vô lý",
-            "Nhưng ngay cả khi không có phiếu này, em ấy vẫn muốn giúp onii-chan gánh vác"
+            "Đây là phần thưởng đặc biệt từ em gái dành cho onii-chan chăm chỉ.",
+            "Bạn có thể yêu cầu bất cứ điều gì với em ấy, kể cả những điều vô lý.",
+            "Ngay cả khi không có phiếu này, em ấy vẫn muốn giúp onii-chan gánh vác."
         ],
         "ability": ""
     },
@@ -1710,11 +1710,11 @@
             "Album Bộ Sưu Tập Polaroid"
         ],
         "subtitle": [
-            "\"Những cô gái mềm mại và đáng yêu♥ Tôi muốn mang tất cả về nhà—!\""
+            "\"Những cô gái mềm mại và đáng yêu ♥ Tôi muốn mang tất cả về nhà—!\""
         ],
         "description": [
-            "Một cuốn album được làm đặc biệt để sưu tầm các bức ảnh dễ thương của các cô gái.",
-            "Mở ra thoang thoảng hương trà đen..."
+            "Một cuốn album được làm đặc biệt để sưu tầm các bức ảnh dễ thương",
+            "của các cô gái. Mở ra thoang thoảng hương trà đen..."
         ],
         "ability": [
 		    "Polaroid đã sưu tầm: \\c[6]${QJ.MPMZ.tl.checkPolaroidCount()}\\c[0]/35"
@@ -1725,11 +1725,11 @@
             "Album Bộ Sưu Tập Polaroid"
         ],
         "subtitle": [
-            "\"Những cô gái mềm mại và đáng yêu♥ Tôi muốn mang tất cả về nhà—!\""
+            "\"Những cô gái mềm mại và đáng yêu ♥ Tôi muốn mang tất cả về nhà—!\""
         ],
         "description": [
-            "Một cuốn album được làm đặc biệt để sưu tầm các bức ảnh dễ thương của các cô gái.",
-            "Mở ra thoang thoảng hương trà đen..."
+            "Một cuốn album được làm đặc biệt để sưu tầm các bức ảnh dễ thương",
+            " của các cô gái. Mở ra thoang thoảng hương trà đen..."
         ],
         "ability": [
 		    "Bộ sưu tập đã hoàn chỉnh! Vận may tăng vĩnh viễn!"
@@ -1761,13 +1761,13 @@
     },
     "314": {
         "name": [
-            "Đá Hình Thoi Đỏ"
+            "Hỏa Linh Thạch"
         ],
         "subtitle": "",
         "description": [
             "Một viên đá quý đỏ tỏa ra ánh sáng mê hoặc.",
-            "Tuy không có nhiều giá trị thực tiễn, nhưng có lẽ ai đó sẽ sẵn sàng trả một cái giá cao cho nó…",
-            "hay họ có ý đồ toan tính khác?"
+            "Tuy không có nhiều giá trị thực tiễn, nhưng có lẽ ai đó sẽ sẵn sàng trả",
+            "một cái giá cao cho nó… hay họ có ý đồ toan tính khác?"
         ],
         "ability": ""
     }
