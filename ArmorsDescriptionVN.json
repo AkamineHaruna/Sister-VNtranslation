@@ -5,10 +5,10 @@
         ],
         "subtitle": "",
         "description": [
-            "Một chiếc đe nặng nề từ xưởng rèn, bằng cách nào đó lại được",
-            "mang theo như trang bị. Độ cứng và trọng lượng của nó khiến",
-            "nó trở thành công cụ hoàn hảo để mài giũa vũ khí,",
-            "dù có thể hơi khó dùng với những người chưa quen..."
+            "Một chiếc đe nặng nề từ xưởng rèn, bằng cách nào đó lại được mang theo",
+            "như trang bị. Độ cứng và trọng lượng của nó khiến nó trở thành công cụ",
+            "hoàn hảo để mài giũa vũ khí, dù có thể hơi khó dùng với",
+            "những người chưa quen..."
         ],
         "ability": [
             "Chiêu Senpo thay đổi thành rút đe ra để sửa chữa vũ khí",
@@ -21,12 +21,12 @@
         ],
         "subtitle": "",
         "description": [
-            "Khoáng vật ngủ yên dưới lòng đất là môi chất tốt cho giả kim.",
+            "Khoáng vật ngủ yên dưới lòng đất là dung môi hợp chất tốt cho giả kim.",
             "Thiết bị ma cụ hình dao găm này khai thác sức mạnh của ngọc quý,",
             "nhưng việc tiêu hao tốn kém khiến hầu hết các giả kim sư từ bỏ nó..."
         ],
         "ability": [
-            "Khi tấn công, ngẫu nhiên tiêu hao một viên ngọc để tích điện tăng sát thương",
+            "Khi tấn công, ngẫu nhiên tiêu hao một viên ngọc quý để tăng sát thương",
             "Ngọc càng quý, sát thương ma pháp cộng thêm càng lớn"
         ]
     },
@@ -49,12 +49,12 @@
         ],
         "subtitle": "",
         "description": [
-            "Đôi găng bảo hộ làm từ vật liệu cách điện,",
-            "ban đầu được công nhân dùng như đồ bảo hộ hằng ngày.",
-            "Thật bất ngờ, chúng cũng mang lại khả năng kháng ma pháp rất mạnh..."
+            "Đôi găng bảo hộ làm từ vật liệu cách điện, ban đầu được công nhân",
+            "dùng như đồ bảo hộ hằng ngày. Thật bất ngờ, chúng cũng mang lại",
+            "khả năng kháng ma pháp rất mạnh..."
         ],
         "ability": [
-            "Giảm mạnh tác động của sét khi trang bị"
+            "Giảm mạnh tác động của tia sét khi trang bị"
         ]
     },
     "6": {
@@ -63,10 +63,10 @@
         ],
         "subtitle": "",
         "description": [
-            "Bị ký sinh bởi Hòn Đá Hiền Triết, sinh vật yếu ớt kia đã bị ép",
-            "truyền vào sức sống vô tận, luân hồi bất tận giữa sự sống và",
-            "cái chết cho đến khi cơn điên loạn nuốt chửng. Ngay cả khi ",
-            "Hòn Đá bị tách rời, sức mạnh này vẫn còn tồn tại."
+            "Bị ký sinh bởi Hòn Đá Hiền Triết, sinh vật yếu ớt kia đã bị ép truyền vào",
+            "sức sống vô tận, luân hồi bất tận giữa sự sống và cái chết cho đến khi",
+            "cơn điên loạn nuốt chửng. Ngay cả khi Hòn Đá Hiền Triết được tách rời,",
+            "sức mạnh này vẫn còn tồn tại."
         ],
         "ability": [
             "Tăng HP. Cường hóa hiệu ứng hồi phục HP thêm 25%.",
@@ -107,8 +107,8 @@
         ],
         "subtitle": "",
         "description": [
-            "Một cụm tinh thạch quý hiếm chứa đựng Mana dày đặc,",
-            "Tỏa ra những làn sóng ma thuật hữu hình, là báu vật được giới giả kim truy lùng."
+            "Một cụm tinh thạch quý hiếm chứa đựng Mana dày đặc. Tỏa ra những",
+            "làn sóng ma thuật hữu hình, là báu vật được giới giả kim truy lùng."
         ],
         "ability": [
             "Khi trang bị sẽ tăng tốc độ thi triển và sức mạnh ma thuật.",
@@ -121,7 +121,7 @@
         ],
         "subtitle": "",
         "description": [
-            "Vòng đeo đầu từng được Đại Hiền Giả đeo khi còn là nhà mạo hiểm giả lúc thời trẻ.",
+            "Vòng đeo đầu Đại Hiền Giả sử dụng khi còn là nhà mạo hiểm giả lúc thời trẻ.",
             "Nó giúp tâm trí tập trung và ngăn chặn những xao nhãng từ bên ngoài."
         ],
         "ability": [
@@ -152,8 +152,8 @@
             " \"...Meo~?\""		
 		],
         "description": [
-            "Bộ vuốt Mèo ẩn giấu bên trong một con Slime Mèo, dường như đã được chứa đựng",
-            "linh hồn của mèo. Khi trang bị sẽ tăng sự nhanh nhẹn của bạn!"
+            "Bộ vuốt Mèo ẩn giấu bên trong một con Slime Mèo, dường như đã được",
+            "chứa đựng linh hồn của mèo. Khi trang bị sẽ tăng sự nhanh nhẹn của bạn!"
         ],
         "ability": [
             "Tăng sức mạnh và tốc độ tấn công"
@@ -167,8 +167,8 @@
             " \"...Meo~?\""	
 		],
         "description": [
-            "Những vuốt chân Mèo ẩn giấu bên trong một con Slime Mèo, dường như đã được",
-            "chứa đựng linh hồn của mèo. Khi trang bị sẽ tăng sự nhanh nhẹn của bạn!"
+            "Những vuốt chân Mèo ẩn giấu bên trong một con Slime Mèo, dường như đã ",
+            "được chứa đựng linh hồn của mèo. Khi trang bị sẽ tăng sự nhanh nhẹn của bạn!"
         ],
         "ability": [
             "Tăng tốc độ tấn công và di chuyển, giảm thời gian hồi chiêu Senpo"
@@ -180,8 +180,9 @@
         ],
         "subtitle": "",
         "description": [
-            "Chiếc nhẫn được đan từ lá và thân rễ, tỏa ra mùi hương thảo mộc. Từng được dùng",
-            "làm bùa hộ mệnh cho lữ khách, nó tượng trưng cho sức sống và nguồn sinh lực"
+            "Chiếc nhẫn được đan từ lá và thân rễ, tỏa ra mùi hương thảo mộc.",
+            "Từng được dùng làm bùa hộ mệnh cho lữ khách, nó tượng trưng cho ",
+            "sức sống và nguồn sinh lực"
         ],
         "ability": [
             "HP tối đa +\\c[29]${$gameActors.actor(1).skillMasteryLevel(35)>0?(($gameActors.actor(1).skillMasteryLevel(35)*($gameActors.actor(1).skillMasteryLevel(35) + 1)/2)*15)/$gameActors.actor(1).skillMasteryLevel(35):15}\\c[0]",
@@ -195,7 +196,8 @@
         "subtitle": "",
         "description": [
             "Bộ đồ mèo bông mềm mại, ấm áp — vừa bồng bềnh vừa quá khổ",
-            "Thiết kế rộng rãi ôm trọn cơ thể, thậm chí còn có thể giấu cả vài món đồ nhỏ bên trong~"
+            "Thiết kế rộng rãi ôm trọn cơ thể, thậm chí còn có thể giấu cả vài",
+            "món đồ nhỏ bên trong~"
         ],
         "ability": [
             "Sức chứa thêm vũ khí +10",
@@ -209,10 +211,10 @@
         "subtitle": "",
         "description": [
             "Một bộ giáp kim loại gắn đầy gai nhọn, tỏa ra sự nguy hiểm từ mọi góc độ,",
-            "vừa mang lại khả năng phòng thủ vững chắc, vừa tự động gây sát thương kẻ địch ở gần."
+            "vừa mang lại khả năng phòng thủ vững chắc, gây sát thương cho kẻ địch ở gần."
         ],
         "ability": [
-            "Tự động gây sát thương lên kẻ địch xung quanh"
+            "Tự động gây sát thương lên kẻ địch xung quanh."
         ]
     },
     "17": {
@@ -222,10 +224,10 @@
         "subtitle": "",
         "description": [
             "Một bộ giáp kim loại gắn đầy gai nhọn, tỏa ra sự nguy hiểm từ mọi góc độ,",
-            "vừa mang lại khả năng phòng thủ vững chắc, vừa tự động gây sát thương kẻ địch ở gần."
+            "vừa mang lại khả năng phòng thủ vững chắc, gây sát thương cho kẻ địch ở gần."
         ],
         "ability": [
-            "Tự động gây sát thương lên kẻ địch xung quanh"
+            "Tự động gây sát thương lên kẻ địch xung quanh."
         ]
     },
     "18": {
@@ -235,10 +237,10 @@
         "subtitle": "",
         "description": [
             "Một bộ giáp kim loại gắn đầy gai nhọn, tỏa ra sự nguy hiểm từ mọi góc độ,",
-            "vừa mang lại khả năng phòng thủ vững chắc, vừa tự động gây sát thương kẻ địch ở gần."
+            "vừa mang lại khả năng phòng thủ vững chắc, gây sát thương cho kẻ địch ở gần."
         ],
         "ability": [
-            "Tự động gây sát thương lên kẻ địch xung quanh khi tấn công"
+            "Tự động gây sát thương lên kẻ địch xung quanh khi tấn công."
         ]
     },
     "19": {
@@ -248,10 +250,10 @@
         "subtitle": "",
         "description": [
             "Một bộ giáp kim loại gắn đầy gai nhọn, tỏa ra sự nguy hiểm từ mọi góc độ,",
-            "vừa mang lại khả năng phòng thủ vững chắc, vừa tự động gây sát thương kẻ địch ở gần."
+            "vừa mang lại khả năng phòng thủ vững chắc, gây sát thương cho kẻ địch ở gần."
         ],
         "ability": [
-            "Tự động gây sát thương lên kẻ địch xung quanh khi di chuyển"
+            "Tự động gây sát thương lên kẻ địch xung quanh khi di chuyển."
         ]
     },
     "20": {
@@ -260,8 +262,8 @@
         ],
         "subtitle": "",
         "description": [
-            "Bộ giáp tiêu chuẩn của các hiệp sĩ hoàng gia. Thiết kế vừa chắc chắn vừa cầu kỳ",
-            "biểu tượng cho sự trung thành của họ với tinh thần hiệp sĩ"
+            "Bộ giáp tiêu chuẩn của các hiệp sĩ hoàng gia. Thiết kế vừa chắc chắn",
+            "vừa cầu kỳ, biểu tượng cho sự trung thành của họ với tinh thần hiệp sĩ."
         ],
         "ability": [
             "Tăng phòng thủ khi HP dưới \\c[10]30%\\c[0]"
@@ -273,8 +275,8 @@
         ],
         "subtitle": "",
         "description": [
-            "Bộ giáp tiêu chuẩn của các hiệp sĩ hoàng gia. Thiết kế vừa chắc chắn vừa cầu kỳ",
-            "biểu tượng cho sự trung thành của họ với tinh thần hiệp sĩ"
+            "Bộ giáp tiêu chuẩn của các hiệp sĩ hoàng gia. Thiết kế vừa chắc chắn",
+            "vừa cầu kỳ, biểu tượng cho sự trung thành của họ với tinh thần hiệp sĩ."
         ],
         "ability": [
             "Tăng phòng thủ khi HP dưới \\c[10]30%\\c[0]"
@@ -286,8 +288,8 @@
         ],
         "subtitle": "",
         "description": [
-            "Bộ giáp tiêu chuẩn của các hiệp sĩ hoàng gia. Thiết kế vừa chắc chắn vừa cầu kỳ",
-            "biểu tượng cho sự trung thành của họ với tinh thần hiệp sĩ"
+            "Bộ giáp tiêu chuẩn của các hiệp sĩ hoàng gia. Thiết kế vừa chắc chắn",
+            "vừa cầu kỳ, biểu tượng cho sự trung thành của họ với tinh thần hiệp sĩ."
         ],
         "ability": [
             "Tăng tấn công và phòng thủ khi HP dưới \\c[10]30%\\c[0]"
@@ -299,8 +301,8 @@
         ],
         "subtitle": "",
         "description": [
-            "Bộ giáp tiêu chuẩn của các hiệp sĩ hoàng gia. Thiết kế vừa chắc chắn vừa cầu kỳ",
-            "biểu tượng cho sự trung thành của họ với tinh thần hiệp sĩ"
+            "Bộ giáp tiêu chuẩn của các hiệp sĩ hoàng gia. Thiết kế vừa chắc chắn",
+            "vừa cầu kỳ, biểu tượng cho sự trung thành của họ với tinh thần hiệp sĩ."
         ],
         "ability": [
             "Tăng tốc độ di chuyển khi HP dưới \\c[10]30%\\c[0]"
@@ -337,13 +339,13 @@
     },
     "26": {
         "name": [
-            "Lông Vũ Hỏa Điểu"
+            "Lông Vũ Phượng Hoàng"
 		],
 		"subtitle": [
 		    ""
 		],
         "description": [
-            "Một chiếc lông vũ của Hỏa Điểu.",
+            "Một chiếc lông vũ của Phượng Hoàng.",
 			"Biểu tượng của sự sống vĩnh hằng, vẫn cháy rực với ngọn lửa ấm áp.",
 			"Chỉ một chiếc lông của nó cũng mang sức mạnh hồi sinh kẻ đã khuất."
 		],
@@ -460,9 +462,9 @@
         ],
         "subtitle": "",
         "description": [
-            "Một thanh đoản kiếm được chế tác tinh xảo, thường được các samurai ngoại quốc",
-            "mang theo như vũ khí phụ. Tuy ngắn, nhưng lưỡi sắc bén có thể xé toang da thịt,",
-            "để lại những vết thương khó cầm máu."
+            "Một thanh đoản kiếm được chế tác tinh xảo, thường được các samurai",
+            "ngoại quốc mang theo như vũ khí phụ. Tuy ngắn, nhưng lưỡi sắc bén có thể",
+            "xé toạc da thịt, để lại những vết thương khó cầm máu."
         ],
         "ability": [
             "Số lần tấn công thường với vũ khí cận chiến +1",
@@ -560,7 +562,7 @@
 		],
         "description": [
             "Một ý chí đã hi sinh tất cả vì những vụ nổ",
-            "Giờ đây khi ngươi mang nó, chẳng lẽ không muốn tạo ra những vụ nổ lớn hơn sao?"
+            "Giờ đây chẳng lẽ ngươi không muốn tạo ra những vụ nổ lớn hơn sao?"
         ],
         "ability": [
             "Có tỉ lệ nhỏ kích hoạt vụ nổ khi tấn công hoặc bị đánh trúng",
@@ -576,7 +578,8 @@
             "Vung kiếm chỉ để giết chóc, chẳng hề quan tâm đến nỗi đau của chúng!\""
         ],
         "description": [
-            "Một chiếc huy hiệu chỉ được đeo bởi những người đồng chí tin vào việc bảo tồn vũ khí"
+            "Một chiếc huy hiệu chỉ được đeo bởi những người đồng chí tin vào",
+            "việc bảo tồn vũ khí vĩnh cửu"
         ],
         "ability": [
             "Sức tấn công -20%, sát thương tối đa giới hạn ở mức 200",
@@ -654,7 +657,7 @@
             "Để cứu linh thú của mình, một nhà giả kim nọ đã tạo nên khế ước này..."
         ],
         "ability": [
-            "Liên kết với servant của bạn—mọi sát thương chúng chịu sẽ chuyển sang bạn.",
+            "Liên kết với servant—mọi sát thương chúng chịu sẽ chuyển sang bạn.",
             "Mỗi servent liên kết sẽ ban cho bạn hiệu ứng hồi phục"
         ]
     },
@@ -710,7 +713,7 @@
             "Găng tay dày, chịu nhiệt, tỏa mùi thuốc súng nồng nặc"
         ],
         "ability": [
-            "+20% bán kính nổ cho bom tự kích hoạt",
+            "+30% bán kính nổ cho bom tự kích hoạt",
             "Bom có tỉ lệ gây ra chuỗi nổ"
         ]
     },
@@ -738,10 +741,10 @@
             ""
         ],
         "description": [
-            "ASABA, chìm trong đau buồn vì quả dâu đã mất, ",
-            "giải phóng tuyệt kỹ tối thượng của mình. Một khi đã nhắm đến,",
-            "kẻ địch sẽ bị dính một loạt combo không thể tránh né... Nhưng nỗi buồn vẫn còn—",
-            "bị đốt cháy bởi cảm xúc của định mệnh, bạn cũng kế thừa cấm thuật này! "
+            "ASABA, chìm trong đau buồn vì quả dâu đã mất, giải phóng tuyệt kỹ ",
+            "tối thượng của mình. Một khi đã nhắm đến, kẻ địch sẽ bị dính một loạt",
+            "combo không thể tránh né... Nhưng nỗi buồn vẫn còn—bị đốt cháy bởi",
+            "cảm xúc của định mệnh, bạn cũng kế thừa cấm thuật này! "
         ],
         "ability": [
             "Thi triển tuyệt chiêu khi dùng đúng câu lệnh ",
@@ -761,7 +764,7 @@
 			"thấm đẫm nguồn sức mạnh giả kim tuy mờ nhạt nhưng vĩnh cửu"
         ],
         "ability": [
-		    "Tăng sát thương ma thuật dựa trên số lượng Mảnh Triết",
+		    "Tăng sát thương ma thuật dựa trên số lượng Mảnh Hiền Triết",
             "Giảm \\c[6]24%\\c[0] hao mòn vũ khí khi thi triển ma thuật"
         ]
     },
@@ -800,7 +803,7 @@
         "subtitle": "",
         "description": [
             "Găng tay bị nguyền rủa, nhuốm đầy ma thuật u tối,",
-            "chứa đựng một linh hồn đầy thù hận, không ngừng gào thét xé nát kẻ thù."
+            "chứa đựng một linh hồn đầy thù hận, không ngừng gào thét xé xác kẻ thù."
         ],
         "ability": [
             "Đạn phép tự động đuổi theo kẻ địch gần đó"
@@ -889,7 +892,7 @@
         ],
         "ability": [
             "Ngăn chặn mọi hình thức hồi HP khi trang bị",
-            "Khi HP bằng 0, bạn vẫn sẽ duy trì hoạt động thêm một thời gian trước khi gục"
+            "Khi HP về 0, bạn vẫn sẽ duy trì thêm một thời gian trước khi gục ngã"
         ]
     },
     "73": {
@@ -942,8 +945,8 @@
         ],
         "subtitle": "",
         "description": [
-            "Một lõi năng lượng vượt xa công nghệ hiện đại, bề mặt khắc họa",
-            "những mạch năng lượng phát sáng huyền bí. Dù phần lớn linh kiện đã thất lạc, ",
+            "Một lõi năng lượng vượt xa công nghệ hiện đại, bề mặt khắc họa những mạch",
+            "năng lượng phát sáng huyền bí. Dù phần lớn linh kiện đã thất lạc,",
             "nó vẫn thể hiện khả năng tính toán và cảm ứng phi thường."
         ],
         "ability": [
@@ -953,11 +956,25 @@
     },
     "125": {
         "name": [
-            "Atsu Bouzu"
+            "Búp bê cầu Nắng Gắt"
         ],
         "subtitle": "",
         "description": [
-            "Một con búp bê vải được tạo nên từ những lời cầu nguyện chân thành của ai đó.",
+            "Con búp bê vải được tạo nên từ những lời cầu nguyện chân thành của ai đó.",
+            "Nó mang theo những ước nguyện, tạo ra những thay đổi nhẹ trong thời tiết",
+            "Tuy nhiên, con búp bê lặng lẽ biến mất ngay sau đó"
+        ],
+        "ability": [
+            "Đảm bảo thời tiết nắng gắt vào ngày hôm sau khi trang bị"
+        ]
+    },
+    "126": {
+        "name": [
+            "Búp bê cầu Nắng Đẹp"
+        ],
+        "subtitle": "",
+        "description": [
+            "Con búp bê vải được tạo nên từ những lời cầu nguyện chân thành của ai đó.",
             "Nó mang theo những ước nguyện, tạo ra những thay đổi nhẹ trong thời tiết",
             "Tuy nhiên, con búp bê lặng lẽ biến mất ngay sau đó"
         ],
@@ -965,27 +982,13 @@
             "Đảm bảo thời tiết nắng ráo vào ngày hôm sau khi trang bị"
         ]
     },
-    "126": {
-        "name": [
-            "Teru Bouzu"
-        ],
-        "subtitle": "",
-        "description": [
-            "Một con búp bê vải được tạo nên từ những lời cầu nguyện chân thành của ai đó.",
-            "Nó mang theo những ước nguyện, tạo ra những thay đổi nhẹ trong thời tiết",
-            "Tuy nhiên, con búp bê lặng lẽ biến mất ngay sau đó"
-        ],
-        "ability": [
-            "Đảm bảo thời tiết nắng vào ngày hôm sau khi trang bị"
-        ]
-    },
     "127": {
         "name": [
-            "Kumo Bouzu"
+            "Búp bê cầu Mây"
         ],
         "subtitle": "",
         "description": [
-            "Một con búp bê vải được tạo nên từ những lời cầu nguyện chân thành của ai đó.",
+            "Con búp bê vải được tạo nên từ những lời cầu nguyện chân thành của ai đó.",
             "Nó mang theo những ước nguyện, tạo ra những thay đổi nhẹ trong thời tiết",
             "Tuy nhiên, con búp bê lặng lẽ biến mất ngay sau đó"
         ],
@@ -995,11 +998,11 @@
     },
     "128": {
         "name": [
-            "Ame Bouzu"
+            "Búp bê cầu Mưa"
         ],
         "subtitle": "",
         "description": [
-            "Một con búp bê vải được tạo nên từ những lời cầu nguyện chân thành của ai đó.",
+            "Con búp bê vải được tạo nên từ những lời cầu nguyện chân thành của ai đó.",
             "Nó mang theo những ước nguyện, tạo ra những thay đổi nhẹ trong thời tiết",
             "Tuy nhiên, con búp bê lặng lẽ biến mất ngay sau đó"
         ],
@@ -1009,7 +1012,7 @@
     },
     "129": {
         "name": [
-            "Nụ Cười Thuần Khiết Của Em Gái"
+            "Nụ Cười Của Em Gái"
         ],
         "subtitle": [
             "\"\\str[121], anh đã giữ lời hứa, tốt lắm!\""		
@@ -1158,9 +1161,9 @@
             ""
         ],
         "description": [
-            "Lãnh thổ bất khả xâm phạm thiêng liêng giữa váy ngắn và tất cao đến đùi của cô gái",
-            "Không chỉ mang lại khả năng kháng ma thuật cao, mà còn sở hữu khả năng ",
-			"kỳ quặc là lấy ra mọi loại vật phẩm từ dưới váy theo ý muốn"
+            "Lãnh thổ bất khả xâm phạm thiêng liêng giữa váy ngắn và tất cao đến đùi",
+            "của cô gái. Không chỉ mang lại khả năng kháng ma thuật cao, mà còn sở hữu",
+			"khả năng kỳ quặc là lấy ra mọi loại vật phẩm từ dưới váy theo ý muốn"
         ],
         "ability": [
             "Tăng sức chứa vũ khí +99",
@@ -1175,7 +1178,7 @@
             "\"Hãy trao cho em tình yêu của anh—! Nếu không, hãy cùng chết đi~~~!\""
         ],
         "description": [
-            "Một cổ vật cấm được rèn bởi một ác quỷ yandere nào đó",
+            "Một cổ vật cấm được rèn bởi một Ác Quỷ yandere nào đó",
             "Nó ép buộc bất kỳ ai chạm vào phải yêu người mang nó",
 			"bất chấp ý chí của họ"
         ],
