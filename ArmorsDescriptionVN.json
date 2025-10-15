@@ -12,7 +12,7 @@
         ],
         "ability": [
             "Chiêu Senpo thay đổi thành rút đe ra để sửa chữa vũ khí",
-            "Không thể sửa vũ khí ma pháp hoặc vũ khí phẩm chất vàng"
+            "Không thể sửa vũ khí ma pháp hoặc vũ khí có độ hiếm cấp Vàng"
         ]
     },
     "2": {
@@ -1152,6 +1152,55 @@
             ""
         ],
         "ability": []
+    },
+    "296": {
+        "name": [
+            "Búa May Mắn của Ruika"
+        ],
+        "subtitle": [
+            "\"Hầu gái trưởng Ruika luôn dùng nó để gõ vào những chú thỏ không nghe lời.\""
+        ],
+        "description": [
+		    "Báu vật bí ẩn của các Hầu gái Thỏ, được cho là lý do nó bán chạy đến vậy.",
+			"Chỉ cần một cú vung nhẹ, nó có thể ban điều ước cho người cầm nó —",
+			"Các nhà mạo hiểm thường thấy nó tự sửa những cỗ máy bị mấy kẻ xấu làm hỏng."
+        ],
+        "ability": [
+            "Tăng tỉ lệ rơi tiền và vật phẩm"
+        ]
+    },
+    "297": {
+        "name": [
+            "Bộ Sơ Cứu của Mio"
+        ],
+        "subtitle": [
+            "\"Trời ơi! Mình lại rơi xuống hố nữa à!?\""
+        ],
+        "description": [
+		    "Ban đầu là công cụ mà admin dùng để kiểm tra hệ thống hồi máu,",
+			"nhưng sau đó anh ta quên xóa đi. Tuy nhiên, nó hoàn toàn vô dụng",
+			"trước các cơ chế chết đột tử."
+        ],
+        "ability": [
+            "Hồi 100% HP mỗi giây khi trang bị"
+        ]
+    },
+    "298": {
+        "name": [
+            "Ngón Tay Vàng của Shiroin"
+        ],
+        "subtitle": [
+            "\"Cậu biết cái này nó phá game đúng không?\"",
+			"\"Biết chứ.\"",
+			"\"Vậy mà vẫn muốn trang bị nó à?\"",
+			"\"Tất nhiên rồi!\""
+        ],
+        "description": [
+		    "Một cổ vật có thể biến mọi thứ chạm vào thành vàng."
+        ],
+        "ability": [
+            "Vũ khí không còn bị hỏng khi tấn công"
+        ]
     },
     "299": {
         "name": [

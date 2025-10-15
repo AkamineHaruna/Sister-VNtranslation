@@ -1,0 +1,272 @@
+{
+    "1": {
+        "0": [
+            "Even though we agreed to take a bath together, ",
+			"we were both still a little shy,",
+			"so even though we were about to see each other naked, ",
+			"we both wrapped ourselves in towels and walked into the bathroom."
+		],
+		"1": [
+            "\\nl< >\"Rock, paper, scissors, shoot!    \\w[120]",
+			"Ehehe~ I won today!\""
+        ],
+		"2": [
+            "\"Rock, paper, scissors, shoot!    \\w[120]",
+			"Yes! I won!\""
+        ],		
+        "3": [
+		    "Since I lost the game,",
+			"I had no choice but to quietly wait in the tub ",
+			"while \\str[120] finished washing."
+        ],
+        "4": [
+		    "Since I won the game,",
+			"I got to take a shower first today.",
+			"Meanwhile, \\str[120] sat in the tub, looking a bit bored."
+        ],
+        "5": [
+		    "After taking a quick shower,",
+			"I sat down in the tub and quietly waited for \\str[120] to finish."
+        ],
+        "6": [
+		    "Watching \\str[120] washing her hair a bit nervously,",
+			"I couldn’t help but feel the urge to go help her…"
+        ],		
+        "7": [
+		    "Watching \\str[120] wiping her body a bit nervously,",
+			"I couldn’t help but feel the urge to go help her…"
+        ],
+        "8": [
+		    "Help her",
+			"Forget it"
+        ],
+        "9": [
+		    "I tried asking \\str[120] if she wanted me to help wash her hair—"
+        ],
+        "10": [
+		    "I tried asking \\str[120] if she wanted me to help wash her back—"
+        ],		
+        "11": [
+		    "\\nl< >\"Eh—?",
+			"It’s fine, I can do it myself! ",
+			"\\str[121], you’re so clumsy,",
+			"you’d totally mess it up!\""
+        ],		
+        "12": [
+		    "Ugh… \\str[120] turned me down.",
+			"Maybe I’ll have to wait until we’re a bit closer before trying again."
+        ],		
+        "13": [
+		    "\\str[120] is growing up, ",
+			"and I guess she doesn’t like being treated like a kid anymore.",
+			"Better not push it…"
+        ],
+		"14": [
+            "After \\str[120] carefully finished her bath,",
+			"it was my turn to take a shower."
+        ]		
+    },			
+    "8": {
+        "0": [
+            "There’s already so much foam…!",
+			"Do I really need to add more?!"
+		],
+		"1": [
+            "There’s quite a lot of foam already...",
+			"Should I add a little more shampoo?"
+        ],
+        "2": [
+            "Feels like the bubbles could be a bit fluffier...",
+            "Should I add a little more shampoo?"
+        ],
+        "3": [
+		    "Ask \\str[120]",
+            "Add more",
+			"Enough"
+        ],
+        "4": [
+            "\\{...The shampoo’s all gone!"
+        ],
+        "5": [
+            "Guess I’ll just finish up like this ",
+			"and remember to restock later..."
+        ],
+        "6": [
+            "There’s more than enough foam already!?",
+			"Better not waste any more shampoo—"
+        ],	
+        "7": [
+            "Huh? Do I really need this much shampoo?",
+			"My scalp’s starting to sting—"
+        ],	
+        "8": [
+            "Whoa, there’s so much foam already—",
+			"this should be enough, right~?"
+        ],	
+        "9": [
+            "Yeah, let’s make a bit more foam—"
+        ],	
+        "10": [
+            "Mmm, more bubbles really make the mood better—"
+        ],	
+        "11": [
+            "Had a nice, relaxing bath."
+        ],	
+        "12": [
+            "\"...Oh right, I picked that thing up earlier.\""
+        ],	
+        "13": [
+            "I carefully washed the rubber duck clean and gently placed it in the tub.",
+			"It floated quietly on the water—peaceful and adorable."
+        ],	
+        "14": [
+            "\"Mhm... the atmosphere feels so much nicer now.\""
+        ],	
+        "15": [
+            "\"Phew... guess it’s about time to get out.\""
+        ],	
+        "16": [
+            "\"...Finally got rid of that weird smell on me.\""
+        ],	
+        "17": [
+            "I scrubbed myself over and over with plenty of body wash,",
+            "and even my soul felt like it had been cleansed..."
+        ],	
+        "18": [
+            "All clean—time to get out."
+        ],	
+        "19": [
+            "\\nl< >\"\\str[121]!? ",
+			"Stop playing with the shampoo already!\""
+        ],	
+        "20": [
+            "\\nl< >\"The shampoo’s been running out so fast lately—",
+			"so it really was your doing, \\str[121]!\""
+        ],	
+        "21": [
+            "Ugh... got scolded by \\str[120]."
+        ],	
+        "22": [
+            "I asked \\str[120] if she could help scrub my back—"
+        ],	
+        "23": [
+            "\\nl< >\"Okay! Just a sec~!\""
+        ],	
+        "24": [
+            "\\nl< >\"It’s fine if I scrub a little harder, ",
+			"right, \\str[121]?\""
+        ],	
+        "25": [
+            "\"Ah... yeah, it’s fine.\""
+        ],	
+        "26": [
+            "\\nl< >\"Alright, here I go—!  \\w[90]",
+			"Heave-ho—heave-ho—!           \\w[120]",
+			"Heave-ho—heave-ho—!           \\w[120]\""
+        ],	
+        "27": [
+            "\\str[120] energetically scrubbed my back with a towel.",
+			"Her strength wasn’t much, and it didn’t hurt, but somehow,",
+			"it felt a bit like I was being wiped down like a dirty floor..."
+        ],	
+        "28": [
+            "\\nl< >\"Phew... I’m tired...    \\w[60]",
+			"\\str[121], does that feel good?\""
+        ],	
+        "29": [
+            "Wash front…",
+			"Praise \\str[120]"
+        ],
+        "30": [
+            "\\nl< >\"The front… needs to be washed too?       \\w[60]",
+			"Geez, \\str[121]…          \\w[60]",
+			"You’re not a kid anymore, ",
+			"do you really need someone else to wash you…?\"",
+			"\\w[120]"
+        ],	
+        "31": [
+		    "Guess I got a little carried away…",
+			"\\str[120]’s face turned completely red with embarrassment.",
+			"Looks like I’ll have to wait until we’re a bit closer before ",
+			"trying that again."
+        ],
+        "32": [
+		    "\\nl< >\"The front… needs to be washed too?       \\w[60]",
+            "Geez, \\str[121]…         \\w[60]",
+			"You’re not a kid anymore, yet you’re still so spoiled…\""
+        ],		
+        "33": [
+		    "\\nl< >\"So… since \\str[121] isn’t a kid anymore,               \\w[120]",
+            "I’ll have to wash you like an adult from here on… okay?\"       \\w[120]"
+        ],
+        "34": [
+		    "\\nl< >\"Heh-heh-heh... Next time,                              \\w[60]",
+            "I’ll show you an even better back-scrubbing technique!\"        \\w[120]"
+        ]		
+    },
+    "12": {
+        "0": [
+            "\\str[120] shyly nodded, and her adorable reaction filled me with",
+            "an overwhelming urge to hold her close and cherish her.",
+            "Just as I was lost in that fluttering emotion,",
+            "a strange, unfamiliar sensation suddenly surged up from below..."
+		],
+		"1": [
+            "\\nl< >\"Ah… \\str[121], your balls are glowing?\""
+        ],
+		"2": [
+            "\"Yeah, you know, ",
+			"boys’ balls always glow when they take a bath—",
+			"\\w[45]\\^"
+        ],
+		"3": [
+            "\\>\"Yeah, you know, ",
+			"boys’ balls always glow when they take a bath—",
+			"N-\\<\\{no way!!\"",
+			"\\}\\w[60]"
+        ],
+		"4": [
+            "Staring at the sudden burst of light from my lower body, ",
+			"I was completely baffled."
+        ],
+		"5": [
+        	"Could it be that a monster from the Abyss followed me here!?",
+        	"The moment that dangerous thought crossed my mind,",
+        	"I tossed the towel aside without another hesitation—"
+        ],
+		"6": [
+            "Ah— it really is my balls that are glowing—"
+        ],
+		"7": [
+            "\\nl< >\"Ahwa, ahwahwahwahwah!     \\w[30]",
+			"\\str[121]’s balls are getting even brighter!!?\"   \\w[30]"
+        ],
+		"8": [
+            "《Demonic Contract Ritual: ",
+			"Purehearted Human’s Absolute Curse =",
+			"From Today, Your Life Is Hell Mode》!!",
+			"You’ve been cursed— (Ciallo～(∠・ω< )⌒☆)"
+        ],
+		"9": [
+            "At that moment, ",
+			"the words of that cheeky little demon shopkeeper",
+            "flashed through my mind."
+        ],
+		"10": [
+        	"So that’s what the curse meant!?",
+        	"That damn bratty demon girl—!!!"
+        ],
+		"11": [
+        	"\\c[2]As my emotions surged to their peak, I let out a silent roar.",
+            "The light erupting from below spread rapidly, ",
+			"swallowing the entire space in an instant—"
+        ],
+		"12": [
+            "\\nl< >\"\\str[121]’s turning into light!!?\""
+        ],
+		"13": [
+            "In the pure white void where nothing could be seen, ",
+			"I stopped thinking altogether."
+        ]		
+    }	
+}

@@ -711,5 +711,14 @@
 		"description": [
 			""
 		]
-	}
+	},
+	"122": {
+		"name": [],
+		"subtitle": [
+			"\"Heh heh, tôi sẽ sống sót, tôi thề đấy.\""
+		],
+		"description": [
+			"Tự động hồi phục HP vĩnh viễn."
+		]
+  	}
 }

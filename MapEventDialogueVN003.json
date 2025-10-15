@@ -794,6 +794,191 @@
             "\\str[120] tức giận đá tôi ra ngoài.",
 		    "Có lẽ lần này mình thật sự quá trớn rồi..."
         ]
+    },
+    "32": {
+        "0": [
+            "Since \\str[120] called me over, ",
+			"I didn’t think much of it and just walked straight into the washroom.    \\w[30]\\{",
+			"Well, she’s the one who called me anyway."
+		],
+		"1": [
+            "\"What’s going on?\""
+        ],
+        "2": [
+            "\\nl< >\"Um... the shampoo ran out.",
+			"\\str[121], could you bring me a new bottle?\""
+        ],
+        "3": [
+            "\\str[120] shyly peeked her head out from the bathroom,",
+			"like a cautious yet curious little animal—",
+            "the kind that makes you want to tease her a bit…",
+			"What should I do now?"
+        ],
+        "4": [
+            "Call \\str[120] over",
+			"Bring the shampoo"
+        ],
+        "5": [
+            "\\nl< >\"Eh... I’m still in the middle of washing…\""
+        ],	
+        "6": [
+            "\\nl< >\"Geez, I only called you over because ",
+			"I didn’t want to get the floor wet…\""
+        ],	
+        "7": [
+            "I quickly pushed away those weird thoughts,",
+			"dug out a spare bottle of shampoo from the cabinet, ",
+			"and handed it to \\str[120]."
+        ],	
+        "8": [
+            "\\nl< >\"Thanks, \\str[121]!",
+			"I’ll get back to my bath now—see you in a bit!\""
+        ],
+        "9": [
+            "\\str[120] closed the door and went back to her bath.   \\w[30]",
+			"Hmm... should I stay here a bit longer?"
+        ],
+        "10": [
+            "Explore",
+			"Head Back"
+        ],
+        "11": [
+            "Since I’m already here, ",
+			"might as well look around a bit more!"
+        ],
+        "12": [
+            "\\str[120]’s still bathing... better head back."
+        ],
+        "13": [
+            "\\str[120] obediently walked over to me.",
+            "Since she was still bathing, ",
+			"she only had a towel wrapped loosely around her,",
+            "her body giving off the scent of body wash mixed with steam."
+        ],
+        "14": [
+            "So... ",
+			"what should I do with \\str[120] now...?"
+        ],
+        "15": [
+            "Give her Konpeito",
+			"Pat her head",
+			"Squeeze breasts",
+			"Chat a bit"
+        ],
+        "16": [
+            "\"Good girl, good girl~ ",
+			"Here, have a piece of candy.\""
+        ],
+        "17": [
+            "\\nl< >\"I already had one—    \\w[70]\\^"
+        ],
+        "18": [
+            "\\nl< >\"And even though it tastes really nice,",
+			"it always makes my body feel kind of hot afterwards…\""
+        ],
+        "19": [
+            "\\nl< >\"Candy, huh... it’s sweet...      \\w[60]",
+			"But \\str[121], you sound like a grandpa, you know?\""
+        ],
+        "20": [
+            "I fed \\str[120] a strange Konpeito."
+        ],
+        "21": [
+            "\\nl< >\"I said stop touching me right now!\""
+        ],
+        "22": [
+            "\"    ヾ(・ω・｀)    ",
+			"Good girl, good girl~\""
+        ],
+        "23": [
+            "\\nl< >\"Mmm...    \\w[45]",
+			"My hair’s still wet,",
+			"so don’t pat my head right now…\""
+        ],
+        "24": [
+            "I patted \\str[120]’s damp hair—",
+			"yeah, the texture was pretty awful…"
+        ],
+        "25": [
+            "\\nl< >\"\\str[121]... do you even remember what you came here for...?\""
+        ],
+        "26": [
+            "\\nl< >\"If you’re that desperate, \\str[121], just say so...",
+			"You’re always thinking about stuff like that anyway…\""
+        ],
+        "27": [
+            "\\nl< >\"So it was just your hand slipping again...?   \\w[90]\\{",
+			"\\str[121], you perv!\""
+        ],
+        "28": [
+            "Staring at \\str[120]’s curves outlined under the towel,",
+            "my hand moved on its own, reaching out to squeeze that soft, heavy warmth."
+        ],
+        "29": [
+            "\\nl< >\\{\"—Nyaaah!?\\str[121]!?\""
+        ],
+        "30": [
+            "\"Sorry, my hand slipped.\""
+        ],	
+        "31": [
+            "\\nl< >\"Now’s not the time to tease me...!\""
+        ],	
+        "32": [
+            "Mmm... judging from the feel,",
+			"it seems \\str[120] has grown a little again."
+        ],	
+        "33": [
+            "\\nl< >\"That’s enough already... where’s my shampoo?\""
+        ],		
+        "34": [
+            "\"Is the bathwater temperature okay?\""
+        ],		
+        "35": [
+            "\\nl< >\"It’s perfect—really comfortable.\""
+        ],		
+        "36": [
+            "Chatted casually with \\str[120] for a bit."
+        ],			
+        "37": [
+            "Hmm, I’ve wasted enough time here. ",
+			"Better stop teasing \\str[120]",
+			"and just get her shampoo ready."
+        ],			
+        "38": [
+            "\\nl< >\"Thanks, \\str[121]! ",
+			"I’ll get back to washing—see you in a bit~\""
+        ],			
+        "39": [
+            "\\str[120] closed the door and went back to her bath.    \\w[30]",
+			"If I stay any longer, it’ll look suspicious... I should head back."
+        ],			
+        "40": [
+            "\\nl< >\\{\"—Nyaaah!?\"",
+			"\\w[45]\\^"
+        ],			
+        "41": [
+            "\\str[120] suddenly slipped right in front of me,",
+            "falling face-first to the floor—",
+			"it looked painful just watching her..."
+        ],			
+        "42": [
+            "\\{\"Ah! Are... ",
+			"are you okay!?\""
+        ],			
+        "43": [
+            "I quickly rushed over and helped \\str[120] up.",
+			"Luckily, it didn’t seem like a hard fall—she wasn’t injured."
+        ],			
+        "44": [
+            "\\nl< >\"Uuuuh... \\str[121], that really hurt...\""
+        ],			
+        "45": [
+            "\\nl< >\"I think I’m gonna get a bump on my head...!\""
+        ],			
+        "46": [
+            "Watching \\str[120] trembling slightly in pain,",
+			"I gently comforted her and helped her into the bath ",
+			"to wash her hair clean."
+        ]	
     }
-		
 }

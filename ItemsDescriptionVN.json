@@ -13,6 +13,23 @@
 			"Luôn cho 11 lượt quay với ít nhất một quả bóng vàng"
 		]
     },
+    "2": {
+        "name": [
+            "Sổ Tay Mạo Hiểm Giả"
+        ],
+        "subtitle": [
+		    "\"Được viết bởi RORO, bắt đầu vào ngày 01/10/2024\""
+		],
+        "description": [
+            "Ban đầu chỉ là một cuốn nhật ký đơn giản của một nhà thám hiểm tên RORO,",
+            "theo thời gian, nhiều người khác thấy thú vị nên cũng tham gia và ghi chú thêm,",
+            "và thế là cuốn sổ hướng dẫn kỳ lạ này — bao quát mọi thứ từ",
+            "'Cách vào hầm ngục' cho đến 'Ăn gì cho bữa tối' — được ra đời."
+        ],
+        "ability": [
+		    "Cho phép bạn xem hướng dẫn trong game"
+		]
+    },
     "3": {
         "name": [
             "Rác"
@@ -113,6 +130,21 @@
             ""
         ],
         "ability": ""
+    },
+    "13": {
+        "name": [
+            "Bản Đồ Thỏ"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một tấm bản đồ được các hầu gái thỏ sử dụng, vẫn còn dính vụn cà rốt.",
+			"Chúng đào những Hố Thỏ và di chuyển khắp nơi — gần như một đội shipper thực thụ.",
+            "Kể từ khi người lãnh đạo quỷ quyệt và sắc sảo xuất hiện cách đây mười năm,",
+            "bầy thỏ đã chiếm lĩnh Vực Thẳm và bắt đầu giao thương với quái vật."
+        ],
+        "ability": [
+            "Cho phép bạn xem bản đồ Vực Thẳm và tất cả các vật thể có thể tương tác"
+        ]
     },
     "14": {
         "name": [
