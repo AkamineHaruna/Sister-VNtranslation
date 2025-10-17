@@ -64,8 +64,85 @@
 		"14": [
             "After \\str[120] carefully finished her bath,",
 			"it was my turn to take a shower."
-        ]		
-    },			
+        ]
+    },
+    "2": {
+        "0": [
+            "\\nl< >\"Let’s start by washing your arm first…\""
+		],
+        "1": [
+            "\\str[120] gently lifted my arm and placed it between her soft thighs.",
+            "Both of our bodies were covered in body soap, ",
+			"making our skin slick and smooth to the touch.",
+			"\\w[60]  ",
+            "She lightly pressed her legs together, and that soft, ",
+			"rounded sensation transmitted vividly through my arm."
+		],	
+        "2": [
+		    "Before I could say anything, her thighs began to move—slowly, gently, back and forth,",
+            "the touch of our skin rubbing together growing clearer with every motion,",
+			"and I could feel the subtle rhythm and warmth of her ",
+			"body squeezing and releasing around my arm."
+		],
+        "3": [
+            "Her sudden, daring action left me momentarily flustered, unable to react right away.",
+            "But the warm, dreamlike softness around my arm drained any strength I had to pull away.",
+            "In the end, I gave up resisting and let her continue her peculiar ‘washing service.’"
+		],
+        "4": [
+            "\\nl< >\"How is it... \\str[121]...♥",
+			"Doesn’t it feel... cleaner than washing with your hand?\""
+		],		
+        "5": [
+			"It feels nice",
+			"It feels strange"
+		],		
+        "6": [
+            "\\nl< >\"It feels strange...?",
+			"Then... \\str[121], ",
+			"will you teach me how I should do it~?\""
+		],
+        "7": [
+            "\\nl< >\"...Strange? What’s strange about it?",
+			"Your arm is all clean now, isn’t it, \\str[121]?\""
+		],
+        "8": [
+            "\\nl< >\"What’s wrong, \\str[121]?",
+			"Weren’t you the one who wanted me to help wash you?\""
+		],
+        "9": [
+            "\\nl< >\"\\str[121], you don’t look very happy...",
+			"Do you not like me helping you wash? ",
+			"I’m being super serious~",
+			"about helping you right now, you know~?\""
+		],		
+        "10": [
+            "\\nl< >\"Feeling good? But this is just washing your body~",
+			"And yet you’re saying it feels nice... \\str[121],",
+			"you actually... like this kind of thing, don’t you♥\""
+		],
+        "11": [
+            "\\nl< >\"Ehehe♥ \\str[121], you’re such an honest boy~",
+			"That just makes me want to reward you even more♥\""
+		],
+        "12": [
+            "\\nl< >\"\\str[121]... did you just make a cute sound?",
+			"You’re always the one teasing me... so this time,",
+			"I’ll make you feel the same way♥\""
+		],
+        "13": [
+            "\\nl< >\"Hehe... \\str[121], you look kinda troubled...",
+			"Maybe I should stop here~?\""
+		],
+        "14": [
+            "\\nl< >\"Your arm’s all clean now... so next is the front~",
+			"\\str[121], you’ll have to turn around for me—\""
+		],
+        "15": [
+            "\"W–wait—eh!? What are you—\"",
+			"\\w[30]\\^"
+		]	
+    },
     "8": {
         "0": [
             "There’s already so much foam…!",
