@@ -68,7 +68,7 @@
     },
     "loadingEasterEgg": {
         "0": [
-            "\\nl< >\"Bít tết Hamburg là món ăn ngon nhất.\"  \\w[180] \\^"
+            "\\nl< >\"Hamburger bít tết  là món ăn ngon nhất.\"  \\w[180] \\^"
 		],	  
         "1": [
             "\\nl< >\"Onii-chan chắc chắn sẽ mang về ",
@@ -98,7 +98,7 @@
         "7": [
             "\\nl< >\"Em gái mình cực kì dễ thương...               \\w[120]",
 			"Em ấy là cô gái mà mình yêu quý nhất trên đời...  \\w[210]",
-			"Em gái mình là————                              \\w[150]\\^"
+			"Em gái mình là—                             \\w[150]\\^"
 		],	
         "8": [
             "Em gái tôi có vẻ đang nói cái gì đó..."
@@ -193,7 +193,7 @@
 			"nguyên liệu tốt hơn..."
 		],	
         "9": [
-            "Nè~ Tôi đã nấu đồ ăn nóng cho cô!",
+            "Nè~ Tôi đã nấu đồ ăn nóng cho cô rồi!",
 			"Cô có thể ăn được không?"
 		],	
         "10": [
@@ -283,7 +283,7 @@
 		],		
         "32": [
             "Ch-chờ đã!",
-			"Cô định giết tôi chỉ vì chuyện đó sao!?"
+			"Cô định giết tôi chỉ vì chuyện đó á!?"
 		],		
         "33": [
             "Đó chính là bản chất của một ninja...",
@@ -337,11 +337,11 @@
     "maidBunnyBoss": {
         "0": [
             "Phía trước chẳng có gì đâu!",
-            "Nên không cần phải đi kiểm tra đâu-usa!"
+            "Nên không cần phải đi kiểm tra đâu—usa!"
         ],
         "1": [
             "Ch-chỗ này thật sự không có gì hết! Đ-đừng lại gần hơn nữa!",
-            "T-tôi thề là hoàn toàn chẳng có gì được giấu ở đây đâu-usa!"
+            "T-tôi thề là hoàn toàn chẳng có gì được giấu ở đây đâu—usa!"
         ],
         "2": [
             "...Usa?",
@@ -372,161 +372,161 @@
     },
     "sela": {
 		"1": [
-            "(Looks like she won’t be waking up anytime soon…",
-			"Guess I’ll come back later…)"
+            "(Có vẻ cô ấy sẽ chưa tỉnh dậy sớm đâu…",
+			"Chắc mình nên quay lại sau vậy…)"
         ],
         "2": [
             "…Hmm?",
-            "Are we… at the station already?"
+            "Mình… đã đến ga rồi sao?"
         ],
         "3": [
-            "Huh? Wait—this isn’t the train car?",
-            "It was so warm just a moment ago…"
+            "Huh? Khoan đã—đây đâu phải toa tàu hỏa?",
+            "Lúc nãy vẫn còn ấm áp lắm mà…"
         ],
         "4": [
-            "A campfire… ah…",
-            "So that’s why it’s so warm."
+            "Lửa trại… à…",
+            "Thảo nào lại ấm áp đến vậy."
         ],
         "5": [
-            "But… that’s strange… Just a moment ago, ",
-            "I was still watching the river of stars outside the window…"
+            "Nhưng... lạ thật... Mới lúc nãy thôi, ",
+            "mình vẫn còn đang ngắm những vì sao trôi ngoài cửa sổ mà…"
         ],
         "6": [
-            "I must’ve been too mesmerized…",
-            "And ended up missing my stop."
+            "Chắc mình mải ngắm quá...",
+            "nên lỡ mất trạm rồi."
         ],
         "7": [
-            "You’re asking what a “train” is…?",
-            "Hehe… a “train,” huh—"
+            "Anh hỏi 'tàu hỏa' là gì à…?",
+            "Hihi… 'tàu hỏa' à, huh—"
         ],
         "8": [
-            "It’s that clattering, clattering thing that carries everyone,",
-            "shining as it glides through the stars like scattered diamonds~"
+            "Là thứ lạch cạch, lạch cạch chở mọi người đi đó, đưa mọi người đi",
+            "giữa bầu trời sao, tỏa sáng như những kim cương giữa trời đêm ấy~"
         ],
         "9": [
-            "Its whistle—",
-            "sounds just like a singing whale, you know?"
+            "Tiếng còi của nó—",
+            "nghe giống hệt tiếng cá voi đang hát, anh biết không?"
         ],
         "10": [
-            "Hehe, still don’t get it?",
-            "Then let me show you a ticket, maybe that’ll help~"
+            "Hihi, vẫn chưa hiểu à?",
+            "Vậy thì anh nhìn tấm vé này đi, dễ hình dung hơn đó~"
         ],
         "11": [
-            "The ticket for the Galactic Train,",
-            "is also very—"
+            "Tấm vé của Chuyến Tàu Ngân Hà,",
+            "nó cũng rất là—"
         ],
         "12": [
-            "Huh? Huh??",
-            "The ticket… it’s gone…"
+            "Huh? ủa??",
+            "Tấm vé… nó mất rồi…"
         ],
         "13": [
-            "That ticket with the black vine patterns and",
-            "the strange cross in the middle… it’s gone…"
+            "Tấm vé với những đường hoa văn dây leo đen và",
+            "hình cây thập tự kỳ lạ ở giữa… biến mất rồi…"
         ],
         "14": [
-            "I’m sorry… I can’t show you the galaxy after all…",
-            "Looks like I lost my ticket…"
+            "Xin lỗi nhé… có lẽ không cho anh xem dải ngân hà được rồi…",
+            "Có vẻ như em đã làm mất tấm vé…"
         ],
         "15": [
-            "Without it, I can never get back on the train…",
+            "Nếu không có nó, em sẽ không bao giờ có thể lên lại chuyến tàu ấy nữa…",
             "Uuu… Uuu…"
         ],
         "16": [
-            "What will I do now…?  I guess I’ll just wait here…",
-            "maybe the next train will find me."
+            "Giờ em phải làm sao đây…?  Có lẽ chỉ còn cách chờ đợi vậy…",
+            "biết đâu chuyến tàu kế tiếp sẽ đến tìm mình."
         ],
         "17": [
-            "And also… I’m sorry…",
-            "the fire here is just too warm…"
+            "Và còn nữa… em xin lỗi nhé…",
+            "Ngọn lửa ở đây… ấm áp quá…"
         ],
         "18": [
-            "Once I sit down, the drowsiness washes over me…",
-            "like the tide… sweeping me away…"
+            "Vừa đặt mình xuống, cơn buồn ngủ dâng lên…",
+            "như làn sóng… lặng lẽ cuốn trôi đi…"
         ],
         "19": [
-            "(this person…",
-            "actually fell asleep!)"
+            "(Người này…",
+            "Thực sự đã ngủ gục!)"
         ],
         "20": [
-            "It really is warm here.",
-            "But… it’s different from sunlight."
+            "Ở đây thật sự rất ấm áp.",
+            "Nhưng… cảm giác này khác với ánh mặt trời."
         ],
         "21": [
-            "Sunlight is the warmth of the “outside.”",
-            "A campfire… is the warmth of the “journey.”"
+            "Ánh nắng là hơi ấm của “thế giới bên ngoài.”",
+            "Còn lửa trại… là hơi ấm của “chuyến hành trình.”"
         ],
         "22": [
             "…Hmm?",
-            "Is the train coming to pick me up?"
+            "Liệu con tàu có quay lại đón mình không…?"
         ],
         "23": [
             "Huh? Oh,",
-            "it’s you again, adventurer!"
+            "lại là anh à, Nhà Thám Hiểm!"
         ],
         "24": [
-            "I was just talking to you earlier…",
-            "but it feels like such a long time has passed since then…"
+            "Mới khi nãy em còn nói chuyện với anh…",
+            "Vậy mà giờ lại có cảm giác như đã trôi qua rất lâu rồi…"
         ],
         "25": [
-            "“Do I remember where I lost the ticket”…?",
-            "Hmm… not really… it’s all a blur now…"
+            "“Mình có nhớ đã làm rơi tấm vé ở đâu không nhỉ…??",
+            "Hmm… không rõ nữa… mọi thứ đang mờ dần…"
         ],
         "26": [
-            "It’s not heavy like the coins in this world…",
-            "It’s light—lighter than a swan’s feather~"
+            "Nó không nặng như những đồng xu ở thế giới này đâu…",
+            "Nó nhẹ lắm—nhẹ hơn cả một cánh lông thiên nga~"
         ],
         "27": [
-            "Its color looks like a ‘sleeping lake’ frozen inside it,",
-            "and if you hold it to the light, you can see stardust flowing within~"
+            "Màu sắc của nó trông như ‘hồ nước ngủ yên’ bị đóng băng bên trong,",
+            "và khi nghiêng dưới ánh sáng, bụi sao bên trong khẽ trôi lấp lánh~"
         ],
         "28": [
-            "It might have…",
-            "fallen anywhere…"
+            "Có thể nó đã…",
+            "rơi xuống đâu đó…"
         ],
         "29": [
-            "Maybe in a field full of blue sage,",
-            "or taken by a fearless fox back to its den,"
+            "Có lẽ là trong một cánh đồng xanh mướt tràn ngập,",
+            "hoặc đã bị một con cáo gan dạ mang về hang của nó,"
         ],
         "30": [
-            "or perhaps… it turned into the first drop of morning dew,",
-            "hanging from someone’s window ledge."
+            "hoặc có lẽ… nó đã hóa thành giọt sương mai,",
+            "lặng lẽ đọng trên thành cửa sổ của ai đó."
         ],
         "31": [
-            "(Is this… a riddle?",
-            "I have no idea what she’s talking about…)"
+            "(Đây có phải là… một câu đố không?",
+            "Tôi không hiểu cô ấy đang nói gì cả...)"
         ],
         "32": [
-            "I’m sorry… the only thing I can recall,",
-            "are these… faint, hazy images…"
+            "Xin lỗi nhé… điều duy nhất mà em còn nhớ được,",
+            "chỉ là vài hình ảnh mờ ảo... mông lung giữa sương mờ..."
         ],
         "33": [
-            "Here... this is for you...",
-            "I used to love reading this back on the train too..."
+            "Đây… cái này là cho anh đấy…",
+            "Lúc còn ở trên chuyến tàu đó, em cũng rất thích đọc nó…"
         ],
         "34": [
-            "It’s filled with lots of... interesting notes...",
-            "I think it might be useful for you as well, adventurer..."
+            "Bên trong có khá nhiều... ghi chép thú vị lắm...",
+            "Biết đâu nó cũng sẽ hữu ích với anh đấy, nhà thám hiểm à…"
         ],
         "35": [
-            "(She’s focused on her drawing...",
-            "Better not disturb her…)"
+            "(Cô ấy đang tập trung vẽ...",
+            "Tốt hơn là đừng làm phiền cô ấy...)"
         ],
         "36": [
-            "(I’m a bit curious...",
-            "What is she drawing…?)"
+            "(Tôi hơi tò mò...",
+            "cô ấy đang vẽ cái gì vậy…?)"
         ],
         "37": [
-            "(Wait... ",
-            "what’s that!?)"
+            "(Khoan đã... ",
+            "Cái gì kia!?)"
         ],
         "38": [
-            "(I think I just saw...",
-            "something I definitely shouldn’t have seen…)"
+            "(Tôi nghĩ mình vừa thấy...",
+            "một thứ mà tôi chắc chắn không nên thấy…)"
         ]	
     },
     "PhilosophersFragment": {
         "title": [
-            "Mảnh Đá Hiền Triết"
+            "Mảnh Hiền Triết"
         ],
         "description5": [
             "Một mảnh vỡ đặc biệt thu được từ Cuồng Huyết Xích Thú",
