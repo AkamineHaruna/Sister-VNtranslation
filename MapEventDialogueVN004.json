@@ -666,7 +666,7 @@
     },
     "14": {
         "0": [
-            "\\nl< >\"Chào mừng anh về nhà, \\str[121]! ",
+            "\\nl< >\"Chào mừng anh trở lại, \\str[121]! ",
             "Anh thấy đỡ mệt hơn chưa?\""
         ],
         "1": [
@@ -2002,7 +2002,7 @@
 		],
         "10": [
             "À đúng rồi, ",
-			"mình còn mua ít đồ ăn vặt từ cô chủ cửa hàng nhỏ kì lạ đó...",
+			"mình còn mua ít đồ ăn vặt từ con nhỏ chủ cửa hàng kì lạ đó...",
 			"mình có nên cho \\str[120] thử không nhỉ?"
 		],
         "11": [
