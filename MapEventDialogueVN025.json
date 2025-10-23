@@ -75,6 +75,75 @@
 			"Được rồi, bắt đầu nấu bữa tối nào—!!\""
 		]
     },
+    "3": {
+        "0": [
+            "\\nl< >\"\\str[121]... Anh vẫn còn ở đó, phải không?\""
+		],
+        "1": [
+            "\\nl< >\"Côn trùng thật đáng sợ, ",
+			"nhưng \\str[121] đã đến giúp em ngay lập tức.\""
+		],
+        "2": [
+            "\\nl< >\"Anh đến nhanh thật đấy,",
+			"giống như thể anh đang đợi sẵn ngay bên ngoài nhà vệ sinh vậy.\""
+		],
+        "3": [
+            "\\>\\{\"—Áck!\"",
+			"\\w[90]"
+		],
+        "4": [
+            "Bị cảm giác tội lỗi chiếm lấy,",
+			"Tôi mất tập trung một lúc, trượt chân và suýt ngã."
+		],
+        "5": [
+            "\\nl< >\"\\str[121]... anh có sao không!?\""
+		],
+        "6": [
+            "\"K-không sao, anh ổn mà! Anh chỉ chạy quá nhanh,",
+			"nên bị trẹo chân một chút thôi, ahaha...\""
+		],
+        "7": [
+            "Sau đó, tôi bằng cách nào đó cũng xoay sở để che giấu chuyện đó trước mặt \\str[120]."
+		],
+        "8": [
+            "\\nl< >\"\\str[121], thật là— lúc nãy anh trông ngầu lắm cơ...",
+			"vậy mà giờ lại trêu em nữa!\""
+		],
+        "9": [
+            "\\nl< >\"Nghĩ lại thì, lần này \\str[121] xuất hiện khá nhanh.",
+			"Đừng nói là anh đã đợi sẵn ở ngoài nhà vệ sinh nhé...?\""
+		],
+        "10": [
+            "\\nl< >\"Ugh, côn trùng thật sự đáng sợ...",
+			"Em mừng vì \\str[121] đã đến đúng lúc.\""
+		],
+        "11": [
+            "\"Đừng lo, ",
+			"anh sẽ luôn chạy đến bất cứ khi nào em gặp nguy hiểm!\""
+		],
+        "12": [
+            "\\nl< >\"Nhưng mà này, \\str[121]...",
+			"núp sẵn ở ngoài nhà vệ sinh ngay từ đầu,",
+			"như thế thì hơi bất cẩn đấy〜\""
+		],
+        "13": [
+            "\\nl< >\"Không được đâu nhé? ",
+			"Nhìn lén một cô gái khi cô ấy đang trong nhà vệ sinh~!\""
+		],
+        "14": [
+            "\\nl< >\"Vậy sao nào? ",
+			"Nhìn thấy một cô gái đang đi vệ sinh bằng ánh mắt dâm đãng của anh—",
+			"cảm giác thế nào hả?\""
+		],
+        "15": [
+            "\\nl< >\"Ahaha... vậy là anh bị phát hiện rồi à...?\""
+		],
+        "16": [
+            "Mồ hôi lạnh chảy dọc sống lưng khi tôi nhìn nụ cười tinh nghịch của \\str[120].",
+			"Trong một khoảnh khắc, tôi tự hỏi liệu em ấy có thực sự tức giận không—",
+			"hay là... chính tôi mới là người đang bị em ấy trêu đùa..."
+		]
+    },
     "4": {
         "0": [
             "Tôi muốn làm \\str[120] vui hơn một chút,",
