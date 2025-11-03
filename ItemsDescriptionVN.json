@@ -1273,12 +1273,13 @@
             "Phiếu thưởng của em gái"
         ],
         "subtitle": [
-            "\"Nó đầy những nét viết nguệch ngoạc...\""
+            "\"There are lots of doodles and scribbles all over the pass...\""
 		],
         "description": [
-            "Đây là phần thưởng đặc biệt từ em gái dành cho onii-chan chăm chỉ.",
-            "Bạn có thể yêu cầu bất cứ điều gì với em ấy, kể cả những điều vô lý.",
-            "Ngay cả khi không có phiếu này, em ấy vẫn muốn giúp onii-chan gánh vác."
+            "A handmade Free Pass drawn by \\str[120]. \\str[121] may seek ",
+            "\\str[120]'s affection — no matter how selfish the request, it’s granted",
+            "Even so, \\str[120] has always wanted to do something nice for ",
+			"\\str[121], with or without the pass—"
         ],
         "ability": ""
     },

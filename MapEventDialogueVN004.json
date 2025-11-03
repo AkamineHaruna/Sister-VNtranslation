@@ -862,7 +862,8 @@
         ],
         "2": [
             "Uống gì đó",
-			"Chơi gì đó"
+			"Chơi gì đó",
+            "Spoil Me"
 		],
         "3": [
             "\\nl< >\"Tóc em vẫn chưa khô. Để uống sau nhé.\""
@@ -910,6 +911,117 @@
         "15": [
             "...Hiếm khi thấy em ấy phấn khích thế này. ",
 			"Mình cũng nên đi xem thử thôi!"
+		],
+        "16": [
+            "Wanna do something together with \\str[120]…?"
+		],	
+        "17": [
+            "\\nl< >\"\\str[121]! Have you already thought of a better wish~?\""
+		],	
+        "18": [
+            "Hmm… I still have that 'Free Pass' \\str[120] gave me.",
+			"Maybe… I should just use it now and see what happens…"
+		],	
+        "19": [
+            "\\nl< >\"This is…!?          \\w[90]",
+			"\\str[121]! You’ve decided to use it already~?\""
+		],	
+        "20": [
+            "\"Yeah… so, you’re saying I can really ask for anything…?\""
+		],	
+        "21": [
+            "Hmm… I already spoiled her once today,",
+			"maybe I shouldn’t push my luck and do it too often…"
+		],	
+        "22": [
+            "\\nl< >\"As long as it’s something \\str[121] wants me to do, ",
+			"it’s totally fine!",
+			"I’ll do my very best to make you happy!\""
+		],		
+        "23": [
+            "Love Words",
+			"Share a kiss",
+			"Lap Pillows"
+		],	
+        "24": [
+            "\\str[120] looks so eager and excited…",
+            "What should I ask her to do for me…?"
+		],	
+        "25": [
+            "Hmm… I can’t really think of any reason to ",
+			"ask \\str[120] for something right now.",
+            "Maybe I’ll just save it for next time…"
+		],	
+        "26": [
+            "\\nl< >\"Eh… \\str[121] doesn’t have anything he wants me to do?\""
+		],	
+        "27": [
+            "\\nl< >\"…That’s it?\"",
+			"\\w[120]"
+		],	
+        "28": [
+            "Huh…? Why does she suddenly look kind of upset?"
+		],	
+        "29": [
+            "\\nl< >\"Something like that—you could just tell me anytime, you know!",
+			"You shouldn’t waste such a precious Pass on something that simple…!\""
+		],	
+        "30": [
+            "\\nl< >\"K… kiss…? \\str[121], d-do you want a kiss?\"",
+			"\\w[120]"
+		],	
+        "31": [
+            "She lowered her head shyly,",
+			"clearly flustered by a request that seemed to be a bit too much for her…"
+		],	
+        "32": [
+            "\\nl< >\"O-of course you can! I-it’s not that big of a deal!",
+			"I’m not a kid anymore, I can totally handle something like this!",
+			"So you don’t have to waste your Pass on it, \\str[121]!\""
+		],	
+        "33": [
+            "\\nl< >\"K-kissing is a totally normal thing for adults, right!",
+			"No need to spend such a precious Pass on that! ",
+			"You’re overreacting, \\str[121]!\""
+		],	
+        "34": [
+            "Even though her face was bright red like an apple and she was clearly nervous,",
+			"she still put her hands on her hips and puffed out her chest,",
+			"trying her best to look calm and confident…"
+		],	
+        "35": [
+            "\\nl< >\"Eh… a lap pillow?\"",
+			"\\w[120]"
+		],	
+        "36": [
+            "\\nl< >\"Just… a lap pillow…? That’s all?\""
+		],		
+        "37": [
+            "After finally thinking of something appropriate,",
+			"\\str[120] looked obviously disappointed instead.",
+			"Why though…? Was my answer not good enough?"
+		],	
+        "38": [
+            "\\nl< >\"If it’s just a lap pillow, you could’ve just asked me directly!",
+			"Don’t waste your precious Pass on something like that!\""
+		],	
+        "39": [
+            "\"Ehh!?\""
+		],	
+        "40": [
+            "\\nl< >\"This was made so you can really let yourself be spoiled, you know~",
+			"So hold onto it until you think of something even better to ask for!\""
+		],	
+        "41": [
+            "\"Ehhhhh!?\""
+		],	
+        "42": [
+            "She handed the 'Free Pass' back to me…",
+			"Wait, seriously? She’s taking this that seriously!?"
+		],	
+        "43": [
+            "\\nl< >\"So you see, \\str[121]—if it’s something small like that,",
+			"I can totally do it for you even without the Pass~\""
 		]		
     },			
     "19": {
