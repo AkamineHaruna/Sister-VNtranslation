@@ -881,31 +881,31 @@
   	},
 	"10": {
         "0": [
-            "\\{\\c[27]Welcome to Episode 54 of ",
-			"Bunny’s Gourmet Showdown!",
-			"Today’s theme is—",
-			"how to make an irresistible super juicy meat burger!"
+            "\\{\\c[27]Chào mừng đến với Tập 54 của ",
+			"Cuộc Thi Ẩm Thực của Bunny!",
+			"Chủ đề hôm nay là—",
+			"cách làm hamburger thịt siêu mọng nước không thể cưỡng lại!"
 		],
         "1": [
-            "\\{\\c[27]Now let’s welcome our lovely Maid Bunny,",
-			"who’s going to show us her amazing cooking technique!"
+            "\\{\\c[27]Giờ hãy cùng chào đón cô Hầu Gái Bunny đáng yêu,",
+			"người sẽ trình diễn kỹ năng nấu ăn tuyệt vời của mình!"
 		],
         "2": [
-            "\\{\\c[27]Huh!? That was way too fast!",
-			"Maid Bunny has already—finished it!!",
-			"Behold, the legendary—Instant Delicious Meat Burger!!"
+            "\\{\\c[27]Hả!? Nhanh quá vậy!?",
+			"Hầu Gái Bunny đã nấu xong rồi!!",
+			"Hãy chiêm ngưỡng Hamburger Thịt Thần Tốc Huyền Thoại!!"
 		],
         "3": [
-            "\\{\\c[27]And that’s all for today’s show!",
-			"Thanks so much for tuning in",
-			"see you next time!"
+            "\\{\\c[27]Và đó là tất cả cho chương trình hôm nay!",
+			"Cảm ơn vì đã theo dõi,",
+			"hẹn gặp lại lần sau nhé!"
 		],
         "4": [
-            "What… is this?",
-			"I don’t understand a single word…"
+            "Cái... gì thế này?",
+			"Mình chẳng hiểu nổi một từ nào luôn..."
 		],
         "5": [
-            "Ah… it’s already over."
+            "À... hết rồi à!?"
 		]		
     }
 }

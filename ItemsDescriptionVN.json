@@ -1270,16 +1270,16 @@
     },		
     "199": {
         "name": [
-            "Phiếu thưởng của em gái"
+            "Phiếu Thưởng của \\str[120]"
         ],
         "subtitle": [
-            "\"There are lots of doodles and scribbles all over the pass...\""
+            "\"Trên phiếu thưởng chi chít những nét vẽ nguệch ngoạc...\""
 		],
         "description": [
-            "A handmade Free Pass drawn by \\str[120]. \\str[121] may seek ",
-            "\\str[120]'s affection — no matter how selfish the request, it’s granted",
-            "Even so, \\str[120] has always wanted to do something nice for ",
-			"\\str[121], with or without the pass—"
+            "Một tấm phiếu thưởng do \\str[120] tự tay vẽ. \\str[121] có thể tìm kiếm ",
+            "sự chiều chuộng của \\str[120] dù yêu cầu có ích kỷ đến đâu, em ấy cũng sẽ chấp nhận.",
+            "Dù vậy, \\str[120] vẫn luôn muốn làm điều gì đó giúp đỡ ",
+			"\\str[121], dù có tấm phiếu này hay không—"
         ],
         "ability": ""
     },

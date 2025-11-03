@@ -863,7 +863,7 @@
         "2": [
             "Uống gì đó",
 			"Chơi gì đó",
-            "Spoil Me"
+            "Chiều chuộng anh"
 		],
         "3": [
             "\\nl< >\"Tóc em vẫn chưa khô. Để uống sau nhé.\""
@@ -913,115 +913,115 @@
 			"Mình cũng nên đi xem thử thôi!"
 		],
         "16": [
-            "Wanna do something together with \\str[120]…?"
+            "Muốn làm gì đó cùng với \\str[120] không nhỉ...?"
 		],	
         "17": [
-            "\\nl< >\"\\str[121]! Have you already thought of a better wish~?\""
+            "\\nl< >\"\\str[121]! Anh đã nghĩ ra điều ước hay hơn chưa~?\""
 		],	
         "18": [
-            "Hmm… I still have that 'Free Pass' \\str[120] gave me.",
-			"Maybe… I should just use it now and see what happens…"
+            "Hmm... mình vẫn còn tấm 'Phiếu Thưởng' mà \\str[120] đã đưa.",
+			"Có lẽ... mình nên dùng nó luôn xem sao..."
 		],	
         "19": [
-            "\\nl< >\"This is…!?          \\w[90]",
-			"\\str[121]! You’ve decided to use it already~?\""
+            "\\nl< >\"Đây là...!?          \\w[90]",
+			"\\str[121]! Anh định dùng nó luôn sao~?\""
 		],	
         "20": [
-            "\"Yeah… so, you’re saying I can really ask for anything…?\""
+            "\"Ừ... tức là anh có thể xin bất cứ điều gì thật à...?\""
 		],	
         "21": [
-            "Hmm… I already spoiled her once today,",
-			"maybe I shouldn’t push my luck and do it too often…"
+            "Hmm... hôm nay mình đã chiều em ấy một lần rồi,",
+			"có lẽ không nên được đà lấn tới thì hơn..."
 		],	
         "22": [
-            "\\nl< >\"As long as it’s something \\str[121] wants me to do, ",
-			"it’s totally fine!",
-			"I’ll do my very best to make you happy!\""
+            "\\nl< >\"Miễn là đó là điều \\str[121] muốn em làm, ",
+			"thì hoàn toàn ổn thôi!",
+			"Em sẽ cố hết sức để khiến anh vui!\""
 		],		
         "23": [
-            "Love Words",
-			"Share a kiss",
-			"Lap Pillows"
+            "Lời yêu thương",
+			"Hôn nhau",
+			"Gối đùi"
 		],	
         "24": [
-            "\\str[120] looks so eager and excited…",
-            "What should I ask her to do for me…?"
+            "\\str[120] trông háo hức và mong chờ...",
+            "Mình nên nhờ em ấy làm gì bây giờ...?"
 		],	
         "25": [
-            "Hmm… I can’t really think of any reason to ",
-			"ask \\str[120] for something right now.",
-            "Maybe I’ll just save it for next time…"
+            "Hmm... hiện tại mình thật sự chẳng nghĩ ra ",
+			"điều gì để bắt \\str[120] làm cả.",
+            "Có lẽ mình sẽ để dành nó cho lần sau..."
 		],	
         "26": [
-            "\\nl< >\"Eh… \\str[121] doesn’t have anything he wants me to do?\""
+            "\\nl< >\"Eh... \\str[121] không có gì muốn em làm sao??\""
 		],	
         "27": [
-            "\\nl< >\"…That’s it?\"",
+            "\\nl< >\"...Vậy thôi à?\"",
 			"\\w[120]"
 		],	
         "28": [
-            "Huh…? Why does she suddenly look kind of upset?"
+            "Hả...? Sao tự nhiên trông em ấy có vẻ hơi buồn thế nhỉ?"
 		],	
         "29": [
-            "\\nl< >\"Something like that—you could just tell me anytime, you know!",
-			"You shouldn’t waste such a precious Pass on something that simple…!\""
+            "\\nl< >\"Những chuyện như vậy, anh có thể nói với em bất cứ lúc nào mà!",
+			"Đừng có lãng phí tấm Thẻ quý giá vào chuyện đơn giản như thế chứ...!\""
 		],	
         "30": [
-            "\\nl< >\"K… kiss…? \\str[121], d-do you want a kiss?\"",
+            "\\nl< >\"H-hôn… á? \\str[121], a-anh muốn hôn sao?\"",
 			"\\w[120]"
 		],	
         "31": [
-            "She lowered her head shyly,",
-			"clearly flustered by a request that seemed to be a bit too much for her…"
+            "Em ấy cúi đầu xuống ngượng ngùng,",
+			"rõ ràng bối rối trước yêu cầu có phần hơi quá sức..."
 		],	
         "32": [
-            "\\nl< >\"O-of course you can! I-it’s not that big of a deal!",
-			"I’m not a kid anymore, I can totally handle something like this!",
-			"So you don’t have to waste your Pass on it, \\str[121]!\""
+            "\\nl< >\"T-tất nhiên là được rồi! K-không có gì to tát cả!",
+			"Em không còn là trẻ con nữa, mấy chuyện này em làm được mà!",
+			"Thế nên anh không cần phí tấm Phiếu vào chuyện đó đâu, \\str[121]!\""
 		],	
         "33": [
-            "\\nl< >\"K-kissing is a totally normal thing for adults, right!",
-			"No need to spend such a precious Pass on that! ",
-			"You’re overreacting, \\str[121]!\""
+            "\\nl< >\"H-hôn là chuyện rất bình thường của người lớn mà!",
+			"Không cần dùng tấm Phiếu quý giá cho chuyện đó đâu! ",
+			"Anh đang làm quá lên đấy, \\str[121]!\""
 		],	
         "34": [
-            "Even though her face was bright red like an apple and she was clearly nervous,",
-			"she still put her hands on her hips and puffed out her chest,",
-			"trying her best to look calm and confident…"
+            "Dù mặt em đỏ như quả táo và rõ ràng đang căng thẳng,",
+			"em vẫn chống tay vào hông, ưỡn ngực ra,",
+			"cố tỏ ra bình tĩnh và tự tin hết sức..."
 		],	
         "35": [
-            "\\nl< >\"Eh… a lap pillow?\"",
+            "\\nl< >\"Eh... gối đùi á?\"",
 			"\\w[120]"
 		],	
         "36": [
-            "\\nl< >\"Just… a lap pillow…? That’s all?\""
+            "\\nl< >\"Chỉ... gối đùi thôi sao…? Chỉ có vậy à?\""
 		],		
         "37": [
-            "After finally thinking of something appropriate,",
-			"\\str[120] looked obviously disappointed instead.",
-			"Why though…? Was my answer not good enough?"
+            "Sau khi nghĩ ra một yêu cầu hợp lý,",
+			"\\str[120] lại trông có vẻ thất vọng.",
+			"Sao thế nhỉ...? Lẽ nào câu trả lời của mình chưa đủ tốt?"
 		],	
         "38": [
-            "\\nl< >\"If it’s just a lap pillow, you could’ve just asked me directly!",
-			"Don’t waste your precious Pass on something like that!\""
+            "\\nl< >\"Nếu chỉ là gối đùi thì anh cứ nói thẳng với em là được rồi mà!",
+			"Đừng phí tấm Phiếu quý giá cho chuyện như thế chứ!\""
 		],	
         "39": [
             "\"Ehh!?\""
 		],	
         "40": [
-            "\\nl< >\"This was made so you can really let yourself be spoiled, you know~",
-			"So hold onto it until you think of something even better to ask for!\""
+            "\\nl< >\"Tấm này là để anh có thể được em chiều chuộng đấy~",
+			"Nên hãy giữ lại cho đến khi nghĩ ra điều gì đáng giá hơn nhé!\""
 		],	
         "41": [
             "\"Ehhhhh!?\""
 		],	
         "42": [
-            "She handed the 'Free Pass' back to me…",
-			"Wait, seriously? She’s taking this that seriously!?"
+            "Em áy đưa lại tấm 'Phiếu Thưởng' cho tôi...",
+			"Gì cơ!? Em ấy thật sự nghiêm túc á!?"
 		],	
         "43": [
-            "\\nl< >\"So you see, \\str[121]—if it’s something small like that,",
-			"I can totally do it for you even without the Pass~\""
+            "\\nl< >\"Thấy chưa \\str[121], nếu chỉ là mấy chuyện nhỏ như vậy,",
+			"thì em hoàn toàn có thể làm cho anh mà chẳng cần 'Phiếu Thưởng' đâu~\""
 		]		
     },			
     "19": {
