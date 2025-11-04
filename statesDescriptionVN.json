@@ -136,7 +136,7 @@
 	"28": {
 		"name": [],
 		"subtitle": [
-			"Gaming "
+			"\\str[120] đang chơi game"
 		],
 		"description": [
 			""	
@@ -159,7 +159,7 @@
 	"29": {
 		"name": [],
 		"subtitle": [
-			"Bathing "
+			"\\str[120] đang tắm"
 		],
 		"description": [
 			""	
@@ -182,7 +182,7 @@
 	"30": {
 		"name": [],
 		"subtitle": [
-			"Resting "
+			"\\str[120] đang nghỉ"
 		],
 		"description": [
 			""
@@ -229,7 +229,7 @@
 	"31": {
 		"name": [],
 		"subtitle": [
-			"Sleeping "
+			"\\str[120] đang ngủ"
 		],
 		"description": [
 			""
@@ -276,7 +276,7 @@
 	"32": {
 		"name": [],
 		"subtitle": [
-			"Hungry "
+			"\\str[120] đói bụng"
 		],
 		"description": [
 			""	
@@ -305,7 +305,7 @@
 	"33": {
 		"name": [],
 		"subtitle": [
-			"Relaxing "
+			"\\str[120] đang thư giản"
 		],
 		"description": [
 			""	
@@ -322,7 +322,7 @@
 	"34": {
 		"name": [],
 		"subtitle": [
-			"Brushing "
+			"\\str[120] đang đánh răng"
 		],
 		"description": [
 			""	
