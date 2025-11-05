@@ -84,7 +84,31 @@
 			"………………!",
 			"giờ ASABA đã ôm hận với tôi..."
 		]
-    },	  
+    },
+	"9": {
+		"objectName": [
+		    "\\c[116]Cá"
+		],	  
+		"sentouryoku": [
+		    "1"
+		],	  
+        "description": [
+            "Hình bóng con cá đang bơi dưới nước nhanh chóng ",
+			"bỏ chạy khi cảm nhận có người đến gần.",
+			"Liệu có cách nào để bắt được chúng không...?"
+		]	
+    },	
+  	"14": {
+		"objectName": [
+		    "\\c[116]Bong Bóng Bí Ẩn"
+		],	  
+		"sentouryoku": [
+		    "1"
+		],	  
+        "description": [
+            "Có vẻ như có thứ gì đó dưới mặt nước..."
+		]	
+    },
   	"24": {
 		"objectName": [
 		    "\\c[114]Hầu Gái Thỏ"
@@ -904,6 +928,61 @@
         "7": [
             "\\fr${itemIcon}\\fr và tổng cộng ${itemLength} trang bị."
         ]	
+    },
+	"106": {
+		"objectName": [
+		    "Cây ớt"
+		],	  
+		"sentouryoku": [
+		    "1"
+		],	  
+        "description": [
+            "Khoan đã, ớt mọc trên cây sao?",
+			"Dù \\str[120] cực kì ghét nó, ",
+			"nhưng với tư cách là một nhà mạo hiểm, ",
+			"tôi không thể quá kén chọn đồ ăn được."
+		]	
+    },
+  	"107": {
+		"objectName": [
+		    "Khoai tây"
+		],	  
+		"sentouryoku": [
+		    "1"
+		],	  
+        "description": [
+            "Rất dễ bị nhầm với cỏ dại ",
+			"nếu không nhìn kỹ. ",
+			"Đào dưới lớp đất và bạn sẽ tìm thấy ",
+			"những củ khoai tây ngon lành."
+		]	
+    },
+  	"108": {
+		"objectName": [
+		    "Cây cà chua"
+		],	  
+		"sentouryoku": [
+		    "1"
+		],	  
+        "description": [
+            "Những quả cà chua mọng nước cùng ",
+			"mùi hương nhẹ nhàng, ",
+			"như thể đã được ai đó chăm sóc rất cẩn thận..."
+		]	
+    },
+  	"109": {
+		"objectName": [
+		    "Cây dâu tây"
+		],	  
+		"sentouryoku": [
+		    "1"
+		],	  
+        "description": [
+            "Một cây ăn quả trĩu đầy dâu tây ",
+			"trông vô cùng ngon miệng.",
+			"Nó thường thu hút một sinh vật nào đó ",
+			"đến và ăn vụng mất vài quả."
+		]	
     },
   	"110": {
 		"objectName": [
