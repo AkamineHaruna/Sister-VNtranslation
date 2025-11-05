@@ -806,7 +806,7 @@
             "\\nl< >ah, \\str[121]...\""
         ],
         "9": [
-            "\\nl< >\"Buồn ngủ quá.\\w[45].\\w[45].\\w[45]\\str[121], anh sao thế?\""
+            "\\nl< >\"Buồn ngủ quá.\\w[45].\\w[45].\\w[45] \\str[121], anh sao thế?\""
         ],
         "10": [
             "\\nl< >\\{\"\\str[121]!!!\"\\}"
@@ -916,7 +916,7 @@
             "Muốn làm gì đó cùng với \\str[120] không nhỉ...?"
 		],	
         "17": [
-            "\\nl< >\"\\str[121]! Anh đã nghĩ ra điều ước hay hơn chưa~?\""
+            "\\nl< >\"\\str[121]! Anh đã nghĩ ra mong muốn gì hay hơn chưa~?\""
 		],	
         "18": [
             "Hmm... mình vẫn còn tấm 'Phiếu Thưởng' mà \\str[120] đã đưa.",
@@ -982,7 +982,7 @@
         "33": [
             "\\nl< >\"H-hôn là chuyện rất bình thường của người lớn mà!",
 			"Không cần dùng tấm Phiếu quý giá cho chuyện đó đâu! ",
-			"Anh đang làm quá lên đấy, \\str[121]!\""
+			"Anh đang làm quá lên rồi đó, \\str[121]!\""
 		],	
         "34": [
             "Dù mặt em đỏ như quả táo và rõ ràng đang căng thẳng,",

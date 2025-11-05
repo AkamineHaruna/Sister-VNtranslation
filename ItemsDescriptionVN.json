@@ -1276,8 +1276,8 @@
             "\"Trên phiếu thưởng chi chít những nét vẽ nguệch ngoạc...\""
 		],
         "description": [
-            "Một tấm phiếu thưởng do \\str[120] tự tay vẽ. \\str[121] có thể tìm kiếm ",
-            "sự chiều chuộng của \\str[120] dù yêu cầu có ích kỷ đến đâu, em ấy cũng sẽ chấp nhận.",
+            "Một tấm phiếu thưởng do \\str[120] tự tay vẽ. \\str[121] có thể tìm kiếm sự  ",
+            "chiều chuộng từ \\str[120] dù yêu cầu có ích kỷ đến đâu, em ấy cũng sẽ chấp nhận.",
             "Dù vậy, \\str[120] vẫn luôn muốn làm điều gì đó giúp đỡ ",
 			"\\str[121], dù có tấm phiếu này hay không—"
         ],

@@ -63,177 +63,180 @@
         ],
 		"14": [
             "Sau khi \\str[120] tắm xong một cách cẩn thận,",
-			"đến lượt tôi đi tắm rồi."
+			"thì đến lượt tôi đi tắm."
         ],
         "15": [
             " ",
 			" "
         ],
 		"16": [
-            "\\nl< >\"...\\str[121], move over a little...\""
+            "\\nl< >\"...\\str[121], anh di chuyển qua một chút đi...\""
         ],	
 		"17": [
-            "\\nl< >\"Then I’m coming in too...\""
+            "\\nl< >\"Vậy em cũng vào đây nhé...\""
         ],	
 		"18": [
-            "\\nl< >\"I’m getting in now... ",
-			"\\str[121], don’t look this way just yet...\""
+            "\\nl< >\"Em vào đây nhé... ",
+			"\\str[121], đừng nhìn sang bên này vội...\""
         ],	
 		"19": [
-            "\\str[120] sat across from me, hugging her legs a bit shyly.",
-			"As expected, this bathtub really is a little too small for two people..."
+            "\\str[120] ngồi đối diện tôi, khẽ ôm đôi chân mình lại, có chút ngượng ngùng.",
+			"Quả nhiên, bồn tắm này hơi chật chội để hai người cùng ngồi..."
         ],	
 		"20": [
             "\"……说起来我之前把那东西捡回来了呢。\""
         ],	
         "21": [
-            "\"...Oh right, I picked that thing up earlier.\""
+            "\"...À đúng rồi, tôi đã nhặt được thứ đó lúc nãy.\""
         ],	
         "22": [
-            "I carefully washed the rubber duck clean and gently placed it in the tub.",
-			"It floated quietly on the water—peaceful and adorable."
+            "Tôi cẩn thận rửa sạch con vịt cao su rồi nhẹ nhàng đặt nó vào bồn tắm.",
+			"Nó lặng lẽ nổi trên mặt nước — trông thật yên bình và dễ thương." 
         ],	
         "23": [
-            "\"Mhm... the atmosphere feels so much nicer now.\""
+            "\"Mhm... bầu không khí giờ cảm giác dễ chịu hơn hẳn.\""
         ],	
         "24": [
-            "\\nl< >\"Waa~ what a cute ducky!",
-			"Did you bring it back, \\str[121]?\""
+            "\\nl< >\"Waa~ Con vịt dễ thương quá!",
+			"Là anh mang về đấy à, \\str[121]?\""
         ],	
         "25": [
-            "\"Yeah, it looked like it was washed down the river just like me.",
-			"It seemed a little pitiful, so I took it home.\""
+            "\"Phải, có vẻ như nó bị cuốn trôi theo dòng giống hệt anh lúc đó.",
+			"Thấy nó trông tội nghiệp nên anh đã mang nó về.\""
         ],	
         "26": [
-            "\\nl< >\"Eh? The river...? Washed down?",
-			"...You didn’t do something dangerous again, did you?\""
+            "\\nl< >\"Eh? Dòng sông...? Bị cuốn trôi á?",
+			"...Đừng nói là anh lại làm gì nguy hiểm nữa đấy nhé?\""
         ],	
         "27": [
-            "\"Yeah, it was just sitting alone by the riverside,",
-			"looked kinda sad, so I brought it back.\""
+            "\"Không hề..., nó chỉ nằm một mình bên bờ sông thôi,",
+			"trông hơi buồn nên anh mang nó về.\""
         ],	
         "28": [
-            "\\nl< >\"Looks like our family’s got one more member now~\""
+            "\\nl< >\"Xem ra gia đình mình lại có thêm một thành viên mới rồi~\""
         ],	
         "29": [
-            "Sit Together",
-			"Squeeze Ducky",
-			"Chat Idly"
+            "Ngồi cùng nhau",
+			"Bóp con vịt",
+			"Trò chuyện"
         ],	
         "30": [
-            "It’ll still take a while before our whole bodies are warmed up...",
-			"Maybe I should do something with \\str[120] in the meantime?"
+            "Chắc còn mất một lúc nữa trong khi cơ thể chúng tôi",
+            "đang ngâm trong nước ấm...",
+			"Có lẽ tôi nên làm gì đó với \\str[120] trong lúc chờ đợi?"
         ],	
         "31": [
-            "I wish I could get a little closer to her...",
-			"Thinking that, I carefully asked if I could move a bit closer."
+            "Tôi muốn được gần gũi với em ấy hơn một chút...",
+			"Nghĩ vậy, tôi cẩn thận hỏi xem mình có thể ngồi sát hơn một chút không."
         ],	
         "32": [
-            "I just wanted to get a bit closer to her...!",
-			"Thinking that, I asked with a smile if I could scoot a little nearer."
+            "Tôi chỉ muốn được gần gũi với em ấy thêm một chút thôi...!",
+			"Nghĩ vậy, tôi mỉm cười hỏi xem mình có thể nhích lại gần hơn được không."
         ],	
         "33": [
-            "Still wanting to get closer...!",
-			"Thinking that, I shamelessly asked again if I could move closer."
+            "Vẫn muốn được gần gũi hơn nữa...!",
+			"Nghĩ thế, tôi lại mặt dày hỏi thêm một lần nữa xem có thể lại gần hơn không."
         ],	
         "34": [
             "\\nl< >\"Eh...!?",
-			"\\str[121], you’re getting carried away!\""
+			"\\str[121], anh bắt đầu hơi quá trớn rồi đó!\""
         ],	
         "35": [
-            "\\nl< >\"...No way!",
-			"\\str[121], your face is totally saying you’re about ",
-			"to do something naughty...\""
+            "\\nl< >\"...Không đời nào!",
+			"\\str[121], Nhìn mặt anh là biết sắp làm chuyện gì đó",
+			"hư hỏng rồi...\""
         ],
         "36": [
             " ",
 			" "
         ],
         "37": [
-            "\\nl< >\"\\str[121], stop it!",
-			"The ducky looks so pitiful!\""
+            "\\nl< >\"\\str[121], dừng lại đi!",
+			"Con vịt trông tội nghiệp quá\""
         ],
         "38": [
-            "\\nl< >\"\\str[121]? Why are you bullying the ducky like that?\""
+            "\\nl< >\"\\str[121]? Sao anh cứ bắt nạt con vịt thế?\""
         ],
         "39": [
-            "Ugh... I got scolded by \\str[120] for squeezing the ducky too much."
+            "Ugh... Tôi bị \\str[120] mắng do bóp con vịt hơi quá tay."
         ],
         "40": [
-            "Feeling a bit bored, I gave the ducky floating on the water a squeeze.",
-			"It let out a slightly annoyed “pfffft—.”"
+            "Cảm thấy hơi chán, tôi bóp nhẹ con vịt đang nổi trên mặt nước.",
+			"Nó phát ra tiếng “pfffft—” nghe hơi khó chịu."
         ],
         "41": [
-            "What should I talk about with \\str[120]...?"
+            "Mình nên nói chuyện gì với \\str[120] đây nhỉ...?"
         ],
         "42": [
-            "Lewd Topics",
-			"Casual Topics"
+            "Chủ đề nhạy cảm",
+			"Tán gẫu"
         ],		
         "43": [
-            "\\nl< >\"I can’t wait to have some strawberry milk after the bath~\""
+            "\\nl< >\"Em nóng lòng muốn uống sữa dâu sau khi tắm xong quá~\""
         ],		
         "44": [
-            "\\nl< >\"\\str[121], have your muscles gotten more toned?\""
+            "\\nl< >\"\\str[121], cơ bắp của anh trông săn chắc hơn thì phải?\""
         ],		
         "45": [
-            "\\nl< >\"It feels like the water’s even hotter when we bathe together~\""
+            "\\nl< >\"Cảm giác nước còn nóng hơn khi chúng ta tắm cùng nhau nữa~\""
         ],		
         "46": [
-            "I chatted idly with \\str[120] for a while, ",
-			"and our bodies gradually warmed up..."
+            "Tôi trò chuyện vu vơ với \\str[120] một lúc, ",
+			"và cơ thể hai chúng tôi dần ấm lên..."
         ],		
         "47": [
-            "Yeah... times like this are perfect for spicing things up with a lewd topic!     \\w[45]",
-			"Thinking that, I excitedly asked \\str[120] if she could ",
-			"take off her towel."
+            "Ừ thì... những lúc như thế này là hoàn hảo để thêm",
+            "chút “gia vị” bằng một chủ đề nhạy cảm!      \\w[45]",
+			"Nghĩ vậy, tôi hào hứng hỏi \\str[120] xem em ấy có thể ",
+			"bỏ khăn tắm ra không."
         ],		
         "48": [
-            "Yeah... times like this are perfect for spicing things up with a lewd topic!     \\w[45]",
-			"Thinking that, I excitedly suggested to \\str[120] that ",
-			"we talk about something naughty."
+            "Ừ thì... những lúc như thế này là hoàn hảo để thêm",
+            "chút “gia vị” bằng một chủ đề nhạy cảm!      \\w[45]",
+			"Nghĩ vậy, tôi phấn khích đề nghị với \\str[120] rằng hay là chúng ta",
+			"nói chuyện một chút về cái gì đó nghịch ngợm đi."
         ],		
         "49": [
-            "\\nl< >\"...Lewd? I don’t really get it...",
-			"So, what did \\str[121] want to say...?\""
+            "\\nl< >\"...Nhạy cảm á? Em cũng không hiểu lắm...",
+			"Vậy \\str[121] định nói gì thế...?\""
         ],		
         "50": [
-            "\\nl< >\"...Again? \\str[121], you’re such a tease—  \\w[120]",
-			"So, what is it this time?\""
+            "\\nl< >\"…Lại nữa à? \\str[121], anh đúng là hay trêu thật đấy—  \\w[120]",
+			"Thế lần này là chuyện gì đây?\""
         ],	
         "51": [
-            "Nude Life Style",
-			"Sensitive Spots"		
+            "Cách sống khỏa thân",
+			"Điểm nhạy cảm"		
         ],	
         "52": [
-            "\\nl< >\"Geez, \\str[121]’s always picking on me!",
-			"I’m leaving!\""		
+            "\\nl< >\"Geez, \\str[121] lúc nào cũng chọc ghẹo em thôi!",
+			"Em đi đây!\""		
         ],	
         "53": [
-            "Ugh... Guess I took the joke a little too far—\\str[120] ran off, ",
-			"blushing bright red..."		
+            "Ugh... Có lẽ tôi đùa hơi quá rồi —\\str[120] chạy đi, ",
+			"mặt đỏ bừng..."		
         ],	
         "54": [
-            "Phew... My body’s burning up; guess it’s about time to get out."		
+            "Phew... Cơ thể mình nóng ran cả lên; chắc cũng đến lúc ra khỏi bồn thôi."		
         ],		
         "55": [
-            "\\nl< >\"Geez... you’re not even trying to look away.",
-			"\\str[121], you can totally see everything...\""
+            "\\nl< >\"Geez... anh chẳng thèm quay mặt đi nữa.",
+			"\\str[121], anh thấy hết cả rồi đó...\""
         ],		
         "56": [
-            "\\nl< >\"Eh...? Why would you do that...?\""
+            "\\nl< >\"Eh...? Sao anh lại muốn làm vậy...?\""
         ],		
         "57": [
-            "Just wanna see",
-			"Look kinda weird",
-			"You look hot"
+            "Chỉ muốn nhìn thôi",
+			"Trông hơi lạ mắt",
+			"Nhìn em quyến rũ lắm"
         ],		
         "58": [
-            "\\nl< >\"...Well, I guess that’s fine.\""
+            "\\nl< >\"...Được thôi, em nghĩ chắc là ổn.\""
         ],		
         "59": [
-            "\\nl< >\"\\str[121]... you’re always thinking about that kind of stuff.",
-			"It’s really troubling, you know...\""
+            "\\nl< >\"\\str[121]... anh lúc nào cũng chỉ nghĩ đến mấy chuyện đó thôi.",
+			"Thật là làm người ta khó xử đấy, anh biết không...\""
         ]
     },
     "2": {
@@ -302,7 +305,7 @@
 		],
         "12": [
             "\\nl< >\"\\str[121]... Anh vừa phát ra một âm thanh dễ thương đó hả?",
-			"Anh luôn là người trêu chọc em... nên lần này,",
+			"Anh luôn là người trêu chọc em đó... nên lần này,",
 			"em cũng sẽ cho anh nếm thử cảm giác đó xem sao~♥\""
 		],
         "13": [
@@ -314,440 +317,440 @@
 			"\\str[121], Anh quay người lại cho em nào.—\""
 		],
         "15": [
-            "\"Cái–khoan—eh!? Em đang làm gì thế—\"",
+            "\"Cái gì–khoan—eh!? Em đang làm gì thế—\"",
 			"\\w[30]\\^"
 		],
         "16": [
-            "\\nl< >\"The arms have been cleaned thoroughly...",
-			"The rest, \\str[121], you can handle yourself~\""
+            "\\nl< >\"TCánh tay thì em đã rửa sạch hết rồi...",
+			"Phần còn lại, \\str[121], anh tự lo nhé~\""
 		],
         "17": [
-            "Like a mischievous little devil, \\str[120] stuck out her tongue at me,",
-			"then slipped away lightly and dove into the bathtub."
+            "Giống như một tiểu ác quỷ tinh nghịch, \\str[120] lè lưỡi trêu tôi,",
+			"rồi nhẹ nhàng lách người trượt xuống, chui vào trong bồn tắm."
 		],
         "18": [
-            "I forced myself to suppress the burning desire her ",
-			"sweet gestures had stirred up, and could only continue ",
-			"washing my body with a hint of frustration."
+            "Tôi cố gắng kiềm nén ngọn lửa khao khát đang bùng lên",
+			"bởi những cử chỉ ngọt ngào của em ấy,",
+			"mình chỉ còn biết tiếp tục tắm trong tâm trạng hơi bứt rứt."
 		],
         "19": [
-            "\\str[120] loosened her legs, then suddenly straddled my waist,",
-			"placing her hands on my shoulders as she gently let ",
-			"her weight rest on me."
+            "\\str[120] nới lỏng chân và đột nhiên ngồi lên hông tôi,",
+			"sau đó đặt tay lên vai tôi và nhẹ nhàng dồn  ",
+			"trọng lượng cơ thể lên tôi."
 		],
         "20": [
-            "At some point, both of our towels had fallen aside,",
-            "her soft, tender place pressed directly against my already ",
-			"throbbing shaft with nothing in between. The guilty thrill ",
-            "from this new position felt completely different from before!"
+            "Một lúc sau, chiếc khăn tắm của cả hai người đều rơi xuống,",
+            "nơi mềm mại, kín đáo của em ấy áp trực tiếp vào cái dương vật",
+			"đang cương cứng của tôi mà không có gì cản trở. Cảm giác tội lỗi",
+            "từ tư thế mới này mang lại cảm giác hoàn toàn khác biệt so với trước đây"
 		],
         "21": [
-			"She didn’t seem to realize just how dangerous this position was,",
-			"and once she settled down, ",
-            "she started to gently twist her hips on top of me."
+			"Em ấy dường như không nhận ra vị trí này nguy hiểm đến mức nào,",
+			"Vừa ổn định, ",
+            "em ấy bắt đầu nhẹ nhàng xoay hông trên người tôi."
 		],
         "22": [
-			"What drove me even crazier was how her delicate folds ",
-			"stayed pressed tightly against me,",
-			"each subtle movement making them slide wetly along my length, ",
-			"swallowing and releasing it bit by bit."
+			"Điều khiến tôi điên đảo hơn nữa là những nếp gấp mỏng manh, ướt át",
+			"của em ấy đang ép chặt vào tôi. Mỗi cú lắc hông tinh tế lại",
+			"khiến chúng trượt dài, nhầy nhụa dọc theo chiều dài cương cứng của tôi, ",
+			"nuốt trọn rồi lại nhả ra từng chút một."
 		],
         "23": [
-			"\\nl< >\"How’s this~?",
-			"I’m doing it just for you, \\str[121]〜♪      \\w[180]",
-			"So, how do you want me to wash you next〜？\""
+			"\\nl< >\"Thế này thì sao~?",
+			"Em chỉ dành riêng cho anh thôi đấy, \\str[121]〜♪      \\w[180]",
+			"Nào, anh muốn em “rửa” tiếp theo ở chỗ nào đây〜？\""
 		],
         "24": [
-			"Ahh... so she really just wanted to help wash my body, huh...",
-			"Well, there’s no helping it! ",
-			"Since it’s \\str[120]’s kindness, I’ll accept it properly!",
-			"Even if something... unexpected happens, I’m sure she’ll forgive me~"
+			"Ahh... ra là em ấy thật sự chỉ muốn giúp mình tắm thôi, huh...",
+			"Thôi thì đành chịu vậy! Vì đây là lòng tốt của \\str[120], ",
+			"nên mình sẽ ngoan ngoãn đón nhận vậy! Dù có chuyện gì... ",
+			"ngoài ý muốn xảy ra đi nữa, chắc chắn em ấy sẽ tha thứ cho mình thôi~"
 		],		
         "25": [
-            "Trust \\str[120]",
-			"Faster...",
-			"Slower..."
+            "Tin tưởng \\str[120]",
+			"Nhanh hơn...",
+			"Chậm lại..."
 		],		
         "26": [
-            "\\str[120] continues to diligently twist her waist,",
-			"waves of slick, tingling pleasure surge through my body like electricity, ",
-			"mingled with a forbidden sweet thrill—",
-			"So, how should I have \\str[120] continue from here?"
+            "\\str[120] tiếp tục xoay hông một cách cần mẫn,",
+			"những đợt khoái cảm trơn trượt, tê rần như điện giật lan khắp cơ thể tôi, ",
+			"hòa lẫn với cảm giác ngọt ngào cấm kỵ—",
+			"Vậy, tiếp theo tôi nên để \\str[120] làm gì đây?"
 		],		
         "27": [
-            "\\str[120] is still diligently twisting her waist,",
-			"that moist secret place has started to seep with nectar, ",
-			"each rub producing a faint 'squish' sound—",
-			"How should I have her put in more effort?"
+            "\\str[120] vẫn chăm chỉ vặn vẹo vòng eo,",
+			"nơi bí mật ướt át của em ấy đã bắt đầu rỉ mật hoa, ",
+			"mỗi lần cọ xát lại phát ra tiếng 'lách tách' khe khẽ—",
+			"Làm sao để em ấy cố gắng thêm nữa đây?"
 		],		
         "28": [
-            "\\str[120] is still diligently twisting her waist,",
-			"I feel like I can't hold back much longer...!",
-			"Finally, how should I have her finish it off!?"
+            "\\str[120] vẫn miệt mài xoay hông,",
+			"tôi cảm giác mình sắp không kìm chế được nữa…!",
+			"Cuối cùng, tôi nên để em ấy kết thúc thế nào!?"
 		],
         "29": [
-			"\\nl< >\"If I can do whatever I like—um, o-okay...              \\w[120]",
-			"That means \\str[121] can leave it all to me now, right♥♥\"     \\w[180]"
+			"\\nl< >\"Nếu em có thể làm theo ý mình —ừm, đ-được rồi...              \\w[120]",
+			"Vậy nghĩa là \\str[121] có thể giao hết cho em lo, đúng không♥♥\"     \\w[180]"
 		],
         "30": [
-			"\\nl< >\"I-It feels so slippery... ",
-			"\\str[121]'s down there... is moving along with it♥",
-			"You're being so naughty~? If you can't hold back and moves a bit more...",
-			"You'll make a mistake, won't you?♥\"     \\w[210]"
+			"\\nl< >\"N-Nó trơn trượt quá... ",
+			"chỗ dưới của \\str[121]... đang chuyển động theo kìa♥",
+			"Anh hư quá đó~? Nếu anh không kìm được mà nhúc nhích thêm chút nữa...",
+			"Anh sẽ phạm sai lầm đấy, biết không nè?♥\"     \\w[210]"
 		],
         "31": [
 			"\\nl< >\"Hah♥ Hah♥",
-			"\\str[121]♥ is shaking so much♥♥",
-			"Is the cleaning effect too good?\"     \\w[210]"
+			"\\str[121]♥ đang run lẩy bẩy thế kia♥♥",
+			"Hiệu quả làm sạch tốt quá chăng?\"     \\w[210]"
 		],
         "32": [
-			"\\nl< >\"Are you about to lose it?♥",
-			"\\str[121]♥ are you about to not hold back?♥",
-			"Should I try a little harder?♥♥\"     \\w[210]"
+			"\\nl< >\"Anh sắp không kìm được nữa rồi à?♥",
+			"\\str[121]♥ anh sắp buông xuôi hết rồi nhỉ?♥",
+			"Em có nên cố gắng thêm chút nữa không?♥♥\"     \\w[210]"
 		],
         "33": [
-			"\\nl< >\"F-Faster?",
-			"O-Okay... I'll try...\"       \\w[210]"
+			"\\nl< >\"N-Nhanh hơn á?",
+			"Đ-Được rồi... Em sẽ thử...\"       \\w[210]"
 		],
         "34": [
-			"\\nl< >\"I-I'll do my best...!",
-			"Heave... ho...                   \\w[120]",
-			"Does this feel good for you?\"     \\w[120]"
+			"\\nl< >\"E-Em sẽ cố gắng hết sức...!",
+			"Haa... haa...                   \\w[120]",
+			"Anh cảm thấy dễ chịu chứ?\"     \\w[120]"
 		],
         "35": [
 			"\\nl< >\"Hah♥ Hah♥",
-			"Hehe~ \\str[121]'s down there is throbbing~    \\w[120]",
-			"Is it too stimulating?\"                        \\w[120]"
+			"Hehe~ ở dưới đó của \\str[121] đang co giật kìa~    \\w[120]",
+			"Có kích thích quá không nhỉ?\"                        \\w[120]"
 		],
         "36": [
-			"\\nl< >\"Faster♥ Faster♥",
-			"\\str[121]'s there has gotten all sticky♥    \\w[120]",
-			"J-Just hold on a bit more...♥\"               \\w[120]"
+			"\\nl< >\"Nhanh hơn♥ Nhanh hơn nữa♥",
+			"Chỗ đó của \\str[121] ướt nhẹp hết rồi à♥    \\w[120]",
+			"C-Cố chịu thêm chút nữa thôi...♥\"               \\w[120]"
 		],
         "37": [
-			"\\nl< >\"S-Slower?",
-			"O-Okay... I'll try...\"       \\w[210]"
+			"\\nl< >\"C-Chậm lại à?",
+			"Được rồi... Em sẽ thử...\"       \\w[210]"
 		],
         "38": [
-			"\\nl< >\"S-Slowly wiping...",
-			"Ah, it feels like something poked me just now♥\"   \\w[210]"
+			"\\nl< >\"Từ tốn lau...",
+			"Ah, cảm giác như vừa rồi có gì đó chọc vào em vậy♥\"   \\w[210]"
 		],
         "39": [
 			"\\nl< >\"Hah♥ Hah♥",
-			"Down there feels hot♥                                 \\w[120]",
-			"I-I'll be gentle... to let it slowly... feel good♥\"   \\w[120]"
+			"Ở dưới nóng ran quá♥                                 \\w[120]",
+			"E-Em sẽ nhẹ nhàng... để nó từ từ... thấy sướng hơn nhé♥\"   \\w[120]"
 		],
         "40": [
 			"\\nl< >\"\\str[121]♥\\str[121]♥               \\w[120]",
-			"I like you♥I want to make you feel good too♥\"    \\w[120]"
+			"Em thích anh♥ Em cũng muốn làm anh sướng hơn nữa♥\"    \\w[120]"
 		],
         "41": [
-			"\\{Already... at the limit...!!"
+			"\\{Đã... tới giới hạn rồi...!!"
 		],
         "42": [
 			"\\{\\nl< >\"Aah~~♥♥\"",
 			"\\w[60]\\^"
 		],
         "43": [
-			"Under \\str[120]'s repeated meticulous cleaning service,",
-			"I finally succumbed to that surging pleasure, ",
-            "unable to hold back any longer, ",
-			"as waves of hot fluid gushed out like a dam breaking."
+			"Dưới sự dịch vụ chăm sóc tỉ mỉ liên tục của \\str[120],",
+			"cuối cùng tôi cũng khuất phục trước khoái cảm dâng trào ấy, ",
+            "không thể kìm nén thêm nữa, ",
+			"từng đợt chất lỏng nóng hổi tuôn ra như đê vỡ."
 		],
         "44": [
-			"\\str[120] let out a soft startled cry, ",
-			"but still carefully didn't stop her movements,",
-			"as if afraid to leave it halfway done, ",
-            "continuing to gently twist her body."
+			"\\str[120] khẽ kêu lên một tiếng giật mình, ",
+			"nhưng vẫn cẩn thận không ngừng chuyển động,",
+			"như sợ việc bỏ dở giữa chừng, ",
+            "tiếp tục nhẹ nhàng lắc hông thân mình."
 		],
         "45": [
-			"\\nl< >\"\\str[121]...? Are you okay?",
-			"D-Do you still feel good? ",
-			"I'll... h-help clean you up more, okay?\""
+			"\\nl< >\"\\str[121]...? Anh ổn chứ??",
+			"C-Có cảm thấy sướng không? ",
+			"Em sẽ... g-giúp anh lau sạch thêm nhé?\""
 		],
         "46": [
-			"\\nl< >\"\\str[121]...? Are you okay?",
-			"D-Did I rub too... too hard?\""
+			"\\nl< >\"\\str[121]...? Anh ổn chứ?",
+			"E-Em có chà... mạnh quá không?\""
 		],
         "47": [
-			"\"It's fine, it got 'cleaned' really well, and it felt amazing~",
-			"You did a great job~\""
+			"\"Ổn rồi, đã được 'làm sạch' rất kỹ, cảm giác tuyệt vời lắm~",
+			"Anh giỏi quá~\""
 		],
         "48": [
 			"\\nl< >\"Ehehe♥",
-			"\\str[121]'s here... is still hot, and throbbing...♥",
-			"Should I clean it some more for you?♥\""
+			"Chỗ này của \\str[121]... vẫn còn nóng ran, đang co giật nè...♥",
+			"Em lau thêm cho anh nữa nhé?♥\""
 		],
         "49": [
-			"Do it again",
-			"That's enough"
+			"Làm thêm nữa",
+			"Đủ rồi"
 		],
         "50": [
-			"Although \\str[120] is rarely showing such an eager side, ",
-			"wanting to get intimate with me like this, ",
-			"we've already spent too much time tangled up in the bathroom, ",
-			"and if \\str[120] catches a cold from the chill, that would be bad...!",
-			"In the end, I reluctantly held \\str[120] close and quickly rinsed off ",
-			"the traces on our bodies to wrap everything up."
+			"Mặc dù \\str[120] hiếm khi thể hiện mặt háo hức đến vậy, ",
+			"muốn gần gũi với tôi đến thế này, ",
+			"nhưng chúng tôi đã quấn quýt nhau trong phòng tắm quá lâu rồi, ",
+			"nếu \\str[120] bị cảm lạnh vì thế thì sẽ tệ lắm...!",
+			"Cuối cùng, tôi miễn cưỡng ôm chặt \\str[120] vào lòng và nhanh chóng ",
+			"rửa sạch những dấu vết trên cơ thể hai đứa để kết thúc mọi chuyện."
 		]		
     },
     "3": {
         "0": [
-            "\\nl< >\"...But won’t it be a little cramped?\""
+            "\\nl< >\"...Nhưng mà có hơi chật chội quá không?\""
 		],
         "1": [
-            "\\nl< >\"Mm... well... if \\str[121] wants to...\""
+            "\\nl< >\"Mm... ừm... nếu \\str[121] muốn thì...\""
 		],
         "2": [
-            "\\nl< >\"Okay! Come on in, \\str[121]!\""
+            "\\nl< >\"Được rồi! Vào đây nào, \\str[121]!\""
 		],		
 		"3": [
-            "Even so, \\str[120] didn’t actually refuse—",
-			"she just gave a small nod of quiet consent.",
-			"I immediately moved to the other side of the tub ",
-			"and gently pulled her into my arms."
+            "Dù vậy, \\str[120] cũng không thực sự từ chối—",
+			"em ấy chỉ khẽ gật đầu đồng ý trong im lặng.",
+			"Tôi lập tức dịch sang một bên bồn tắm ",
+			"và nhẹ nhàng ôm em ấy vào lòng."
         ],
 		"4": [
-            "\\str[120] leaned in gently, pressing its small body against me.",
-			"Even in the cramped bathtub, her frame nestled into my arms",
-			"without the slightest trouble."
+            "\\str[120] khẽ tựa vào, áp thân hình nhỏ nhắn của mình sát vào tôi.",
+			"Dù trong bồn tắm chật hẹp, thân thể em ấy vẫn nằm gọn trong",
+			"vòng tay tôi mà không hề khó khăn."
         ],
 		"5": [
-            "Droplets clung to her damp hair, her cheeks were faintly flushed,",
-			"At that moment, everything about her felt so fresh,",
-			"I didn’t even know how to react."
+            "Những giọt nước đọng trên mái tóc ẩm ướt, má em ấy ửng hồng nhè nhẹ,",
+			"Khoảnh khắc ấy, mọi thứ về em ấy đều toát lên vẻ tươi mới đến mức",
+			"tôi thậm chí không biết phải phản ứng thế nào."
         ],
 		"6": [
-            "Noticing my intense gaze, I could feel her body suddenly tense up."
+            "Nhận thấy ánh mắt chăm chú của tôi, tôi cảm nhận được cơ thể em ấy đột nhiên co lại."
         ],
 		"7": [
-            "\"Does it feel too cramped after all?\""
+            "\"Có chật chội quá không?\""
         ],
 		"8": [
-            "\"No... \\str[121]’s arms are warm. And...",
-			"you’re being really gentle, so it doesn’t feel uncomfortable at all.\""
+            "\\nl< >\"Không đâu... vòng tay của \\str[121] ấm lắm. Và...",
+			"anh rất dịu dàng, nên em chẳng thấy khó chịu chút nào cả.\""
         ],		
 		"9": [
-            "Ahh... \\str[120] always says the sweetest things—",
-			"she’s just too cute to handle...!"
+            "Ahh... \\str[120] lúc nào cũng nói những lời ngọt ngào nhất—",
+			"em ấy dễ thương đến mức không chịu nổi...!"
         ],
 		"10": [
-            "Unable to resist, I wrapped my arms around her tightly.",
-			"A strange, swelling emotion began to rise and spread within my chest."
+            "Không kìm được, tôi siết chặt vòng tay ôm lấy em ấy.",
+			"Một cảm xúc lạ lùng, trào dâng bắt đầu lan tỏa trong lồng ngực tôi."
         ],		
 		"11": [
-            "Having gotten \\str[120]’s consent, I immediately moved to the other side",
-			"of the tub and gently pulled her into my arms."
+            "Sau khi nhận được sự đồng ý từ \\str[120], tôi lập tức dịch sang một bên bồn tắm",
+			"và nhẹ nhàng ôm em ấy vào lòng."
         ],
 		"12": [
-            "\\nl< >\"\\str[121]? Are you feeling cold?\""
+            "\\nl< >\"\\str[121]? Anh cảm thấy lạnh à?\""
         ],
 		"13": [
-            "\"Yeah… You’re warm and cute,",
-			"makes me want to hold you like this forever…\""
+            "\"Phải đó… Em ấm áp và dễ thương quá,",
+			"khiến anh chỉ muốn ôm em mãi như thế này thôi…\""
         ],
 		"14": [
-            "\\nl< >\"Oh come on—! \\str[121], ",
-			"you’re treating me like a little kid again...!\""
+            "\\nl< >\"Thôi đi mà—! \\str[121], ",
+			"anh lại coi em như con nít nữa rồi...!\""
         ],
 		"15": [
-            "\\nl< >\"I’m a proper lady now, you know. ",
-			"You really need to start treating me like one, \\str[121]!\""
+            "\\nl< >\"giờ em là một quý cô thực thụ rồi đấy nhé. ",
+			"Anh phải bắt đầu đối xử với em như quý cô mới đúng, \\str[121]!\""
         ],
 		"16": [
-            "Like she was sulking, ",
-			"\\str[120] kept raising her forehead up to bump against my chin—",
-			"almost as if to show she’d grown taller."
+            "Như thể đang hờn dỗi, ",
+			"\\str[120] liên tục ngẩng trán lên khẽ cụng vào cằm tôi—",
+			"như muốn khoe rằng mình đã cao hơn một chút."
         ],
 		"17": [
-            "Especially when I looked down, my eyes were immediately drawn to ",
-			"the soft, full curves of \\str[120]’s breast.",
-			"Yeah… at this point, I guess we really could call that ",
-			"a symbol of being a lady."
+            "Đặc biệt khi tôi cúi nhìn xuống, ánh mắt lập tức bị hút vào những ",
+			"đường cong mềm mại, đầy đặn từ bầu ngực của \\str[120].",
+			"Ừ thì… giờ thì đúng là có thể gọi đó",
+			"biểu tượng của một quý cô rồi."
         ],
 		"18": [
-            "\\str[120] unintentional movement instantly ",
-			"ignited the desire within me.",
-			"An urge to feel that soft shape with my hands ",
-			"began to surge uncontrollably—"
+            "Chuyển động vô thức của \\str[120] lập tức thổi bùng lên ",
+			"dục vọng trong tôi.",
+			"Một thôi thúc muốn cảm nhận hình dáng mềm mại ấy ",
+			"bằng đôi tay ngày càng trào dâng không thể kiềm chế—"
         ],		
 		"19": [
-            "Just Touch",
-			"Ask First"
+            "Chạm nhẹ",
+			"Hỏi trước"
         ],		
 		"20": [
-            "It seemed she’d already gotten used to this kind of moment—",
-			"\\str[120] leaned against me on her own,",
-			"and we just quietly held each other like that."
+            "Dường như em ấy đã quen với những khoảnh khắc thế này—",
+			"\\str[120] tựa hẳn vào tôi,",
+			"và chúng tôi cứ lặng lẽ ôm nhau như vậy."
         ],		
 		"21": [
-            "Last time, I let my impulses get the better of me ",
-			"and she ended up fainting in the bathroom—",
-			"—there’s no way I can let that happen again!",
+            "Lần trước, tôi đã để cảm xúc lấn át lý trí ",
+			"và khiến em ấy ngất xỉu trong phòng tắm—",
+			"—không thể để chuyện đó lặp lại lần nữa!",
 			"\\w[30]",
-			"I warned myself in my heart to treasure her properly this time.",
-            "So I just gently took her soft little hand and wrapped it in mine."
+			"Tôi tự nhủ trong lòng phải trân trọng em ấy thật nghiêm túc lần này.",
+            "Thế nên tôi chỉ nhẹ nhàng nắm lấy bàn tay nhỏ nhắn mềm mại của em ấy đan vào tay mình."
         ],
 		"22": [
-            "\\nl< >\"\\str[121]...? What’s wrong? ",
-			"You’ve been frowning this whole time.\""
+            "\\nl< >\"\\str[121]...? Có chuyện gì vậy? ",
+			"Anh cứ cau mày suốt thế..\""
         ],
 		"23": [
-            "\"It’s nothing—just thinking about how cute you always are.\""
+            "\"Không có gì đâu— anh chỉ đang nghĩ rằng em lúc nào cũng dễ thương quá thôi..\""
         ],
 		"24": [
-            "\\nl< >\"Uuueeh... What’s that supposed to mean...?\""
+            "\\nl< >\"Uuueeh... Ý anh là sao chứ...?\""
         ],	
 		"25": [
-		    "I reached out with my other hand and casually ruffled her hair.",
-            "She looked a bit unhappy about being brushed off like that."
+		    "Tôi đưa tay còn lại ra, vuốt mái tóc của em ấy một cách tùy hứng .",
+            "Em ấy có vẻ hơi bất mãn vì bị gạt đi như thế."
         ],	
 		"26": [
-		    "Without thinking any further, I instinctively reached out and ",
-			"grabbed the softness that was right in front of me.    \\w[30]",
-			"—Why?                   \\w[60]\\^"
+		    "Không kịp nghĩ thêm gì nữa, tôi theo bản năng đưa tay ra và nắm lấy ",
+			"phần mềm mại ngay trước mặt.    \\w[30]",
+			"—Tại sao à?                   \\w[60]\\^"
         ],	
 		"27": [
-		    "\\>Without thinking any further, I instinctively reached out and ",
-			"\\>grabbed the softness that was right in front of me. ",
-			"\\>—Why?                 \\<\\{",
-			"Because it was there!    \\w[120]"
+		    "\\>Không kịp nghĩ thêm gì nữa, tôi theo bản năng đưa tay ra và nắm lấy ",
+			"\\>phần mềm mại ngay trước mặt. ",
+			"\\>—Tại sao à?                 \\<\\{",
+			"Vì nó ở ngay đó!    \\w[120]"
         ],	
 		"28": [
-		    "\\nl< >\"...Yah! \\str[121], not again...!?\""
+		    "\\nl< >\"...Yah! \\str[121], lại nữa rồi...!?\""
         ],	
 		"29": [
-		    "\\nl< >\"Yah!? \\str[121]… what are you doing…!?\""
+		    "\\nl< >\"Yah!? \\str[121]… anh đang làm gì vậy…!?\""
         ],	
 		"30": [
-		    "My sudden action clearly left \\str[120] confused.",
-			"How should I even explain this...?"
+		    "Hành động đột ngột của tôi rõ ràng khiến \\str[120] bối rối.",
+			"Giờ tôi phải giải thích thế nào đây...?"
         ],
 		"31": [
-		    "Wanna Squeeze It!",
-			"Hand Slipped..."
+		    "Muốn bóp thử!",
+			"Trượt tay..."
         ],	
 		"32": [
-		    "Instead of answering, I let my actions speak.",
-			"My left hand continued to roam across \\str[120]’s breast, ",
-			"taking in the softness with my palm."
+		    "Thay vì trả lời, tôi để hành động lên tiếng.",
+			"Tay trái tiếp tục lướt trên bầu ngực của \\str[120], ",
+			"bàn tay cảm nhận trọn vẹn sự mềm mại ấy."
         ],		
 		"33": [
-		    "\\nl< >\"even if that's the case, ",
-			"don’t just suddenly reach out and scare me like that...\""
+		    "\\nl< >\"Dù có là vậy đi nữa, ",
+			"cũng đừng đột ngột đưa tay ra làm em giật mình thế chứ...\""
         ],		
 		"34": [
-		    "Huh? So as long as it’s not sudden, it’s okay...?"
+		    "Huh? Thế tức là chỉ cần không đột ngột thì được phải không...?"
         ],
 		"35": [
-		    "\\nl< >\"Well, if your hand slipped, ",
-			"I guess there’s nothing you can do...\""
+		    "\\nl< >\"Ừm thì, nếu tay anh lỡ bị trượt",
+			"thì cũng chả trách được...\""
         ],
 		"36": [
-		    "Even though I hadn’t moved my hand at all,",
-		    "\\str[120] was somehow fooled by that simple excuse...!"
+		    "Dù tay tôi chẳng hề nhúc nhích,",
+		    "vậy mà \\str[120] lại bị lừa bởi cái cớ đơn giản ấy...!"
         ],
 		"37": [
-		    "I forced down the urge to reach out and touch her, ",
-			"and seriously asked for permission instead."
+		    "Tôi cố kìm nén ham muốn đưa tay ra chạm vào em ấy, ",
+			"thay vào đó là nghiêm túc xin phép."
         ],
 		"38": [
-		    "\\nl< >\"Eh!? That’s so sudden...\""
+		    "\\nl< >\"Eh!? Đột ngột quá đó...\""
         ],
 		"39": [
-		    "\"Of course! It’s to confirm whether or not ",
-			"you’ve got the grace of a proper lady!\""
+		    "\"Tất nhiên rồi! Để kiểm tra xem em đã có vẻ duyên dáng ",
+			"của một quý cô thực thụ chưa chứ!\""
         ],
 		"40": [
-		    "\\nl< >\"Mmm... You just want an excuse to touch, don’t you?\""
+		    "\\nl< >\"Mmm... Anh chỉ muốn kiếm cớ để sờ thôi, đúng không?\""
         ],
 		"41": [
-		    "\\nl< >\"You always do this... ",
-			"Your weird technique always makes me feel all tingly...\""
+		    "\\nl< >\"Anh lúc nào cũng thế... ",
+			"hành động kỳ quặc của anh luôn làm em râm ran hết cả người...\""
         ],
 		"42": [
-		    "\"D-Do you hate it when I do that?\""
+		    "\"C-Có phải em thấy ghét khi anh làm vậy không?\""
         ],
 		"43": [
-		    "Getting told \\str[120] hates me...",
-			"That’s the one thing I never want to hear...!"
+		    "Nghe \\str[120] nói ghét mình...",
+			"Đó là điều mình không bao giờ muốn nghe...!"
         ],
 		"44": [
-		    "\\nl< >\"Hate it? Not really... I guess it’s fine...",
-			"As long as you’re gentle, \\str[121]...\""
+		    "\\nl< >\"Ghét à? Không hẳn... Em nghĩ cũng được thôi...",
+			"Miễn là anh nhẹ nhàng, \\str[121]...\""
         ],
 		"45": [
 		    "OHHHHHHH—!!!"
         ],
 		"46": [
-		    "I held back the urge to knead them recklessly,",
-			"and simply rested my hand gently on \\str[120]’s breast, slowly caressing it."
+		    "Tôi kìm nén ham muốn muốn xoa bóp thô bạo,",
+			"chỉ nhẹ nhàng đặt tay lên bầu ngực của \\str[120], chậm rãi vuốt ve nó."
         ],
 		"47": [
-		    "\\nl< >\"\\str[121], your face looks kinda scary right now...\""
+		    "\\nl< >\"\\str[121], mặt anh trông hơi đáng sợ đó...\""
         ],
 		"48": [
-		    "\\nl< >\"Hehe... it kinda tickles...\""
+		    "\\nl< >\"Hehe... hơi nhột nhột...\""
         ],
 		"49": [
 		    "\\nl< >\"Mmm... mmn...\""
         ],
 		"50": [
-		    "Even though the towel was in the way, ",
-			"the way it wrapped around her body made her curves even more pronounced.",
-			"The way it shaped and contained that fullness only made the soft, ",
-			"firm weight feel more real in my hand."
+		    "Dù có khăn tắm chắn ngang, ",
+			"cách nó quấn quanh cơ thể lại khiến đường cong của em ấy càng thêm nổi bật.",
+			"Cách khăn ôm trọn và định hình phần đầy đặn ấy chỉ khiến sức nặng mềm mại, ",
+			"săn chắc trong tay tôi càng trở nên chân thực hơn."
         ],
 		"51": [
-		    "With the towel gone, my hand slid freely over \\str[120]’s bare skin.",
-			"When my fingertips brushed lightly over the nipple, ",
-            "I could feel her body tremble."
+		    "Khi khăn đã được cởi bỏ, tay tôi tự do lướt trên làn da trần của \\str[120].",
+			"Khi đầu ngón tay khẽ chạm qua núm vú, ",
+            "tôi cảm nhận được cơ thể em ấy khẽ run lên."
         ],
 		"52": [
-		    "It’ll take a bit more time before our whole bodies warm up...",
-			"I gently played with \\str[120]’s little hand ",
-			"while thinking about what we should do next—"
+		    "Còn cần một chút thời gian nữa để cả hai chúng tôi ấm lên hoàn toàn...",
+			"Tôi nhẹ nhàng đùa nghịch với bàn tay nhỏ nhắn của \\str[120]",
+			"trong khi nghĩ xem tiếp theo nên làm gì—"
         ],
 		"53": [
-		    "It’ll take a bit more time before our whole bodies warm up...",
-			"I was freely touching \\str[120]’s breasts ",
-			"while thinking about what we should do next—"
+		    "Còn cần một chút thời gian nữa để cả hai chúng tôi ấm lên hoàn toàn...",
+			"Tôi đang thoải mái vuốt ve bầu ngực của \\str[120]",
+			"trong khi nghĩ xem tiếp theo nên làm gì—"
         ],
 		"54": [
-		    "Touch breasts",
-			"Take off towel",
-			"Whisper to \\str[120]",
-			"Squeeze ducky"
+		    "Sờ ngực",
+			"Cởi khăn",
+			"Thì thầm với \\str[120]",
+			"Bóp con vịt"
         ],
 		"55": [
 		    "\\nl< >\"Ha... haa...             \\[60]",
-			"I... I can’t... anymore...       \\[60]",
-			"\\str[121], take it off yourself...\""
+			"Em... em không... chịu nổi nữa...       \\[60]",
+			"\\str[121], tự cởi nó ra đi...\""
         ],
 		"56": [
-		    "\\str[120] leaned softly against my chest, ",
-			"her whole body weak and pliant, completely at my mercy.",
-			"Without hesitation, I loosened the towel wrapped around her."
+		    "\\str[120] mềm nhũn tựa vào ngực tôi, ",
+			"toàn thân em ấy yếu ớt và ngoan ngoãn, hoàn toàn phó mặc.",
+			"Không do dự, tôi nới lỏng chiếc khăn quấn quanh người em ấy."
         ],
 		"57": [
-		    "Maybe I shouldn’t mess with it any more..."
+		    "Có lẽ mình không nên đùa thêm nữa..."
         ],
 		"58": [
-		    "Hmm... this ducky’s kinda in the way... ",
-			"guess I’ll move it aside first."
+		    "Hmm... con vịt này hơi vướng... ",
+			"để mình gạt nó sang một bên trước đã."
         ],
 		"59": [
-		    "—Was it just my imagination?",
-			"Why does it feel like it’s staring right at me... so intensely?"
+		    "—Hay là mình tưởng tượng thôi?",
+			"Sao cảm giác nó đang nhìn chằm chằm mình... dữ dội thế nhỉ?"
         ],
 		"60": [
-		    "\\nl< > \"N-no! You can’t touch me anymore!",
-			"It’s all your fault, \\str[121]... ",
-			"now my whole body feels weird!\""
+		    "\\nl< > \"K-Không được! Anh không được sờ em nữa!",
+			"Tại anh hết đấy, \\str[121]... ",
+			"giờ cả người em cảm thấy kỳ lạ quá!\""
         ],
 		"61": [
-            "Uh... looks like I went a bit too far with the teasing—",
-			"her face turned bright red as she ran away..."
+            "Uh... hình như mình trêu quá đà rồi—",
+			"mặt em ấy đỏ bừng rồi chạy mất tiêu..."
         ],
 		"62": [
             "\\nl< >\"a…\\str[121]……      \\w[160]\\^"
@@ -756,61 +759,61 @@
             "\\^\\nl< >\"Ugh...!\"        \\w[40]\\^"
         ],
 		"64": [
-            "\\{Oh no!",
-			"We stayed in too long—",
-			"\\str[120]’s passed out from the heat…!!"
+            "\\{Ối!",
+			"Chúng tôi ở trong đó lâu quá—",
+			"\\str[120] gất xỉu vì nóng rồi…!!"
         ],
 		"65": [
-            "I hurriedly carried \\str[120] out of the bathroom—",
-            "her whole body was burning hot and flushed red,",
-			"I couldn’t tell if it was from the heat or… from excitement.",
+            "Tôi vội vàng bế \\str[120] ra khỏi phòng tắm—",
+            "cả người em ấy nóng bừng và đỏ ửng,",
+			"tôi không thể phân biệt nổi là do hơi nóng hay… do kích thích.",
 			"\\w[30]",
-			"Thankfully, after some careful tending, ",
-			"she slowly came back to her senses.",
-			"I really need to be more careful next time…!"
+			"May thay, sau một hồi chăm sóc cẩn thận, ",
+			"em ấy dần tỉnh lại.",
+			"Lần sau nhất định phải cẩn thận hơn…!"
         ],
 		"66": [
-            "Whew... my body’s getting all hot now.",
-			"Guess it’s about time to get out."
+            "Phù... người mình giờ nóng ran hết rồi.",
+			"Chắc cũng đến lúc ra ngoài thôi."
         ],	
 		"67": [
-            "\\nl< > \"W-wait, \\str[121]…    \\w[60]",
-			"It’s starting to feel weird…\""
+            "\\nl< > \"K-khoan, \\str[121]…    \\w[60]",
+			"em bắt đầu cảm thấy kỳ lạ rồi…\""
         ],	
 		"68": [
-            "\"It’s okay, I’ll be gentle.",
-			"Just relax your body, alright?\""
+            "\"Không sao đâu, anh sẽ nhẹ nhàng.",
+			"Em cứ thả lỏng người ra nhé, được chứ?\""
         ],	
 		"69": [
             "\\nl< > \"Hngh… ahh…   \\w[60]",
-			"Really…? It feels like… \\str[121]’s just…    \\w[120]\"",
-			"teasing me the whole time…\""
+			"Thật không…? Cảm giác như… \\str[121] cứ…    \\w[120]\"",
+			"trêu chọc em suốt thôi…\""
         ],	
 		"70": [
-            "\"Well, you’re not wrong~ ",
-			"I mean, you’re just way too cute right now~!\""
+            "\"À thì, em nói cũng không sai đâu~ ",
+			"Ý anh là, em bây giờ dễ thương quá mức luôn ấy~!\""
         ],	
 		"71": [
             "\\nl< > \"Mmm… ngh…    \\w[90]",
-			"I… I don’t even know what’s happening anymore…\""
+			"Em… em còn chẳng biết chuyện gì đang xảy ra nữa…\""
         ],	
 		"72": [
-            "Seeing \\str[120] in such a state of infatuation, ",
-			"the string of reason in my mind suddenly snapped.      \\w[60]",
-			"Aah… maybe I should just go all the way…!           \\w[30]\\^"
+            "Nhìn \\str[120] trong trạng thái say đắm như vậy, ",
+			"sợi dây lý trí trong đầu tôi đột nhiên đứt ngang.      \\w[60]",
+			"Aah… hay là cứ… đi đến cùng luôn…!           \\w[30]\\^"
         ],	
 		"73": [
-            "\\nl< > \"Um… this is a bit too much…\""
+            "\\nl< > \"Um… cái này hơi quá rồi…\""
         ],	
 		"74": [
-            "\\str[120] muttered softly, looking confused—",
-			"she still wasn’t used to this kind of stimulation.",
-			"But the faint tremors running through her from the unfamiliar pleasure ",
-			"only made my heart race faster, and my hands moved even more on their own."
+            "\\str[120] khẽ lẩm bẩm, vẻ mặt ngơ ngác—",
+			"em ấy vẫn chưa quen với loại kích thích này.",
+			"Nhưng những cơn run rẩy nhẹ nhàng lan khắp người em ấy vì khoái cảm lạ lẫm",
+			"chỉ khiến tim tôi đập nhanh hơn, và hai tay càng tự động di chuyển thêm."
         ],	
 		"75": [
             "\\nl< >\"Ahh… \\str[121]…   \\w[60]",
-			"are we… still going?\""
+			"chúng ta… vẫn tiếp tục sao?\""
         ],	
 		"76": [
             "\\nl< > \"Mmm… ngh…  \\w[30]\\{",
@@ -820,32 +823,32 @@
             "\\nl< > \"Haah… haa…\""
         ],	
 		"78": [
-            "\\str[120] tried to suppress her voice restlessly… could it be—",
-			"she’s actually starting to feel pleasure?",
-			"That thought alone made my pulse quicken,",
-			"and pushed my movements to grow bolder."
+            "\\str[120] cố gắng kìm nén giọng nói đầy bất an… hay là—",
+			"em ấy thực sự bắt đầu cảm nhận được khoái cảm?",
+			"Chỉ nghĩ đến điều đó thôi đã khiến mạch tôi đập nhanh hơn,",
+			"và thúc đẩy các động tác trở nên táo bạo hơn."
         ],	
 		"79": [
             "\\nl< > \"Mmm… ngh…\""
         ],	
 		"80": [
-            "\\nl< > \"Hehe… it kinda tickles…\""
+            "\\nl< > \"Hehe… hơi nhột nhột…\""
         ],	
 		"81": [
-            "Even though I couldn’t resist touching her soft breasts again,",
-			"she only trembled lightly and silently let me continue."
+            "Dù tôi không kìm được mà lại chạm vào bầu ngực mềm mại của em ấy,",
+			"em ấy chỉ khẽ run và im lặng để tôi tiếp tục."
         ],	
 		"82": [
-            "I continued my movements while cautiously asking \\str[120] how she felt."
+            "Tôi tiếp tục chuyển động trong khi cẩn thận hỏi \\str[120] cảm thấy thế nào."
         ],		
 		"83": [
-            "\\nl< >\"I-I don’t even understand what you’re saying anymore…\""
+            "\\nl< >\"E-Em còn chẳng hiểu anh đang nói gì nữa…\""
         ],		
 		"84": [
-            "\\nl< >\"I don’t really get what you mean by… feeling good…\""
+            "\\nl< >\"E-Em không thực sự hiểu... ý anh nói cảm thấy sướng là sao…\""
         ],		
 		"85": [
-            "\\str[120]’s flushed, embarrassed face was amusing to watch."
+            "Gương mặt đỏ bừng, ngượng ngùng của \\str[120] trông có hơi thú vị."
         ]	
     },
     "8": {
