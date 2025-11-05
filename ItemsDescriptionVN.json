@@ -707,7 +707,7 @@
         "description": [
             "Một loại thức ăn kỳ lạ có nguồn gốc không rõ ràng, được đồn là có hương vị",
             "ngon bất ngờ. Mùi hương của nó không chỉ thu hút động vật mà còn cả quái vật!",
-            "Hãy bảo quản cẩn thận—mùi thơm nhanh chóng phai nhạt nếu cất giữ sai cách."
+            "Hãy cẩn thận, mùi thơm sẽ nhanh chóng phai nhạt nếu bảo quản sai cách."
         ],
         "ability": [
             "Khi ném ra, nó tạo thành một làn hương thơm dụ lũ quái vật kéo đến"
@@ -1786,9 +1786,9 @@
         ],
         "subtitle": "",
         "description": [
-            "Một chất dạng thạch được hình thành hoàn toàn từ mana cô đặc. Có thể ăn được,",
-            "nhưng hương vị thay đổi nhiều tùy theo trình độ ma pháp của người dùng",
-            "Công dụng chính là làm nguyên liệu tiêu thụ cho phép thuật"
+            "Một chất dạng thạch được hình thành hoàn toàn từ mana cô đặc. Có thể",
+            "ăn được, nhưng hương vị thay đổi nhiều tùy theo trình độ ma pháp của",
+            "người dùng. Công dụng chính là làm nguyên liệu tiêu thụ cho phép thuật."
         ],
         "ability": ""
     },
