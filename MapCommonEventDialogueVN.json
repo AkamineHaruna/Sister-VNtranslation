@@ -11,9 +11,9 @@
 			"\\w[120]"
         ]		
     },		
-    "imoutoAhoge": {
+    "\\str[120]Ahoge": {
         "0": [
-            "Vô tình giật cọng ahoge của em gái."
+            "Vô tình giật cọng ahoge của \\str[120]."
 		],
 		"1": [
             "Em ấy dường như không để ý thấy điều gì bất thường ",
@@ -21,7 +21,7 @@
 			"...Chẳng lẽ đây là một loại tài nguyên có thể tái tạo?"
         ],
         "2": [
-            "\\nl< >\"...Có chuyện gì vậy, Onii-chan?",
+            "\\nl< >\"...Có chuyện gì vậy, \\str[121]",
 			"Nhìn anh trông căng thẳng thế.\""
         ],
         "3": [
@@ -33,7 +33,7 @@
         ],	
         "5": [
             "\\nl< >\"...Đầu em hơi ngứa.   \\w[30]",
-			"Anh có làm gì em không vậy, Onii-chan?\""
+			"Anh có làm gì em không vậy, \\str[121]?\""
         ],
         "6": [
             "\"A-Anh không làm gì cả... Anh thề với em!\""
@@ -71,7 +71,7 @@
             "\\nl< >\"Hamburger bít tết là món ăn ngon nhất.\"  \\w[180] \\^"
 		],	  
         "1": [
-            "\\nl< >\"Onii-chan chắc chắn sẽ mang về ",
+            "\\nl< >\"\\str[121] chắc chắn sẽ mang về ",
 			"một núi thịt cho Imouto của mình...\"   \\w[360] \\^"
 		],
         "2": [
@@ -79,12 +79,12 @@
 		],
         "3": [
             "\\nl< >\"Nhưng ớt chuông là kẻ thù.   \\w[120]",
-			"Onii-chan, anh phải ăn hết chúng...       \\w[120]",
+			"\\str[121], anh phải ăn hết chúng...       \\w[120]",
 			"Đi đánh bại kẻ thù màu xanh lá~!\"               \\w[120]\\^"
 		],	  
         "4": [
             "\\nl< >\"A, anh tỉnh lại rồi...     \\w[60]",
-			"Onii-chan, anh ngủ có ngon không?\""
+			"\\str[121], anh ngủ có ngon không?\""
 		],
         "5": [
             "\"Không hẳn... Nhân tiện, ",
@@ -93,7 +93,7 @@
 		],	
         "6": [
             "\\nl< >\"Eh hehe, đó là    \\w[60]",
-			"dịch vụ chăm sóc giấc ngủ đặc biệt cho anh đấy, Onii-chan!\""
+			"dịch vụ chăm sóc giấc ngủ đặc biệt cho anh đấy, \\str[121]!\""
 		],	
         "7": [
             "\\nl< >\"Em gái mình cực kì dễ thương...               \\w[120]",
@@ -104,13 +104,13 @@
             "Em gái tôi có vẻ đang nói cái gì đó..."
 		],	
         "9": [
-            "\\nl< >\"Ah, onii-chan! Chào buổi tối—!\""
+            "\\nl< >\"Ah, \\str[121]! Chào buổi tối—!\""
 		],
         "10": [
             "\\nl< >\"Um... Anh có nghe hết những gì em vừa nói không?\""
 		],
         "11": [
-            "\\nl< >\"Onii-chan, khuôn mặt của anh lúc ngủ ",
+            "\\nl< >\"\\str[121], khuôn mặt của anh lúc ngủ ",
 			"khi nãy trong rất buồn cười~\""
 		],
         "12": [
