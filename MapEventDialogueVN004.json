@@ -451,7 +451,7 @@
         "13": [
             "Em ấy cúi đầu xuống, khẽ nghịch ngón tay,",
             "từ góc này mình không thấy được biểu cảm của em ấy, ",
-			"nhưng lại có cảm giác như cô ấy muốn nói gì đó—"
+			"nhưng lại có cảm giác như em ấy muốn nói gì đó—"
         ],
         "14": [
             "Đã bao lâu rồi anh em mình chưa ",
@@ -505,7 +505,7 @@
             "khiến nó trượt nhanh xuống khỏi vai em ấy."
         ],
         "27": [
-            "\\nl< >\"Game vừa cập nhật, có thêm nội dung mới mình có thể chơi cùng nhau   \\w[90]",
+            "\\nl< >\"Game vừa mới cập nhật, có thêm nội dung mới mình có thể chơi cùng nhau   \\w[90]",
             "Nên ngày mai... em muốn chơi với anh, \\str[121]...\""
         ],
         "28": [
@@ -1023,7 +1023,7 @@
             "\"Ehhhhh!?\""
 		],	
         "42": [
-            "Em áy đưa lại tấm 'Phiếu Thưởng' cho tôi...",
+            "Em ấy đưa lại tấm 'Phiếu Thưởng' cho tôi...",
 			"Gì cơ!? Em ấy thật sự nghiêm túc á!?"
 		],	
         "43": [
@@ -1868,7 +1868,7 @@
             "\\nl< >\"Mmm… nghh…\""
         ],
         "18": [
-            "Hả? \\str[120] trông có vẻ hơi lạ,",
+            "Hmm? \\str[120] trông có vẻ hơi lạ,",
             "má em ấy đỏ bừng, dường như đang cố chịu đựng điều gì đó..."
         ],
         "19": [
@@ -1882,12 +1882,12 @@
             "\\nl< >\"Ah...!\\w[30]Không có gì hết!\""
         ],
         "22": [
-            "\\nl< >\"E-em...\\w[30] Em...\\w[30] em muốn đi toilet...!\"",
+            "\\nl< >\"E-Em...\\w[30] em...\\w[30] em muốn đi toilet...!\"",
             "\\w[120]\\^"
         ],
         "23": [
             "Em ấy nhanh chóng chạy ra khỏi phòng,",
-            "Hả? Chẳng lẽ em ấy chỉ thực sự muốn đi toilet thôi sao?"
+            "Hmm? Chẳng lẽ em ấy chỉ thực sự muốn đi toilet thôi sao?"
         ],
         "24": [
             "Mình phải làm gì đây... có nên đi xem thử tình hình của em ấy không?"
@@ -2125,7 +2125,7 @@
 			"mình có nên cho \\str[120] thử không nhỉ?"
 		],
         "11": [
-            "Cho em ấy thử",
+            "Cho em ấy thử ",
 			"Thôi bỏ đi"
 		],
         "12": [

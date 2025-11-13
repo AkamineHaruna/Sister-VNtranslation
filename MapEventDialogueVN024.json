@@ -80,7 +80,7 @@
   	},
 	"3": {
 		"0": [
-			"\"Anh về rồi.\""
+			"\"Anh về rồi đây.\""
 		],
 		"1": [
 			"\\nl< >\"\\str[121]? Hôm nay anh về sớm vậy.\""
@@ -558,7 +558,7 @@
 			"thật tiếc nếu lỡ đánh thức em ấy khi đang ngủ trưa."
 		],
 		"20": [
-			"\\{\"Anh về rồiー!\""
+			"\\{\"Anh về rồi đâyー!\""
 		],
 		"21": [
 			"Mình cất tiếng gọi và",
@@ -611,7 +611,7 @@
 		],
 		"33": [
 			"\"E hèm, e hèm...         \\w[60]\\{",
-			"Anh về rồiー!\""
+			"Anh về rồi đâyー!\""
 		],
 		"34": [
 			"Tôi giả vờ như chẳng thấy gì ",

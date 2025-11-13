@@ -3,7 +3,7 @@
         "0": [
             "Mặc dù chúng tôi đã đồng ý tắm cùng nhau, ",
 			"nhưng cả hai vẫn còn hơi ngại ngùng,",
-			"vì vậy dù sắp được nhìn thấy nhau khỏa thân, ",
+			"dù là sắp được nhìn thấy nhau khỏa thân, ",
 			"chúng tôi đều quấn khăn tắm và bước vào phòng tắm."
 		],
 		"1": [
@@ -263,9 +263,9 @@
             "Hành động đột ngột và táo bạo của em ấy khiến tôi sững người.",
             "Không kịp phản ứng, nhưng sự ấm áp,",
             "mềm mại như trong mơ quanh cánh tay khiến tôi",
+            "chẳng còn chút sức lực nào để rút ra. Cuối cùng,",
             "tôi đành từ bỏ việc chống cự và để",
-            "chẳng còn chút sức để rút ra. Cuối cùng,",
-            "em ấy tiếp tục ‘dịch vụ tắm rửa đặc biệt.’ kì lạ của mình."
+            "em ấy tiếp tục ‘dịch vụ tắm rửa đặc biệt’ kì lạ của mình."
 		],
         "4": [
             "\\nl< >\"Nó như thế nào... \\str[121]...♥",
@@ -314,7 +314,7 @@
 		],
         "14": [
             "\\nl< >\"Cánh tay anh giờ đã sạch sẽ rồi... tiếp theo là phía trước nhé~",
-			"\\str[121], Anh quay người lại cho em nào.—\""
+			"\\str[121], Anh quay người lại cho em nào—\""
 		],
         "15": [
             "\"Cái gì–khoan—eh!? Em đang làm gì thế—\"",
@@ -474,7 +474,7 @@
 		],
         "47": [
 			"\"Ổn rồi, đã được 'làm sạch' rất kỹ, cảm giác tuyệt vời lắm~",
-			"Anh giỏi quá~\""
+			"Em giỏi quá~\""
 		],
         "48": [
 			"\\nl< >\"Ehehe♥",
@@ -946,8 +946,8 @@
         ],	
         "26": [
             "\\nl< >\"Được rồi, em bắt đầu nhé—!  \\w[90]",
-			"Hây-yo—Hây-yo—!           \\w[120]",
-			"Hây-yo—Hây-yo—!           \\w[120]\""
+			"-âyy—âyy—!           \\w[120]",
+			"-âyy—âyy—!           \\w[120]\""
         ],	
         "27": [
             "\\str[120] hăng hái kỳ lưng cho tôi bằng chiếc khăn tắm.",
@@ -964,7 +964,7 @@
         ],
         "30": [
             "\\nl< >\"Phía trước… cũng phải rửa nữa à?       \\w[60]",
-			"Geez, \\str[121]…          \\w[60]",
+			"\\str[121] thật là…         \\w[60]",
 			"anh đâu còn là con nít nữa đâu, ",
 			"chẳng lẽ vẫn cần người khác rửa giúp à…?\"",
 			"\\w[120]"
@@ -977,11 +977,11 @@
         ],
         "32": [
 		    "\\nl< >\"Phía trước… cũng phải rửa nữa sao?       \\w[60]",
-            "Geez, \\str[121]…         \\w[60]",
+            "\\str[121] thật là…         \\w[60]",
 			"Anh đâu còn là con nít nữa, vậy mà vẫn còn nhõng nhẽo như thế…\""
         ],		
         "33": [
-		    "\\nl< >\"Vậy… vì \\str[121] không còn là trẻ con nữa,               \\w[120]",
+		    "\\nl< >\"Vậy nên… do \\str[121] không còn là trẻ con nữa,               \\w[120]",
             "từ giờ em sẽ phải rửa cho anh như người lớn đấy nhé… được chứ?\"       \\w[120]"
         ],
         "34": [
