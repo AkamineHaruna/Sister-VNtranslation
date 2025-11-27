@@ -47,7 +47,8 @@
         ],
         "subtitle": "",
         "description": [
-            ""
+            "Chỉ là một đồng xu trị giá 10 Yên",
+            "Nên chả mua được gì với nó cả."
         ],
         "ability": ""
     },
@@ -57,7 +58,8 @@
         ],
         "subtitle": "",
         "description": [
-            ""
+            "Chỉ là một đồng xu trị giá 50 Yên",
+            "Vẫn chưa thể mua được gì với nó...nhưng để mất thì cũng khá sót"
         ],
         "ability": ""
     },
@@ -67,7 +69,9 @@
         ],
         "subtitle": "",
         "description": [
-            ""
+            "Chỉ là một đồng xu trị giá 100 Yên",
+            "Với một chút may mắn, nó có thể đủ để mua ",
+            "cho \\str[120] sữa dâu mà em ấy thích"
         ],
         "ability": ""
     },
@@ -77,7 +81,9 @@
         ],
         "subtitle": "",
         "description": [
-            ""
+            "Chỉ là một đồng xu trị giá 500 Yên",
+            "Nếu bỏ nó vào máy gacha...có lẽ-có lẽ...",
+            "nó sẽ roll trúng vật phẩm huyền thoại...!"
         ],
         "ability": ""
     },
@@ -87,7 +93,9 @@
         ],
         "subtitle": "",
         "description": [
-            ""
+            "Chỉ là tờ tiền trị giá 1000 Yên",
+            "Không ai biết tại sao quái vật lại đi thu thập ",
+            "tiền giấy của loài người..."
         ],
         "ability": ""
     },
@@ -97,7 +105,9 @@
         ],
         "subtitle": "",
         "description": [
-            ""
+            "Chỉ là tờ tiền trị giá 5000 Yên",
+            "Ai nhìn thấy cũng không khỏi giao động,",
+            "đây là sức mạnh của đồng tiền sao...?"
         ],
         "ability": ""
     },
@@ -107,7 +117,8 @@
         ],
         "subtitle": "",
         "description": [
-            ""
+            "Chỉ là tờ tiền 10000 Yên",
+            "Đén cả máy gacha cũng phải mỉm cười trước giá trị này—"
         ],
         "ability": ""
     },	
@@ -117,7 +128,10 @@
         ],
         "subtitle": "",
         "description": [
-            ""
+            "Một xấp dày những tờ tiền 5000 Yên",
+            "Khi các cô hầu gái Thỏ mở rộng buôn bán nhanh chóng",
+            "lũ quái vật cũng bắt đầu giật ví của các mạo hiểm giả",
+            "chỉ để trải nghiệm cái thứ gọi là 'mua sắm' này"
         ],
         "ability": ""
     },	
@@ -127,7 +141,9 @@
         ],
         "subtitle": "",
         "description": [
-            ""
+            "Một xấp đầy những tờ tiền 10000 Yên",
+            "Mùi hương của sự giáu có này thậm chí có thể khiến",
+            "những con quỷ tham lam phải mỉm cười đầy quyến rũ—"
         ],
         "ability": ""
     },

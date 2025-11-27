@@ -368,6 +368,23 @@
             "Giảm sát thương Mất Máu nhận vào \\c[10]30%\\c[0]"
         ]
     },
+    "28": {
+        "name": [
+            "Bàn Tay Quỷ"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "Một cánh tay khổng lồ tràn đầy sức mạnh thô bạo của tộc Quỷ",
+			"Nó tượng trưng cho uy lực dữ dội đến mức có thể dễ dàng nghiền nát cả đá tảng",
+			"Đối với con người, đây là một sức mạnh quá khó để kiểm soát"
+        ],
+        "ability": [
+            "Sức tấn công vật lý +100%. Tốc độ tấn công giảm",
+            "Vũ khí dễ bị hỏng khi tấn công"
+        ]
+    },
     "29": {
         "name": [
             "Jacky Láu Cá"
@@ -659,6 +676,23 @@
         "ability": [
             "Liên kết với servant—mọi sát thương chúng chịu sẽ chuyển sang bạn.",
             "Mỗi servent liên kết sẽ ban cho bạn hiệu ứng hồi phục"
+        ]
+    },
+    "49": {
+        "name": [
+            "Xích Giác"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "Một chiếc sừng đỏ thẫm chứa đầy ma lực của Jackalope",
+			"Nếu có thể cung cấp ma lực vô hạn, nó có thể liên tục tăng tốc ",
+			"cho đến khi trở thành một ngôi sao chổi lao vụt qua bầu trời!"
+        ],
+        "ability": [
+            "Khi nạp đầy, Senpo không có thời gian hồi và di chuyển nhanh hơn",
+			"Khi năng lượng cạn, nó sẽ tự động nạp lại"
         ]
     },
     "50": {

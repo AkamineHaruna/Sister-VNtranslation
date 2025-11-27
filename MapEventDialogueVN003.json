@@ -39,7 +39,8 @@
         "9": [
             "Nhảy múa!",
 			"Thiền",
-			"Tiếp tục quan sát"
+			"Tiếp tục quan sát",
+            "Fantasize"
 		],
         "10": [
             "Hmm... Tôi cần cẩn thận hơn,",
@@ -125,6 +126,38 @@
             "Hú—cảm giác tim đập thình thịch này...",
 			"có một sự thoả mãn lạ thường.",
 			"Thật sự phấn khích, nhỉ?"
+		],
+        "29": [
+            "Nngh… It’s coming…!   \\w[30]",
+			"Let’s try imagining it—— "
+		],
+        "30": [
+            "I closed my eyes and focused my attention.",
+			"My gradually sharpening senses immediately picked up the hot,",
+			"shampoo-scented steam drifting out from the bathroom."
+		],
+        "31": [
+            "\\{I can do this!      \\w[30]\\}",
+			"With this, I should be able to picture ",
+			"\\str[120]’s perfect figure!"	
+		],
+        "32": [
+            "\\{Haaah……….!     \\w[30]\\^"		
+		],
+        "33": [
+            "\\{I see her!!"		
+		],
+        "34": [
+            "Ah— she vanished."		
+		],
+        "35": [
+		    "Am I lacking material for my fantasies...?",
+            "Her tempting figure, so clear just moments ago, ",
+			"disappeared without a trace."	
+		],
+        "36": [
+            "No good, something’s missing…",
+            "I can’t imagine anything at all!"			
 		]
     },  
     "11": {

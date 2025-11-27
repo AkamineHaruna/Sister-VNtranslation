@@ -645,6 +645,23 @@
 			"Hút máu nếu mục tiêu đã chết khi đang Chảy Máu"
         ]
     },
+    "82": {
+        "name": [
+            "Hercules's Broken Horn"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "A sword forged from the sturdy horn of a rhinoceros beetle",
+            "Though once broken in fierce battle, its hardness remains genuine",
+			"Because of that, it became extremely durable when reforged"
+        ],
+        "ability": [
+            "The lower the damage, the less durability is consumed",
+			"No durability is consumed if damage is ${QJ.MPMZ.tl.herculesBrokenHornEffectProcess()} or below"
+        ]
+    },
     "101": {
         "name": [
             "Cung Gỗ"
