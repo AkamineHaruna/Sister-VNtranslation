@@ -647,19 +647,19 @@
     },
     "82": {
         "name": [
-            "Hercules's Broken Horn"
+            "Sừng Gãy Của Hercules"
         ],
         "subtitle": [
             ""
         ],
         "description": [
-            "A sword forged from the sturdy horn of a rhinoceros beetle",
-            "Though once broken in fierce battle, its hardness remains genuine",
-			"Because of that, it became extremely durable when reforged"
+            "Một thanh kiếm rèn từ chiếc sừng cứng cáp của bọ cánh cứng tê giác",
+            "Dù từng bị gãy trong những trận chiến khốc liệt, độ cứng của nó vẫn còn nguyên vẹn.",
+			"Chính vì vậy, khi rèn lại, nó trở nên cực kỳ bền bỉ."
         ],
         "ability": [
-            "The lower the damage, the less durability is consumed",
-			"No durability is consumed if damage is ${QJ.MPMZ.tl.herculesBrokenHornEffectProcess()} or below"
+            "Lượng độ bền tiêu hao sẽ giảm khi sát thương thấp.",
+			"Nếu sát thương bằng hoặc thấp hơn ${QJ.MPMZ.tl.herculesBrokenHornEffectProcess()} sẽ không tiêu hao độ bền"
         ]
     },
     "101": {

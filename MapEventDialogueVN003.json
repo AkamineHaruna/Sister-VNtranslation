@@ -40,7 +40,7 @@
             "Nhảy múa!",
 			"Thiền",
 			"Tiếp tục quan sát",
-            "Fantasize"
+            "Tưởng tượng"
 		],
         "10": [
             "Hmm... Tôi cần cẩn thận hơn,",
@@ -128,36 +128,36 @@
 			"Thật sự phấn khích, nhỉ?"
 		],
         "29": [
-            "Nngh… It’s coming…!   \\w[30]",
-			"Let’s try imagining it—— "
+            "Nngh… nó sắp đến rồi…!   \\w[30]",
+			"Hãy thử tưởng tượng xem nào—— "
 		],
         "30": [
-            "I closed my eyes and focused my attention.",
-			"My gradually sharpening senses immediately picked up the hot,",
-			"shampoo-scented steam drifting out from the bathroom."
+            "Tôi nhắm mắt lại và tập trung tinh thần.",
+			"Ngay lập tức, các giác quan dần trở nên nhạy bén và tôi cảm nhận được,",
+			"làn hơi nóng phảng phất mùi dầu gội đang tỏa ra từ phòng tắm."
 		],
         "31": [
-            "\\{I can do this!      \\w[30]\\}",
-			"With this, I should be able to picture ",
-			"\\str[120]’s perfect figure!"	
+            "\\{Mình có thể làm được!      \\w[30]\\}",
+			"Với cái này, mình hẳn là có thể tưởng tượng ra",
+			"vóc dáng hoàn hảo của \\str[120] rồi!"	
 		],
         "32": [
             "\\{Haaah……….!     \\w[30]\\^"		
 		],
         "33": [
-            "\\{I see her!!"		
+            "\\{Mình thấy em ấy rồi!!"		
 		],
         "34": [
-            "Ah— she vanished."		
+            "Ah— em ấy biến mất rồi."		
 		],
         "35": [
-		    "Am I lacking material for my fantasies...?",
-            "Her tempting figure, so clear just moments ago, ",
-			"disappeared without a trace."	
+		    "Mình có đang thiếu “tư liệu” cho trí tưởng tượng của mình sao...?",
+            "Vóc dáng đầy mê hoặc của em ấy, rõ ràng còn trong tâm trí chút trước, ",
+			"bỗng chốc biến mất không một dấu vết."	
 		],
         "36": [
-            "No good, something’s missing…",
-            "I can’t imagine anything at all!"			
+            "Không ổn rồi, đang thiếu gì đó…",
+            "Mình chẳng thể tưởng tượng ra gì cả!"			
 		]
     },  
     "11": {
