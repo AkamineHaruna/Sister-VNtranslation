@@ -856,22 +856,22 @@
 			"\\str[121], trên đầu anh có chữ 'ZAKO' kìa~!\""
         ],
         "21": [
-            "\\nl< >\"Mmm… So sleepy…   \\w[60]",
-			"I must’ve dozed off from sitting too long…\""
+            "\\nl< >\"Mmm… Buồn ngủ quá…   \\w[60]",
+			"Chắc em đã ngủ gật vì ngồi quá lâu rồi…\""
         ],
         "22": [
-            "\\nl< >\"But my cheek feels a little sore…",
-			"Did you do something to me?\""
+            "\\nl< >\"Nhưng má em hơi đau…",
+			"Anh có làm gì em không thế?\""
         ],
         "23": [
-            "She looks like she’s nodding off…",
-			"What should I do…? Seeing her so defenseless like this,",
-			"I really want to reach out and pinch her cheek…"
+            "Em ấy trông như đang thiếp đi…",
+			"Mình nên làm gì đây…? Thấy em ấy yếu đuối thế này,",
+			"mình thật sự muốn đưa tay lên véo má em ấy…"
         ],
         "24": [
             "Huh?",
-			"She still hasn’t woken up even after that…?",
-			"Can I… do it again…?"
+			"Sau quả đấy mà em ấy vẫn chưa tỉnh luôn à…?",
+			"Mình có nên… làm lại lần nữa không nhỉ…?"
         ]
     },	
     "18": {
@@ -1050,8 +1050,8 @@
 			"thì em hoàn toàn có thể làm cho anh mà chẳng cần 'Phiếu Thưởng' đâu~\""
 		],
         "44": [
-            "\\nl< >\"Do you have any shows you want to watch, \\str[121]?",
-			"Then let’s go to the living room together~!\""
+            "\\nl< >\"Anh có chương trình nào muốn xem không, \\str[121]?",
+			"Vậy thì chúng ta cùng nhau ra phòng khách nhé~!\""
 		]
     },			
     "19": {

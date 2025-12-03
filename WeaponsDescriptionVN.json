@@ -368,16 +368,16 @@
     },
     "29": {
         "name": [
-            "Pest Bane Staff"
+            "Trượng Diệt Sâu Bọ"
         ],
         "subtitle": "",
         "description": [
-            "A special staff modified by an alchemist long tormented",
-            "by pests. It can instantly generate a toxic gas to kill",
-            "small creatures, and is said to also deodorize and disinfect"
+            "Một cây trượng đặc biệt được chế tác lại bởi một nhà giả kim từng chịu khổ sở",
+            "vì sâu bọ. Nó có thể ngay lập tức tạo ra một loại khí độc để tiêu diệt",
+            "các sinh vật nhỏ, đồng thời còn có tác dụng khử mùi và khử trùng"
         ],
         "ability": [
-            "Hold left mouse button to cast Extermination Magic"
+            "Nhấn giữ nút chuột trái để thi triển Ma Thuật Hủy Diệt"
         ]
     },
     "30": {

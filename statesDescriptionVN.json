@@ -378,7 +378,7 @@
 	"43": {
     	"name": [],
     	"subtitle": [
-	  		"Frightened \\str[120]"
+	  		"\\str[120] sợ hãi"
 		],
    		"description": [
     		""	
@@ -386,14 +386,14 @@
 		"variants": {
 			"0": {
            		"description": [
-            		"\\str[120] clung tightly to me,",
-					"her body trembling slightly…"
+            		"\\str[120] bám chặt lấy tôi,",
+					"cơ thể em ấy run rẩy nhẹ…"
         		]
 			},
 			"1": {
            		"description": [
-            		"Our bodies were completely entwined, ",
-					"exchanging warmth with each other…"
+            		"Cơ thể chúng tôi hoàn toàn quấn lấy nhau, ",
+					"Trao đổi hơi ấm cho nhau…"
            		]
 			}	
 		}	

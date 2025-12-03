@@ -683,10 +683,10 @@
             "Xích Giác"
         ],
         "subtitle": [
-            "\"Don't you ever stop！\""
+            "\"Đừng bao giờ dừng lại！\""
         ],
         "description": [
-            "Một chiếc sừng đỏ thẫm chứa đầy ma lực của Jackalope",
+            "Một chiếc sừng đỏ thẫm chứa đầy ma lực của Thỏ Rừng",
 			"Nếu có thể cung cấp ma lực vô hạn, nó có thể liên tục tăng tốc ",
 			"cho đến khi trở thành một ngôi sao chổi lao vụt qua bầu trời!"
         ],
@@ -710,17 +710,17 @@
     },
     "52": {
         "name": [
-            "Shadowcrawler Gift"
+            "Quà tặng của Shadowcrawler"
         ],
         "subtitle": "",
         "description": [
-            "Said to be a symbol from the depths where shadows creep",
-            "holding it makes you feel as if something is ",
-			"quietly writhing behind you—"
+            "Tương truyền đây là biểu tượng đến từ vực thẳm nơi bóng tối",
+            "đang lan rộng. Chỉ cần cầm nó, bạn sẽ có cảm giác như có thứ gì đó ",
+			"đang âm thầm quẫy động sau lưng mình—"
         ],
         "ability": [
-            "Movement speed increases",
-			"Gain the attention of ▓▓▓▓▓▓▓"
+            "Tăng tốc độ di chuyển",
+			"Thu hút sự chú ý của ▓▓▓▓▓▓▓"
         ]
     },
     "53": {

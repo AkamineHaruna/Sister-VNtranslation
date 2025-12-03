@@ -35,24 +35,24 @@
             "\"Hả? Tiếng gì vậy?\""
 		],
         "10": [
-            "Là một con Tiểu Cường"
+            "Là một con Gián"
 		],
         "11": [
-            "Một con Tiểu Cường nào đó từ đâu không rõ lao vụt qua chân tôi."
+            "Một con Gián nào đó từ đâu không rõ lao vụt qua chân tôi."
 		],
         "12": [
             "Đồ khốn, dám xuất hiện trước mặt tao!    \\{",
 			"Xem này!"
 		],
         "13": [
-            "Trúng đích. Con Tiểu Cường chết ngay tại chỗ..."
+            "Trúng đích. Con gián chết ngay tại chỗ..."
 		],
         "14": [
             "\"Hmph, không hổ danh mình...\""
 		],
         "15": [
             "Trượt! ",
-			"Bị giật mình, con Tiểu Cường biến mất không dấu vết."
+			"Bị giật mình, con gián biến mất không dấu vết."
 		],
         "16": [
             "\"Chết tiệt, nó nhanh quá!\""
@@ -88,7 +88,7 @@
             "Ngay lúc đó, một âm thanh quen thuộc vang lên."
 		],
 		"1": [
-            "\\{Chờ đã...\\w[45] âm thanh đó, là Tiểu Cường!"
+            "\\{Chờ đã...\\w[45] âm thanh đó, là gián!"
         ],
 		"2": [
             "\\nl< >\\{\"…………Gì cơ?\""
@@ -97,8 +97,8 @@
             "\\nl< >\\{\"Aaaaahhhh—!!\""
         ],
 		"4": [
-            "\\str[120] cũng nhận ra Tiểu Cường rồi!",
-            "Tệ rồi! Nếu Tiểu Cường tấn công trong tình huống này,",
+            "\\str[120] cũng nhận ra gián rồi!",
+            "Tệ rồi! Nếu con gián tấn công trong tình huống này,",
             "em ấy có thể sẽ ngất vì quá sốc!!"
         ],
 		"5": [
@@ -112,7 +112,7 @@
             "\\{\"Ngươi là kẻ khiến \\str[120] của ta khóc sao!?\""
         ],
 		"8": [
-            "Trúng đích. Tiểu Cường chết ngay tại chỗ."
+            "Trúng đích. Con gián chết ngay tại chỗ."
         ],
 		"9": [
             "\\nl< >\"Uuuh... \\str[121]...\""

@@ -103,10 +103,10 @@
 		    "Shione"
 		],	  
 		"subtitle": [
-		    "Demonic Sister of The Fallen Church"
+		    "Nữ Tu Ác Quỷ của Nhà Thờ Sa Ngã"
 		],
 		"bossName": [
-		    "The Pride Demon"
+		    "Ác Quỷ Kiêu Hãnh"
 		],
 		"garble": true
     },
@@ -123,23 +123,23 @@
     },
 	"15": {
 		"objectName": [
-		    "\\c[115]Jackalope"
+		    "\\c[115]Thỏ Rừng"
 		],	  
 		"sentouryoku": [
 		    "555"
 		],	  
         "description": [
-            "A high-rank monster evolved from the ",
-			"Horned Rabbit. For monster, horns serve both ",
-			"as weapons and as cores for storing mana.",
-			"Unlike the Horned Rabbit, it’s highly aggressive",
-			"When excited, its body turns red as mana surges, ",
-			"and it launches rapid, repeated charges."
+            "Một loài quái vật cấp cao được tiến hóa từ Thỏ Gai.",
+			"Cặp sừng vừa là vũ khí, vừa là lõi dùng để tích trữ ma lực.",
+			"Khác với Thỏ Gai thông thường, nó cực kỳ hung hãn,",
+			"khi bị kích động, toàn thân nó chuyển sang màu đỏ.",
+			"Vì ma lực dâng trào, nó lao vào với những cú húc ",
+			"liên tiếp với tốc độ kinh hoàng."
 		]	
     },
 	"16": {
 		"objectName": [
-		    "The Unnameable C"
+		    "Thứ Không Thể Gọi Tên – G"
 		],	  
 		"sentouryoku": [
 		    "9"

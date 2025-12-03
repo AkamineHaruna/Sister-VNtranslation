@@ -1221,16 +1221,16 @@
     },
     "187": {
         "name": [
-            "Old Videotape"
+            "Cuộn Băng Video Cũ"
         ],
         "subtitle": [
             ""
         ],
         "description": [
-            "A special medium that stores footage from a bygone era, playable",
-			"only with specific equipment. Some propose it was an alchemical",
-			"product of an ancient civilization, though no proof exists",
-			"Its scarcity also makes collectors highly eager to obtain it"
+            "Một dạng lưu trữ đặc biệt chứa hình ảnh của một thời đại xa xưa, chỉ có thể",
+			"phát bằng những thiết bị chuyên dụng. Có giả thuyết cho rằng đây là sản phẩm",
+			"giả kim của một nền văn minh cổ xưa, dù chưa có bằng chứng xác thực.",
+			"Độ hiếm của nó khiến giới sưu tầm khao khát săn tìm"
         ],
         "ability": [
             ""
@@ -1238,16 +1238,17 @@
     },
     "188": {
         "name": [
-            "Horror Videotape"
+            "Cuộn Băng Video Kinh Dị"
         ],
         "subtitle": [
             ""
         ],
         "description": [
-            "A special medium that stores footage from a bygone era, playable",
-			"only with specific equipment. Some propose it was an alchemical",
-			"product of an ancient civilization, though no proof exists",
-			"It also seems cursed—the footage is always unnervingly chilling"
+            "Một dạng lưu trữ đặc biệt chứa hình ảnh của một thời đại xa xưa, chỉ có thể",
+			"phát bằng những thiết bị chuyên dụng. Có giả thuyết cho rằng đây là sản phẩm",
+			"giả kim của một nền văn minh cổ xưa, dù chưa có bằng chứng xác thực.",
+			"Nó dường như còn bị nguyền rủa — cảnh quay bên trong lúc nào cũng",
+            "mang vẻ rợn người đến bất thường."
         ],
         "ability": [
             ""
@@ -1255,16 +1256,17 @@
     },
     "189": {
         "name": [
-            "Adult Videotape"
+            "Cuộn Băng Video Người Lớn"
         ],
         "subtitle": [
             ""
         ],
         "description": [
-            "A special medium that stores footage from a bygone era, playable",
-			"only with specific equipment. Some propose it was an alchemical",
-			"product of an ancient civilization, though no proof exists",
-			"It seems to be restricted content, filled with arousing scenes"
+            "Một dạng lưu trữ đặc biệt chứa hình ảnh của một thời đại xa xưa, chỉ có thể",
+			"phát bằng những thiết bị chuyên dụng. Có giả thuyết cho rằng đây là sản phẩm",
+			"giả kim của một nền văn minh cổ xưa, dù chưa có bằng chứng xác thực.",
+			"Có vẻ là loại nội dung bị hạn chế, chứa đầy những cảnh quay",
+            "mang tính kích thích và gợi dục."
         ],
         "ability": [
             ""
