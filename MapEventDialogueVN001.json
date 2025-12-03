@@ -97,7 +97,19 @@
 			"bỏ chạy khi cảm nhận có người đến gần.",
 			"Liệu có cách nào để bắt được chúng không...?"
 		]	
-    },	
+    },
+	"13": {
+		"objectName": [
+		    "Shione"
+		],	  
+		"subtitle": [
+		    "Demonic Sister of The Fallen Church"
+		],
+		"bossName": [
+		    "The Pride Demon"
+		],
+		"garble": true
+    },
   	"14": {
 		"objectName": [
 		    "\\c[116]Bong Bóng Bí Ẩn"
@@ -109,9 +121,25 @@
             "Có vẻ như có thứ gì đó dưới mặt nước..."
 		]	
     },
+	"15": {
+		"objectName": [
+		    "\\c[115]Jackalope"
+		],	  
+		"sentouryoku": [
+		    "555"
+		],	  
+        "description": [
+            "A high-rank monster evolved from the ",
+			"Horned Rabbit. For monster, horns serve both ",
+			"as weapons and as cores for storing mana.",
+			"Unlike the Horned Rabbit, it’s highly aggressive",
+			"When excited, its body turns red as mana surges, ",
+			"and it launches rapid, repeated charges."
+		]	
+    },
 	"16": {
 		"objectName": [
-		    "C"
+		    "The Unnameable C"
 		],	  
 		"sentouryoku": [
 		    "9"

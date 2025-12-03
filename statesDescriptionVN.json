@@ -375,6 +375,29 @@
 			"\\str[120] cảm thấy rất vui!"
 		]
 	},
+	"43": {
+    	"name": [],
+    	"subtitle": [
+	  		"Frightened \\str[120]"
+		],
+   		"description": [
+    		""	
+    	],
+		"variants": {
+			"0": {
+           		"description": [
+            		"\\str[120] clung tightly to me,",
+					"her body trembling slightly…"
+        		]
+			},
+			"1": {
+           		"description": [
+            		"Our bodies were completely entwined, ",
+					"exchanging warmth with each other…"
+           		]
+			}	
+		}	
+  	},
 	"45": {
 		"name": [],
 		"subtitle": [

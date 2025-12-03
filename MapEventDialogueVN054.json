@@ -906,6 +906,573 @@
 		],
         "5": [
             "À... hết rồi à!?"
-		]		
+		],
+		"6": [
+            "Oh, the weather forecast is on right now...",
+			"Let's see what the weather will be like tomorrow—"
+		],
+        "7": [
+            "But at least I can understand the images,",
+			"better not overthink it."
+		],
+        "8": [
+            "Looks like tomorrow will be sunny.",
+			"I just hope it won't be too hot at noon..."
+		],
+        "9": [
+            "Looks like tomorrow will be cloudy.",
+			"It's great that it's cooling down—"
+		],
+        "10": [
+            "Looks like tomorrow will be rainy.",
+			"Perfect, I'll go to the river and ",
+			"see if I can catch some fish."
+		],
+        "11": [
+            "Looks like tomorrow will be an especially hot sunny day...",
+			"Is that temperature really okay!?"
+		],
+        "12": [
+            "Oh, a cooking show is on right now...",
+			"I wonder what new recipes I can learn—"
+		],
+        "13": [
+            "What is this...?",
+			"I feel like I didn't learn anything..."
+		],
+        "14": [
+            "Oh, the news is on right now...",
+			"Has anything major happened recently?"
+		],
+        "15": [
+            "It feels like something incredible has happened ",
+			"in the Abyss—"
+		],
+        "16": [
+            "After drinking a bottle of Elixir Rubrum, ",
+			"\\str[120] isn't as prone to drowsiness as usual,",
+			"so it's a rare opportunity to watch ",
+			"late-night programs together with her.",
+			"I wonder what interesting content will be on at this time~?"
+		],
+        "17": [
+            "Although I didn't get to see the program ",
+			"I wanted to watch before, just in case,",
+			"I came to the living room with \\str[120] again ",
+			"during the late-night time slot."
+		],
+        "18": [
+            "Maybe it just happened to be no programs ",
+			"on that one day..."
+		],
+        "19": [
+            "But after turning on the TV,",
+			"there was still only the silent static screen with no signal."
+		],
+        "20": [
+            "As expected, it doesn't work.",
+			"Is there any way to watch interesting programs even late at night?",
+			"Maybe I should ask around."
+		],
+        "21": [
+            "After sitting down with \\str[120], ",
+			"I turned on the TV with the remote.    \\w[60]",
+			"But the result was only a static screen with no signal..."
+		],
+        "22": [
+            "There don't seem to be any programs on at this time, ",
+			"which is somewhat disappointing...",
+			"Is there any way to watch interesting programs even late at night?",
+			"Maybe I should ask around."
+		],
+        "24": [
+            "Ah—come to think of it, didn't I get a videotape before!?",
+			"This is the perfect time to take it out and watch it!"
+		],
+        "25": [
+            "Hmm... although it's a bit late to say this now,",
+			"this videotape looks a bit ominous?   \\w[30]",
+			"It has an eerie atmosphere...!"
+		],
+        "26": [
+            "Whatever, I'm free anyway,     \\{",
+			"let's put it on!"
+		],
+        "27": [
+            "Huh~?        \\w[50]",
+			"The atmosphere feels pretty realistic...",
+			"Is it some kind of documentary?"
+		],
+        "28": [
+            "...Eh?",
+			"This is... actually a horror movie?"
+		],
+        "29": [
+            "\\nl< >\"Ee——————————\"",
+			"\\w[30]\\^"
+		],
+        "30": [
+            "\\nl< >\"Eeeeaaaaahhhhh",
+			"aaaaahhh—————————\""
+		],
+        "31": [
+            "Just as I was regretting buying the wrong videotape,",
+			"\\str[120] had been pressed close to me, suddenly let out a scream,",
+			"and in the next instant, my vision was swallowed by darkness."
+		],
+        "32": [
+            "\\{\"Eh—what's wrong—!?",
+			"What happened—!?\""
+		],
+        "33": [
+			"At the same time, a suffocating pressure also swept over me,",
+			"I flailed my arms in panic, struggling,",
+			"only then did I suddenly realize—",
+			"something incredibly soft was clinging tightly to my body."
+		],
+        "34": [
+            "Just as I was regretting buying the wrong videotape,",
+			"\\str[120] sitting not far away jumped up in ",
+			"fright and quickly ran away—"
+		],
+        "35": [
+            "This is not good...",
+			"I hope this won't leave any psychological trauma for \\str[120]..."
+		],
+        "36": [
+			"In the end, ",
+			"it took quite a bit of time to finally calm \\str[120] down.",
+			"I just hope this accident won't leave ",
+			"any lasting shadow in her heart..."
+		]
+    },
+	"11": {
+        "0": [
+            "\\str[120] startled by the horror scene, jumped up and clung tightly to me...",
+			"No, more precisely—she locked her arms around my neck in a chokehold!"
+		],
+        "1": [
+            "Th-this girl! Where did she get such monstrous strength!?   \\w[30]",
+			"I can't... break free at all!!    \\w[30]",
+			"This is bad...! I... I can't... breathe...!?"
+		],
+        "2": [
+            "\"\\str[120]... d-don't be scared... \\w[30]",
+			"Wait, first... let go... I... can't breathe...\""
+		],
+        "3": [
+            "\\nl< >\"Uwaaaaaah...!",
+			"The movie... it's so scary...!\""
+		],
+        "4": [
+            "I don't know how much time passed, ",
+			"but \\str[120] finally stopped her violent reaction just before I suffocated,",
+			"though she continued to cling to me like a koala, ",
+			"refusing to get down."
+		],
+        "5": [
+            "\"It's okay now... I've already turned off the TV.\""
+		],
+        "6": [
+            "\\nl< >\"Mmmmm...!\""
+		],
+        "7": [
+            "I wanted to tell \\str[120] it was safe to turn around now,",
+			"but she still refused to let go no matter what."
+		],
+        "8": [
+            "This is a bit troublesome... Due to never leaving the house,",
+			"\\str[120] has been afraid of unknown creatures and ghosts since childhood.",
+			"Even I was startled by that horror scene just now,",
+			"so it's not hard to understand why she's like this..."
+		],
+        "10": [
+            "How should I calm \\str[120] down now...",
+			"Since she's locked onto me completely, ",
+			"all I can do with my barely movable hands is gently pat her back, ",
+			"hoping that will help her relax a little."
+		],
+        "11": [
+            "But as I gradually calmed down myself,",
+			"I couldn't help but become aware of some new problems..."
+		],
+        "12": [
+            "Because we're pressed so close together, ",
+			"through that thin layer of fabric,",
+			"I can clearly feel the warmth radiating from \\str[120].",
+			"And that undeniable, soft sensation of her chest...",
+			"As for the faint fragrance drifting from her hair, ",
+			"it keeps wafting into my nose, making it impossible to stay calm."
+		],
+        "13": [
+            "Even though this isn't the right atmosphere for such thoughts,",
+			"I'm gradually feeling my body temperature rising.      \\w[40]",
+			"I need to separate from her before \\str[120] notices...!"
+		],
+        "14": [
+            "\"I-I'll go make you some warm milk!\""
+		],
+        "15": [
+            "\\nl< >\\{\"No! Don't go!\""
+		],
+        "17": [
+            "\\str[120] buried her face deeper, ",
+			"letting out muffled sounds through her nose, ",
+			"her legs wrapping around me even tighter.",
+			"With this movement, her intimate area pressed right against my lower body."
+		],
+        "18": [
+            "My already semi-erect member instantly stiffened, ",
+			"pressing against the center of her shorts through the fabric.",
+			"Through the thin material, I could even feel ",
+			"the faint warmth and moisture seeping through."
+		],
+        "19": [
+            "This is bad, I can't let this continue...!",
+			"\\str[120] is still so anxious, yet I'm getting excited!"
+		],
+        "20": [
+            "I swallowed hard and tried to adjust my position, ",
+			"but \\str[120] held me too tightly,",
+			"my movements only made us press even closer together.",
+			"My penis stubbornly pressed between her thighs. ",
+			"Even through two layers of fabric,",
+			"her body heat conducted to my nerves like an electric current."
+		],
+        "21": [
+            "\\nl< >\"Eh... Onii-chan, down there...",
+			"something is pressing against me...\""
+		],
+        "22": [
+            "\\str[120]'s breathing stopped for a moment, ",
+			"and my heartbeat skipped a beat.",
+			"The guilt of being caught made me tremble involuntarily."
+		],
+        "23": [
+            "\\nl< >\"It feels... so hard... and so hot...",
+			"Onii-chan is trembling all over too...\""
+		],
+        "24": [
+            "\\nl< >\"Is, is it because Onii-chan was also scared, ",
+			"so, so this happened?",
+			"When boys are frightened, they react like this, right?\""
+		],
+        "25": [
+            "\"Eh...? Ah, ah yes...   \\w[30]",
+			"I didn't expect my resistance to horror scenes ",
+			"to be so weak either.\""
+		],
+        "26": [
+            "\\str[120] didn't seem angry about it. ",
+			"Feeling relieved, my excitement surged again,",
+			"my penis attempting to swell further, ",
+			"pressing her soft shorts deeply inward."
+		],
+        "27": [
+            "\\nl< >\"Don't be scared, don't be scared...",
+			"When you're afraid, if you just stay closer and feel the warmth, ",
+			"you won't be so scared anymore, right?\""
+		],
+        "28": [
+            "\\str[120] twisted her hips slightly, ",
+			"grinding more tightly against my hardness.",
+			"Then she pulled my hand toward her waistband,",
+			"letting my fingertips hook the edge, as if silently hinting at something."
+		],
+        "29": [
+            "She continued moving her hips, no...   \\w[30]",
+			"I should say she was clearly rubbing against me with that place...  ",
+			"Barely managing my frantic breathing, ",
+			"my other hand moved to support her bottom,",
+			"my fingers hooking into the edge of her shorts, ",
+			"tentatively pulling down just a little."
+		],
+        "30": [
+            "Seeing I didn't continue, ",
+			"\\str[120] cooperatively lifted her body slightly.",
+			"This is... permission to continue, ",
+			"right?",
+			"I slowly pulled \\str[120]'s shorts down to her knees, ",
+			"then untied the string,",
+			"watching as her panties gradually slipped off."
+		],	
+        "31": [
+            "In a daze, her warm and soft pussy",
+			"was now pressed directly against my penis without any barrier."
+		],
+        "32": [
+            "\\nl< >\"Onii-chan, it's okay now, ",
+			"I'll protect you.\""
+		],
+        "33": [
+            "Feeling the moisture there, under \\str[120]'s seductive whisper,",
+			"the string of my rationality snapped in an instant.",
+			"Immediately after, waves of warmth completely engulfed me."
+		],
+        "16": [
+            "\\str[120]'s voice was intermittent due to nervousness, ",
+			"and her body was tense like a fully drawn bowstring.",
+			"But with slow and steady advancement, ",
+			"my penis still managed to penetrate—",
+			"The folds within were stretched open layer by layer, ",
+			"and the warm, moist inner walls immediately clung tightly."
+		],
+        "34": [
+			"Onii-chan♥",
+			"Mmm♥ Ahn♥",
+			"I want... more warmth...♥",
+			"It feels... so good...♥"		
+		],       
+		"35": [
+            "\"Try moving a bit slower...\"",
+			"I held \\str[120]'s waist, guiding her in a soft voice.     \\w[90]",
+			"She clumsily slowed down the rhythm of her body."
+		],	
+        "36": [
+            "\"Not up and down... try moving back and forth...\"",
+			"I gently pressed her hips, coaxing her.     \\w[90]",
+			"\\str[120] obediently changed her movements."
+		],	
+        "37": [
+            "\"Lean your body forward a bit...\"",
+			"I softly guided \\str[120] to adjust her posture.   \\w[90]",
+			"She compliantly did as told, ",
+			"and even innocently quickened the rhythm at her waist."
+		],	
+        "38": [
+            "\"Move a bit faster...\"",
+			"I requested of \\str[120] while panting.    \\w[90]",
+			"She began to move her hips obediently yet awkwardly."
+		],
+        "39": [
+            "In the midst of our intense intimacy, I still couldn't help ",
+			"but reach out to gently stroke \\str[120]'s hair.     \\w[150]",
+			"Even though we were tightly joined at this moment, ",
+			"my thoughts were still the same as always—",
+			"I only wanted to tenderly dote on her, ",
+			"comfort her, and make her feel at ease."
+		],		
+        "40": [
+            "I gently combed through her hair, disheveled from sweat.      \\w[150]",
+			"\\str[120] nuzzled against my palm like a kitten, ",
+			"and that trust made my heart tighten."
+		],		
+        "41": [
+            "I unconsciously patted her head as I usually do.     \\w[150]",
+			"\\str[120] squinted her eyes, both puzzled and content."
+		],		
+        "42": [
+            "\"Does it... hurt?\""
+		],		
+        "43": [
+            "\\nl< >\"Mm... it hurts a little bit... but...",
+			"I want to make... \\str[121]... feel good...\""
+		],		
+        "44": [
+            "\\str[120] looked at me with eyes of absolute trust,",
+			"that purity made me feel both guilty and intoxicated."
+		],		
+        "45": [
+            "\"Do you know what we're doing right now...?\""
+		],		
+        "46": [
+            "\\nl< >\"Hm...? Aren't we playing a cuddle game...?",
+			"\\str[121]'s body... is inside me now...♥\""
+		],		
+        "47": [
+            "\\str[120] tilted her head, ",
+			"speaking in a tone as casual as everyday conversation."
+		],		
+        "48": [
+            "\"Why would you think of doing something like this...?\""
+		],		
+        "49": [
+            "\\nl< >\"Because... \\str[121] scared me...",
+			"And also... when we're close together like this... ",
+			"it's really warm...♥\""
+		],		
+        "50": [
+            "\\str[120] answered earnestly with her misguided logic, ",
+			"a pure smile on her face."
+		],
+        "9": [
+            "I-I'm already reaching my limit...!",
+			"What should I do...?!"
+		],		
+        "51": [
+            "Cum Inside",
+			"Cum Outside"
+		],
+        "52": [
+            "Feeling the urge to climax growing stronger, ",
+			"just before the semen was about to burst forth,",
+			"I held \\str[120] tightly in my arms."
+		],			
+        "53": [
+            "Feeling the urge to climax growing stronger, ",
+			"just before the semen was about to burst forth,",
+			"I pulled my penis out from inside \\str[120]'s body."
+		],
+        "54": [
+            "At the instant of nearly crossing the line, ",
+			"my body instinctively made a choice——       \\w[40]",
+			"I suddenly withdrew my penis, and the white fluid gushed out,",
+			"leaving traces across her tender skin."
+		],
+        "55": [
+            "The wave of pleasure instantly swallowed my rationality, ",
+			"and I had already ejaculated before I could think.   \\w[40]",
+			"The hot semen was poured entirely deep inside \\str[120]'s body."
+		],
+        "56": [
+            "\\nl< >\"Uweh... my tummy feels all warm... ",
+			"like I drank hot milk.\""
+		],
+        "57": [
+            "\\nl< >\"Mm... I can feel something hot moving around...",
+			"It's gurgling...\""
+		],
+        "58": [
+            "\\nl< >\"\\str[121]... will this... stay inside forever?",
+			"Is it okay to leave it like this?\""
+		],
+        "59": [
+			"Have a Baby",
+            "Grow a Melon"
+		],
+        "60": [
+			"\\nl< >\"A baby...?   \\w[60]",
+			"A baby... between \\str[121] and me...?\""
+		],
+        "61": [
+			"\"That's right, a cute little baby just like you.\""
+		],
+        "62": [
+			"\\nl< >\"I-I don't understand... ",
+			"I've never seen a baby before...   \\w[120]",
+			"Since you said so... I'm a bit curious...\""
+		],
+        "63": [
+			"Looking at \\str[120]'s completely unguarded eyes filled ",
+			"with pure curiosity, the urges that had finally subsided",
+			"began screaming wildly inside my body again,",
+			"and my softened member quickly regained its vigor."
+		],
+        "64": [
+			"\\nl< >\"Nnh♥ \\str[121]!?",
+			"It's... it's getting big again...?\""
+		],
+        "65": [
+			"\\nl< >\"Does \\str[121] want to try again too...♥",
+			"I also... want to see that... baby...\""
+		],
+        "66": [
+            "\\nl< >\"Hey, \\str[121]... let's do it one more time♥\""
+		],
+        "67": [
+            "\\nl< >\"Eh?! A w-watermelon?!",
+			"The round, really big kind... ",
+			"will grow in my tummy?!\""
+		],
+        "68": [
+            "\"yeah... your belly will get super big, ",
+			"and you'll have to hold onto walls to walk.\""
+		],
+        "69": [
+            "\\nl< >\"N-no!",
+			"I don't want a watermelon growing in my tummy!!\""
+		],
+        "70": [
+            "\\nl< >\"Waaaaaah—",
+			"I need to pour it out quickly!\""
+		],
+        "71": [
+            "It seems the joke went a bit too far.",
+			"\\str[120] didn't even have time to mind the ",
+			"lingering soreness below, and stumbled off of me,",
+			"rushing to the toilet like a startled little rabbit."
+		],
+        "72": [
+            "But seeing her so flustered and panicked was just too cute.",
+			"I became even more curious about how she ",
+			"planned to handle the situation—"
+		],
+        "73": [
+            "Go Peek"
+		],
+        "74": [
+            "Mm-hmm... can't miss this amusing scene—"
+		],
+        "75": [
+            "\\nl< >\"I have to get it all out... sob sob...\""
+		],
+        "76": [
+            "\\nl< >\"Geez, \\str[121]... ",
+			"you’re the one who put it in...\""
+		],
+        "77": [
+            "\\nl< >\"Stupid \\str[121]... why didn't you tell me sooner...\""
+		],
+        "78": [
+            "\\nl< >\"If it really grows... ",
+			"\\str[121] has to take responsibility... ",
+			"he have to help me eat it...\""
+		],
+        "79": [
+            "Watching \\str[120] earnestly and pitifully trying to ",
+			"expel the semen from her body,",
+			"a strong sense of guilt welled up inside me,",
+			"I should tell her the truth in a bit..."
+		],
+        "80": [
+            "It's already very late, ",
+			"I can't let \\str[120] exhaust herself like this anymore...",
+			"Let's stop here for today."
+		],
+        "81": [
+            "Ugh, my body... is losing strength...!",
+			"Even though I still want to continue... ",
+			"my stamina is already...",
+			"Let's stop here for today."
+		],
+        "82": [
+            "\\nl< >\"\\str[121], I'm sorry...",
+			"It's all because I was too cowardly that ",
+			"things got so messy...\""
+		],
+        "83": [
+            "\\nl< >\"Even though the movie was scary, ",
+			"being able to end up like just now...",
+			"being filled up tightly and held tightly by \\str[121]...",
+			"actually felt pretty nice too♥\""
+		],
+        "84": [
+            "\\nl< >\"Next time we have a chance, ",
+			"let's watch the rest of it together♥\""
+		],
+        "85": [
+            "\\nl< >\"Wah♥ That startled me...",
+			"This white stuff... did it come out from \\str[121]...?\""
+		],
+        "86": [
+            "\\nl< >\"\\str[121]...♥ So much came out...",
+			"It's gotten all sticky...\""
+		],
+        "87": [
+            "\\str[120] just looked down in surprise ",
+			"at the white turbid fluid splashed on her body,",
+			"then extended her finger, touching those traces that ",
+			"still carried warmth, observing them."
+		],
+        "88": [
+            "\\nl< >\"\\str[121]...♥",
+			"That feeling just now... of my heart racing...♥\"",
+			"One more time... okay...?♥"
+		],
+        "89": [
+            "\\nl< >\"\\str[121]... is it over already...?♥",
+			"But... I still want to... ",
+			"cuddle with you a bit longer...♥\""
+		]	
     }
 }

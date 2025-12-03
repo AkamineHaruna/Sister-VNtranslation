@@ -1219,6 +1219,57 @@
         ],
         "ability": ""
     },
+    "187": {
+        "name": [
+            "Old Videotape"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "A special medium that stores footage from a bygone era, playable",
+			"only with specific equipment. Some propose it was an alchemical",
+			"product of an ancient civilization, though no proof exists",
+			"Its scarcity also makes collectors highly eager to obtain it"
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "188": {
+        "name": [
+            "Horror Videotape"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "A special medium that stores footage from a bygone era, playable",
+			"only with specific equipment. Some propose it was an alchemical",
+			"product of an ancient civilization, though no proof exists",
+			"It also seems cursed—the footage is always unnervingly chilling"
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "189": {
+        "name": [
+            "Adult Videotape"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "A special medium that stores footage from a bygone era, playable",
+			"only with specific equipment. Some propose it was an alchemical",
+			"product of an ancient civilization, though no proof exists",
+			"It seems to be restricted content, filled with arousing scenes"
+        ],
+        "ability": [
+            ""
+        ]
+    },
     "190": {
         "name": [
             "Doujinshi Yuri"

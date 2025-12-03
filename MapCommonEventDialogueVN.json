@@ -26,7 +26,15 @@
 		"1": [
             " Trái tim của \\str[120] vừa lỡ một nhịp! "
         ]		
-    },	
+    },
+    "gainWhiteHeart": {
+        "0": [
+            " Overflowing Love "
+		],
+		"1": [
+            " She was filled up! "
+        ]		
+    },
     "gainGoldenHeart": {
         "0": [
             " Dục Vọng Hoàng Kim "
@@ -41,6 +49,14 @@
 		],
 		"1": [
             " Xoá bỏ cái tôi, và vung lưỡi kiếm vì đồng đội... "
+        ]		
+    },
+    "unlockJackalope": {
+        "0": [
+            " Jackalope "
+		],
+		"1": [
+            " has appeared in the Abyss! "
         ]		
     },
     "maidBunnyBoss": {

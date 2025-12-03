@@ -683,7 +683,7 @@
             "Xích Giác"
         ],
         "subtitle": [
-            ""
+            "\"Don't you ever stop！\""
         ],
         "description": [
             "Một chiếc sừng đỏ thẫm chứa đầy ma lực của Jackalope",
@@ -706,6 +706,21 @@
         ],
         "ability": [
             "Thu hút hải âu đến cướp khoai tây của bạn"
+        ]
+    },
+    "52": {
+        "name": [
+            "Shadowcrawler Gift"
+        ],
+        "subtitle": "",
+        "description": [
+            "Said to be a symbol from the depths where shadows creep",
+            "holding it makes you feel as if something is ",
+			"quietly writhing behind you—"
+        ],
+        "ability": [
+            "Movement speed increases",
+			"Gain the attention of ▓▓▓▓▓▓▓"
         ]
     },
     "53": {

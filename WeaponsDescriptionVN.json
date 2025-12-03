@@ -366,6 +366,20 @@
             "Đòn đánh có 50% cơ hội gây trạng thái Độc"
         ]
     },
+    "29": {
+        "name": [
+            "Pest Bane Staff"
+        ],
+        "subtitle": "",
+        "description": [
+            "A special staff modified by an alchemist long tormented",
+            "by pests. It can instantly generate a toxic gas to kill",
+            "small creatures, and is said to also deodorize and disinfect"
+        ],
+        "ability": [
+            "Hold left mouse button to cast Extermination Magic"
+        ]
+    },
     "30": {
         "name": [
             "Kiếm Kanesada"

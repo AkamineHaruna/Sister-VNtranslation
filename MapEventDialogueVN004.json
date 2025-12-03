@@ -854,7 +854,25 @@
         "20": [
             "\\nl< >\"......Hể?  \\w[30]",
 			"\\str[121], trên đầu anh có chữ 'ZAKO' kìa~!\""
-        ]		
+        ],
+        "21": [
+            "\\nl< >\"Mmm… So sleepy…   \\w[60]",
+			"I must’ve dozed off from sitting too long…\""
+        ],
+        "22": [
+            "\\nl< >\"But my cheek feels a little sore…",
+			"Did you do something to me?\""
+        ],
+        "23": [
+            "She looks like she’s nodding off…",
+			"What should I do…? Seeing her so defenseless like this,",
+			"I really want to reach out and pinch her cheek…"
+        ],
+        "24": [
+            "Huh?",
+			"She still hasn’t woken up even after that…?",
+			"Can I… do it again…?"
+        ]
     },	
     "18": {
         "0": [
@@ -1030,7 +1048,11 @@
         "43": [
             "\\nl< >\"Thấy chưa \\str[121], nếu chỉ là mấy chuyện nhỏ như vậy,",
 			"thì em hoàn toàn có thể làm cho anh mà chẳng cần 'Phiếu Thưởng' đâu~\""
-		]		
+		],
+        "44": [
+            "\\nl< >\"Do you have any shows you want to watch, \\str[121]?",
+			"Then let’s go to the living room together~!\""
+		]
     },			
     "19": {
         "0": [
