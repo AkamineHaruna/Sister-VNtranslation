@@ -908,104 +908,104 @@
             "À... hết rồi à!?"
 		],
 		"6": [
-            "Oh, the weather forecast is on right now...",
-			"Let's see what the weather will be like tomorrow—"
+            "Ồ, đang phát bản tin dự báo thời tiết...",
+			"Để xem thử ngày mai thời tiết sẽ như thế nào—"
 		],
         "7": [
-            "But at least I can understand the images,",
-			"better not overthink it."
+            "Nhưng ít ra mình còn hiểu được hình ảnh,",
+			"tốt nhất là đừng nghĩ nhiều."
 		],
         "8": [
-            "Looks like tomorrow will be sunny.",
-			"I just hope it won't be too hot at noon..."
+            "Có vẻ ngày mai sẽ nắng.",
+			"Chỉ mong buổi trưa đừng quá nóng..."
 		],
         "9": [
-            "Looks like tomorrow will be cloudy.",
-			"It's great that it's cooling down—"
+            "Có vẻ ngày mai sẽ nhiều mây.",
+			"Tuyệt thật, trời đang dần mát hơn—"
 		],
         "10": [
-            "Looks like tomorrow will be rainy.",
-			"Perfect, I'll go to the river and ",
-			"see if I can catch some fish."
+            "Có vẻ ngày mai sẽ mưa.",
+			"Tốt quá, mình sẽ ra bờ sông và ",
+			"xem thử có câu được con cá nào không."
 		],
         "11": [
-            "Looks like tomorrow will be an especially hot sunny day...",
-			"Is that temperature really okay!?"
+            "Có vẻ ngày mai sẽ nắng nóng...",
+			"Nhiệt độ như thế có ổn thật không vậy!?"
 		],
         "12": [
-            "Oh, a cooking show is on right now...",
-			"I wonder what new recipes I can learn—"
+            "Ồ, chương trình nấu ăn đang chiếu...",
+			"Không biết mình có học được công thức mới nào không—"
 		],
         "13": [
-            "What is this...?",
-			"I feel like I didn't learn anything..."
+            "Cái gì đây...?",
+			"Mình cảm giác như chẳng học được gì cả..."
 		],
         "14": [
-            "Oh, the news is on right now...",
-			"Has anything major happened recently?"
+            "Ồ, bản tin thời sự đang phát...",
+			"Không biết dạo này có chuyện lớn gì xảy ra không?"
 		],
         "15": [
-            "It feels like something incredible has happened ",
-			"in the Abyss—"
+            "Cảm giác như có chuyện kinh khủng nào đó ",
+			"xảy ra trong Vực Thẳm—"
 		],
         "16": [
-            "After drinking a bottle of Elixir Rubrum, ",
-			"\\str[120] isn't as prone to drowsiness as usual,",
-			"so it's a rare opportunity to watch ",
-			"late-night programs together with her.",
-			"I wonder what interesting content will be on at this time~?"
+            "Sau khi uống một chai Elixir Rubrum, ",
+			"\\str[120] không còn dễ buồn ngủ như mọi khi,",
+			"nên đây là cơ hội hiếm hoi để xem ",
+			"các chương trình đêm khuya cùng em ấy.",
+			"Không biết giờ này có chương trình thú vị nào nhỉ~?"
 		],
         "17": [
-            "Although I didn't get to see the program ",
-			"I wanted to watch before, just in case,",
-			"I came to the living room with \\str[120] again ",
-			"during the late-night time slot."
+            "Mặc dù lần trước tôi không xem được chương trình ",
+			"mà tôi muốn xem, nhưng để chắc ăn,",
+			"tôi lại cùng \\str[120] tới phòng khách ",
+			"vào khung giờ khuya."
 		],
         "18": [
-            "Maybe it just happened to be no programs ",
-			"on that one day..."
+            "Có lẽ hôm đó chỉ tình cờ ",
+			"không có chương trình thôi..."
 		],
         "19": [
-            "But after turning on the TV,",
-			"there was still only the silent static screen with no signal."
+            "Nhưng khi bật TV lên,",
+			"vẫn chỉ là màn hình nhiễu không tín hiệu."
 		],
         "20": [
-            "As expected, it doesn't work.",
-			"Is there any way to watch interesting programs even late at night?",
-			"Maybe I should ask around."
+            "Đúng như dự đoán, vẫn không hoạt động.",
+			"Có cách nào để xem các chương trình thú vị vào đêm khuya không nhỉ?",
+			"Hay mình nên hỏi thử ai đó."
 		],
         "21": [
-            "After sitting down with \\str[120], ",
-			"I turned on the TV with the remote.    \\w[60]",
-			"But the result was only a static screen with no signal..."
+            "Sau khi ngồi xuống cùng \\str[120], ",
+			"tôi bật TV bằng remote.    \\w[60]",
+			"Nhưng kết quả vẫn chỉ là màn hình nhiễu không tín hiệu..."
 		],
         "22": [
-            "There don't seem to be any programs on at this time, ",
-			"which is somewhat disappointing...",
-			"Is there any way to watch interesting programs even late at night?",
-			"Maybe I should ask around."
+            "Có vẻ lúc này không có chương trình nào, ",
+			"hơi thất vọng một chút...",
+			"Có cách nào để xem các chương trình thú vị vào đêm khuya không nhỉ?",
+			"Có lẽ mình nên đi hỏi thử ai đó."
 		],
         "24": [
-            "Ah—come to think of it, didn't I get a videotape before!?",
-			"This is the perfect time to take it out and watch it!"
+            "À—nhắc mới nhớ, trước đây mình có nhận được một cuộn băng video!?",
+			"Giờ là thời điểm hoàn hảo để mang nó ra xem!"
 		],
         "25": [
-            "Hmm... although it's a bit late to say this now,",
-			"this videotape looks a bit ominous?   \\w[30]",
-			"It has an eerie atmosphere...!"
+            "Hmm... nói thì hơi muộn nhưng,",
+			"cuộn băng này trông hơi đáng ngờ thì phải?   \\w[30]",
+			"Khí thế đúng kiểu rùng rợn luôn...!"
 		],
         "26": [
-            "Whatever, I'm free anyway,     \\{",
-			"let's put it on!"
+            "Kệ đi, mình rảnh mà,     \\{",
+			"bật lên xem luôn!"
 		],
         "27": [
-            "Huh~?        \\w[50]",
-			"The atmosphere feels pretty realistic...",
-			"Is it some kind of documentary?"
+            "Hả~?        \\w[50]",
+			"Bầu không khí thật sự rất chân thật...",
+			"Là dạng phim tài liệu gì à?"
 		],
         "28": [
-            "...Eh?",
-			"This is... actually a horror movie?"
+            "...Ê?",
+			"Đây... là phim kinh dị thật sao?"
 		],
         "29": [
             "\\nl< >\"Ee——————————\"",
@@ -1016,34 +1016,34 @@
 			"aaaaahhh—————————\""
 		],
         "31": [
-            "Just as I was regretting buying the wrong videotape,",
-			"\\str[120] had been pressed close to me, suddenly let out a scream,",
-			"and in the next instant, my vision was swallowed by darkness."
+            "Đúng lúc tôi đang hối hận vì mua nhầm cuộn băng,",
+			"\\str[120] đang áp sát vào tôi bỗng hét lên một tiếng,",
+			"và ngay khoảnh khắc tiếp theo, tầm nhìn của tôi bị bóng tối nuốt trọn."
 		],
         "32": [
-            "\\{\"Eh—what's wrong—!?",
-			"What happened—!?\""
+            "\\{\"Ê—có chuyện gì vậy—!?",
+			"Chuyện gì đang xảy ra—!?\""
 		],
         "33": [
-			"At the same time, a suffocating pressure also swept over me,",
-			"I flailed my arms in panic, struggling,",
-			"only then did I suddenly realize—",
-			"something incredibly soft was clinging tightly to my body."
+			"Cùng lúc đó, một áp lực ngột ngạt cũng tràn đến,",
+			"tôi vùng vẫy trong hoảng loạn, cố thoát ra,",
+			"nhưng rồi chợt nhận ra—",
+			"có thứ gì đó mềm mại phi thường đang bám chặt lấy cơ thể tôi."
 		],
         "34": [
-            "Just as I was regretting buying the wrong videotape,",
-			"\\str[120] sitting not far away jumped up in ",
-			"fright and quickly ran away—"
+            "Đúng lúc mình đang hối hận vì mua nhầm cuộn băng,",
+			"\\str[120] đang ngồi không xa liền bật dậy ",
+			"hoảng sợ và chạy mất hút—"
 		],
         "35": [
-            "This is not good...",
-			"I hope this won't leave any psychological trauma for \\str[120]..."
+            "Không ổn rồi...",
+			"Mong là chuyện này sẽ không khiến \\str[120] bị ám ảnh..."
 		],
         "36": [
-			"In the end, ",
-			"it took quite a bit of time to finally calm \\str[120] down.",
-			"I just hope this accident won't leave ",
-			"any lasting shadow in her heart..."
+			"Cuối cùng thì, ",
+			"tôi đã mất khá nhiều thời gian mới dỗ được \\str[120] bình tĩnh lại.",
+			"Mong là sự cố này sẽ không tạo ",
+			"bóng đen trong lòng em ấy..."
 		]
     },
 	"11": {

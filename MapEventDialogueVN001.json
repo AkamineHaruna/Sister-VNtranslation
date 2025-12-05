@@ -123,13 +123,13 @@
     },
 	"15": {
 		"objectName": [
-		    "\\c[115]Thỏ Rừng"
+		    "\\c[115]Jackalope"
 		],	  
 		"sentouryoku": [
 		    "555"
 		],	  
         "description": [
-            "Một loài quái vật cấp cao được tiến hóa từ Thỏ Gai.",
+            "Một loài quái vật cấp cao được tiến hóa từ thỏ có sừng nai.",
 			"Cặp sừng vừa là vũ khí, vừa là lõi dùng để tích trữ ma lực.",
 			"Khác với Thỏ Gai thông thường, nó cực kỳ hung hãn,",
 			"khi bị kích động, toàn thân nó chuyển sang màu đỏ.",
@@ -139,7 +139,7 @@
     },
 	"16": {
 		"objectName": [
-		    "Thứ Không Thể Gọi Tên – G"
+		    "Thứ Không Thể Gọi Tên - G"
 		],	  
 		"sentouryoku": [
 		    "9"
