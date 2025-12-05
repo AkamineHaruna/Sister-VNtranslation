@@ -131,7 +131,7 @@
         "description": [
             "Một loài quái vật cấp cao được tiến hóa từ thỏ có sừng nai.",
 			"Cặp sừng vừa là vũ khí, vừa là lõi dùng để tích trữ ma lực.",
-			"Khác với Thỏ Gai thông thường, nó cực kỳ hung hãn,",
+			"Khác với Thỏ Mọc Sừng thông thường, nó cực kỳ hung hãn,",
 			"khi bị kích động, toàn thân nó chuyển sang màu đỏ.",
 			"Vì ma lực dâng trào, nó lao vào với những cú húc ",
 			"liên tiếp với tốc độ kinh hoàng."
@@ -1057,7 +1057,7 @@
     },	  
   	"113": {
 		"objectName": [
-		    "Thỏ Gai"
+		    "Thỏ Mọc Sừng"
 		],	  
 		"sentouryoku": [
 		    "50"
