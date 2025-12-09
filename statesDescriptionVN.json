@@ -375,6 +375,29 @@
 			"\\str[120] cảm thấy rất vui!"
 		]
 	},
+	"42": {
+    	"name": [],
+    	"subtitle": [
+	  		"\\str[120] đang xem TV"
+		],
+   		"description": [
+      		""
+    	],
+		"variants": {
+			"0": {
+           		"description": [
+             		"\\str[120] cuộn tròn như con mèo, ",
+					"lén liếc nhìn tôi."
+           		]
+			},
+			"1": {
+           		"description": [
+            		"Em ấy áp sát vào tôi, ",
+			 		"như đang ôm một chiếc gối."
+          		]
+			}
+		}	
+	},
 	"43": {
     	"name": [],
     	"subtitle": [

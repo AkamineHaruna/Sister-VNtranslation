@@ -150,5 +150,35 @@
 		"Trang Steam của chúng tôi cuối cùng cũng đã mở!",
 		"Hãy thêm thêm tựa game vào Wishlist của bạn và ủng hộ bọn tôi nhé! (*´∀`)~♥",
 		"⬇Nhấn vào bên dưới để mở trang Steam."
-	]
+	],
+	"AdventurersPathway": {
+    	"mapName": " -Đại Lộ Nhà Thám Hiểm- "
+  	}, 
+  	"ShallowRuinsLabyrinth": {
+    	"mapName": " -Mê Cung Tàn Tích Tầng Nông- "
+ 	}, 
+  	"ForgottenCatacombe": {
+    	"mapName": " -Địa Quật Bị Lãng Quên- "
+  	}, 
+  	"ForestofRuins": {
+    	"mapName": " -Rừng Phế Tích- "
+  	}, 
+  	"AbandonedForest": {
+    	"mapName": " -Rừng Hoang Phế- "
+  	}, 
+  	"ExcavationSite": {
+    	"mapName": " -Khu Khai Quật- "
+  	}, 
+  	"TheFallenChurch": {
+    	"mapName": " -Nhà Thờ Sa Ngã- "
+  	}, 
+  	"DoorofStar": {
+    	"mapName": " -Cánh Cổng Tinh Quang- "
+  	}, 
+  	"ScorchingLavaZone": {
+    	"mapName": " -Cảnh Giới Dung Viêm- "
+  	}, 
+  	"Nibelungen": {
+    	"mapName": " -Vùng Đất Nibelungen- "
+  	}
 }
