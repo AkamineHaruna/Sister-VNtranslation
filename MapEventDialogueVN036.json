@@ -104,5 +104,126 @@
 			"ông không bao giờ trở lại người cha hiền lành,", 
             "dịu dàng mà tôi từng biết."
         ]		
-    }	
+    },
+    "5": {		
+        "0": [
+            "\\nl<Man>\"The feathers dropped by the Firebird...",
+			"Even when soaked in strong acid, they do not corrode...",
+			"If it is for that... we still need—\""
+		],
+		"1": [
+            "The man's voice echoed lowly in the workshop, ",
+			"which was crammed with ancient tomes.",
+			"Various alchemical instruments were stacked neatly ",
+			"across the workbench."
+        ],
+		"2": [
+            "A sudden flurry of light, ",
+			"hurried footsteps interrupted the man's muttering.",
+			"A barefoot girl with snow white hair barged into the dusty,",
+			"potion scented chaos of the workshop without warning."
+        ],		
+        "3": [
+            "\\nl<Boy>\\{\"Ah...! Found you!!",
+			"Stop running off everywhere!!\""
+        ],		
+        "4": [
+            "Following close behind the girl was a slightly older boy.",
+			"He had clearly been chasing her for a long time. ",
+			"he was leaning over, hands on his knees, panting heavily as ",
+			"he pointed at the girl with an irritated shout."
+        ],
+        "5": [
+            "\\nl<Girl>\"……………………………………",
+			"……………………………………\""
+        ],
+        "6": [
+            "The girl, the subject of his scolding, simply stood there blankly.",
+			"Her hollow eyes reflected no one."
+        ],
+        "7": [
+            "\\nl<Boy>\"Honestly! That face again! not even a single peep!",
+			"Dad! I don't want to take care of her anymore!!\""
+        ],
+        "8": [
+            "\\nl<Boy>\"It's been days and she hasn't opened her mouth once!",
+			"She just keeps wandering off on her own... ",
+			"this isn't fun at all!!\""
+        ],		
+        "9": [
+            "\\nl<Man>\"Haaah... The same old story again, I see...\""
+        ],
+        "10": [
+            "Watching the girl stare intently at the instruments ",
+			"while his son threw a tantrum, the man let out a long sigh ",
+            "and was forced to halt his work."
+        ],
+        "11": [
+            "\\nl<Man>\"You're quite the handful yourself, little brat.",
+			"How many times have I told you? ",
+			"Don't enter the workshop without my permission. It's dangerous!\""
+        ],		
+        "12": [
+            "\\nl<Boy>\"Hmph... ",
+			"says the useless adult who relies on a kid to make lunch!",
+			"When are you going to stop messing with this boring junk ",
+			"and teach me real alchemy?\""
+        ],
+        "13": [
+            "\\nl<Man>\"Cough, cough...! ",
+			"Didn't I just transmute a toy sword for you the other day? ",
+            "Father has been busy identifying these relics brought up from ",
+            "the Abyss for the Guild. I really don't have time for your antics—\""
+        ],
+        "14": [
+            "\\nl<Boy>\"That crappy sword broke ages ago! — The Abyss?",
+			"You mean that Grand Labyrinth that suddenly appeared!?",
+			"Hey, hey! When can I go take a look too?\""
+        ],
+        "15": [
+            "\\nl<Man>\"Absolutely not! That's no place for a child's adventure!",
+			"We moved here specifically to conduct research and ",
+			"develop countermeasures. ",
+			"Just be patient...!\""
+        ],
+        "16": [
+            "\\nl<Girl>\"……………………………………",
+			"……………………………………\""
+        ],
+        "17": [
+			"The girl, previously as still as a doll, seemed to sense something.",
+            "Her movements, precise as a machine, stirred once more.",
+            "She suddenly turned and dashed past the two of them, ",
+			"heading straight out of the workshop."
+        ],
+        "18": [
+            "\\nl<Boy>\"Ahhh—! See! She's doing it again!!\""
+        ],
+        "19": [
+            "\\nl<Man>\"Sigh... ",
+			"neither of you makes things easy... go catch her quickly!",
+			"And remember, do not let her leave the estate grounds! ",
+			"The barrier here isn't fully stable yet!\""
+        ],
+        "20": [
+            "The boy wanted to argue back, ",
+			"but seeing the girl about to vanish from his sight,",
+			"he could only stomp his feet in frustration ",
+			"and take off after her again."
+        ],
+        "21": [
+            "\\nl<Man>\"..................Sigh.",
+			"I hope time... is still on our side.\""
+        ],
+        "22": [
+            "Standing by the door, the man watched the distant figures—",
+			"the boy finally catching up as the two of them scuffled together.",
+			"He whispered a murmur filled with heavy concern."
+        ],
+        "23": [
+			"Then, as if escaping some dark premonition, ",
+			"he sat back in his chair and buried himself ",
+			"in his research once more."
+        ]
+    }
 }

@@ -100,6 +100,133 @@
 			"và chuẩn bị cho chuyến phiêu lưu!"
         ]		
     },
+    "3": {
+        "0": [
+            "My mind slowly clears... ",
+			"I finally realize I'm not in my usual bedroom.",
+			"Something warm and soft is pressed tight against me, ",
+			"their breathing rhythmic and gentle."
+		],
+		"1": [
+            "It's just \\str[120]...",
+			"Memories begin to flood back—         \\w[120]",
+			"Right, the two of us were tangled together ",
+			"until deep into the night..."
+        ],
+		"2": [
+            "Looking at her defenseless sleeping face, ",
+			"still bearing a faint flush of last night's afterglow,",
+			"I can't help but reach out, my fingertips sinking softly ",
+			"into her hair, smooth as silk."
+        ],
+		"3": [
+            "\\nl< >\"Uu... mm... ♥\""
+        ],
+		"4": [
+            "As if sensing the affection, she lets out a hazy, ",
+			"satisfied hum, subconsciously nuzzling into my palm."
+        ],
+		"5": [
+            "\"It's morning already. Can you get up?\""
+        ],
+		"6": [
+            "I gently nudge her shoulder, ",
+			"trying to wake her from her slumber."
+        ],
+		"6.5": [
+            "\\nl< >\".................. Nnn.\""
+        ],
+		"7": [
+            "After her long eyelashes flutter a few times, ",
+			"she finally opens her eyes slowly.",
+			" ",
+			" ",
+			"She stares blankly into the void for a moment,",
+			"then tilts her head to look at me right beside her, ",
+			"her pupils filled with the haze of sleep."
+        ],
+		"8": [
+            "\\nl< >\"Eh... \\str[121]...?",
+			"Why... are you in bed too...?\""
+        ],
+		"9": [
+            "It seems her brain hasn't quite finished booting up. ",
+			"she just tilts her head, staring at me foolishly for a long time."
+        ],
+		"10": [
+			"Not until the fragmented memories of last night ",
+			"piece themselves back together does the blood rush ",
+            "to her cheeks at a visible speed."
+        ],
+		"11": [
+            "\\nl< >\"Uu... ♥ G-good morning... \\str[121]...",
+			"About last night... um... thank you...\""
+        ],
+		"12": [
+            "Completely at a loss as to how to handle such a bashful ",
+			"predicament, she just lowers her head,",
+			"whispering a word of thanks that was somewhat nonsensical."
+        ],
+		"13": [
+			"The atmosphere becomes subtle and cramped.",
+            "We silently dress with our backs to each other, ",
+			"then, maintaining an indescribable tacit understanding,",
+            "we walk into the washroom together."
+        ],
+		"14": [
+            "\\nl< >\"...Mmuu... nya...♥",
+			"\\str[121]... not there... it's no good...\""
+        ],
+		"15": [
+            "She only let out a muffled murmur, ",
+			"clutching her pillow and burying her face even deeper."
+        ],
+		"16": [
+			"Though I'm curious what kind of wonderful dream she's having, ",
+			"since she's still so sound asleep,",
+            "it's better not to force her awake..."
+        ],
+		"17": [
+            "Last night's exertion was too much of a burden for her after all,",
+            "I should let her sleep a bit longer..."
+        ],
+		"18": [
+            "Holding my breath, ",
+			"I gently peel away her arm still wrapped around me,",
+            "leaving the warm bed without making a single sound."
+        ],
+		"19": [
+            "Taking one last look at her quiet profile, ",
+			"slightly pale in the morning light,",
+            "I quietly exit the room and softly click the door shut."
+        ],
+		"20": [
+            "Watching her defenseless sleeping face though I know she needs rest,",
+            "the quiet unique to this morning and the scent ",
+			"she radiates keep provoking my sanity."
+        ],
+		"21": [
+            "I meant to just pat her head, ",
+			"but my fingertips involuntarily slide down her slender neck.",
+			"From her rounded shoulder to the slight curve of her waist, ",
+			"I greedily feel every inch of her skin."
+        ],
+		"22": [
+            "\\nl< >\"...Hnngh ♥",
+			"Uu... nnh... ah... ♥\""
+        ],
+		"23": [
+			"Even as she slept, her body that had just shed its innocence ",
+			"was already reacting to my touch.",
+            "She let out a few unconscious whimpers as she felt ",
+			"the warmth radiating from my fingertips."
+        ],
+		"24": [
+			"...No! What am I thinking!",
+            "How could I do this to her so early in the morning...",
+            "I'd better just get up!"
+        ]
+    },
     "4": {
         "0": [
             "\"...Gì cơ!?\\w[60]...Chờ đã, \\w[60]",

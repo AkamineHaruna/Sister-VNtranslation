@@ -888,6 +888,7 @@
         "2": [
             "Uống gì đó",
 			"Chơi gì đó",
+            "Xem gì đó",
             "Chiều chuộng anh",
             "Tặng quà"
 		],
@@ -1052,7 +1053,11 @@
         "44": [
             "\\nl< >\"Anh có chương trình nào muốn xem không, \\str[121]?",
 			"Vậy thì chúng ta cùng nhau ra phòng khách nhé~!\""
-		]
+		],
+        "45": [
+            "Cũng đã muộn rồi… ",
+            "tốt hơn là không nên ra phòng khách."
+        ]
     },			
     "19": {
         "0": [
@@ -2303,7 +2308,43 @@
             "Cuối cùng thì sau khi uống Elixir Rubrum, ",
 			"cũng chẳng thấy có gì thay đổi.",
 			"Chẳng lẽ nó thực sự không có tác dụng gì sao?"
-		]
+		],
+        "51": [
+            "\\nl< >\"...\\str[121]? Chai đỏ đó—   \\w[45]",
+            "là thuốc mới à!?\""
+        ],
+        "52": [
+            "\"Ừ, giống như mọi khi thôi...",
+            "thử pha với sữa rồi uống xem?\""
+        ],
+        "53": [
+            "\\nl< >\"Yay~! Lại được nếm hương vị chua ngọt đó rồi!\""
+        ],
+        "55": [
+            "\\nl< >\"...Ngon thật đó~!\""
+        ],
+        "56": [
+            "\\nl< >\"Lần sau, \\str[121], anh cũng nên thử xem!\""
+        ],
+        "57": [
+            "\"À... ừm... ",
+            "miễn là em uống mà không bị làm sao...\""
+        ],
+        "58": [
+            "Vị thì ngon...",
+            "vậy tại sao khi liếm những mảnh vụn đó tôi lại buồn nôn?",
+            "Chẳng lẽ thật sự có điều gì khác biệt ",
+            "ở Elixir Rubrum sau phản ứng đỏ hóa...?"
+        ],
+        "59": [
+            "Dù sao thì, ",
+            "trạng thái tinh thần của \\str[120] thật sự đã dần cải thiện ",
+            "sau khi dùng thuốc, và chỉ riêng điều đó cũng đủ để chứng minh ",
+            "thí nghiệm của Cha không phải là một sai lầm. ",
+            "Nếu mọi chuyện cứ tiếp diễn như thế này, ",
+            "chỉ cần tôi kiếm thêm được bốn hay năm chai Elixir Rubrum nữa,",
+            "có lẽ \\str[120] thật sự có thể hồi phục đủ để có thể ra ngoài!"
+        ]
     },
     "51": {
         "0": [

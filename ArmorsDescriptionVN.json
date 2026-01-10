@@ -638,7 +638,9 @@
         "name": [
             "Nắm Đấm Cuồng Nộ"
         ],
-        "subtitle": "",
+        "subtitle": [
+            "\"Tay trái đánh mạnh, tay phải đánh mạnh hơn.\""
+        ],
         "description": [
             "Một nắm đấm ma thuật đầy uy lực",
             "Dâng trào bởi cơn cuồng nộ vô danh, luôn siết chặt không buông..."
@@ -1067,12 +1069,12 @@
             "\"\\str[121], anh đã giữ lời hứa, tốt lắm!\""		
 		],
         "description": [
-            "Em gái luôn ngưỡng mộ và lo lắng cho \\str[121]",
-            "của em ấy cuối cùng cũng nở một nụ cười hài lòng",
-            "Đối với \\str[121], đó đã là động lực đủ để có thể tiếp tục"
+            "Nụ cười hoàn hảo cuối cùng cũng được bộc lộ bởi \\str[120] ",
+            "người luôn ngưỡng mộ và lo lắng cho \\str[121]—",
+            "một nụ cười trở thành động lực để anh ta tiếp tục tiến về phía trước"
         ],
         "ability": [
-            "Tăng ham muốn, tăng tất cả chỉ số"
+            "Tăng ham muốn, toàn bộ chỉ số được tăng"
         ]
     },
     "130": {
@@ -1084,10 +1086,11 @@
 		],
         "description": [
             "Quần lót nhận được từ \\str[120] do sự hiểu lầm",
-            "Chưa trả lại, nhưng sâu thẳm là niềm hạnh phúc"
+            "Dù chưa từng có cơ hội thích hợp để trả lại,",
+            "sâu thẳm trong lòng, một cảm giác vui sướng mơ hồ vẫn lặng lẽ đọng lại..."
         ],
         "ability": [
-            "Được truyền động lực bởi \\str[120]. Khi HP < 50%, nhận hồi phục tự động"
+            "Tự động hồi HP khi dưới 50%"
         ]
     },
     "131": {

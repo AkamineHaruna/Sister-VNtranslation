@@ -77,7 +77,24 @@
 		    "Giữ nút kỹ năng để kích hoạt kỹ năng",
 		    "Hủy trong lúc xoay để ném vũ khí"
 		]		
-    },	
+    },
+    "6": {
+        "name": [
+            "Biến Thái Gặp May"
+        ],
+        "subtitle": [
+            "true"
+        ],
+        "description": [
+            "Một thể chất biến thái mang tính huyền thoại, tự động kích hoạt ",
+            "ngay cả khi bản thân người sở hữu cũng không hề nhận ra.",
+            "Như thể được một nữ thần vô hình ban phúc và dẫn lối, những thế lực không cưỡng lại được ",
+            "liên tục đẩy bạn vào các tình huống fanservice khiến mặt đỏ tim đập…!"
+        ],
+        "ability": [
+            "Luôn tạo ra những cơ hội hoàn hảo để kích hoạt các sự kiện dâm đãng!"
+        ]
+    },
     "7": {
         "name": [
             "Danger Sense (Trực giác nguy hiểm)"

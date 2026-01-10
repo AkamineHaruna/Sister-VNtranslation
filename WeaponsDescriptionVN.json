@@ -774,5 +774,33 @@
             "Giữ chuột phải để tích lực và bắn \\c[27]Mũi Tên Máu Xuyên Phá\\c[0]",
 		    "Tiêu hao HP để cường hóa mũi tên. Mũi tên khi kết liễu sẽ hút máu"
         ]
+    },
+    "250": {
+        "name": [
+            "Cuốc Đá Địa Ngục"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một chiếc cuốc kỳ dị được gia công và rèn từ Thỏi Đá Địa Ngục",
+            "Với độ cứng đáng kinh ngạc cùng ma lực quấn quanh nó,",
+            "nó có thể đập tan hầu hết mọi vật trên thế giới chỉ bằng một nhát"
+        ],
+        "ability": [
+            "Tăng mạnh sát thương gây ra lên các thực thể có thể phá hủy"
+        ]
+    },
+    "251": {
+        "name": [
+            "Xẻng Đá Địa Ngục"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một chiếc xẻng kỳ dị được gia công và rèn từ Thỏi Đá Địa Ngục",
+            "Với độ cứng đáng kinh ngạc cùng ma lực quấn quanh nó,",
+            "ngay cả mặt đất rắn chắc cũng sẽ bị cưỡng ép xé toạc bên dưới nó"
+        ],
+        "ability": [
+            "Có thể phá vỡ địa hình, tạo ra lối đi xuống các tầng thấp hơn"
+        ]
     }
 }

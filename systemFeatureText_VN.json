@@ -137,6 +137,16 @@
 		"Lưu ý: Đây là một tính năng thử nghiệm, hiệu quả có thể khác nhau tùy theo thiết bị.",
 		"Bạn có thể tắt tính năng này bất cứ lúc nào để khôi phục ngay chất lượng hình ảnh đầy đủ."
 	],
+	"cloudSaveServiceWarning": [
+		"Tính năng này sẽ yêu cầu quyền truy cập vào Google Drive của bạn,",
+		"để có thể lưu các bản save của trò chơi trong thư mục NLCH/save.",
+		"Các bản save được tải lên sẽ được dùng cho việc đồng bộ hóa và tải lại vào trò chơi sau này.",
+		"Bạn có đồng ý cấp quyền cho trò chơi truy cập Google Drive không?"
+	],
+	"uploadSaveFile": [
+		"Việc tải tệp save lên Google Drive sẽ ghi đè dữ liệu save hiện tại của bạn!",
+		"Bạn có muốn tiếp tục không?"
+	],
 	"nearbyMonstersCount": [
 		"Phát hiện quái vật đang ở gần"
 	],
@@ -155,7 +165,8 @@
     	"mapName": " -Đại Lộ Nhà Thám Hiểm- "
   	}, 
   	"ShallowRuinsLabyrinth": {
-    	"mapName": " -Mê Cung Tàn Tích Tầng Nông- "
+    	"mapName": " -Mê Cung Tàn Tích Tầng Nông- ",
+		"mapDescription": " Một mê cung rộng lớn chứa đầy những bí ẩn vô tận "
  	}, 
   	"ForgottenCatacombe": {
     	"mapName": " -Địa Quật Bị Lãng Quên- "
@@ -176,7 +187,8 @@
     	"mapName": " -Cánh Cổng Tinh Quang- "
   	}, 
   	"ScorchingLavaZone": {
-    	"mapName": " -Hoả Diệm Chi Vực- "
+    	"mapName": " -Hoả Diệm Chi Vực- ",
+		"mapDescription": " Một vùng đất bừng cháy được dệt nên từ lửa, nơi những thử thách thiêu đốt vĩnh hằng "
   	}, 
   	"Nibelungen": {
     	"mapName": " -Vùng Đất Nibelungen- "

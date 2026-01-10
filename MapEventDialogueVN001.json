@@ -98,6 +98,501 @@
 			"Liệu có cách nào để bắt được chúng không...?"
 		]	
     },
+	"10": {
+		"objectName": [
+		    "Mysterious Swordswoman"
+		],	  
+		"sentouryoku": [
+		    "?99"
+		],	  
+        "description": [
+            "A cat eared girl from a small village, ",
+			"looking both cute and energetic.",
+			"The katana at her waist hints that ",
+			"she is far from ordinary.",
+			"She travels around seeking duels with ",
+			"strong opponents, though her flashy behavior ",
+			"always makes one worry she might attract ",
+			"some shady adults..."
+		],
+        "1": [
+		    "I’m just here to challenge myself. I’m not really ",
+		    "interested in the truth of the Grand Labyrinth."
+        ],
+        "2": [
+            "That thing you’re carrying is...!",
+            "Are you also a fan of yuusha-sama!?"
+        ],
+        "3": [
+            "A wooden sword of such high quality",
+            "isn’t easy to come by..."
+        ],
+        "4": [
+		    "Um—!",
+			"If you don’t mind..."
+        ],
+        "5": [
+		    "Would you like to spar with me?",
+			"I really want to see how we measure up as rivals."
+        ],
+        "6": [
+		    "Accept",
+			"Decline"
+        ],
+        "7": [
+        	"That’s great!",
+        	"Let’s start right away!"
+        ],
+        "8": [
+		    "I see...",
+			"That’s a shame."
+        ],
+        "9": [
+        	"But if you ever become interested,",
+        	"I’ll be happy to fight you anytime."
+        ],	
+        "10": [
+		    "Born in Shiri Village...",
+			"My ambition is to become a Sword Saint!"
+        ],	
+        "11": [
+		    "\\{…Koko ni mairi mashita!"
+        ],	
+        "12": [
+		    "Ahh... you seem to be alright.",
+			"That’s such a relief!"
+        ],	
+        "13": [
+        	"I’m terribly sorry",
+        	"for proposing such a duel earlier!"
+        ],	
+        "14": [
+		    "It seems I may have gone ",
+			"a bit too far... But!"
+        ],	
+        "15": [
+		    "Since it’s a duel, I’ll give it ",
+			"it my all without holding back."
+        ],
+        "16": [
+		    "Challenge her!",
+			"Never mind"
+        ],
+        "17": [
+		    "That’s some impressive fighting spirit!",
+			"Needless to say, I won’t refuse your challenge!"
+        ],
+        "18": [
+		    "Hah... hah...",
+			"I’ve lost..."
+        ],
+        "19": [
+		    "You’re truly amazing.",
+			"That final strike was beautiful."
+        ],
+        "20": [
+		    "That unpredictable fighting style",
+			"was truly eye opening!"
+        ],
+        "21": [
+        	"Dragging you into such an unreasonable duel",
+        	"without offering any reward feels wrong..."
+        ],
+        "22": [
+          	"Please take this—it's a skill I developed myself.",
+          	"I’m sure it’ll be useful to you!"
+        ],
+        "23": [
+          	"It might sound a bit boastful,",
+          	"but I’m already the strongest in my village."
+        ],
+        "24": [
+         	"Still, thanks to you, I’ve learned that ",
+         	"there’s always someone stronger out there."
+        ],
+        "25": [
+		    "Well then—",
+			"Time to train harder with my sword!!"
+        ]			
+    },
+	"11": {
+		"objectName": [
+		    "Weird Knight"
+		],	  
+		"sentouryoku": [
+		    "???"
+		],	  
+        "description": [
+            "A knight clad in armor that radiates an ominous ",
+			"aura. Because the helmet is tightly sealed, ",
+			"their voice is muffled, making it impossible to ",
+			"determine their gender or age.",
+			"they claims to be a game developer and, ",
+			"in search of creative inspiration, ",
+			"asks adventurers about their journeys ",
+			"and offers material support in return. ",
+			"Also, they seems to know the Abyss well—"
+		],
+        "1": [
+		    "……Ohhh! Have you also come here ",
+		    "in pursuit of the Grand Labyrinth?"
+        ],
+        "2": [
+		    "You may have heard of me—",
+		    "I am but a humble game developer by trade."
+        ],
+        "3": [
+		    "Drawn in by this Grand Labyrinth,",
+		    "I wished to share its mysterious allure with the world."
+        ],
+        "4": [
+    	    "Yet, I must admit with some shame that I am no warrior,",
+    	    "and can only express this passion through creation."
+        ],
+        "5": [
+		    "…Hm?Are you perhaps ",
+			"curious about this armor?"
+        ],
+        "6": [
+		    "Hahaha… It’s nothing more ",
+			"than a personal hobby of mine!"
+        ],
+        "7": [
+		    "By donning such equipment like this,",
+			"I can at least feel somewhat like an adventurer."
+        ],
+        "8": [
+		    "Of course—it’s incredibly heavy!",
+			"In fact, I can barely move under its weight…"
+        ],
+        "9": [
+		    "But even so…!",
+			"I will never give in!"
+        ],
+        "10": [
+    	    "So many heroes and legends gather in this place,",
+    	    "and I must continue gathering inspiration and materials."
+        ],
+        "11": [
+    	    "That being said, if you don’t mind,",
+    	    "would you be willing to try my humble work?"
+        ],
+        "12": [
+		    "I’m certain it will be of help",
+			"in your exploration——"
+        ],
+        "13": [
+		    "…What!? You don’t know who I am,",
+			"and lack a device capable of running games!?"
+        ],
+        "14": [
+		    "Fear not! To prepare for such situations,",
+			"I always carry missionary tools with me!"
+        ],
+        "15": [
+    		"Our meeting here is a kind of fate,",
+    		"so I shall offer the device at cost price!"
+        ],
+        "16": [
+		    "Furthermore, to aid fellow adventurers,",
+			"I also happen to run a small shop——"
+        ],
+        "17": [
+		    "Naturally, this is also because I must",
+			"secure funds to continue development…"
+        ],
+        "18": [
+		    "So if you find yourself interested,",
+			"I would greatly appreciate your patronage!"
+        ],
+        "19": [
+		    "Hahaha, then the pact is sealed.",
+			"I await your thoughts after you have played."
+        ],
+        "20": [
+		    "And should you be willing to share your tales,",
+			"they may yet inspire my future creations."
+        ],		
+        "30": [
+		    "Talk",
+		    "Trade",
+            "Share Tales"
+        ],
+        "31": [
+		    "Oh? We meet again!",
+		    "my fellow."
+        ],
+        "32": [
+		    "We cross paths once more.",
+		    "Well then—",
+			"have you found any interest in ",
+			"taking part in my great undertaking?"
+        ],
+        "33": [
+		    "Well then? Have you ",
+			"taken anything away from my game?"
+        ],
+        "34": [
+    		"So you seek an antidote for your family—",
+    		"A resolve worthy of respect."
+        ],
+        "35": [
+    	    "Regrettably, ",
+			"I must confess my own inadequacy.",
+    	    "Of the alchemical secret known as Elixir Rubrum, ",
+			"I know but little..."
+        ],
+        "36": [
+    	    "At your present level of arms and equipment,",
+    	    "The descent into the Abyss will not be an easy trial."
+        ],
+        "37": [
+    	    "I advise you to prepare more supplies,",
+    	    "Or to take time and study the true nature of your weapons."
+        ],
+        "38": [
+    	    "Many alchemical remnants from bygone eras ",
+			"lie scattered here.",
+    	    "Observe them carefully—",
+			"you may yet uncover their true purpose."
+        ],
+        "39": [
+    	    "I too collect items of practical use.",
+    	    "Should you wish, I would welcome your patronage."
+		],
+        "40": [
+    	    "Among monsters dwell intelligent races, versed in human speech,",
+    	    "Some of whom bear no ill will toward mankind."
+        ],
+        "41": [
+    	    "Should you encounter them on your journey,",
+    	    "Do not be surprised— ",
+			"you may even trade for valuable information.",
+			" "
+        ],
+        "42": [
+		    "Take care on your journey,",
+		    "my fellow."
+        ],
+        "43": [
+		    "There is no need to hurry.",
+		    "Return when the need arises."
+        ],
+        "44": [
+		    "You require \\ii[\\v[84]]?",
+		    "Then the price shall be \\c[6]\\v[85]\\c[0] yen."
+        ],
+        "45": [
+		    "You require \\ii[\\v[84]]?",
+		    "For a fellow kindred, \\c[6]\\v[85]\\c[0] yen will suffice."
+        ],
+        "46": [
+		    "Purchase",
+		    "Leave it"
+        ],
+        "47": [
+		    "May this item Help you ",
+		    "overcome the trials before you."
+        ],
+        "48": [
+		    "A wise decision. May it ",
+		    "serve you well when it matters most."
+        ],
+        "49": [
+		    "You seem somewhat impatient.",
+		    "Even among adventurers, all trades require fair terms."
+        ],
+        "50": [
+		    "Do not force yourself.",
+		    "Return when your purse is better prepared."
+        ],
+        "51": [
+		    "Impressive—you have purchased everything.",
+		    "That is all I can offer for today."
+        ],
+        "52": [
+		    "My stock is now exhausted.",
+		    "That these items found their way to you is satisfaction enough."
+        ],
+        "53": [
+		    "Ah. ",
+			"this oversight is mine.",
+		    "Were you looking for this? ",
+			"To find it at my feet… how curious."
+        ],
+        "54": [
+		    "Now then, Has fortune ",
+		    "brought you anything of interest?"
+        ],
+        "55": [
+		    "(Hmm… there doesn’t seem to be",
+			"anything worth sharing…)"
+        ],
+        "56": [
+		    "Shared some thoughts about ",
+		    "\\str[120] playing Shadow Souls."
+        ],
+        "57": [
+		    "Oh! To receive praise from your family—",
+			"it truly is a great honor for me."
+        ],
+        "58": [
+  		    "With that, I feel even more ",
+  		    "motivated to work on updates."
+        ],
+        "59": [
+			"That said, it seems I still haven’t",
+			"heard your own evaluation yet."
+        ],
+        "60": [
+			"Hm? Big… white…",
+			"nd very soft?"
+        ],
+        "61": [
+			"…Is there really something in my game",
+			"that would inspire such an impression?"
+        ],
+        "62": [
+			"Oh no. I got too absorbed in that ",
+			"sensation and misspoke…"
+        ],
+        "63": [
+		    "Shared information that the mushrooms growing on ",
+		    "walking mushrooms are actually quite tasty."
+        ],
+        "64": [
+		    "Monster cuisine, you say! What a novel idea!",
+		    "As expected of you."
+        ],
+        "65": [
+		    "Shared information that the strange birds in the dungeon",
+		    "have extremely noisy cries."
+        ],
+        "66": [
+		    "A juvenile Garuda, perhaps… I wonder which would be ",
+		    "more overwhelming compared to the legendary dragon roar."
+        ],
+        "67": [
+		    "Shared information that orc meat",
+		    "is remarkably delicious."
+        ],
+        "68": [
+		    "Shared information about a hidden passage in the Labyrinth",
+		    "that connects to the outside world."
+        ],
+        "69": [
+  		    "It looks like a passage left behind by a previous engineering team.",
+  		    "I heard they once planned to excavate the entire Labyrinth."
+        ],
+        "70": [
+  	  	    "However, the project suddenly stalled halfway through.",
+  	   	    "No one knows what kind of trouble they ran into."
+        ],
+        "71": [
+		    "Shared information about a strange mushroom house",
+		    "at the end of the forest where people get lost."
+        ],
+        "72": [
+  	    	"I’ve heard many adventurers lose their way inside…",
+  	    	"but as expected of you, you managed to make it through safely."
+        ],
+        "73": [
+  	    	"As for that enormous mushroom house…",
+  	    	"it certainly makes one curious what kind of creature lives within."
+        ],
+        "74": [
+      	    "Shared an experience of unfortunately",
+      	    "falling into a pit inside the dungeon."
+        ],
+        "75": [
+    	    "Hahaha…! That truly is an embarrassing experience.",
+    	    "As an adventurer, one must always be aware of their surroundings."
+        ],
+        "76": [
+  	    	"Shared information about discovering a mech",
+  	        "in an unknown area."
+        ],
+        "77": [
+		    "I see… what a remarkable encounter. As expected,",
+			"the Great Labyrinth still hides traces of ancient civilizations."
+        ],
+        "78": [
+		    "…So it has already vanished.",
+			"I have no reason to doubt your account."
+        ],
+        "79": [
+  		    "This must be a matter of fate.",
+  		    "Someday, it will surely appear once again."
+        ],
+        "80": [
+		    "Shared information that jelly made from slimes",
+			"surprisingly has quite a good texture."
+        ],
+        "81": [
+		    "Oh, my fellow!",
+			"Come and take this!"
+        ],
+        "82": [
+		    "During these days, you’ve given me ",
+			"quite a lot of interesting inspiration.",
+			"If I didn’t offer at least a small token of thanks, ",
+			"it would hardly feel right."
+        ],
+        "83": [
+		    "This is an outfit I personally designed",
+			"for promoting the game.",
+			"Please accept it as a gift that ",
+			"represents my appreciation."
+        ],
+        "84": [
+		    "(Huh... a bonus T-shirt...?",
+			"W-what should I do...)"
+        ],
+        "85": [
+		    "(I really don’t want to wear ",
+			"something like this outside...",
+			"I wonder if \\str[120] would like ",
+			"this kind of outfit...)"
+        ]		
+    },
+	"12": {
+		"objectName": [
+		    "Vending Machine"
+		],	  
+		"sentouryoku": [
+		    "1"
+		],	  
+        "description": [
+            "It seems to be a machine operated and ",
+			"managed by the Maid Bunny.",
+			"It’s not entirely clear why monsters would want ",
+			"to imitate humans and run a business,",
+			"but everyone has naturally come to accept it.",
+			"By the way, carrot milk has the worst reviews."
+		],
+		"1": [
+			"A strange vending machine...",
+			"A bottle of drink... \\c[6]\\v[86]\\c[0] yen."
+        ],
+        "2": [
+			"Buy one",
+			"Never mind"
+        ],
+        "3": [
+			"No...",
+			"I don't have enough money..."
+        ],
+        "4": [
+			"\"Due to damage by unknown individuals, ",
+			"a temporary repair penalty has been added...\"",
+			"Until the penalty is fully paid... ",
+			"a bottle of drink... \\c[6]\\v[86]\\c[0] yen!?"
+        ],
+        "5": [
+			"(There’s already…",
+			"no drinks left inside.)"
+        ]	
+    },
 	"13": {
 		"objectName": [
 		    "Shione"
@@ -281,7 +776,23 @@
             "Tuy nhiên, nó ngon, trở thành mục tiêu yêu thích ",
 			"của cả mạo hiểm giả lẫn đầu bếp."
 		]	
-    },	  
+    },
+	"47": {
+		"objectName": [
+			"\\c[114]Cánh Cửa Vì Sao"
+		],
+		"sentouryoku": [
+			"1"
+		],
+		"description": [
+			"Một cánh cửa có thể đi qua được triệu hồi bởi Tarot Ngôi Sao.",
+			"Những vì sao được tin là sẽ dẫn lối người ta trở về nhà.",
+			"Bước qua cánh cửa này sẽ đưa lữ khách ",
+			"trở về một khu vực an toàn. Các mạo hiểm giả thường sử dụng nó ",
+			"để quay lại nghỉ ngơi, hoặc tạm thời rút lui ",
+			"khi tình hình trở nên bất lợi."
+		]
+	},
   	"51": {
 		"objectName": [
 		    "\\c[116]Orc Nhỏ"

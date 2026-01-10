@@ -11,6 +11,17 @@
 			"\\w[120]"
         ]
     },
+    "usingItem": {
+        "0": [
+            "Đã lấy ra \\ii[\\v[90]]  ",
+            "nên làm gì đây…?"
+        ],
+        "1": [
+            "Dùng",
+            "Thôi vậy",
+            "Vứt bỏ"
+        ]
+    },
     "Abyss": {
         "0": [
             " Tòa Tháp Vĩnh Hằng Bị Ruồng Bỏ "
@@ -99,6 +110,21 @@
             "Nghiêm cấm câu cá bằng boom!",
             "Làm thì phải tự gánh hậu quả!"
         ]
+    },
+    "nekoTruck": {
+        "0": [
+            "Muốn mua \\v[84] không?",
+            "Giá là \\c[6]\\v[85]\\c[0] yên!"
+        ],
+        "1": [
+            "Mua!",
+            "Thôi vậy…",
+            "Lén lấy…"
+        ],
+        "10": "Không có làn đường đủ rộng!",
+        "11": "Có chướng ngại vật trên làn đường!",
+        "12": "Cỗ Xe đã được triệu hồi thành công!",
+        "13": "Không thể triệu hồi Cỗ Xe ở khu vực này!"
     },
     "sela": {
 		"1": [

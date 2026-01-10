@@ -182,11 +182,14 @@
         ],
         "subtitle": "",
         "description": [
-            ""
+            "\"Ngay cả ở thế hệ thứ năm, các giới hạn của vật chất hóa linh hồn vẫn ngăn cản",
+            " người chơi trực tiếp đưa ý thức của mình vào.\""
 
         ],
         "ability": [
-            ""
+            "Một thiết bị giải trí kỳ lạ được các nhà giả kim tái tạo từ ",
+            "những mảnh văn bản cổ. Nó khá nổi tiếng trong giới mạo hiểm giả,",
+            "nhưng quy trình chế tạo phức tạp khiến nó trở nên cực kỳ hiếm."
         ]
     },
     "16": {
@@ -195,7 +198,11 @@
         ],
         "subtitle": "",
         "description": [
-            ""
+            "Gói mở rộng cho Shadow Souls.",
+            "Tác phẩm được hiệp sĩ tự tin phát hành sau khi phỏng vấn ",
+            "một số lượng lớn các mạo hiểm giả và những trải nghiệm của họ.",
+            "Đầy ắp những quái vật và màn chơi tàn bạo đến khó tin,",
+            "nhưng người chơi vẫn ùn ùn kéo đến…"
 
         ],
         "ability": [
@@ -204,13 +211,13 @@
     },	
     "17": {
         "name": [
-            "Ahoge Của Em Gái"
+            "Ahoge Của \\str[120]"
         ],
         "subtitle": "",
         "description": [
-            "Một sợi ahoge nhổ ra từ đầu em gái tôi,",
-            "nhưng có vẻ em ấy không để ý... Sợi ahoge này vẫn kiên trì",
-            "dựng đứng và có một độ đàn hồi kỳ lạ"
+            "Một sợi ahoge được lén nhổ khỏi đầu \\str[120],",
+            "dường như cô ấy hoàn toàn không hay biết… Ngay cả khi đã tách khỏi chủ nhân,",
+            "nó vẫn cứng đầu dựng thẳng nhờ vào độ đàn hồi khó hiểu của mình."
         ],
         "ability": ""
     },
@@ -220,7 +227,9 @@
         ],
         "subtitle": "",
         "description": [
-            ""
+            "Một món đồ chơi vịt cao su không rõ vì sao bị bỏ lại đơn độc trong lòng kênh.",
+            "Có lẽ vì một cơn đồng cảm bất chợt, nó đã được nhặt lên.",
+            "\\str[120] chắc hẳn sẽ thích nó…"
 
         ],
         "ability": [
@@ -233,7 +242,8 @@
         ],
         "subtitle": "",
         "description": [
-            ""
+            "Một chiếc quạt điện nhỏ với mẫu mã lỗi thời và luồng gió khá yếu.",
+            "Nhưng so với nó, việc sử dụng ma pháp làm mát còn tốn kém hơn nhiều…"
 
         ],
         "ability": [
@@ -613,6 +623,21 @@
         ],
         "ability": [
             "Khi sử dụng, triệu hồi một máy gacha"
+        ]
+    },
+    "62": {
+        "name": [
+            "Tòa Tháp"
+        ],
+        "subtitle": [
+            "\"Lời mời đến yến tiệc Vực Sâu\""
+        ],
+        "description": [
+            "Một thẻ ma pháp được yểm phép. Được thiết kế để",
+            "ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng của nó"
+        ],
+        "ability": [
+            "Khi sử dụng, triệu hồi Trụ Bị Phong Ấn"
         ]
     },
     "63": {
@@ -1155,6 +1180,18 @@
         ],
         "ability": ""
     },
+    "139": {
+        "name": [
+            "X△X"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một con Sacabambaspis đã mất đi sinh khí sau khi bị cuốn vào một vụ nổ",
+            "Có lẽ nó chưa bao giờ tưởng tượng rằng mong muốn được “nhìn thấy đất liền” ",
+            "lại được thực hiện theo cách này..."
+        ],
+        "ability": ""
+    },
     "142": {
         "name": [
             "Cá Hồi"
@@ -1336,7 +1373,24 @@
         "ability": [
             ""
         ]
-    },		
+    },
+    "198": {
+        "name": [
+            "Áo thun của \\str[120]"
+        ],
+        "subtitle": [
+            "\"Hiệp sĩ-sama...! Trên đó còn có cả chữ ký nữa...!\""
+        ],
+        "description": [
+            "Một chiếc áo thun quà tặng nhận được từ Hiệp sĩ, ",
+            "hiện được \\str[120] dùng làm đồ ngủ.",
+            "Kiểu dáng rộng mang lại cho cô ấy một vẻ quyến rũ đầy sơ hở.",
+            "Để tránh phải giặt, cô chỉ mặc nó khi tâm trạng rất tốt."
+        ],
+        "ability": [
+            ""
+        ]
+    },
     "199": {
         "name": [
             "Phiếu Thưởng của \\str[120]"
@@ -1870,6 +1924,34 @@
             "Một viên đá quý đỏ tỏa ra ánh sáng mê hoặc.",
             "Tuy không có nhiều giá trị thực tiễn, nhưng có lẽ ai đó sẽ sẵn sàng trả",
             "một cái giá cao cho nó… hay họ có ý đồ toan tính khác?"
+        ],
+        "ability": ""
+    },
+    "315": {
+        "name": [
+            "Biên lai phạt của Neko"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một tờ biên lai phạt nhận được sau khi bị đánh ngay tại chỗ vì lấy hàng ",
+            "mà không xin phép. Đúng là tôi ra tay trước, nhưng sau khi bị cho một trận, ",
+            "một phần tiền trên người tôi cũng bị cưỡng ép lấy đi.",
+            "Cách xử lý như vậy cảm giác khá là tàn bạo…"
+        ],
+        "ability": ""
+    },
+    "320": {
+        "name": [
+            "Đá Địa Ngục"
+        ],
+        "subtitle": [
+            "\"Nhà mạo hiểm giả đầu tiên khai thác và mang nó ra ngoài tên là Kyurame.",
+            "Anh ta đã từ chối việc đặt tên theo mình vì nghe quá chuuni—\""
+        ],
+        "description": [
+            "Một loại quặng đặc biệt chỉ được tìm thấy ở những tầng sâu của Vực Sâu.",
+            "Nó chứa nguồn ma lực bỏng rát, nhưng lại cứng một cách khác thường, ",
+            "và chỉ có thể được khai thác cũng như gia công bằng những phương pháp nhất định."
         ],
         "ability": ""
     }
