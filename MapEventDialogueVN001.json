@@ -100,497 +100,497 @@
     },
 	"10": {
 		"objectName": [
-		    "Mysterious Swordswoman"
+		    "Nữ Kiếm Sĩ Bí Ẩn"
 		],	  
 		"sentouryoku": [
 		    "?99"
 		],	  
         "description": [
-            "A cat eared girl from a small village, ",
-			"looking both cute and energetic.",
-			"The katana at her waist hints that ",
-			"she is far from ordinary.",
-			"She travels around seeking duels with ",
-			"strong opponents, though her flashy behavior ",
-			"always makes one worry she might attract ",
-			"some shady adults..."
+            "Một cô gái tai mèo đến từ một ngôi làng nhỏ, ",
+			"trông vừa dễ thương vừa tràn đầy sức sống.",
+			"Thanh katana bên hông cô cho thấy ",
+			"cô hoàn toàn không hề tầm thường.",
+			"Cô phiêu bạt khắp nơi để tìm kiếm những trận quyết đấu ",
+			"với các đối thủ mạnh, nhưng phong cách quá nổi bật ",
+			"của cô luôn khiến người ta lo rằng cô có thể thu hút ",
+			"những kẻ đáng ngờ nào đó..."
 		],
         "1": [
-		    "I’m just here to challenge myself. I’m not really ",
-		    "interested in the truth of the Grand Labyrinth."
+		    "Tôi chỉ đến đây để thử thách bản thân thôi. Tôi không hẳn",
+		    "hứng thú với sự thật đằng sau Đại Mê Cung đâu."
         ],
         "2": [
-            "That thing you’re carrying is...!",
-            "Are you also a fan of yuusha-sama!?"
+            "Thứ anh đang mang theo kia là...!",
+            "Chẳng lẽ anh cũng là fan của yuusha-sama sao!?"
         ],
         "3": [
-            "A wooden sword of such high quality",
-            "isn’t easy to come by..."
+            "Một thanh kiếm gỗ có chất lượng cao như vậy",
+            "đâu phải dễ kiếm…..."
         ],
         "4": [
 		    "Um—!",
-			"If you don’t mind..."
+			"Nếu anh không phiền thì..."
         ],
         "5": [
-		    "Would you like to spar with me?",
-			"I really want to see how we measure up as rivals."
+		    "Anh có muốn đấu tập với tôi không? Tôi thật sự rất muốn xem",
+			"chúng ta so tài với tư cách đối thủ thì sẽ thế nào."
         ],
         "6": [
-		    "Accept",
-			"Decline"
+		    "Chấp nhận",
+			"Từ chối"
         ],
         "7": [
-        	"That’s great!",
-        	"Let’s start right away!"
+        	"Tuyệt quá!",
+        	"Vậy bắt đầu ngay thôi!"
         ],
         "8": [
-		    "I see...",
-			"That’s a shame."
+		    "Ra vậy…...",
+			"tiếc thật.."
         ],
         "9": [
-        	"But if you ever become interested,",
-        	"I’ll be happy to fight you anytime."
+        	"Nhưng nếu sau này anh có hứng thú,",
+        	"tôi luôn sẵn sàng đấu với anh bất cứ lúc nào."
         ],	
         "10": [
-		    "Born in Shiri Village...",
-			"My ambition is to become a Sword Saint!"
+		    "Sinh ra tại Làng Shiri...",
+			"Tham vọng của tôi là trở thành Thánh Kiếm!"
         ],	
         "11": [
 		    "\\{…Koko ni mairi mashita!"
         ],	
         "12": [
-		    "Ahh... you seem to be alright.",
-			"That’s such a relief!"
+		    "Ahh... trông anh vẫn ổn cả.",
+			"Thật là nhẹ nhõm quá!"
         ],	
         "13": [
-        	"I’m terribly sorry",
-        	"for proposing such a duel earlier!"
+        	"Tôi thật sự xin lỗi vì đã đề nghị",
+        	"trận đấu như vậy lúc nãy!"
         ],	
         "14": [
-		    "It seems I may have gone ",
-			"a bit too far... But!"
+		    "Có vẻ tôi đã hơi ",
+			"quá đà rồi... Nhưng mà!"
         ],	
         "15": [
-		    "Since it’s a duel, I’ll give it ",
-			"it my all without holding back."
+		    "Đã là quyết đấu thì tôi sẽ dốc toàn lực ",
+			"không hề nương tay đâu."
         ],
         "16": [
-		    "Challenge her!",
-			"Never mind"
+		    "Thách đấu cô ấy!",
+			"Thôi vậy"
         ],
         "17": [
-		    "That’s some impressive fighting spirit!",
-			"Needless to say, I won’t refuse your challenge!"
+		    "Tinh thần chiến đấu thật đáng khâm phục!",
+			"Khỏi phải nói, tôi sẽ không từ chối lời thách đấu của anh!"
         ],
         "18": [
 		    "Hah... hah...",
-			"I’ve lost..."
+			"Tôi thua rồi..."
         ],
         "19": [
-		    "You’re truly amazing.",
-			"That final strike was beautiful."
+		    "Anh thật sự rất lợi hại.",
+			"Đòn đánh cuối cùng ấy đẹp đến mức hoàn hảo."
         ],
         "20": [
-		    "That unpredictable fighting style",
-			"was truly eye opening!"
+		    "Lối chiến đấu khó đoán đó",
+			"đúng là mở mang tầm mắt cho tôi!"
         ],
         "21": [
-        	"Dragging you into such an unreasonable duel",
-        	"without offering any reward feels wrong..."
+        	"Kéo anh vào một trận quyết đấu vô lý như vậy",
+        	"mà lại không có phần thưởng gì thì thật là thất lễ."
         ],
         "22": [
-          	"Please take this—it's a skill I developed myself.",
-          	"I’m sure it’ll be useful to you!"
+          	"Xin hãy nhận lấy thứ này—đó là kỹ năng do chính tôi tự phát triển.",
+          	"Tôi chắc chắn nó sẽ rất hữu ích cho anh!"
         ],
         "23": [
-          	"It might sound a bit boastful,",
-          	"but I’m already the strongest in my village."
+          	"Nghe có hơi tự mãn,",
+          	"nhưng hiện tại tôi đã là người mạnh nhất trong làng mình rồi."
         ],
         "24": [
-         	"Still, thanks to you, I’ve learned that ",
-         	"there’s always someone stronger out there."
+         	"Dẫu vậy, nhờ có anh mà tôi học được rằng ",
+         	"ngoài kia luôn có những kẻ còn mạnh hơn."
         ],
         "25": [
-		    "Well then—",
-			"Time to train harder with my sword!!"
+		    "Vậy thì—",
+			"đã đến lúc tôi phải luyện kiếm chăm chỉ hơn nữa rồi!!"
         ]			
     },
 	"11": {
 		"objectName": [
-		    "Weird Knight"
+		    "Hiệp Sĩ Kỳ Lạ"
 		],	  
 		"sentouryoku": [
 		    "???"
 		],	  
         "description": [
-            "A knight clad in armor that radiates an ominous ",
-			"aura. Because the helmet is tightly sealed, ",
-			"their voice is muffled, making it impossible to ",
-			"determine their gender or age.",
-			"they claims to be a game developer and, ",
-			"in search of creative inspiration, ",
-			"asks adventurers about their journeys ",
-			"and offers material support in return. ",
-			"Also, they seems to know the Abyss well—"
+            "Một hiệp sĩ khoác trên mình bộ giáp tỏa ra một bầu",
+			"không khí đáng sợ. Vì chiếc mũ giáp được bịt kín ",
+			"hoàn toàn, giọng nói của họ bị bóp nghẹt,",
+			"không thể xác định giới tính hay tuổi tác.",
+			"Họ tự xưng là một nhà phát triển game và để tìm kiếm",
+			"cảm hứng sáng tạo, thường hỏi các nhà thám hiểm",
+			"về những chuyến hành trình của họ ",
+			"và đổi lại sẽ cung cấp sự hỗ trợ về vật chất. ",
+			"Ngoài ra, họ dường như cũng rất am hiểu về Vực Thẳm—"
 		],
         "1": [
-		    "……Ohhh! Have you also come here ",
-		    "in pursuit of the Grand Labyrinth?"
+		    "……Ohhh! Cậu cũng đến đây để ",
+		    "truy tìm Đại Mê Cung à? "
         ],
         "2": [
-		    "You may have heard of me—",
-		    "I am but a humble game developer by trade."
+		    "Có lẽ anh bạn đã từng nghe qua về tôi—",
+		    "tôi chỉ là một nhà phát triển game bình thường mà thôi."
         ],
         "3": [
-		    "Drawn in by this Grand Labyrinth,",
-		    "I wished to share its mysterious allure with the world."
+		    "Bị sức hút của Đại Mê Cung này cuốn lấy,",
+		    "tôi mong muốn có thể chia sẻ vẻ huyền bí của nó cho cả thế giới."
         ],
         "4": [
-    	    "Yet, I must admit with some shame that I am no warrior,",
-    	    "and can only express this passion through creation."
+    	    "Tuy nhiên, cũng phải thú nhận một cách xấu hổ rằng tôi không phải",
+    	    "là một chiến binh, và chỉ có thể bày tỏ niềm đam mê ấy thông qua việc sáng tạo."
         ],
         "5": [
-		    "…Hm?Are you perhaps ",
-			"curious about this armor?"
+		    "…Hm?Anh bạn đang tò mò ",
+			"về bộ giáp này sao?"
         ],
         "6": [
-		    "Hahaha… It’s nothing more ",
-			"than a personal hobby of mine!"
+		    "Hahaha… Chỉ là một sở thích ",
+			"cá nhân nho nhỏ của tôi thôi!"
         ],
         "7": [
-		    "By donning such equipment like this,",
-			"I can at least feel somewhat like an adventurer."
+		    "Khoác lên những trang bị như thế này,",
+			"ít nhất tôi cũng có thể cảm thấy mình giống một nhà thám hiểm phần nào."
         ],
         "8": [
-		    "Of course—it’s incredibly heavy!",
-			"In fact, I can barely move under its weight…"
+		    "Tất nhiên là—nó nặng khủng khiếp thật!",
+			"Thực tế là tôi gần như không thể cử động nổi dưới sức nặng ấy…"
         ],
         "9": [
-		    "But even so…!",
-			"I will never give in!"
+		    "Nhưng dù là vậy…!",
+			"Tôi sẽ không bao giờ bỏ cuộc!"
         ],
         "10": [
-    	    "So many heroes and legends gather in this place,",
-    	    "and I must continue gathering inspiration and materials."
+    	    "Biết bao anh hùng và huyền thoại hội tụ tại nơi này,",
+    	    "và tôi phải tiếp tục thu thập cảm hứng cùng tư liệu."
         ],
         "11": [
-    	    "That being said, if you don’t mind,",
-    	    "would you be willing to try my humble work?"
+    	    "Đã nói vậy rồi, nếu cậu không phiền,",
+    	    "anh bạn có sẵn lòng thử tác phẩm khiêm tốn của tôi không? "
         ],
         "12": [
-		    "I’m certain it will be of help",
-			"in your exploration——"
+		    "Tôi tin chắc nó sẽ giúp ích",
+			"cho hành trình thám hiểm của cậu—"
         ],
         "13": [
-		    "…What!? You don’t know who I am,",
-			"and lack a device capable of running games!?"
+		    "…Cái gì!? Cậu không biết tôi là ai,",
+			"lại còn không có thiết bị để chơi game á!? "
         ],
         "14": [
-		    "Fear not! To prepare for such situations,",
-			"I always carry missionary tools with me!"
+		    "Đừng lo! Để đề phòng những tình huống như thế này, ",
+			"tôi lúc nào cũng mang theo bộ dụng cụ truyền giáo bên mình! "
         ],
         "15": [
-    		"Our meeting here is a kind of fate,",
-    		"so I shall offer the device at cost price!"
+    		"Cuộc gặp gỡ của chúng ta ở đây cũng xem như là một loại duyên phận,",
+    		"nên tôi sẽ nhượng lại thiết bị với giá gốc! "
         ],
         "16": [
-		    "Furthermore, to aid fellow adventurers,",
-			"I also happen to run a small shop——"
+		    "Hơn nữa, để hỗ trợ các nhà thám hiểm đồng hành,",
+			"tôi cũng tiện thể mở một cửa hàng nhỏ— "
         ],
         "17": [
-		    "Naturally, this is also because I must",
-			"secure funds to continue development…"
+		    "Tất nhiên, điều này cũng là để tôi có thể",
+			"xoay đủ vốn tiếp tục phát triển nữa…"
         ],
         "18": [
-		    "So if you find yourself interested,",
-			"I would greatly appreciate your patronage!"
+		    "Vì vậy, nếu anh bạn thấy hứng thú,",
+			"tôi sẽ vô cùng cảm kích nếu cậu ghé ủng hộ! "
         ],
         "19": [
-		    "Hahaha, then the pact is sealed.",
-			"I await your thoughts after you have played."
+		    "Hahaha, vậy thì thỏa ước đã được thành lập.",
+			"Tôi mong được nghe cảm nhận của cậu sau khi trải nghiệm."
         ],
         "20": [
-		    "And should you be willing to share your tales,",
-			"they may yet inspire my future creations."
+		    "Và nếu anh sẵn lòng chia sẻ những câu chuyện hành trình của mình,",
+			"biết đâu chúng sẽ trở thành nguồn cảm hứng cho những sáng tác sau này của tôi."
         ],		
         "30": [
-		    "Talk",
-		    "Trade",
-            "Share Tales"
+		    "Trò chuyện",
+		    "Giao dịch",
+            "Chia sẻ hành trình"
         ],
         "31": [
-		    "Oh? We meet again!",
-		    "my fellow."
+		    "Oh? Lại gặp nhau rồi này!",
+		    "Người anh em của tôi."
         ],
         "32": [
-		    "We cross paths once more.",
-		    "Well then—",
-			"have you found any interest in ",
-			"taking part in my great undertaking?"
+		    "Chúng ta lại chạm mặt lần nữa rồi.",
+		    "Vậy thì—",
+			"cậu có nảy sinh hứng thú muốn tham gia ",
+			"vào sự nghiệp vĩ đại của tôi chưa?"
         ],
         "33": [
-		    "Well then? Have you ",
-			"taken anything away from my game?"
+		    "Vậy sao rồi? Anh đã rút ra được điều gì ",
+			"từ trò chơi của tôi chưa?"
         ],
         "34": [
-    		"So you seek an antidote for your family—",
-    		"A resolve worthy of respect."
+    		"Ra là cậu đang tìm thuốc giải cho gia đình mình—",
+    		"một quyết tâm thật đáng kính trọng."
         ],
         "35": [
-    	    "Regrettably, ",
-			"I must confess my own inadequacy.",
-    	    "Of the alchemical secret known as Elixir Rubrum, ",
-			"I know but little..."
+    	    "Đáng tiếc thay, ",
+			"tôi cũng phải thú nhận sự bất lực của bản thân.",
+    	    "Về bí thuật giả kim được gọi là Elixir Rubrum, ",
+			"tôi chỉ biết rất ít..."
         ],
         "36": [
-    	    "At your present level of arms and equipment,",
-    	    "The descent into the Abyss will not be an easy trial."
+    	    "Với trình độ chiến đấu và trang bị hiện tại của cậu,",
+    	    "việc tiến sâu xuống Vực Thẳm sẽ không phải là một thử thách dễ dàng đâu."
         ],
         "37": [
-    	    "I advise you to prepare more supplies,",
-    	    "Or to take time and study the true nature of your weapons."
+    	    "Tôi khuyên anh bạn nên chuẩn bị thêm vật tư,",
+    	    "hoặc dành thời gian nghiên cứu kỹ vũ khí mình đang sử dụng."
         ],
         "38": [
-    	    "Many alchemical remnants from bygone eras ",
-			"lie scattered here.",
-    	    "Observe them carefully—",
-			"you may yet uncover their true purpose."
+    	    "Rất nhiều tàn tích giả kim từ thời đại xa xưa ",
+			"đang nằm rải rác tại nơi này.",
+    	    "Hãy quan sát chúng cẩn thận—",
+			"biết đâu cậu sẽ khám phá ra mục đích thực sự của chúng."
         ],
         "39": [
-    	    "I too collect items of practical use.",
-    	    "Should you wish, I would welcome your patronage."
+    	    "Bản thân tôi cũng sưu tầm những vật phẩm có tính thực dụng.",
+    	    "Nếu anh bạn có nhu cầu, tôi rất hân hạnh khi được cậu ủng hộ."
 		],
         "40": [
-    	    "Among monsters dwell intelligent races, versed in human speech,",
-    	    "Some of whom bear no ill will toward mankind."
+    	    "Giữa loài quái vật cũng tồn tại những chủng tộc có trí tuệ,",
+    	    "thông thạo ngôn ngữ của con người, và một số trong đó không hề mang ác ý với nhân loại."
         ],
         "41": [
-    	    "Should you encounter them on your journey,",
-    	    "Do not be surprised— ",
-			"you may even trade for valuable information.",
+    	    "Nếu anh bạn chạm trán họ trên hành trình,",
+    	    "đừng lấy làm ngạc nhiên— ",
+			"cậu thậm chí còn có thể trao đổi để lấy những thông tin quý giá.",
 			" "
         ],
         "42": [
-		    "Take care on your journey,",
-		    "my fellow."
+		    "Hãy cẩn thận trên chuyến hành trình của cậu,",
+		    "Người anh em của tôi."
         ],
         "43": [
-		    "There is no need to hurry.",
-		    "Return when the need arises."
+		    "Không cần phải vội vàng thế.",
+		    "Khi nào cần thì hãy quay lại."
         ],
         "44": [
-		    "You require \\ii[\\v[84]]?",
-		    "Then the price shall be \\c[6]\\v[85]\\c[0] yen."
+		    "Anh bạn cần \\ii[\\v[84]] à?",
+		    "Vậy giá sẽ là \\c[6]\\v[85]\\c[0] yên nhé."
         ],
         "45": [
-		    "You require \\ii[\\v[84]]?",
-		    "For a fellow kindred, \\c[6]\\v[85]\\c[0] yen will suffice."
+		    "Anh bạn cần \\ii[\\v[84]] à?",
+		    "Chỗ anh em quen biết, lấy \\c[6]\\v[85]\\c[0] yên thôi."
         ],
         "46": [
-		    "Purchase",
-		    "Leave it"
+		    "Mua",
+		    "Thôi vậy"
         ],
         "47": [
-		    "May this item Help you ",
-		    "overcome the trials before you."
+		    "Mong rằng vật phẩm này sẽ giúp cậu ",
+		    "vượt qua những thử thách phía trước."
         ],
         "48": [
-		    "A wise decision. May it ",
-		    "serve you well when it matters most."
+		    "Một quyết định sáng suốt. Hy vọng ",
+		    "nó sẽ phát huy tác dụng đúng lúc cậu cần nhất."
         ],
         "49": [
-		    "You seem somewhat impatient.",
-		    "Even among adventurers, all trades require fair terms."
+		    "Có vẻ cậu hơi vội vàng. Dù là giữa các nhà thám hiểm,",
+		    "mọi giao dịch cũng cần những điều khoản công bằng."
         ],
         "50": [
-		    "Do not force yourself.",
-		    "Return when your purse is better prepared."
+		    "Đừng ép bản thân quá.",
+		    "Hãy quay lại khi ví của anh bạn đã sẵn sàng hơn."
         ],
         "51": [
-		    "Impressive—you have purchased everything.",
-		    "That is all I can offer for today."
+		    "Thật ấn tượng, anh bạn đã mua hết toàn bộ.",
+		    "Hôm nay tôi chỉ có thể cung cấp đến vậy thôi."
         ],
         "52": [
-		    "My stock is now exhausted.",
-		    "That these items found their way to you is satisfaction enough."
+		    "Hàng hóa của tôi đã cạn.",
+		    "Việc những món đồ này tìm được đến tay cậu đã là đã thỏa mãn rồi."
         ],
         "53": [
 		    "Ah. ",
-			"this oversight is mine.",
-		    "Were you looking for this? ",
-			"To find it at my feet… how curious."
+			"Do sơ suất của tôi rồi.",
+		    "Cậu đang tìm thứ này sao? ",
+			"Nó lại nằm ngay dưới chân tôi… thật kỳ lạ."
         ],
         "54": [
-		    "Now then, Has fortune ",
-		    "brought you anything of interest?"
+		    "Vậy thì, vận may có mang đến ",
+		    "cho anh bạn điều gì thú vị không?"
         ],
         "55": [
-		    "(Hmm… there doesn’t seem to be",
-			"anything worth sharing…)"
+		    "(Hmm… hình như chẳng có gì",
+			"đáng để chia sẻ…)"
         ],
         "56": [
-		    "Shared some thoughts about ",
-		    "\\str[120] playing Shadow Souls."
+		    "Đã chia sẻ vài suy nghĩ về việc ",
+		    "\\str[120] chơi Shadow Souls."
         ],
         "57": [
-		    "Oh! To receive praise from your family—",
-			"it truly is a great honor for me."
+		    "Oh! Được gia đình cậu khen ngợi—",
+			"đó thực sự là một vinh dự lớn đối với tôi."
         ],
         "58": [
-  		    "With that, I feel even more ",
-  		    "motivated to work on updates."
+  		    "Như vậy càng khiến tôi có thêm động lực ",
+  		    "để tiếp tục phát triển các bản cập nhật."
         ],
         "59": [
-			"That said, it seems I still haven’t",
-			"heard your own evaluation yet."
+			"Nói vậy chứ, hình như tôi vẫn chưa",
+			"nghe được đánh giá của chính anh bạn thì phải."
         ],
         "60": [
-			"Hm? Big… white…",
-			"nd very soft?"
+			"Hm? To… trắng…",
+			"và rất mềm?"
         ],
         "61": [
-			"…Is there really something in my game",
-			"that would inspire such an impression?"
+			"…Trong trò chơi của tôi thật sự có thứ gì",
+			"có thể gợi lên ấn tượng như thế à?"
         ],
         "62": [
-			"Oh no. I got too absorbed in that ",
-			"sensation and misspoke…"
+			"Ôi chết. Tôi mải đắm chìm trong ",
+			"cảm giác đó quá nên lỡ lời rồi…"
         ],
         "63": [
-		    "Shared information that the mushrooms growing on ",
-		    "walking mushrooms are actually quite tasty."
+		    "Đã chia sẻ thông tin rằng những cây nấm mọc ",
+		    "trên nấm biết đi thực ra khá là ngon."
         ],
         "64": [
-		    "Monster cuisine, you say! What a novel idea!",
-		    "As expected of you."
+		    "Ẩm thực quái vật, sao! Một ý tưởng thật mới lạ!",
+		    "Quả nhiên là anh bạn."
         ],
         "65": [
-		    "Shared information that the strange birds in the dungeon",
-		    "have extremely noisy cries."
+		    "Đã chia sẻ thông tin rằng những con chim kỳ lạ",
+		    "trong hầm ngục có tiếng kêu cực kỳ ồn ào."
         ],
         "66": [
-		    "A juvenile Garuda, perhaps… I wonder which would be ",
-		    "more overwhelming compared to the legendary dragon roar."
+		    "Có lẽ là một Garuda non chăng… Không biết so với tiếng gầm ",
+		    "rồng huyền thoại thì bên nào sẽ kinh khủng hơn nhỉ."
         ],
         "67": [
-		    "Shared information that orc meat",
-		    "is remarkably delicious."
+		    "Đã chia sẻ thông tin rằng thịt orc",
+		    "ngon một cách đáng kinh ngạc."
         ],
         "68": [
-		    "Shared information about a hidden passage in the Labyrinth",
-		    "that connects to the outside world."
+		    "Đã chia sẻ thông tin về một lối đi bí mật trong Mê Cung",
+		    "nối thẳng ra bên ngoài."
         ],
         "69": [
-  		    "It looks like a passage left behind by a previous engineering team.",
-  		    "I heard they once planned to excavate the entire Labyrinth."
+  		    "Có vẻ đó là con đường để lại bởi một đội kỹ sư từ trước.",
+  		    "Tôi nghe nói họ từng có kế hoạch đào xuyên toàn bộ Mê Cung."
         ],
         "70": [
-  	  	    "However, the project suddenly stalled halfway through.",
-  	   	    "No one knows what kind of trouble they ran into."
+  	  	    "Thế nhưng dự án đột ngột bị đình trệ giữa chừng.",
+  	   	    "Không ai biết họ đã gặp phải rắc rối gì nữa."
         ],
         "71": [
-		    "Shared information about a strange mushroom house",
-		    "at the end of the forest where people get lost."
+		    "Đã chia sẻ thông tin về một ngôi nhà nấm kỳ lạ",
+		    "nằm sâu trong khu rừng, nơi người ta thường bị lạc."
         ],
         "72": [
-  	    	"I’ve heard many adventurers lose their way inside…",
-  	    	"but as expected of you, you managed to make it through safely."
+  	    	"Tôi nghe nói rất nhiều nhà thám hiểm đã mất phương hướng bên trong đó…",
+  	    	"nhưng đúng là anh bạn, vẫn có thể an toàn vượt qua"
         ],
         "73": [
-  	    	"As for that enormous mushroom house…",
-  	    	"it certainly makes one curious what kind of creature lives within."
+  	    	"Còn về ngôi nhà nấm khổng lồ ấy… thật khiến người ta tò mò",
+  	    	"không biết sinh vật nào đang cư ngụ bên trong."
         ],
         "74": [
-      	    "Shared an experience of unfortunately",
-      	    "falling into a pit inside the dungeon."
+      	    "Đã chia sẻ trải nghiệm không may rơi xuống",
+      	    "một cái hố trong hầm ngục."
         ],
         "75": [
-    	    "Hahaha…! That truly is an embarrassing experience.",
-    	    "As an adventurer, one must always be aware of their surroundings."
+    	    "Hahaha…! Đúng là một kỷ niệm thật đáng xấu hổ.",
+    	    "Là một nhà thám hiểm, lúc nào cũng phải chú ý đến xung quanh mình mới được."
         ],
         "76": [
-  	    	"Shared information about discovering a mech",
-  	        "in an unknown area."
+  	    	"Đã chia sẻ thông tin về việc phát hiện",
+  	        "một cỗ máy cơ khí ở một khu vực chưa xác định."
         ],
         "77": [
-		    "I see… what a remarkable encounter. As expected,",
-			"the Great Labyrinth still hides traces of ancient civilizations."
+		    "Ra vậy… thật là một cuộc gặp gỡ đáng kinh ngạc",
+			"Đúng như dự đoán, Đại Mê Cung vẫn còn ẩn giấu dấu vết của những nền văn minh cổ đại."
         ],
         "78": [
-		    "…So it has already vanished.",
-			"I have no reason to doubt your account."
+		    "…Vậy là nó đã biến mất rồi sao.",
+			"Tôi không có lý do gì để nghi ngờ lời kể của cậu."
         ],
         "79": [
-  		    "This must be a matter of fate.",
-  		    "Someday, it will surely appear once again."
+  		    "Đây hẳn là do số mệnh.",
+  		    "Một ngày nào đó, chắc chắn nó sẽ lại xuất hiện lần nữa."
         ],
         "80": [
-		    "Shared information that jelly made from slimes",
-			"surprisingly has quite a good texture."
+		    "Đã chia sẻ thông tin rằng thạch làm từ slime",
+			"có kết cấu bất ngờ là khá ngon."
         ],
         "81": [
-		    "Oh, my fellow!",
-			"Come and take this!"
+		    "Oh, Người anh em của tôi!",
+			"Lại đây và nhận lấy thứ này nào!"
         ],
         "82": [
-		    "During these days, you’ve given me ",
-			"quite a lot of interesting inspiration.",
-			"If I didn’t offer at least a small token of thanks, ",
-			"it would hardly feel right."
+		    "Trong khoảng thời gian vừa qua ",
+			"cậu đã mang đến cho tôi rất nhiều nguồn cảm hứng thú vị.",
+			"Nếu tôi không đáp lại bằng một món quà nho nhỏ ",
+			"thì thật không phải phép."
         ],
         "83": [
-		    "This is an outfit I personally designed",
-			"for promoting the game.",
-			"Please accept it as a gift that ",
-			"represents my appreciation."
+		    "Đây là một bộ trang phục do chính tay tôi",
+			"thiết kế để quảng bá cho trò chơi.",
+			"Hãy xem nó như một món quà thể hiện ",
+			"lòng cảm kích của tôi và nhận lấy nhé."
         ],
         "84": [
-		    "(Huh... a bonus T-shirt...?",
-			"W-what should I do...)"
+		    "(Hở... áo thun tặng kèm sao...?",
+			"M-mình phải làm sao đây...)"
         ],
         "85": [
-		    "(I really don’t want to wear ",
-			"something like this outside...",
-			"I wonder if \\str[120] would like ",
-			"this kind of outfit...)"
+		    "(Mình thật sự không muốn mặc ",
+			"thứ này ra ngoài chút nào...",
+			"Không biết \\str[120] có thích kiểu ",
+			"trang phục như thế này không nhỉ...)"
         ]		
     },
 	"12": {
 		"objectName": [
-		    "Vending Machine"
+		    "Máy bán hàng tự động"
 		],	  
 		"sentouryoku": [
 		    "1"
 		],	  
         "description": [
-            "It seems to be a machine operated and ",
-			"managed by the Maid Bunny.",
-			"It’s not entirely clear why monsters would want ",
-			"to imitate humans and run a business,",
-			"but everyone has naturally come to accept it.",
-			"By the way, carrot milk has the worst reviews."
+            "Có vẻ đây là một cỗ máy được vận hành và  ",
+			"quản lý bởi Hầu Gái Thỏ.",
+			"Không ai thực sự rõ vì sao quái vật lại muốn bắt chước",
+			"con người và kinh doanh buôn bán, nhưng mọi người",
+			"dường như đã tự nhiên chấp nhận chuyện đó.",
+			"Nhân tiện thì… sữa cà rốt nhận được đánh giá tệ nhất."
 		],
 		"1": [
-			"A strange vending machine...",
-			"A bottle of drink... \\c[6]\\v[86]\\c[0] yen."
+			"Một chiếc máy bán hàng tự động kỳ lạ...",
+			"Một chai nước uống giá... \\c[6]\\v[86]\\c[0] yên."
         ],
         "2": [
-			"Buy one",
-			"Never mind"
+			"Mua một chai",
+			"Không có gì"
         ],
         "3": [
-			"No...",
-			"I don't have enough money..."
+			"Không...",
+			"Tôi không có đủ tiền..."
         ],
         "4": [
-			"\"Due to damage by unknown individuals, ",
-			"a temporary repair penalty has been added...\"",
-			"Until the penalty is fully paid... ",
-			"a bottle of drink... \\c[6]\\v[86]\\c[0] yen!?"
+			"\"Do bị phá hoại bởi những cá nhân không rõ danh tính, ",
+			"Một khoản phạt sửa chữa tạm thời đã được thêm vào....\"",
+			"Cho đến khi khoản tiền phạt được thanh toán đầy đủ.... ",
+			"Một chai nước uống giá... \\c[6]\\v[86]\\c[0] yên!?"
         ],
         "5": [
-			"(There’s already…",
-			"no drinks left inside.)"
+			"(Đã hết…",
+			"đồ uống bên trong rồi.)"
         ]	
     },
 	"13": {
@@ -693,7 +693,7 @@
 			"Cư ngụ trong nước"
 		],
 		"bossName": [
-			"Chúa Tể Thủy Lưu—chẳng phải đã tuyệt chủng rồi sao!?"
+			"Chúa Tể Thủy Lưu!?"
 		],
 		"sentouryoku": [
 			"999"

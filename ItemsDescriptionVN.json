@@ -216,7 +216,7 @@
         "subtitle": "",
         "description": [
             "Một sợi ahoge được lén nhổ khỏi đầu \\str[120],",
-            "dường như cô ấy hoàn toàn không hay biết… Ngay cả khi đã tách khỏi chủ nhân,",
+            "dường như em ấy hoàn toàn không hay biết… Ngay cả khi đã tách khỏi chủ nhân,",
             "nó vẫn cứng đầu dựng thẳng nhờ vào độ đàn hồi khó hiểu của mình."
         ],
         "ability": ""
@@ -627,14 +627,14 @@
     },
     "62": {
         "name": [
-            "Tòa Tháp"
+            "The Tower (Tòa Tháp)"
         ],
         "subtitle": [
-            "\"Lời mời đến yến tiệc Vực Sâu\""
+            "\"Lời mời đến yến tiệc Vực Thẳm\""
         ],
         "description": [
-            "Một thẻ ma pháp được yểm phép. Được thiết kế để",
-            "ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng của nó"
+            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
+            "cũng có thể dễ dàng kích hoạt hiệu ứng"
         ],
         "ability": [
             "Khi sử dụng, triệu hồi Trụ Bị Phong Ấn"
@@ -1384,8 +1384,8 @@
         "description": [
             "Một chiếc áo thun quà tặng nhận được từ Hiệp sĩ, ",
             "hiện được \\str[120] dùng làm đồ ngủ.",
-            "Kiểu dáng rộng mang lại cho cô ấy một vẻ quyến rũ đầy sơ hở.",
-            "Để tránh phải giặt, cô chỉ mặc nó khi tâm trạng rất tốt."
+            "Kiểu dáng rộng mang lại cho em ấy một vẻ quyến rũ đầy sơ hở.",
+            "Để tránh phải giặt, em chỉ mặc nó khi tâm trạng rất tốt."
         ],
         "ability": [
             ""
@@ -1898,8 +1898,8 @@
         "subtitle": "",
         "description": [
             "Một viên đá quý màu xanh với ánh sáng quyến rũ",
-            "Mặc dù không có giá trị thực dụng, nhưng có người có thể trả giá cao cho nó...",
-            "hoặc dùng cho những mục đích khác?"
+            "Tuy không có nhiều giá trị thực tiễn, nhưng có lẽ ai đó sẽ sẵn sàng trả",
+            "một cái giá cao cho nó… hay họ có ý đồ toan tính khác?"
         ],
         "ability": ""
     },
@@ -1949,7 +1949,7 @@
             "Anh ta đã từ chối việc đặt tên theo mình vì nghe quá chuuni—\""
         ],
         "description": [
-            "Một loại quặng đặc biệt chỉ được tìm thấy ở những tầng sâu của Vực Sâu.",
+            "Một loại quặng đặc biệt chỉ được tìm thấy ở những tầng sâu của Vực Thẳm.",
             "Nó chứa nguồn ma lực bỏng rát, nhưng lại cứng một cách khác thường, ",
             "và chỉ có thể được khai thác cũng như gia công bằng những phương pháp nhất định."
         ],

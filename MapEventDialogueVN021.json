@@ -1,10 +1,10 @@
 {
     "1": {
         "0": [
-            "Mmm, tôi dường như không thể ngủ được..."
+            "Mmm, mình dường như không thể ngủ được..."
 		],
 		"1": [
-            "Bụng tôi đau quá... Có phải bị đầy bụng không?",
+            "Bụng mình đau quá... Có phải bị đầy bụng không?",
 			"Có lẽ bữa tối vừa rồi ăn hơi nhiều..."
         ],
         "2": [
@@ -12,7 +12,7 @@
         ],
 		"3": [
             "Vẫn còn giữa đêm.",
-			"Tôi có thể ngủ thêm một chút nữa...\\w[30].\\w[30].\\w[30].",
+			"Mình có thể ngủ thêm một chút nữa...\\w[30].\\w[30].\\w[30].",
 			"Có nên đi kiểm tra em gái không nhỉ?"
         ],
 		"4": [
@@ -30,14 +30,14 @@
             "\"Ahhhhhhhhhhh—!!?\""
         ],
 		"8": [
-            "G-Gì cơ? À, chỉ là một cơn ác mộng..."
+            "C-Cái quái gì thế? À, ra chỉ là một cơn ác mộng..."
         ],
 		"9": [
             "Nó làm tôi giật mình... ",
 			"Tôi nghĩ mình vừa thấy một phiên bản \\str[120] đáng sợ."
         ],		
 		"10": [
-            "...Tôi nên đi kiểm tra \\str[120].",
+            "...Mình nên đi kiểm tra \\str[120].",
 			"Nếu như giấc mơ đó—"
         ],	
 		"11": [
@@ -62,7 +62,7 @@
         ],
         "3": [
             "...Đã sáng rồi sao? ",
-			"Tôi có cái cảm giác ngủ không ngon..."
+			"Mình có cảm giác ngủ không thoải mái lắm..."
         ],
         "4": [
             "Ah, đã sáng rồi sao? Tôi ngủ cực kì ngon."
@@ -97,148 +97,148 @@
         ],
         "13": [
             "Được rồi, giờ sắp xếp lại mọi thứ ",
-			"và chuẩn bị cho chuyến phiêu lưu!"
+			"và chuẩn bị cho chuyến phiêu lưu nào!"
         ]		
     },
     "3": {
         "0": [
-            "My mind slowly clears... ",
-			"I finally realize I'm not in my usual bedroom.",
-			"Something warm and soft is pressed tight against me, ",
-			"their breathing rhythmic and gentle."
+            "Tâm trí tôi dần dần tỉnh táo lại... ",
+			"cuối cùng tôi nhận ra mình không ở trong căn phòng quen thuộc.",
+			"Có thứ gì đó ấm áp và mềm mại đang áp sát vào người tôi, ",
+			"hơi thở đều đặn và dịu nhẹ.."
 		],
 		"1": [
-            "It's just \\str[120]...",
-			"Memories begin to flood back—         \\w[120]",
-			"Right, the two of us were tangled together ",
-			"until deep into the night..."
+            "Chỉ là \\str[120]...",
+			"Ký ức bắt đầu ùa về—         \\w[120]",
+			"Phải rồi, hai đứa chúng tôi đã quấn lấy nhau ",
+			"cho đến tận khuya..."
         ],
 		"2": [
-            "Looking at her defenseless sleeping face, ",
-			"still bearing a faint flush of last night's afterglow,",
-			"I can't help but reach out, my fingertips sinking softly ",
-			"into her hair, smooth as silk."
+            "Nhìn gương mặt đang ngủ say không chút phòng bị của em ấy, ",
+			"vẫn còn phảng phất sắc hồng nhè nhẹ như dư âm của đêm qua,",
+			"tôi không kìm được mà đưa tay ra, những đầu ngón tay nhẹ nhàng ",
+			"luồn vào mái tóc em ấy, mềm mượt như tơ lụa."
         ],
 		"3": [
             "\\nl< >\"Uu... mm... ♥\""
         ],
 		"4": [
-            "As if sensing the affection, she lets out a hazy, ",
-			"satisfied hum, subconsciously nuzzling into my palm."
+            "Như thể cảm nhận được sự âu yếm ấy, em khẽ phát ra một tiếng, ",
+			"rên mơ màng đầy thỏa mãn, vô thức cọ má vào lòng bàn tay tôi."
         ],
 		"5": [
-            "\"It's morning already. Can you get up?\""
+            "\"Trời đã sáng rồi đó. Em dậy được không?\""
         ],
 		"6": [
-            "I gently nudge her shoulder, ",
-			"trying to wake her from her slumber."
+            "Tôi nhẹ nhàng chạm vào vai em ấy, ",
+			"cố đánh thức em ấy khỏi giấc ngủ."
         ],
 		"6.5": [
             "\\nl< >\".................. Nnn.\""
         ],
 		"7": [
-            "After her long eyelashes flutter a few times, ",
-			"she finally opens her eyes slowly.",
+            "Hàng mi dài khẽ rung lên vài nhịp, ",
+			"cuối cùng em ấy cũng chậm rãi mở mắt.",
 			" ",
 			" ",
-			"She stares blankly into the void for a moment,",
-			"then tilts her head to look at me right beside her, ",
-			"her pupils filled with the haze of sleep."
+			"Em ấy ngây người nhìn vào khoảng không một lúc,",
+			"rồi nghiêng đầu sang nhìn tôi đang ở ngay bên cạnh, ",
+			"trong đôi mắt còn vẻ mơ màng của cơn buồn ngủ."
         ],
 		"8": [
             "\\nl< >\"Eh... \\str[121]...?",
-			"Why... are you in bed too...?\""
+			"Sao... anh cũng ở trên giường vậy...?\""
         ],
 		"9": [
-            "It seems her brain hasn't quite finished booting up. ",
-			"she just tilts her head, staring at me foolishly for a long time."
+            "Có vẻ như đầu óc em ấy vẫn chưa khởi động xong hẳn. ",
+			"Em ấy chỉ nghiêng đầu, ngơ ngác nhìn tôi một cách ngốc nghếch suốt một lúc lâu."
         ],
 		"10": [
-			"Not until the fragmented memories of last night ",
-			"piece themselves back together does the blood rush ",
-            "to her cheeks at a visible speed."
+			"Mãi đến khi những ký ức rời rạc của đêm qua dần ghép lại với nhau, ",
+			"máu mới ồ ạt dồn lên hai má em ấy, ",
+            "đỏ ửng lên thấy rõ."
         ],
 		"11": [
-            "\\nl< >\"Uu... ♥ G-good morning... \\str[121]...",
-			"About last night... um... thank you...\""
+            "\\nl< >\"Uu... ♥ C-Chào buổi sáng... \\str[121]...",
+			"Chuyện tối qua... um... cảm ơn anh...\""
         ],
 		"12": [
-            "Completely at a loss as to how to handle such a bashful ",
-			"predicament, she just lowers her head,",
-			"whispering a word of thanks that was somewhat nonsensical."
+            "Hoàn toàn lúng túng không biết phải xử lý tình huống ngượng ngùng  ",
+			"này ra sao, em ấy chỉ cúi đầu xuống,",
+			"thì thầm một lời cảm ơn nghe có phần lộn xộn, chẳng mạch lạc."
         ],
 		"13": [
-			"The atmosphere becomes subtle and cramped.",
-            "We silently dress with our backs to each other, ",
-			"then, maintaining an indescribable tacit understanding,",
-            "we walk into the washroom together."
+			"Bầu không khí trở nên gượng gạo và ngột ngạt.",
+            "Chúng tôi im lặng mặc quần áo, quay lưng về phía nhau, ",
+			"rồi như có một sự ăn ý khó diễn tả bằng lời,",
+            "cùng nhau bước vào phòng rửa mặt."
         ],
 		"14": [
             "\\nl< >\"...Mmuu... nya...♥",
-			"\\str[121]... not there... it's no good...\""
+			"\\str[121]... không phải chỗ đó... không được đâu...\""
         ],
 		"15": [
-            "She only let out a muffled murmur, ",
-			"clutching her pillow and burying her face even deeper."
+            "Em ấy chỉ khẽ phát ra một tiếng thì thầm nho nhỏ, ",
+			"ôm chặt chiếc gối và vùi mặt mình sâu hơn nữa."
         ],
 		"16": [
-			"Though I'm curious what kind of wonderful dream she's having, ",
-			"since she's still so sound asleep,",
-            "it's better not to force her awake..."
+			"Dù tôi cũng tò mò không biết em ấy đang mơ một giấc mơ tuyệt vời đến mức nào, ",
+			"nhưng vì em ấy vẫn đang ngủ rất say,",
+            "tốt hơn là không nên miễn cưỡng đánh thức..."
         ],
 		"17": [
-            "Last night's exertion was too much of a burden for her after all,",
-            "I should let her sleep a bit longer..."
+            "Dù sao thì vận động đêm qua cũng khá mệt mỏi,",
+            "Cứ để em ấy ngủ thêm một lát nữa vậy..."
         ],
 		"18": [
-            "Holding my breath, ",
-			"I gently peel away her arm still wrapped around me,",
-            "leaving the warm bed without making a single sound."
+            "Nín thở, ",
+			"nhẹ nhàng gỡ cánh tay em ấy vẫn đang còn quấn quanh người mình ra,",
+            "rời khỏi chiếc giường ấm áp mà không gây ra một tiếng động nào."
         ],
 		"19": [
-            "Taking one last look at her quiet profile, ",
-			"slightly pale in the morning light,",
-            "I quietly exit the room and softly click the door shut."
+            "Nhìn lại lần cuối dáng vẻ yên tĩnh của em ấy, ",
+			"gương mặt hơi nhợt nhạt trong ánh sáng buổi sớm,",
+            "tôi lặng lẽ bước ra ngoài và khép cửa lại thật khẽ."
         ],
 		"20": [
-            "Watching her defenseless sleeping face though I know she needs rest,",
-            "the quiet unique to this morning and the scent ",
-			"she radiates keep provoking my sanity."
+            "Ngắm gương mặt ngủ say không chút phòng bị của em ấy, dù biết rằng ",
+            "em ấy cần được nghỉ ngơi, sự tĩnh lặng đặc trưng của buổi sáng này cùng mùi hương ",
+			"toát ra từ em ấy khiến tôi dần mất đi lý trí."
         ],
 		"21": [
-            "I meant to just pat her head, ",
-			"but my fingertips involuntarily slide down her slender neck.",
-			"From her rounded shoulder to the slight curve of her waist, ",
-			"I greedily feel every inch of her skin."
+            "Tôi định chỉ xoa đầu em ấy thôi, ",
+			"vậy mà những đầu ngón tay lại vô thức trượt dọc xuống chiếc cổ thon thả.",
+			"Từ bờ vai tròn trịa đến đường cong nhẹ của vòng eo, ",
+			"tôi tham lam cảm nhận từng tấc da thịt của em ấy."
         ],
 		"22": [
             "\\nl< >\"...Hnngh ♥",
 			"Uu... nnh... ah... ♥\""
         ],
 		"23": [
-			"Even as she slept, her body that had just shed its innocence ",
-			"was already reacting to my touch.",
-            "She let out a few unconscious whimpers as she felt ",
-			"the warmth radiating from my fingertips."
+			"Ngay cả khi đang ngủ, cơ thể vừa mới rũ bỏ nét ngây thơ ấy của em ấy ",
+			"đã phản ứng lại với cái chạm của tôi.",
+            "Em ấy khẽ phát ra vài tiếng rên vô thức khi cảm nhận ",
+			"được hơi ấm lan tỏa từ đầu ngón tay tôi."
         ],
 		"24": [
-			"...No! What am I thinking!",
-            "How could I do this to her so early in the morning...",
-            "I'd better just get up!"
+			"...Không! Mình đang nghĩ gì vậy chứ!",
+            "Sao mình có thể làm thế với em ấy ngay từ sáng sớm như vậy...",
+            "Tốt hơn hết là mình nên đứng dậy thôi!"
         ]
     },
     "4": {
         "0": [
-            "\"...Gì cơ!?\\w[60]...Chờ đã, \\w[60]",
+            "\"...Cái gì thế!?\\w[60]...Chờ đã, \\w[60]",
 			"đã sáng rồi sao...?\""
 		],
 		"1": [
-            "Tôi cảm thấy cực kì chóng mặt... ",
-			"Tối qua tôi đã ngủ thiếp đi như vậy sao...?"
+            "Mình cảm thấy cực kì chóng mặt... ",
+			"Tối qua mình đã ngủ thiếp đi như vậy à...?"
         ],
 		"2": [
-            "\"Tôi không nhớ chuyện gì đã xảy ra tối qua...  \\w[90]",
-			"Chắc là tôi đã quá mệt thôi.\""
+            "\"Mình không nhớ chuyện gì đã xảy ra tối qua...  \\w[90]",
+			"Chắc là mình đã quá mệt mỏi thôi.\""
         ]
     }		
 }
