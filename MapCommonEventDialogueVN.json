@@ -67,6 +67,11 @@
             " Xoá bỏ cái tôi, và vung lưỡi kiếm vì đồng đội... "
         ]		
     },
+    "AbyssPillars": {
+        "0": [
+            " ▓▓▓▓ đã nhận thức được sự tồn tại của bạn "
+		]
+    },
     "unlockJackalope": {
         "0": [
             " Thỏ Rừng "
@@ -325,7 +330,7 @@
     },
     "cookingSystem": {
         "0": [
-            "\\ii[\\v[\\v[85]]]đã sẵn sàng. Tôi nên làm gì tiếp?"
+            "\\ii[\\v[85]]đã sẵn sàng. Tôi nên làm gì tiếp?"
 		],
 		"1": [
             "Đổi lại",

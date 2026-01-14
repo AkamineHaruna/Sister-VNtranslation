@@ -1044,6 +1044,10 @@
 			"tôi đã mất khá nhiều thời gian mới dỗ được \\str[120] bình tĩnh lại.",
 			"Mong là sự cố này sẽ không tạo ",
 			"bóng đen trong lòng em ấy..."
+		],
+		"37": [
+            "${$dataItems[189]?.name}",
+			"${$dataItems[188]?.name}"
 		]
     },
 	"11": {
