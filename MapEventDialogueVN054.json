@@ -1046,8 +1046,8 @@
 			"bóng đen trong lòng em ấy..."
 		],
 		"37": [
-            "${$dataItems[189]?.name}",
-			"${$dataItems[188]?.name}"
+            "\\fs[18]${$dataItems[189]?.name}",
+			"\\fs[18]${$dataItems[188]?.name}"
 		]
     },
 	"11": {
@@ -1504,8 +1504,8 @@
             "\\nl< >\"Không xem được là sao? Là phim gì vậy?\""
 		],
         "4": [
-            "Một bộ phim khiêu dâm",
-			"\\fs[20]Một bộ phim dành cho cô bé hư hỏng"
+            "\\fs[20]Một bộ phim khiêu dâm",
+			"\\fs[13]Một bộ phim dành cho cô bé hư hỏng"
 		],
         "5": [
             "\\nl< >\"K-Khiêu dâm...? ",
