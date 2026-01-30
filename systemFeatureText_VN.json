@@ -101,6 +101,9 @@
 	"totalFilesToUpdate": [
 		"Phát hiện ${} tệp cần cập nhật—bắt đầu quá trình tải xuống!"
 	],
+	"silentUpdateSuccess": [
+    	"Nội dung bản vá mới cho ${} đã được cài đặt thành công và sẽ có hiệu lực sau lần khởi động lại tiếp theo."
+  	],
 	"renameCharacter": [
 		"Tôi nhớ ra rồi—",
 		"em ấy là..."
