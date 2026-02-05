@@ -13,7 +13,7 @@
 		"3": [
             "Vẫn còn giữa đêm.",
 			"Mình có thể ngủ thêm một chút nữa...\\w[30].\\w[30].\\w[30].",
-			"Có nên đi kiểm tra em gái không nhỉ?"
+			"Có nên đi kiểm tra \\str[120] không nhỉ?"
         ],
 		"4": [
             "Đến phòng \\str[120]",
@@ -57,7 +57,7 @@
         "2": [
             "...Đã sáng rồi sao? ",
 			"Tôi cảm giác vừa có một giấc mơ về ",
-            "em gái mình, ",
+            "\\str[120], ",
 			"nhưng không nhớ rõ..."
         ],
         "3": [
@@ -82,7 +82,7 @@
 			"Hi vọng nó không ảnh hưởng đến chuyến phiêu lưu của mình..."
         ],
         "9": [
-            "Mấy ngày nay chưa đi kiểm tra em ấy... ",
+            "Mấy ngày nay chưa đi kiểm tra \\str[120]... ",
 			"Chắc hôm nay nên ghé qua."
         ],
         "10": [
@@ -146,7 +146,7 @@
 			"trong đôi mắt còn vẻ mơ màng của cơn buồn ngủ."
         ],
 		"8": [
-            "\\nl< >\"Eh... \\str[121]...?",
+            "\\nl< >\"Eh... \\str[121]...?     \\w[150]",
 			"Sao... anh cũng ở trên giường vậy...?\""
         ],
 		"9": [
@@ -159,7 +159,8 @@
             "đỏ ửng lên thấy rõ."
         ],
 		"11": [
-            "\\nl< >\"Uu... ♥ C-Chào buổi sáng... \\str[121]...",
+            "\\nl< >\"Uu... ♥                   \\w[120]",
+			"C-chào buổi sáng... \\str[121]...    \\w[120]",
 			"Chuyện tối qua... um... cảm ơn anh...\""
         ],
 		"12": [
@@ -174,7 +175,7 @@
             "cùng nhau bước vào phòng rửa mặt."
         ],
 		"14": [
-            "\\nl< >\"...Mmuu... nya...♥",
+            "\\nl< >\"...Mmuu... nya...♥         \\w[120]",
 			"\\str[121]... không phải chỗ đó... không được đâu...\""
         ],
 		"15": [
@@ -212,7 +213,7 @@
 			"tôi tham lam cảm nhận từng tấc da thịt của em ấy."
         ],
 		"22": [
-            "\\nl< >\"...Hnngh ♥",
+            "\\nl< >\"...Hnngh ♥      \\w[180]",
 			"Uu... nnh... ah... ♥\""
         ],
 		"23": [
@@ -225,6 +226,135 @@
 			"...Không! Mình đang nghĩ gì vậy chứ!",
             "Sao mình có thể làm thế với em ấy ngay từ sáng sớm như vậy...",
             "Tốt hơn hết là mình nên đứng dậy thôi!"
+        ],
+        "25": [
+            "\\nl< >\"Chọt... chọt...\""
+        ],
+		"26": [
+            "Ý thức tôi vẫn lơ lửng nơi rìa làn sương mơ hồ,",
+            "thì những tiếng thì thầm mềm mại, rõ ràng lọt vào tai, ",
+            "kèm theo những cái chạm khẽ ngắt quãng lên má tôi."
+        ],
+		"27": [
+            "\\nl< >\"Chọt... chọt...      \\w[150]",
+			"\\str[121] vẫn không chịu dậy gì cả...\""
+        ],
+		"28": [
+            "Cảm giác như có ai đó bên cạnh không biết mệt ",
+            "liên tục chạm và chọc vào mặt tôi."
+        ],		
+		"29": [
+            "\"Bóp... Bắt được mũi rồi nhé...        \\w[150]",
+            "\\str[121] chịu đựng được bao nhiêu giây đây~?\""
+        ],
+		"29.2": [
+            "Hô hấp của tôi lập tức trở nên khó khăn.",
+            "Tôi cảm nhận được có người đang dùng hai ngón tay bóp mũi mình,",
+            "thậm chí còn nghe thấy hơi thở khẽ, ",
+            "gấp gáp của em ấy khi cố nín cười."
+        ],
+		"29.4": [
+            "............Là \\str[120] chứ còn ai nữa?",
+            "Ký ức bắt đầu ùa về—",
+            "Phải rồi, tối qua chúng tôi ngủ cùng nhau."
+        ],
+		"30": [
+            "Tôi hơi bất ngờ vì em ấy dậy trước tôi,",
+            "nhưng đối diện với trò đùa đáng yêu thế này, ",
+            "tôi vẫn chưa định vạch trần ngay."
+        ],
+		"31": [
+			"Tôi lén hít một hơi sâu bằng miệng, ",
+            "nơi không bị chặn lại,",
+            "sau đó dồn toàn bộ sức lực vào mũi ",
+            "và thổi ra một luồng khí mạnh bất ngờ!"
+        ],
+		"32": [
+            "\\{\\nl< >\"W-Woaah~~! \\str[121] nổ tung rồi~~!?\"",
+            "\\w[90] "
+        ],
+		"33": [
+			"Luồng khí bất ngờ đó như một chiếc bơm hơi tí hon, ",
+            "lập tức hất văng ngón tay em ấy ra.",
+            "Không phòng bị, \\str[120] phát ra một tiếng kêu ",
+            "pha lẫn giữa giật mình và thích thú."
+        ],
+		"34": [
+            "\\nl< >\"...Nhưng vẫn chưa tỉnh nữa~     \\w[120]",
+            "Lạ thật, vừa rồi chỉ là hắt hơi thôi sao?\""
+        ],
+		"35": [
+            "\\nl< >\"Chọt... chọt...    \\w[150]",
+            "\\str[121] thật sự không dậy luôn~\""
+        ],
+		"36": [
+			"Thấy tôi vẫn nhắm mắt không phản ứng, ",
+            "em ấy hơi bực bội nghiêng người lại gần,",
+            "những ngón tay nghịch ngợm lần nữa dò dẫm bên mép môi tôi."
+        ],
+		"37": [
+            "\\{\"Gawuu~~~~!!\"     \\w[60]\\^"
+        ],
+		"38": [
+            "Ngay khoảnh khắc đầu ngón tay em ấy lại gần miệng tôi,",
+            "tôi chớp lấy thời cơ, há miệng cắn chặt, ",
+            "ngậm trọn cả ngón tay vào trong miệng."
+        ],
+		"39": [
+            "\\{\\nl< >\"Wueeeeee~~!? Bị cắn—    \\w[90]",
+            "Không, đang bị liếm~~!\""
+        ],
+		"40": [
+            "\\nl< >\"\\str[121]! ",
+            "Anh tỉnh ngay từ đầu rồi đúng không~!   \\w[90]",
+            "Thả tay em ra coi~~!\""
+        ],
+		"41": [
+            "Bị phản đòn lần thứ hai,",
+            "\\str[120] lại bật ra một tiếng kêu thảng thốt.",
+            "Lúc này, rõ ràng em ấy đã nhận ra mình bị tôi chơi xỏ ",
+            "ngay từ đầu."
+        ],		
+		"42": [
+            "\"Cô nhóc láo xược!",
+            "Dám xông vào hang rồng,",
+            "chuẩn bị bị nuốt chửng đi!\""
+        ],
+		"43": [
+            "Cảm thấy thời cơ đã đến, tôi bật mở mắt.",
+            "Dù ngón tay em ấy vẫn còn trong miệng, ",
+            "tôi cố tình hạ giọng trầm khàn, gầm lên như quái vật."
+        ],
+		"44": [
+            "\\nl< >\"Em chẳng sợ chút nào đâu~!",
+            "Đại Ác Long vừa nãy còn ngủ say như chết mà...!\""
+        ],
+		"45": [
+            "\\str[120] uốn éo giãy dụa dưới lớp chăn, ",
+            "phản ứng với cảm giác ướt át, nhột nhạt nơi đầu ngón tay.",
+            "Trong tiếng cười khúc khích trong trẻo đầy thỏa mãn của em ấy."
+        ],
+		"46": [
+            "Dáng vẻ không chút phòng bị, hoàn toàn sơ hở ấy của em ấy",
+            "khiến khao khát bị dồn nén suốt cả đêm ",
+            "dâng trào lên đến đỉnh điểm vào khoảnh khắc này—"
+        ],
+		"47": [
+            "\"Grào—! Rồng bắt đầu tấn công rồi!\""
+        ],
+		"48": [
+            "\\nl< >\"Hahaha... nhột quá!",
+            "\\str[121]... dừng lại đi!",
+            "Không phải chỗ đó... ha, haha!\""
+        ],
+		"49": [
+			"...Hôm nay chắc chắn lại sẽ là một ngày yên bình.",
+            "Tôi tiếp tục liếm nhẹ bên cổ và vành tai em ấy, ",
+            "nơi đã nóng lên vì đỏ mặt.",
+            "\\w[30]",
+            "Nghe tiếng cười đáng yêu của em ấy, ",
+            "tôi từ tận đáy lòng cầu mong ",
+            "cuộc sống như thế này có thể kéo dài mãi mãi..."
         ]
     },
     "4": {

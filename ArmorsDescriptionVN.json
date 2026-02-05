@@ -976,6 +976,21 @@
             "Tăng cường sát thương và hình thái của ma pháp nguyên tố lửa"
         ]
     },
+    "75": {
+        "name": [
+            "Ma Nhãn"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một nhãn cầu lấy từ ác quỷ.  ",
+            "Những ác quỷ tinh thông thao túng tâm trí thường sở hữu năng lực ",
+            "nhìn xuyên thấu. Có lẽ nó cho phép bạn nhận ra những chi tiết ",
+            "vốn dĩ sẽ bị bỏ sót..."
+        ],
+        "ability": [
+            "Hiện vật thể và lối đi bị ẩn khi trang bị"
+        ]
+    },
     "80": {
         "name": [
             "Sắc Lệnh Hoàng Gia"

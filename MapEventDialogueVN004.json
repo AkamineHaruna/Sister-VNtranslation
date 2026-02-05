@@ -127,7 +127,218 @@
             "Mình cảm thấy hơi lẻ loi,",
             "nhưng chắc không nên làm phiền em ấy quá nhiều—"
         ]		
-    },	
+    },
+    "3": {
+        "0": [
+            "\\nl< >\"Nào... \\str[121], ",
+			"hãy nằm xuống đây đi!\""
+		],
+		"1": [
+            "\\str[120] nhanh nhẹn trải một tấm chăn xuống sàn, ",
+			"rồi ngồi vào tư thế xếp đùi,",
+            "vừa nhìn tôi vừa khẽ vỗ nhẹ lên đùi."
+        ],
+		"2": [
+            "Tôi làm theo lời em ấy nằm xuống, ",
+            "và đầu lập tức một cảm giác mềm mại, đàn hồi.",
+            "Nhiệt độ cơ thể em ấy có vẻ cao hơn bình thường. ",
+            "Sự ấm áp dễ chịu ấy khiến người ta vô cùng thư giản."
+        ],
+		"3": [
+            "\\nl< >\"Thế nào, \\str[121]...?",
+			"Nằm như vậy có thấy thoải mái không?\""
+        ],
+        "4": [
+            "Bàn tay nhỏ nhắn của \\str[120] đặt lên trán tôi, ",
+			"đầu ngón tay dịu dàng luồn qua mái tóc.",
+			"Chẳng bao lâu sau, cơn buồn ngủ bắt đầu ập đến."
+		],
+        "5": [
+            "\\nl< >\"À đúng rồi! Nhân tiện…",
+			"Hay là để em ngoáy tai cho \\str[121] nhé?\""
+		],
+        "6": [
+            "\"Eh—? Ngay bây giờ á?\""
+		],
+        "7": [
+            "Chưa kịp phản ứng, ",
+			"em ấy đã không biết lấy từ đâu ra một cây ráy tai chuẩn bị sẵn.",
+			"Nhưng \\str[120] chưa từng làm chuyện này bao giờ mà nhỉ? ",
+			"Tôi bỗng thấy hơi hồi hộp—"
+		],
+        "8": [
+            "\\nl< >\"Ngoan nào, ngoan nào. ",
+			"\\str[121], nghiêng người sang đây đi!",
+			"Quay mặt về phía này đi nào!\""
+		],
+        "9": [
+            "Không cho tôi cơ hội đáp lại, ",
+			"\\str[120] hăng hái đẩy vai tôi xoay người lại,",
+            "khiến má tôi gần như vùi mặt vào phần bụng mềm mại của em ấy."
+		],
+        "10": [
+			"\\nl< >\"Ehehe, em bắt đầu nhé… ",
+            "Có thể sẽ hơi nhột một chút, ",
+            "nên ráng chịu một lát nha~\""
+		],
+        "11": [
+            "Cây ráy tai mát lạnh cẩn thận tiến vào trong tai, ",
+			"một cảm giác tê dại chạy dọc sống lưng tôi.",
+            "May mà động tác của em ấy nhẹ nhàng hơn tôi tưởng.",
+			"Sự căng thẳng ban đầu nhanh chóng nhường chỗ cho cảm giác sảng khoái dễ chịu."
+		],
+        "12": [
+            "Âm thanh sột soạt đều đặn cùng với ",
+            "hơi ấm gần kề của em ấy khiến tôi thấy hạnh phúc vô cùng…",
+            "Cơn buồn ngủ còn mãnh liệt hơn nữa dần kéo đến…"
+		],		
+        "12.5": [
+            "Dụi sát vào",
+            "Làm nũng",
+            "Dừng lại"
+		],
+        "13": [
+            "\\nl< >\"Lực như vậy ổn chứ?       \\w[90]",
+            "Nếu đau thì phải nói em biết đó nha?\""
+		],		
+        "14": [
+            "\\nl< >\"\\str[121] lúc nào cũng cố quá sức.",
+            "Đến cả tai cũng trông mệt mỏi luôn kìa. ",
+            "Hôm nay cứ để mọi thứ cho em lo đi!\""
+		],
+        "15": [
+            "\\nl< >\"Đùi của \\str[120]… nằm có thấy dễ chịu không?",
+            "Nếu mệt thì cứ thiếp đi như vậy cũng được mà.\""
+		],
+        "16": [
+            "\\nl< >\"Giờ mình vào sâu hơn một chút nhé…",
+            "Mm, ở đây cũng có một tên xấu xa trốn nè. ",
+            "Trúng chiêu!\""
+		],
+        "17": [
+            "\\nl< >\"Nhìn \\str[121] từ góc này… ",
+            "trông khác hơn so với mọi lần.",
+            "Em thấy… hình như còn dễ thương hơn mọi khi nữa… ♥\""			
+		],
+        "18": [
+            "\\nl< >\"Yên tĩnh thật… chỉ nghe thấy tiếng thở của \\str[121] thôi…",
+            "Cứ như trên thế giới này chỉ còn lại hai chúng ta vậy.\""
+		],		
+        "19": [
+            "\\nl< >\"\\str[121], tai của anh… sờ vào thấy hơi nóng đó.",
+            "Em chỉ đang ngoáy tai thôi mà, ",
+            "anh đang nghĩ mấy chuyện hư hỏng gì thế?\""
+		],
+        "20": [
+            "\\nl< >\"…Eh? \\str[121], ",
+            "vừa rồi anh dụi vào bụng em đó hả?",
+            "Nằm yên nào! ",
+            "Không là em chọt nhầm chỗ nguy hiểm đấy…!\""
+		],
+        "21": [
+            "\\nl< >\"Ư… ừm, ",
+            "đừng hít thở như vậy ở chỗ đó chứ…",
+            "Cơ thể em… chắc không có mùi kỳ lạ đâu nhỉ?\""
+		],
+        "22": [
+            "\\nl< >\"Nếu áp mặt gần vậy…",
+            "\\str[121] sẽ nghe rõ nhịp tim em luôn đó… ♥\""			
+		],
+        "23": [
+            "\\nl< >\"Vùi mặt sâu vậy… ",
+            "là \\str[121] đang làm nũng đó hả~?",
+            "Không sao đâu. Trước mặt \\str[120], ",
+            "anh có thể làm trẻ con mà~\""
+		],			
+        "24": [
+            "\\nl< >\"Ngoan nào, ngoan nào~ ",
+            "Cử động nhiều quá nguy hiểm lắm,",
+            "nên cứ ngủ yên như vậy đi nhé, \\str[121]~\""
+		],			
+        "25": [
+            "\\nl< >\"Fufu~ Hôm nay \\str[121] bám người ghê đó… ♥",
+            "…Có chuyện gì xảy ra lúc anh ra ngoài à?\""
+		],			
+        "26": [
+            "\\nl< >\"Thỉnh thoảng dựa dẫm vào \\str[120] nhiều hơn cũng được mà, biết không?",
+            "\\str[121] là một đứa trẻ ngoan ♥ Nào, ngoan nào~ ♥\""
+		],			
+        "27": [
+            "\\}\\nl< >\"…Em yêu \\str[121] nhất đó~       \\w[150]\\{",
+            "——Câu như vậy chỉ có thể nói khi anh đang ngủ thôi.\""
+		],
+        "30": [
+            "Dù cảm giác tuyệt vời thật,",
+            "tôi ra hiệu cho \\str[120] bằng một cái vẫy tay ",
+            "rồi chậm rãi ngồi dậy."
+		],
+        "31": [
+            "Sau khi chìm đắm trong cảm giác tê tê ấy suốt một lúc lâu,",
+            "tôi nắm lấy tay em ấy với vẻ mãn nguyện rồi chậm rãi ngồi dậy."
+		],
+        "32": [
+            "Ý thức tôi dần mơ hồ giữa những âm thanh sột soạt.",
+            "Cảm nhận hơi ấm từ bụng em ấy, ",
+            "có vẻ như tôi đã thật sự ngủ quên trên đùi em ấy mất rồi…"
+		],
+        "33": [
+            "\\nl< >\"Eh? Xong rồi sao…?           \\w[120]",
+            "\\str[121], không nằm thêm chút nữa à?\""
+		],
+        "34": [
+            "\"Ngồi như vậy lâu chắc cũng mỏi lắm. ",
+            "Chỉ cần thư giãn một chút, với anh vậy là đủ rồi.\""
+		],
+        "35": [
+            "\\nl< >\"Chỉ vậy thôi sao?      \\w[120]",
+            "Hehe, chỉ là gối đùi cho \\str[121] thôi mà, ",
+            "em không mệt chút nào đâu…!\""
+		],
+        "36": [
+            "\\nl< >\"Lần sau nếu \\str[121] muốn nữa,",
+            "cứ đến tìm em bất cứ lúc nào nhé!\""
+		],
+        "37": [
+            "\"Haa… cảm giác như được hồi phục hoàn toàn vậy.\""
+		],
+        "38": [
+            "\\nl< >\"Tốt quá…                          \\w[60]",
+            "Xem ra công sức của em có hiệu quả rõ ràng rồi đó ♥\""
+		],	
+        "39": [
+            "\\nl< >\"Lần sau khi thấy mệt,          \\w[60]",
+            "nhất định phải đến tìm em đó nhé?             \\w[60]",
+            "Dù là gối đùi hay ngoáy tai… ",
+            "em sẽ luôn đợi anh, \\str[121].\""
+		],	
+        "40": [
+            "\\nl< >\"\\str[121]... \\str[121]~~     \\w[120]",
+			"Nghe thấy em gọi không~~?\""
+		],	
+        "41": [
+            "\\nl< >\"Fufufufu————      \\w[150]",
+            "Thấy dễ chịu không nào? ",
+            "Giờ mặt anh trông ngốc nghếch lắm đó ♥\""
+		],	
+        "42": [
+            "Không biết đã trôi qua bao lâu, ",
+            "nhưng tôi nghe thấy tiếng em ấy gọi khẽ bên tai, ",
+            "kèm theo những luồng hơi thở nhè nhẹ."
+		],	
+        "43": [
+            "Tôi ngồi dậy vừa dụi đôi mắt còn ngái ngủ. ",
+            "Có vẻ đã khá muộn rồi,",
+            "và \\str[120] cũng không giấu nổi vẻ buồn ngủ."
+		],	
+        "44": [
+            "\\nl< >\"Anh ngủ ngon quá \\str[121],  Eui lắm… ♥    \\w[90]",
+            "Em còn muốn ngắm gương mặt lúc ngủ của anh thêm nữa,                  \\w[90]",
+            "nhưng đến giờ đi ngủ rồi…\""
+		],	
+        "45": [
+            "\\nl< >\"Nếu \\str[121] còn muốn nữa thì lần sau nhé~\""
+		]
+    },
     "4": {
         "0": [
             "\\nl< >\"Grrrr...! \\w[45]",

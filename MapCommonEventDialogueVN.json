@@ -22,6 +22,23 @@
             "Vứt bỏ"
         ]
     },
+    "skillOnCooldown": {
+        "0": [
+            "Đang hồi chiêu!"
+        ]
+    },
+    "sealingScroll": [
+            "Chưa có vật phẩm nào bị phong ấn",
+            "Đang bị phong ấn:"
+    ],
+    "inventoryOverweight": {
+        "weapon": [
+            "Không thể mang thêm vũ khí!"
+        ],
+        "gear": [
+            "Không thể mang thêm trang bị!"
+        ]		
+    },
     "Abyss": {
         "0": [
             " Tòa Tháp Vĩnh Hằng Bị Ruồng Bỏ "
@@ -330,7 +347,7 @@
     },
     "cookingSystem": {
         "0": [
-            "\\ii[\\v[85]]đã sẵn sàng. Mình nên làm gì tiếp đây?"
+            "\\ii[\\v[85]] đã sẵn sàng. Mình nên làm gì tiếp đây?"
 		],
 		"1": [
             "Đổi lại",

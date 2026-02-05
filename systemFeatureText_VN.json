@@ -104,6 +104,11 @@
 	"silentUpdateSuccess": [
     	"Nội dung bản vá mới cho ${} đã được cài đặt thành công và sẽ có hiệu lực sau lần khởi động lại tiếp theo."
   	],
+	"outdatedVersionWarning": [
+		"Phiên bản trò chơi hiện tại của bạn đã cũ. Phiên bản mới nhất là ${}.",
+		"Các bản cập nhật lớn không hỗ trợ cập nhật tự động. ",
+		"Vui lòng tải lại trò chơi từ nguồn chính thức."
+  	],
 	"renameCharacter": [
 		"Tôi nhớ ra rồi—",
 		"em ấy là..."

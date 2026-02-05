@@ -17,6 +17,7 @@
         "name": [
             "Sổ Tay Mạo Hiểm Giả"
         ],
+        "beIndependent": true,
         "subtitle": [
 		    "\"Được viết bởi RORO, bắt đầu vào ngày 01/10/2024\""
 		],
@@ -151,6 +152,7 @@
         "name": [
             "Bản Đồ Thỏ"
         ],
+        "beIndependent": true,
         "subtitle": "",
         "description": [
             "Một tấm bản đồ được các hầu gái thỏ sử dụng, vẫn còn dính vụn cà rốt.",
@@ -166,6 +168,7 @@
         "name": [
             "Máy Ảnh Ma Thuật"
         ],
+        "beIndependent": true,
         "subtitle": "",
         "description": [
             "Được cho là một bảo vật phương Đông, chế tác tinh xảo nhưng bị thất lạc",
@@ -180,6 +183,7 @@
         "name": [
             "JoyStation V"
         ],
+        "beIndependent": true,
         "subtitle": "",
         "description": [
             "\"Ngay cả ở thế hệ thứ năm, các giới hạn của vật chất hóa linh hồn vẫn ngăn cản",
@@ -196,6 +200,7 @@
         "name": [
             "Shadow Souls DLC"
         ],
+        "beIndependent": true,
         "subtitle": "",
         "description": [
             "Gói mở rộng cho Shadow Souls.",
@@ -225,6 +230,7 @@
         "name": [
             "Vịt Cao Su"
         ],
+        "beIndependent": true,
         "subtitle": "",
         "description": [
             "Một món đồ chơi vịt cao su không rõ vì sao bị bỏ lại đơn độc trong lòng kênh.",
@@ -240,6 +246,7 @@
         "name": [
             "Quạt Điện"
         ],
+        "beIndependent": true,
         "subtitle": "",
         "description": [
             "Một chiếc quạt điện nhỏ với mẫu mã lỗi thời và luồng gió khá yếu.",
@@ -758,13 +765,31 @@
         "name": [
             "Sushi Pudding"
         ],
+        "beIndependent": true,
         "subtitle": "",
         "description": [
             "Một sinh vật đồng hành của một Ác Quỷ nào đó. Thả nó ra",
-            "sẽ dẫn bạn đến nơi ở của Ác Quỷ. Nhưng nó là mèo,",
-            "sushi hay pudding? Trông vẫn rất ngon"
+            "Thả nó ra sẽ tiết lộ vị trí của ác quỷ",
+            "Rốt cuộc nó là mèo, một miếng sushi, hay là bánh pudding?",
+            "Bất kể hình dạng thật sự là gì, trông nó vẫn rất ngon!"
         ],
         "ability": ""
+    },
+    "80": {
+        "name": [
+            "Phong Ấn Quyển"
+        ],
+        "beIndependent": true,		
+        "subtitle": "",		
+        "description": [
+            "Một bí cụ chỉ được truyền lại trong giới ninja",
+            "Kích hoạt Chú Ấn sẽ mở ra một khe nứt không gian, phong ấn vật phẩm vào bên trong",
+            "Những vật phẩm đó có thể được triệu hồi trở lại bất cứ khi nào cần"
+        ],
+        "ability": [
+            "Phong ấn hoặc triệu hồi toàn bộ vật phẩm đang trang bị",
+            "\\str[110]"
+        ]
     },
     "88": {
         "name": [
@@ -1256,10 +1281,29 @@
         ],
         "ability": ""
     },
+    "185": {
+        "name": [
+            "Personal Jesus"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            "\"Dirty Deeds Done Dirt Cheap...\""
+        ],
+        "description": [
+            "Một tạo vật tà ác do một Ác Quỷ chế tác sau khi quan sát",
+            "nền văn minh nhân loại. Mọi tội lỗi của kẻ mang theo đều được",
+            "ghi chép trung thực và chuyển hóa thành điểm. Những điểm này sau đó",
+            "có thể dâng cho ác quỷ để đổi lấy các ân huệ tà dị—"
+        ],
+        "ability": [
+            "Ghi nhận tội lỗi thành điểm. Mở khóa Giao Dịch Ác Quỷ"
+        ]
+    },
     "187": {
         "name": [
             "Cuộn Băng Video Cũ"
         ],
+        "beIndependent": true,
         "subtitle": [
             ""
         ],
@@ -1277,6 +1321,7 @@
         "name": [
             "Cuộn Băng Video Kinh Dị"
         ],
+        "beIndependent": true,
         "subtitle": [
             ""
         ],
@@ -1295,6 +1340,7 @@
         "name": [
             "Cuộn Băng Video Người Lớn"
         ],
+        "beIndependent": true,
         "subtitle": [
             ""
         ],
@@ -1313,6 +1359,7 @@
         "name": [
             "Doujinshi Yuri"
 		],
+        "beIndependent": true,
 		"subtitle": [
 		    "\"Onee-chan... em cảm thấy... em không thể sống thiếu chị được nữa...\""
 		],
@@ -1329,6 +1376,7 @@
         "name": [
             "Doujinshi Moe"
 		],
+        "beIndependent": true,
 		"subtitle": [
 		    "\"Moe moe kyun~♡\""
 		],
@@ -1345,6 +1393,7 @@
         "name": [
             "Doujinshi Gái Mèo"
 		],
+        "beIndependent": true,
 		"subtitle": [
 		    "\"Chủ nhân... nya~ xoa đầu em được không?\""
 		],
@@ -1361,6 +1410,7 @@
         "name": [
             "Elixir Rubrum"
         ],
+        "beIndependent": true,
         "subtitle": [
             "\"Đây là sức mạnh kiên cường nhất trong tất cả các loại ý chí,",
             "vững chắc và xuyên thấu qua mọi điều tinh vi\""
@@ -1378,6 +1428,7 @@
         "name": [
             "Áo thun của \\str[120]"
         ],
+        "beIndependent": true,
         "subtitle": [
             "\"Hiệp sĩ-sama...! Trên đó còn có cả chữ ký nữa...!\""
         ],
@@ -1865,6 +1916,7 @@
         "name": [
             "Album Polaroid"
         ],
+        "beIndependent": true,
         "subtitle": [
             "\"Những cô gái mềm mại và đáng yêu ♥ Tôi muốn mang tất cả về nhà—!\""
         ],
@@ -1880,6 +1932,7 @@
         "name": [
             "Album Polaroid"
         ],
+        "beIndependent": true,
         "subtitle": [
             "\"Những cô gái mềm mại và đáng yêu ♥ Tôi muốn mang tất cả về nhà—!\""
         ],
