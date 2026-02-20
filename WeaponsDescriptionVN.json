@@ -614,6 +614,23 @@
             "Hồi \\c[29]${Math.floor(1.2*$gameParty.leader().paramPlus(2))}\\c[0] HP cho người cầm khi đánh bại kẻ địch"
         ]
     },
+    "66": {
+        "name": [
+            "Nghi Thức Trụ"
+        ],
+        "subtitle": [
+            "\"——đa số mạo hiểm giả chỉ gọi thứ này là Ống Nai.\""
+        ],
+        "description": [
+            "Vũ khí thường được Sắc Dục Ma sử dụng, tương truyền ",
+            "ban đầu vốn là một loại pháp khí nghi thức.",
+            "Chất liệu cùng ma lực ẩn chứa bên trong đến nay vẫn không thể phân tích.",
+            "Ngoài ra, nó còn hoạt động cực kỳ hiệu quả như một chiếc đồng hồ báo thức…!"
+        ],
+        "ability": [
+            "Mỗi đầu giờ, nhận một phúc lành tăng toàn bộ chỉ số"
+        ]
+    },
     "70": {
         "name": [
             "Vinh Quang Cổ Đại"

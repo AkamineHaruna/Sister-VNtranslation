@@ -982,13 +982,29 @@
         ],
         "subtitle": "",
         "description": [
-            "Một nhãn cầu lấy từ ác quỷ.  ",
+            "Một nhãn cầu lấy từ ác quỷ. Nó vẫn đang quan sát mọi thứ. ",
             "Những ác quỷ tinh thông thao túng tâm trí thường sở hữu năng lực ",
             "nhìn xuyên thấu. Có lẽ nó cho phép bạn nhận ra những chi tiết ",
             "vốn dĩ sẽ bị bỏ sót..."
         ],
         "ability": [
             "Hiện vật thể và lối đi bị ẩn khi trang bị"
+        ]
+    },
+    "77": {
+        "name": [
+            "Thiếu Nữ Cầu Nguyện"
+        ],
+        "subtitle": [
+            "\"Cá… thật nhiều cá… một đống cá hồi…\""
+        ],
+        "description": [
+            "Một lời cầu nguyện được dâng lên bởi một Đại Ác Ma ám ảnh việc ăn cá hồi",
+            "Nói rằng nó có thể bẻ cong thực tại thì có lẽ hơi cường điệu…",
+            "nhưng cô ấy thật sự, chân thành chờ đợi lễ vật được dâng tới"
+        ],
+        "ability": [
+            "Tăng xác suất nhận được \\ii[142] và \\ii[143]"
         ]
     },
     "80": {
@@ -1294,7 +1310,7 @@
             "\"Hãy trao cho em tình yêu của anh—! Nếu không, hãy cùng chết đi~~~!\""
         ],
         "description": [
-            "Một cổ vật cấm được rèn bởi một Ác Quỷ yandere nào đó",
+            "Một cổ vật cấm được rèn bởi một Ác Ma yandere nào đó",
             "Nó ép buộc bất kỳ ai chạm vào phải yêu người mang nó",
 			"bất chấp ý chí của họ"
         ],

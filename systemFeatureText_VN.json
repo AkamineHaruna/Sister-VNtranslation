@@ -3,8 +3,8 @@
 		"Cuộc Sống Giản Dị Bên Em Gái Dịu Dàng Của Tôi "
 	],
 	"goldHeld": [
-    	"Yên"
-  	],
+		"Yên"
+	],
 	"quantityHeld": [
 		"\\fs[16]•Số lượng hiện có:\\c[17] ${} \\c[0]\\py[-8]"
 	],
@@ -12,15 +12,15 @@
 		"Có bản cập nhật khả dụng: Đã phát hiện dữ liệu game phiên bản ${}. ",
 		"Bạn có muốn tải xuống và cập nhật ngay bây giờ không?"
 	],
-	"fullScreen": [ 
+	"fullScreen": [
 		"Chế độ toàn màn hình"
 	],
-	"masterVolume": [ 
+	"masterVolume": [
 		"Âm lượng tổng"
 	],
-	"voiceVolume": [ 
+	"voiceVolume": [
 		"Âm lượng thoại"
-	],    
+	],
 	"BgmVolume": [
 		"Âm lượng nhạc nền"
 	],
@@ -34,7 +34,7 @@
 		"Số tin nhắn tối đa"
 	],
 	"GameFAQ": [
-		"Hỏi đáp game"
+		"Hướng dẫn chơi game"
 	],
 	"ShowWeaponDurability": [
 		"Hiển thị độ bền vũ khí"
@@ -118,7 +118,7 @@
 	],
 	"heroineName": [
 		"Em gái"
-	],  
+	],
 	"nonHardwareAccelerated": [
 		"Game hiện đang chạy trên card đồ họa tích hợp!",
 		"Nếu PC của bạn có card đồ họa rời, chúng tôi khuyến nghị thiết lập Game.exe ",
@@ -136,8 +136,8 @@
 		"② Nhà phát triển quên không đưa tệp vào—hãy chờ bản vá cập nhật để khắc phục."
 	],
 	"LowResMode": [
-    	"Chế độ đồ họa thấp"
-  	],
+		"Chế độ đồ họa thấp"
+	],
 	"lowResModeWarning": [
 		"Tính năng này chủ yếu dùng để tối ưu hiệu suất trên thiết bị Android và có thể ít tác dụng trên phiên bản PC.",
 		"Khi bật, trò chơi sẽ hiển thị bản đồ và hình ảnh ở độ phân giải thấp hơn rồi phóng to lên, ",
@@ -146,10 +146,12 @@
 		"Bạn có thể tắt tính năng này bất cứ lúc nào để khôi phục ngay chất lượng hình ảnh đầy đủ."
 	],
 	"cloudSaveServiceWarning": [
-		"Tính năng này sẽ yêu cầu quyền truy cập vào Google Drive của bạn,",
-		"để có thể lưu các bản save của trò chơi trong thư mục NLCH/save.",
-		"Các bản save được tải lên sẽ được dùng cho việc đồng bộ hóa và tải lại vào trò chơi sau này.",
-		"Bạn có đồng ý cấp quyền cho trò chơi truy cập Google Drive không?"
+		"Do cơ sở dữ liệu lưu trữ đám mây vẫn đang trong quá trình phát triển,",
+		"tính năng này sẽ tạm thời yêu cầu quyền truy cập vào Google Drive của bạn",
+		"để lưu các tệp save game trong thư mục NLCH/save.",
+		"Các bản lưu được tải lên sẽ chỉ được dùng cho việc đồng bộ trong tương lai ",
+		"và tải ngược trở lại vào trò chơi, sẽ không được sử dụng cho bất kỳ mục đích nào khác.",
+		"Bạn có đồng ý cấp quyền để trò chơi truy cập Google Drive của mình không?"
 	],
 	"uploadSaveFile": [
 		"Việc tải tệp save lên Google Drive sẽ ghi đè dữ liệu save hiện tại của bạn!",
@@ -169,35 +171,68 @@
 		"Hãy thêm thêm tựa game vào Wishlist của bạn và ủng hộ bọn tôi nhé! (*´∀`)~♥",
 		"⬇Nhấn vào bên dưới để mở trang Steam."
 	],
+	"memberMenu": {
+		"firstTimeNotice": [
+			"Đây là tính năng để xác minh danh tính người chơi hiện đang trong giai đoạn thử nghiệm.",
+			"Bạn có thể đăng nhập bằng tài khoản Patreon tại đây để xác minh danh tính!",
+			"Các tài khoản có đăng ký Patreon sẽ được quyền truy cập ",
+			"những tính năng như cập nhật phiên bản lớn tự động.",
+			"Xin lưu ý:",
+			"Mua trực tiếp game trên Patreon hiện ",
+			"chưa nằm trong phạm vi xác minh này.",
+			"Trong thời gian tới, chúng tôi sẽ hỗ trợ xác minh cho người chơi ",
+			"đã mua trò chơi trên các nền tảng khác,",
+			"và dần dần triển khai thêm nhiều dịch vụ cũng như hỗ trợ tính năng."
+		],
+		"shortHint": " Đã có thể bật lưu trữ đám mây & cập nhật phiên bản lớn",
+		"waitingLogin": "Đang chờ việc hoàn tất đăng nhập...",
+		"notLoggedIn": "Chưa đăng nhập",
+		"RequestingLogin": "Đang tạo link đăng nhập...",
+		"openingWindow": "Đang mở cửa sổ đăng nhập Patreon...",
+		"cloudSave": "Sử dụng lưu trữ đám mây",
+		"CheckUpdates": "Cập nhật lên phiên bản mới nhất",
+		"Subscribed": "Đã xác nhận đăng ký!",
+		"NotSubscribed": "Không phát hiện đăng ký đang hoạt động. Một số tính năng sẽ không khả dụng.",
+		"lastCheck": "Lần kiểm tra cuối: ",
+		"checkLatestVersion": "Đang kiểm tra phiên bản mới nhất, vui lòng chờ...",
+		"isLatestVersion": "Bạn đã ở phiên bản mới nhất!",
+		"notSponsor": "Người dùng chưa xác minh cần đăng ký!",
+		"majorUpdateFailed": [
+			"Cập nhật phiên bản lớn thất bại!",
+			"Mã lỗi: ${}",
+			"Vui lòng thử đăng nhập để xác minh rồi bắt đầu cập nhật lại,",
+			"hoặc gửi ảnh chụp màn hình này lên Discord của chúng tôi để được hỗ trợ!"
+		]
+  	},
 	"AdventurersPathway": {
     	"mapName": " -Đại Lộ Nhà Thám Hiểm- "
-  	}, 
+  	},
   	"ShallowRuinsLabyrinth": {
     	"mapName": " -Mê Cung Tàn Tích Tầng Nông- ",
 		"mapDescription": " Một mê cung rộng lớn chứa đầy những bí ẩn vô tận "
- 	}, 
+ 	},
   	"ForgottenCatacombe": {
     	"mapName": " -Địa Quật Bị Lãng Quên- "
-  	}, 
+  	},
   	"ForestofRuins": {
     	"mapName": " -Rừng Phế Tích- "
-  	}, 
+  	},
   	"AbandonedForest": {
     	"mapName": " -Rừng Hoang Phế- "
-  	}, 
+  	},
   	"ExcavationSite": {
     	"mapName": " -Khu Khai Quật- "
-  	}, 
+  	},
   	"TheFallenChurch": {
     	"mapName": " -Nhà Thờ Sa Ngã- "
-  	}, 
+  	},
   	"DoorofStar": {
     	"mapName": " -Cánh Cổng Tinh Quang- "
-  	}, 
+  	},
   	"ScorchingLavaZone": {
     	"mapName": " -Hoả Diệm Chi Vực- ",
 		"mapDescription": " Một vùng đất bừng cháy được dệt nên từ lửa, nơi những thử thách thiêu đốt vĩnh hằng "
-  	}, 
+  	},
   	"Nibelungen": {
     	"mapName": " -Vùng Đất Nibelungen- "
   	}

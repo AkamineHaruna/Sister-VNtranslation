@@ -553,7 +553,23 @@
 			"thứ này ra ngoài chút nào...",
 			"Không biết \\str[120] có thích kiểu ",
 			"trang phục như thế này không nhỉ...)"
-        ]		
+        ],
+		"86": [
+			"…Ra vậy. Cậu đang tìm thứ gì đó ",
+			"thú vị để xem vào đêm khuya sao?"
+		],
+		"87": [
+			"Trùng hợp thật đấy! Tôi đã sưu tầm",
+			"khá nhiều băng đĩa để lấy cảm hứng."
+		],
+		"88": [
+			"Trong đó có không ít thứ thú vị—",
+			"tôi cũng không ngại tặng cậu một cuốn đâu."
+		],
+		"89": [
+			"Như mọi khi, tôi hy vọng ",
+			"cậu sẽ tiếp tục ủng hộ công việc của tôi…!"
+		]
     },
 	"12": {
 		"objectName": [
@@ -662,6 +678,21 @@
 			"toát lên một khí chất khiến người ta lặng lẽ kính nể."
 		]	
     },
+	"22": {
+		"objectName": [
+			"\\c[116]Tháp Cuồng Tín"
+		],
+		"sentouryoku": [
+			"800"
+		],
+		"description": [
+			"Những kẻ cuồng tín hiến dâng cho sức mạnh Vực Thẳm ",
+			"và lời nguyền của Tòa Tháp.",
+			"Chúng tin rằng nguồn lực không thể thuần phục ấy sẽ ",
+			"mang lại sự tái sinh cho thế giới, dù nó được xây dựng ",
+			"trên nỗi thống khổ của tất cả—"
+		]
+  	},
   	"24": {
 		"objectName": [
 		    "\\c[114]Hầu Gái Thỏ"
@@ -701,7 +732,30 @@
 		"description": [
 			""
 		]
-  	},	  
+  	},
+	"29": {
+		"objectName": [
+			"\\c[10]Sắc Dục Ma"
+		],
+		"subtitle": [
+			"Vẫn Đang Bị Trấn Áp"
+		],
+		"bossName": [
+			"Sắc Dục Ma"
+		],
+		"garble": true,
+		"sentouryoku": [
+			"6666"
+		],
+		"description": [
+			"Một Sắc Dục Ma được giải phóng khỏi Tòa Tháp, ",
+			"nhưng chân lực vẫn còn bị phong tỏa.",
+			"Đáng ngạc nhiên là khá lịch thiệp và lắm lời ",
+			"đối với một ác ma cùng loại. Tuy nhiên, một khi bị khơi gợi, ",
+			"pháp khí nghi thức to lớn của nó sẽ để lại",
+			"vết sẹo tâm lý sâu sắc cho đối thủ."
+		]
+  	},
   	"32": {
 		"objectName": [
 		    "Máy Gacha Kỳ Lạ"
@@ -1126,7 +1180,7 @@
 		],	  
         "description": [
             "Trông có vẻ như một cô bé vô hại,",
-			"nhưng thực ra là một linh hồn của Đại Ác Quỷ.",
+			"nhưng thực ra là một linh hồn của Đại Ác Ma.",
 			"Thân thiện với con người, nhưng thích trêu chọc họ ",
 			"và tận hưởng phản ứng bối rối của họ.",
 			"Cô ấy mở một cửa hàng theo sở thích, ",
@@ -1171,7 +1225,7 @@
             "Được thôi~ em chưa tự giới thiệu, phải không~"
         ],
         "10": [
-		    "Vậy thì, em là~ Đại Ác Quỷ từ",
+		    "Vậy thì, em là~ Đại Ác Ma từ",
             "sâu trong Vực Thẳm! Tên là Aki~!"
         ],
         "11": [
@@ -1218,7 +1272,7 @@
             "Em đoán phải trừng phạt anh thật xứng đáng♥"
         ],
         "22": [
-		    "\\>\\c[10]《Nghi Lễ Hợp Đồng Ác Quỷ: Lời Nguyền tuyệt đối dành cho Con Người Thuần Khiết =",
+		    "\\>\\c[10]《Nghi Lễ Hợp Đồng Ác Ma: Lời Nguyền tuyệt đối dành cho Con Người Thuần Khiết =",
 			"\\>Từ hôm nay, cuộc sống của anh là Chế Độ Địa Ngục》!!     \\w[90]"
         ],
         "23": [
@@ -1388,8 +1442,58 @@
         "64": [
 		    "Nếu là loại đó~",
 			"Chỉ đưa cho em một con và em sẽ bán cho anh~♥"
-        ]				
-    },	  
+        ],
+		"65": [
+			"Hehe~ tìm gì đó để xem vào đêm khuya à~?",
+			"Chọn đúng lúc ghê đó… onii-san đang mong chờ thứ mặn nồng cỡ nào đây~?"
+		],
+		"66": [
+			"Muốn xem cùng Imouto sao~? onii-san, ",
+			"càng ngày càng khả nghi đó nha~? ♥"
+		],
+		"67": [
+			"Nhưng onii-san may mắn lắm đó~",
+			"Trùng hợp là em vừa có đúng thứ như vậy ngay đây~"
+		],
+		"68": [
+			"Nếu muốn,",
+			"đổi cho em ít cá hồi đi~"
+		],
+		"69": [
+			"Nhưng không phải loại cá hồi thường ngày nhàm chán đâu~",
+			"Em muốn loại cao cấp hơn cơ ♥"
+		],
+		"70": [
+			"Gì cơ~? onii-san đúng là ZAKO~",
+			"Đến cả cá hồi hạng sang cũng không kiếm nổi sao?"
+		],
+		"71": [
+			"ZAKO~",
+			"Đúng là ZAKO~"
+		],
+		"72": [
+			"Thôi được rồi, ",
+			"em sẽ giúp onii-san một chút ♥",
+			"Như vậy… chắc sẽ dễ ",
+			"bắt cá hơn, đúng không~?"
+		],
+		"73": [
+			"Ooh~~!",
+			"Mùi này~~"
+		],
+		"74": [
+			"Ây da~ onii-san cũng không đến nỗi vô dụng~",
+			"Bắt được cá hồi chất lượng cao thế này cơ mà ♥"
+		],
+		"75": [
+			"Được rồi ♥ Đây, thứ em đã hứa đây~",
+			"Nhớ tận hưởng cho đàng hoàng đó, onii-san~"
+		],
+		"76": [
+			"Dù có em giúp rồi~",
+			"onii-san vẫn thảm hại ghê đó~"
+		]
+    },
   	"98": {
 		"objectName": [
 		    "Máy Bán Kẹo"

@@ -1,7 +1,7 @@
 {
     "beginnersGuide": {
         "0": [
-            "Di chuột qua \\str[120] để kiểm tra trạng thái của \\str[120]",		
+            "Di chuột qua \\str[120] để kiểm tra trạng thái của \\str[120]",
             "Nhấp chuột trái vào \\str[120] để tương tác với \\str[120]"
 		],
 		"1": [
@@ -13,8 +13,8 @@
 		"3": [
             "Nhấp chuột phải hoặc nhấn giữ lâu nút chuột phải",
 			"để thoát khỏi chế độ Thân Mật"
-        ]		
-    },		
+        ]
+    },
     "AndroidBeginnersGuide": {
         "0": [
             "Chạm vào \\str[120] để kiểm tra trạng thái của em ấy",
@@ -126,7 +126,7 @@
 		"17": [
             "Mình cảm thấy hơi lẻ loi,",
             "nhưng chắc không nên làm phiền em ấy quá nhiều—"
-        ]		
+        ]
     },
     "3": {
         "0": [
@@ -374,8 +374,8 @@
             "\\nl< >\\{\"Trời ơi— \\str[121],",
 			"anh chạm quá nhiều rồi đấy!\"",
 			"\\w[150]\\^"
-		]		
-    },	
+		]
+    },
     "5": {
         "0": [
             "\\nl< >\"Uwaaah, \\str[121]... ",
@@ -458,7 +458,7 @@
 		"22": [
             "\\nl< >\"Uweh-eh-eh... \\str[121], \\w[150]",
 			"anh hăng quá rồi đó...!?\"    \\w[180]\\^"
-        ]		
+        ]
     },
     "7": {
         "0": [
@@ -608,7 +608,52 @@
 		"3": [
             "\\str[120] của mình, vừa tắm xong, ",
 			"uống cạn cả một chai sữa trong một hơi..."
-        ]		
+        ],
+        "4": [
+            "\\nl< >\"Được rồi~! Tắm rửa xong xuôi,     \\w[90]",
+            "giờ đến lượt \\str[121] đưa phần thưởng cho em đó~!\""
+        ],
+        "5": [
+            "—À, phải rồi.",
+            "Tôi đã hứa với \\str[120] rằng sẽ chuẩn bị ",
+            "một ít sữa cho em ấy làm phần thưởng."
+        ],
+        "6": [
+            "Chết rồi... hình như hết sữa mất rồi...!"
+        ],
+        "7": [
+            "\\nl< >\"...\\str[121]? Sữa đâu rồi?\""
+        ],
+        "8": [
+            "\"Thì là... hết sữa rồi.\""
+        ],
+        "9": [
+            "\\nl< >\"...Eh? Hết sữa rồi á?\""
+        ],
+        "10": [
+            "\"Ừ. Loại sữa em thích... hết sạch rồi.\""
+        ],
+        "11": [
+            "\\nl< >\"Nhưng... nhưng mà... vậy là không công bằng...    \\w[90]",
+            "Ư... Waaaaaahhhhhh—!                       \\w[90]",
+            "\\str[121] đúng là đồ nói dối! Đồ đáng ghét!!\""
+        ],
+        "12": [
+            "\\nl< >\"Em đã cố gắng như vậy...                           \\w[90]",
+            "làm mấy chuyện vừa mệt vừa kỳ lạ cho anh nữa...      \\w[90]",
+            "mà cuối cùng lại không có phần thưởng sao?! ",
+            "Hức... Hức...\""
+        ],
+        "13": [
+            "\"Xin lỗi, xin lỗi! Tất cả là tại anh...!",
+            "Ngày mai anh sẽ đi mua thêm, anh hứa đó, nên đừng khóc nữa mà...!\""
+        ],
+        "14": [
+            "Không chịu nổi cú sốc cảm xúc quá mạnh, ",
+            "\\str[120] bật khóc nức nở.",
+            "Tôi luống cuống vừa lau khô tóc cho em ấy, ",
+            "vừa liên tục xin lỗi dỗ dành."
+        ]
     },		
     "13": {
         "0": [
@@ -2656,5 +2701,5 @@
         "20": [
             "Cuối cùng tôi lại chọc cho em ấy nổi giận..."
         ]
-    }		
+    }
 }
