@@ -1,4 +1,104 @@
 {
+	"2": {
+		"0": [
+			"—Tôi không làm được nữa rồi. ",
+			"Tôi không thể tiếp tục tưởng tượng lung tung như thế này.",
+			"Tôi hoàn toàn cạn sạch cảm hứng rồi..."
+		],
+		"1": [
+			"Tiếp tục Ảo Tưởng",
+			"Dừng Ảo Tưởng"
+		],
+		"2": [
+			"Khi ngồi trên bồn cầu, những suy nghĩ ",
+			"mà bình thường tôi chẳng bao giờ để ý bắt đầu lóe lên trong đầu."
+		],
+		"3": [
+			"Nghĩ lại thì, ",
+			"ngay cả các Đại Hiền Giả cũng từng chỉ là con người bình thường.",
+			"Có lẽ họ cũng, trong lúc ngồi trên bồn cầu như thế này,",
+			"đạt đến một mức độ tập trung chưa từng có—"
+		],
+		"4": [
+			"\\{Nói cách khác, rất nhiều chân lý của thế giới",
+			"thực ra đã được thai nghén ngay trên bồn cầu!"
+		],
+		"5": [
+			"Phù, tất cả chỉ là ảo tưởng thôi.",
+			"Làm sao một Đại Hiền Giả lại có thể là người tầm thường như vậy chứ...?"
+		],
+		"6": [
+			"I spent some time killing time ",
+			"with these idle thoughts on the toilet..."
+		],
+		"7": [
+			"The universe was born from nothingness at the very beginning,",
+			"but what is the purpose of its existence?"
+		],
+		"8": [
+			"What is the meaning of our existence as humans?"
+		],
+		"9": [
+			"What is the meaning of life?"
+		],
+		"10": [
+			"——I feel as if my consciousness is being transcended."
+		],
+		"11": [
+			"Oh, universe, please give me a sign.",
+			"What is the ultimate answer to life, the universe, and everything?"
+		],
+		"12": [
+			"(I close my eyes and accept the revelations from the cosmos—)"
+		],
+		"13": [
+			"A thought suddenly appears in my mind.",
+			"But what on earth does this mean...?"
+		],
+		"14": [
+			"God said, \"Let there be a little sister.\"",
+			"And so, there was a little sister in this world."
+		],
+		"15": [
+			"In other words...",
+			"She is, therefore I am..."
+		],
+		"16": [
+			"I am moved to tears of joy for having ",
+			"grasped the ultimate meaning of life."
+		],
+		"17": [
+			"Hmm... life with \\str[120] lately has finally",
+			"made me realize some things I've been ignoring..."
+		],
+		"18": [
+			"It's been a nerve-wracking journey, ",
+			"but thankfully, she's grown up safely,",
+			"and her constitution has finally stabilized..."
+		],
+		"19": [
+			"As family, it really does feel quite rewarding."
+		],
+		"20": [
+			"\\{But...!        \\}\\w[40]",
+			"\\str[120] is a girl after all, ",
+			"and her body is gradually developing.",
+			"\\w[10]",
+			"As the only man in the house now, ",
+			"these changes are... a bit too stimulating."
+		],
+		"21": [
+			"And besides, she walks around every day in those loose,",
+			"oversized pajamas, totally defenseless.",
+			"Even though there are no outsiders, ",
+			"isn't she testing my self-control a bit too much—"
+		],
+		"22": [
+			"Yes, that's exactly it!",
+			"I'm glad she trusts me this much, of course...",
+			"But as her family, I have to hold the line and protect her properly!"
+		]
+	},
   	"3": {
         "0": [
             "\"Haa... thoải mái hơn hẳn...\""
@@ -70,8 +170,246 @@
         "20": [
             "Không thể ngồi đây mãi được.",
 			"Có lẽ tôi nên đi ra ngoài—"
+		],
+		"21": [
+			"\"Ah, we're all out of toilet paper—\""
+		],
+		"22": [
+			"Now I've really got nothing to do—"
+		],
+		"23": [
+			"I tore off some toilet paper and tried to ",
+			"braid it into a shape, but I failed miserably."
+		],
+		"24": [
+			"\"That's weird... ",
+			"it's never this hard when I'm tying \\str[120]'s hair...\""
+		],
+		"25": [
+			"...I feel like I'm just wasting my life."
+		],
+		"26": [
+			"Let's make a paper airplane—",
+			"Thinking that, I tore off some more toilet paper."
+		],
+		"27": [
+			"Because the paper was so soft, it took several ",
+			"failed attempts before I finally managed to fold a paper airplane."
+		],
+		"28": [
+			"\\{\"Off it goes!\""
+		],
+		"29": [
+			"But the paper airplane plummeted straight down ",
+			"before it could even get very far..."
+		],
+		"30": [
+			"Maybe I should try a paper crane—    \\w[40]",
+			"I tore off some more paper,",
+			"but I just couldn't get the shape to look right..."
 		]
-    },	
+    },
+	"6": {
+		"0": [
+			"\\nl< >\"————————！？\""
+		],
+		"1": [
+			"That was \\str[120]'s scream...! Don't tell me!?"
+		],
+		"2": [
+			"\\{\"What happened!?\""
+		],
+		"3": [
+			"\\nl< >\"Waaaaaahhhhhh—!?\""
+		],
+		"4": [
+			"\\{So fast!?     \\w[25]",
+			"Eh...! What on earth is going on!?"
+		],
+		"5": [
+			"\"There's nothing here...\""
+		],
+		"6": [
+			"\\nl< >\"Sob, sob... \\str[121]...\""
+		],
+		"7": [
+			"The sound is coming from inside the toilet...!",
+			"No time for hesitation—I threw open the door."
+		],
+		"8": [
+			"\\str[120] is shivering on top of the toilet seat. ",
+			"Naturally, she's wearing nothing from the waist down...",
+			"I don't even know where to look..."
+		],
+		"9": [
+			"Hm... so \\str[120] hasn't even started ",
+			"growing pubic hair down there yet..  \\w[25]\\^"
+		],
+		"10": [
+			"No, no, now is not the time for these delusions!"
+		],
+		"11": [
+			"\"...What happened here?\""
+		],
+		"12": [
+			"\\nl< >\"There is a C in the toilet...\""
+		],
+		"13": [
+			"C...!?",
+			"That thing again! ",
+			"How dare it scare my precious \\str[120] to tears!"
+		],
+		"14": [
+			"I searched the toilet thoroughly afterward, ",
+			"but in the end, I couldn't find a single trace of the C."
+		],
+		"15": [
+			"After \\str[120] went into the toilet, ",
+			"I secretly crept up to the toilet door."
+		],
+		"16": [
+			"Quietly cracking the door open... ",
+			"I can't let \\str[120] notice me.."
+		],
+		"17": [
+			"\\nl< >\"Mnya—\""
+		],
+		"18": [
+			"Oho, I can see everything perfectly...!",
+			"So \\str[120] has that sleepy look even when she's on the toilet."
+		],
+		"19": [
+			"\\nl< >\"..................?\"",
+			"\\w[60]\\^"
+		],
+		"20": [
+			"\\nl< >\"...Is something there?\""
+		],
+		"21": [
+			"\\nl< >\"..........................\"",
+			"\\w[60]\\^"
+		],
+		"22": [
+			"————Oh no!!",
+			"I was so fixated on \\str[120] that I forgot the important thing...!",
+			"What just appeared there is—      \\w[70]\\^"
+		],
+		"23": [
+			"\\nl< >\"Waaaaaahhhhhh—!?\""
+		],
+		"24": [
+			"\\{As I thought, the C appeared—!"
+		],
+		"25": [
+			"This time I burst into the toilet without a second thought, ",
+			"my eyes instantly locking onto the scuttling C."
+		],
+		"26": [
+			"\\{\"So you're the one who made my \\str[120] cry!?\""
+		],
+		"27": [
+			"The slipper hit it right between the eyes.",
+			"The C dropped dead on the spot."
+		],
+		"28": [
+			"\"Whew... finally took that thing down...\""
+		],
+		"29": [
+			"\\nl< >\"Sob, sob... \\str[121]...\""
+		],
+		"30": [
+			"\"It's okay now. ",
+			"\\str[121] took care of the bad guy.\""
+		],
+		"31": [
+			"\\nl< >\"Ugh... \\str[121], don't leave,",
+			"I'm still scared...\""
+		],
+		"32": [
+			"\".......Then I'll just stay here with my back turned.\""
+		],
+		"33": [
+			"\"....Hm? Uh... ",
+			"then I'll just stand guard at the door.\""
+		],
+		"34": [
+			"To put \\str[120] at ease,",
+			"I stood guard at the toilet door with ",
+			"a serious face, like a sentry."
+		],
+		"35": [
+			"Waiting for \\str[120] to finish felt surprisingly long. ",
+			"Once I calmed down, images of her pussy I just ",
+			"glimpsed started flashing in my mind."
+		],
+		"36": [
+			"There... was still no hair at all. ",
+			"Suddenly, I'm curious to see how \\str[120] is ",
+			"using the toilet right now—",
+			"\\w[30]\\^"
+		],
+		"37": [
+			"No, no! I can't be having these thoughts ",
+			"at a time like this...!"
+		],
+		"38": [
+			"............Maybe just one tiny peek?"
+		],
+		"39": [
+			"Just one peek",
+			"Forget about it"
+		],
+		"40": [
+			"Yeah... it would be bad if there were other C around!",
+			"This is strictly for \\str[120]'s safety—"
+		],
+		"41": [
+			"I guess it's still not a good idea...",
+			"I need to respect \\str[120]'s privacy..."
+		],
+		"42": [
+			"\\nl< >\"................!?\""
+		],
+		"43": [
+			"Ah, I've been busted."
+		],
+		"44": [
+			"\\nl< >\"\\str[121], what are you doing?\""
+		],
+		"45": [
+			"\"Uh, I thought I heard another C, so————\""
+		],
+		"46": [
+			"\\nl< >\"I'm not scared anymore! ",
+			"\\str[121], get out!\""
+		],
+		"47": [
+			"And I got kicked out of the toilet..."
+		],
+		"48": [
+			"\\str[120] was still trembling from the shock, ",
+			"and because of that, she didn't seem to notice ",
+			"that I was tilting my head to steal a glance..."
+		],
+		"49": [
+			"Oooohhhh... So that's how \\str[120] pees...",
+			"\\w[45]\\^"
+		],
+		"50": [
+			"\\>Wait, didn't I see this all the time ",
+			"when we were kids!?     \\w[30]"
+		],
+		"51": [
+			"With the image of \\str[120]'s plump, smooth pussy ",
+			"burned into my mind, I silently turned my head away."
+		],
+		"52": [
+			"\\nl< >\"Whew... finally finished...\""
+		],
+		"53": [
+			"\\nl< >\"...\\str[121], you can come out now.\""
+		]
+	},
   	"9": {
         "0": [
             "\\nl< >\"\\str[121]! Anh vẫn đang ở trong toilet à?\""
@@ -82,7 +420,7 @@
         "2": [
             "Có lẽ mình đã lãng phí quá nhiều thời gian, nên đi thôi..."
 		]
-    },		
+    },
   	"21": {
         "0": [
             "Ngay lúc đó, một âm thanh quen thuộc vang lên."
