@@ -220,7 +220,7 @@
             "Phew... Cơ thể mình nóng ran cả lên, chắc cũng đến lúc ra khỏi bồn tắm thôi."		
         ],		
         "55": [
-            "\\nl< >\"Geez... anh chẳng thèm quay mặt đi nữa.",
+            "\\nl< >\"Trời ạ... anh chẳng thèm quay mặt đi nữa.",
 			"\\str[121], anh thấy hết cả rồi đó...\""
         ],		
         "56": [
@@ -232,7 +232,7 @@
 			"Nhìn em quyến rũ lắm"
         ],		
         "58": [
-            "\\nl< >\"...Được thôi, em nghĩ chắc là ổn.\""
+            "\\nl< >\"...Được thôi, em nghĩ chắc là cũng ổn.\""
         ],		
         "59": [
             "\\nl< >\"\\str[121]... anh lúc nào cũng chỉ nghĩ đến mấy chuyện đó thôi.",
@@ -613,7 +613,7 @@
             "\\nl< >\"Uuueeh... Ý anh là sao chứ...?\""
         ],	
 		"25": [
-		    "Tôi đưa tay còn lại ra, vuốt mái tóc của em ấy một cách tùy hứng .",
+		    "Tôi đưa tay còn lại ra, vuốt mái tóc của em ấy một cách tùy hứng.",
             "Em ấy có vẻ hơi bất mãn vì bị gạt đi như thế."
         ],	
 		"26": [
@@ -864,7 +864,7 @@
     },
     "4": {
         "1": [
-            "\\str[120] khẽ cất lên tiếng rên rỉ hơi khó chịu , ",
+            "\\str[120] khẽ cất lên tiếng rên rỉ hơi khó chịu, ",
             "nhưng rồi vẫn ngoan ngoãn cúi người xuống,",
             "em ấy xoa xà phòng tắm lên hai lòng bàn tay cho đến khi chúng trơn nhẫy.",
             "\\w[30]",
@@ -957,7 +957,7 @@
         ],
         "13": [
             "Chiếc lưỡi của em ấy tiếp tục hành trình, trượt từ quy đầu xuống ",
-            "dọc theo những đường gân nổi lên ,",
+            "dọc theo những đường gân nổi lên,",
             "kiên nhẫn liếm từ đầu xuống tận gốc ",
             "không bỏ sót chút nào."
         ],
@@ -1098,7 +1098,7 @@
             "Anh dùng Phiếu Thưởng luôn, ngay bây giờ!\""
         ],
         "23.1": [
-            "Đó là tấm “Phiếu Thưởng” em ấy tự tay làm cho tôi .",
+            "Đó là tấm “Phiếu Thưởng” em ấy tự tay làm cho tôi. ",
             "Lúc trước em ấy từng nói rằng chỉ cần tôi đưa nó ra, ",
             "thì dù yêu cầu có ích kỷ hay làm nũng đến mức nào đi chăng nữa,",
             "em ấy cũng sẽ đồng ý hết."
@@ -1264,7 +1264,7 @@
             "Ra chưa đủ hay sao!?\""
         ],
         "50": [
-            "\\nl< >\"Chưa~ đâu~♥ Chỗ dưới của\\str[121] ",
+            "\\nl< >\"Chưa~ đâu~♥ Chỗ dưới của \\str[121] ",
             "vẫn chưa chịu đầu hàng đâu nè!",
             "Cố chịu thêm tí xíu nữa thôi, sắp xong rồi...♥\""
         ],
@@ -1307,7 +1307,7 @@
             "\\nl< >\"*Khụ khụ*...                 \\w[90]",
             "haah... Phần cuối cùng đau thật đấy...      \\w[90]",
             "Cổ họng em giờ như bị lấp đầy hoàn toàn bởi",
-            "hương vị của \\str[121] luôn rồi ...\""
+            "hương vị của \\str[121] luôn rồi...\""
         ],
         "59": [
             "\\nl< >\"Huh...? Sao tự nhiên trông anh kiệt quệ thế kia?     \\w[120]",
@@ -1502,7 +1502,7 @@
             "ở chỗ đó á...?\""
         ],
         "40": [
-            "\\nl< >\"—Trời ạ, em biết ngay \\str[121] ",
+            "\\nl< >\"—Thật là, em biết ngay \\str[121] ",
             "lúc nào cũng tìm cách đòi hỏi mấy chuyện hư hỏng thế này.",
             "Anh chẳng bao giờ bỏ lỡ cơ hội, ",
             "nghĩ về chuyện hư hỏng nhỉ...♥\""
