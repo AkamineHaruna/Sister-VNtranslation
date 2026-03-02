@@ -27,6 +27,12 @@
             "Đang hồi chiêu!"
         ]
     },
+    "takePhotoOfImouto": {
+        "0": [
+            "\\nl< >\"Hngh! \\str[121]!    \\w[60]",
+            "Anh lại chụp lén nữa!\""
+        ]
+    },
     "sealingScroll": [
             "Chưa có vật phẩm nào bị phong ấn",
             "Đang bị phong ấn:"
