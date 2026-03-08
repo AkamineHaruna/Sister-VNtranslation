@@ -121,7 +121,7 @@
         ],
         "2": [
             "Thứ anh đang mang theo kia là...!",
-            "Chẳng lẽ anh cũng là fan của yuusha-sama sao!?"
+            "Chẳng lẽ anh cũng là fan của Yuusha-sama sao!?"
         ],
         "3": [
             "Một thanh kiếm gỗ có chất lượng cao như vậy",
@@ -199,7 +199,7 @@
         	"mà lại không có phần thưởng gì thì thật là thất lễ."
         ],
         "22": [
-          	"Xin hãy nhận lấy thứ này—đó là kỹ năng do chính tôi tự phát triển.",
+          	"Xin hãy nhận lấy thứ này, đó là kỹ năng do chính tôi tự phát triển.",
           	"Tôi chắc chắn nó sẽ rất hữu ích cho anh!"
         ],
         "23": [
@@ -614,10 +614,10 @@
 		    "Shione"
 		],	  
 		"subtitle": [
-		    "Nữ Tu Ác Quỷ của Nhà Thờ Sa Ngã"
+		    "Nữ Tu Ác Ma Của Thánh Đường Sa Ngã"
 		],
 		"bossName": [
-		    "Ác Quỷ Kiêu Hãnh"
+		    "Ác Ma Kiêu Hãnh"
 		],
 		"garble": true
     },
@@ -735,13 +735,13 @@
   	},
 	"29": {
 		"objectName": [
-			"\\c[10]Sắc Dục Ma"
+			"\\c[10]Ác Ma Sắc Dục"
 		],
 		"subtitle": [
 			"Vẫn Đang Bị Trấn Áp"
 		],
 		"bossName": [
-			"Sắc Dục Ma"
+			"Ác Ma Sắc Dục"
 		],
 		"garble": true,
 		"sentouryoku": [
@@ -833,7 +833,7 @@
     },
 	"47": {
 		"objectName": [
-			"\\c[114]Cánh Cửa Vì Sao"
+			"\\c[114]Cửa Thiên Tinh"
 		],
 		"sentouryoku": [
 			"1"
@@ -876,13 +876,13 @@
     },
 	"59": {
 		"objectName": [
-			"Thỏ Trắng Xứ Wonderland"
+			"Thỏ Trắng Xứ Sở Thần Tiên"
 		],
 		"subtitle": [
 			"Cư ngụ trong Khu Rừng Tàn Tích"
 		],
 		"bossName": [
-			"Thỏ Trắng Xứ Wonderland"
+			"Thỏ Trắng Xứ Sở Thần Tiên"
 		],
 		"sentouryoku": [
 			"???"
@@ -893,7 +893,7 @@
   	},	  
   	"65": {
 		"objectName": [
-		    "\\c[116]Chim Khổng Lồ"
+		    "\\c[116]Quái Điểu"
 		],	  
 		"sentouryoku": [
 		    "260"
@@ -982,7 +982,7 @@
     },	  
   	"70": {
 		"objectName": [
-		    "Tiên Chuối"
+		    "Tiểu Tiên Chuối"
 		],	  
 		"sentouryoku": [
 		    "?10"
@@ -997,7 +997,7 @@
     },	  
   	"71": {
 		"objectName": [
-		    "Tiên Táo"
+		    "Tiểu Tiên Táo"
 		],	  
 		"sentouryoku": [
 		    "?10"
@@ -1027,7 +1027,7 @@
     },	  
   	"73": {
 		"objectName": [
-		    "Thủy Linh"
+		    "Thủy Quái"
 		],	  
 		"sentouryoku": [
 		    "180"
@@ -1545,7 +1545,7 @@
     },	  
   	"101": {
 		"objectName": [
-		    "\\c[116]Hồng Thú Non"
+		    "\\c[116]Tiểu Quái Đỏ"
 		],	  
 		"sentouryoku": [
 		    "380"
@@ -1687,7 +1687,7 @@
     },	  
   	"115": {
 		"objectName": [
-		    "\\c[115]Slime Lửa"
+		    "\\c[115]Slime Hỏa"
 		],	  
 		"sentouryoku": [
 		    "620"

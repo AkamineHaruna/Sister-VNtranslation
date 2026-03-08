@@ -3,7 +3,7 @@
 		"Cuộc Sống Giản Dị Bên Em Gái Dịu Dàng Của Tôi "
 	],
 	"goldHeld": [
-		"Yên"
+		"Yen"
 	],
 	"quantityHeld": [
 		"\\fs[16]•Số lượng hiện có:\\c[17] ${} \\c[0]\\py[-8]"
@@ -213,32 +213,32 @@
 		]
   	},
 	"AdventurersPathway": {
-    	"mapName": " -Đại Lộ Nhà Thám Hiểm- "
+    	"mapName": " -Lối Mòn Mạo Hiểm Giả- "
   	},
   	"ShallowRuinsLabyrinth": {
     	"mapName": " -Mê Cung Tàn Tích Tầng Nông- ",
 		"mapDescription": " Một mê cung rộng lớn chứa đầy những bí ẩn vô tận "
  	},
   	"ForgottenCatacombe": {
-    	"mapName": " -Địa Quật Bị Lãng Quên- "
+    	"mapName": " -Hầm Mộ Bị Lãng Quên- "
   	},
   	"ForestofRuins": {
-    	"mapName": " -Rừng Phế Tích- "
+    	"mapName": " -Khu Rừng Tàn Tích- "
   	},
   	"AbandonedForest": {
-    	"mapName": " -Rừng Hoang Phế- "
+    	"mapName": " -Khu Rừng Lạc Lối- "
   	},
   	"ExcavationSite": {
-    	"mapName": " -Khu Khai Quật- "
+    	"mapName": " -Khu Vực Khai Thác- "
   	},
   	"TheFallenChurch": {
-    	"mapName": " -Nhà Thờ Sa Ngã- "
+    	"mapName": " -Thánh Đường Sa Ngã- "
   	},
   	"DoorofStar": {
-    	"mapName": " -Cánh Cổng Tinh Quang- "
+    	"mapName": " -Cửa Thiên Tinh- "
   	},
   	"ScorchingLavaZone": {
-    	"mapName": " -Hoả Diệm Chi Vực- ",
+    	"mapName": " -Vành Đai Hoả Ngục- ",
 		"mapDescription": " Một vùng đất bừng cháy được dệt nên từ lửa, nơi những thử thách thiêu đốt vĩnh hằng "
   	},
   	"Nibelungen": {

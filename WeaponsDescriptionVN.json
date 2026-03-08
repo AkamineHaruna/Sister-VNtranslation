@@ -42,7 +42,7 @@
     },
     "4": {
         "name": [
-            "Nắm Đấm"
+            "Nắm Đấm Siết Chặt"
         ],
         "subtitle": "",
         "description": [
@@ -69,7 +69,7 @@
     },
     "6": {
         "name": [
-            "Hỏa Linh Trượng"
+            "Trượng Nham Hoả"
         ],
         "subtitle": "",
         "description": [
@@ -83,7 +83,7 @@
     },
     "7": {
         "name": [
-            "Trượng Băng"
+            "Trượng Hàn Băng"
         ],
         "subtitle": "",
         "description": [
@@ -137,7 +137,7 @@
     },
     "11": {
         "name": [
-            "Trọng Búa"
+            "Búa Gỗ Lớn"
         ],
         "subtitle": "",
         "description": [
@@ -225,7 +225,7 @@
     },
     "17": {
         "name": [
-            "Ngọn Lửa Thái Dương"
+            "Hoả Ảnh Nhiệt Lưu"
         ],
         "subtitle": [
             "\"\\str[121], nhìn đáng sợ quá, đừng cầm nó nhé.\""		
@@ -282,7 +282,7 @@
 	},
     "21": {
         "name": [
-            "Địa Ngục Khởi Nguyên"
+            "Sứ Giả Địa Ngục"
         ],
         "subtitle": [
             "\"Thứ này khát máu...\""		
@@ -354,7 +354,7 @@
     },
     "27": {
         "name": [
-            "Kiếm Bào Tử Độc"
+            "Kim Bào Tử Độc"
         ],
         "subtitle": "",
         "description": [
@@ -382,7 +382,7 @@
     },
     "30": {
         "name": [
-            "Kiếm Kanesada"
+            "Kanesada"
         ],
         "subtitle": "",
         "description": [
@@ -411,7 +411,7 @@
     },
     "36": {
         "name": [
-            "Kiếm Tyrfing"
+            "Tyrfing"
         ],
         "subtitle": "",
         "description": [
@@ -616,13 +616,13 @@
     },
     "66": {
         "name": [
-            "Nghi Thức Trụ"
+            "Nghi Thức Ngự Trụ"
         ],
         "subtitle": [
-            "\"——đa số mạo hiểm giả chỉ gọi thứ này là Ống Nai.\""
+            "\"——đa số mạo hiểm giả chỉ gọi thứ này là Ống Sừng Hươu.\""
         ],
         "description": [
-            "Vũ khí thường được Sắc Dục Ma sử dụng, tương truyền ",
+            "Vũ khí thường được Ác Ma Sắc Dục sử dụng, tương truyền ",
             "ban đầu vốn là một loại pháp khí nghi thức.",
             "Chất liệu cùng ma lực ẩn chứa bên trong đến nay vẫn không thể phân tích.",
             "Ngoài ra, nó còn hoạt động cực kỳ hiệu quả như một chiếc đồng hồ báo thức…!"
@@ -765,7 +765,7 @@
     },
     "106": {
         "name": [
-            "Huyết Khuyển Cung"
+            "Huyết Khuyển"
         ],
         "subtitle": "",
         "description": [

@@ -24,13 +24,13 @@
     },
     "skillOnCooldown": {
         "0": [
-            "Đang hồi chiêu!"
+            "Đang hồi kỹ năng!"
         ]
     },
     "takePhotoOfImouto": {
         "0": [
             "\\nl< >\"Hngh! \\str[121]!    \\w[60]",
-            "Anh lại chụp lén nữa!\""
+            "Anh lại chụp lén nữa à!\""
         ]
     },
     "sealingScroll": [
@@ -52,7 +52,7 @@
     },
     "ElixirCraft": {
         "0": [
-            " Elixir Chế Tác "
+            " Chế Tạo Elixir "
 		],
 		"1": [
             " Thành công tạo ra Elixir Rubrum! "

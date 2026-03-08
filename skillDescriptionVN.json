@@ -22,7 +22,7 @@
     },	
     "2": {
         "name": [
-            "Senpo (Huyền Pháp)"
+            "Tốc Hành"
         ],
         "subtitle": [
 		    ""
@@ -38,19 +38,19 @@
     },
     "3": {
         "name": [
-            "Senpo Tachi (Huyền Đao Pháp)"
+            " Cuồng Đao Tốc Hành"
         ],
         "subtitle": [
 		    ""
 		],
         "description": [
             "Một kỹ thuật rút kiếm học được từ vị Kiếm Sư trẻ tuổi.",
-            "Khi kết hợp với Senpo, bạn tung ra một nhát chém được tăng cường tốc độ, ",
+            "Khi kết hợp với Tốc Hành, bạn tung ra một nhát chém được tăng cường tốc độ, ",
 			"đủ sức hất văng kẻ địch nếu căn đúng thời điểm."
         ],
         "ability": [
-		    "Chuột trái trong khi dùng Senpo: Chém, sát thương tỉ lệ với tốc độ",
-		    "Giữ chuột phải trong khi dùng Senpo: Tích tụ, hiệu ứng tỉ lệ với đà di chuyển"
+		    "Chuột trái trong khi dùng Tốc Hành: Chém, sát thương tỉ lệ với tốc độ",
+		    "Giữ chuột phải trong khi dùng Tốc Hành: Tích tụ, hiệu ứng tỉ lệ với đà di chuyển"
 		],
         "mobileAbility": [
 		    "Chạm nút kỹ năng để chém, sát thương tỉ lệ với tốc độ di chuyển",
@@ -59,7 +59,7 @@
     },
     "4": {
         "name": [
-            "Whirlwind Slash (Phong Trảm Cuồng Lốc)"
+            "Phong Trảm Cuồng Lốc"
         ],
         "subtitle": [
 		    ""
@@ -80,7 +80,7 @@
     },
     "6": {
         "name": [
-            "Biến Thái Gặp May"
+            "Biến Thái May Mắn"
         ],
         "subtitle": [
             "Đúng vậy!"
@@ -97,7 +97,7 @@
     },
     "7": {
         "name": [
-            "Danger Sense (Trực giác nguy hiểm)"
+            "Trực Giác Nguy Hiểm"
         ],
         "subtitle": [
 		    ""
@@ -133,7 +133,7 @@
     },	
     "11": {
         "name": [
-            "Backstab (Ám Kích)"
+            "Ám Sát"
         ],
         "subtitle": [
 		    "true"
@@ -149,7 +149,7 @@
     },
     "12": {
         "name": [
-            "Musou Burst Stream (Vô Song Bạo Lưu)"
+            "Bạo Lưu Vô Song"
         ],
         "subtitle": [
             ""
@@ -185,7 +185,7 @@
     },
     "16": {
         "name": [
-            "Bladekeepers (Thủ Hộ Kiếm)"
+            "Thủ Hộ Kiếm"
         ],
         "subtitle": [
 		    ""

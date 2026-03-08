@@ -130,7 +130,7 @@
         "subtitle": "",
         "description": [
             "Một xấp dày những tờ tiền 5000 Yên",
-            "Khi các cô hầu gái Thỏ mở rộng buôn bán nhanh chóng",
+            "Khi các cô Thỏ Hầu Gái mở rộng buôn bán nhanh chóng",
             "lũ quái vật cũng bắt đầu giật ví của các mạo hiểm giả",
             "chỉ để trải nghiệm cái thứ gọi là 'mua sắm' này"
         ],
@@ -155,7 +155,7 @@
         "beIndependent": true,
         "subtitle": "",
         "description": [
-            "Một tấm bản đồ được các hầu gái thỏ sử dụng, vẫn còn dính vụn cà rốt.",
+            "Một tấm bản đồ được các Thỏ Hầu Gái sử dụng, vẫn còn dính vụn cà rốt.",
 			"Chúng đào những Hố Thỏ và di chuyển khắp nơi — gần như một đội shipper thực thụ.",
             "Kể từ khi người lãnh đạo quỷ quyệt và sắc sảo xuất hiện cách đây mười năm,",
             "bầy thỏ đã chiếm lĩnh Vực Thẳm và bắt đầu giao thương với quái vật."
@@ -484,7 +484,7 @@
     },
     "46": {
         "name": [
-            "The Fool (Gã Khờ)"
+            "Gã Khờ"
         ],
         "subtitle": [
             "\"Sự tò mò vô tận của một nhà phiêu lưu ngu ngốc\""
@@ -499,7 +499,7 @@
     },
     "48": {
         "name": [
-            "The High Priestess (Thánh Nữ Tối Cao)"
+            "Nữ Tư Tế Tối Cao"
         ],
         "subtitle": [
             "\"Mong ngươi nhận được ân sủng của nàng...\""
@@ -509,12 +509,12 @@
             "cũng có thể dễ dàng kích hoạt hiệu ứng."
         ],
         "ability": [
-            "Khi sử dụng, triệu hồi một cánh cổng dẫn đến Nhà Thờ Sa Ngã"
+            "Khi sử dụng, triệu hồi một cánh cổng dẫn đến Thánh Đường Sa Ngã"
         ]
     },
     "50": {
         "name": [
-            "The Emperor (Đế Vương)"
+            "Hoàng Đế"
         ],
         "subtitle": [
             "\"Uy nghi của rồng, bất khả xâm phạm\""
@@ -529,7 +529,7 @@
     },
     "52": {
         "name": [
-            "The Lovers (Tình Nhân)"
+            "Tình Nhân"
         ],
         "subtitle": [
             "\"Hương Thơm Lưu Luyến Của Phù Thủy\""
@@ -544,7 +544,7 @@
     },
     "53": {
         "name": [
-            "Chariot (Chiến Xa)"
+            "Chiến Xa"
         ],
         "subtitle": [
             "\"Sẵn sàng phục vụ! Chuyển Phát Địa Ngục!\""
@@ -559,7 +559,7 @@
     },
     "54": {
         "name": [
-            "Strength (Sức Mạnh)"
+            "Sức Mạnh"
         ],
         "subtitle": [
             "\"Giải phóng sức mạnh của Chiến Binh Thần Khổng Lồ\""
@@ -574,7 +574,7 @@
     },
     "56": {
         "name": [
-            "The Wheel of Fortune (Bánh Xe Vận Mệnh)"
+            "Bánh Xe Vận Mệnh"
         ],
         "subtitle": [
             "\"Roulette Cá Cược Linh Hồn\""
@@ -589,7 +589,7 @@
     },	
     "57": {
         "name": [
-            "Justice (Công Lý)"
+            "Công Lý"
         ],
         "subtitle": [
             "\"Tro về với tro, bụi về với bụi\""
@@ -604,7 +604,7 @@
     },
     "59": {
         "name": [
-            "Death (Tử Thần)"
+            "Tử Thần"
         ],
         "subtitle": [
             "\"Đích đến của mọi sinh mệnh là cái chết\""
@@ -619,7 +619,7 @@
     },
     "60": {
         "name": [
-            "Temperance (Hòa Hợp)"
+            "Hòa Hợp"
         ],
         "subtitle": [
             "\"Chiếc Hộp Pandora của Vực Thẳm\""
@@ -634,7 +634,7 @@
     },
     "62": {
         "name": [
-            "The Tower (Tòa Tháp)"
+            "Tòa Tháp"
         ],
         "subtitle": [
             "\"Lời mời đến yến tiệc Vực Thẳm\""
@@ -649,7 +649,7 @@
     },
     "63": {
         "name": [
-            "The Star (Vì Sao Hy vọng)"
+            "Ngôi Sao"
         ],
         "subtitle": [
             "\"Ngôi sao là ngọn hải đăng dẫn lối về nhà\""
@@ -659,12 +659,12 @@
             "cũng có thể dễ dàng kích hoạt hiệu ứng"
         ],
         "ability": [
-			"Triệu hồi Cửa Sao gần người chơi để trở về điểm xuất phát"
+			"Triệu hồi Cửa Thiên Tinh gần người chơi để trở về điểm xuất phát"
         ]
     },
     "65": {
         "name": [
-            "The Sun (Thái Dương)"
+            "Mặt Trời"
         ],
         "subtitle": [
             "\"Tái sinh từ tro tàn\""
@@ -674,12 +674,12 @@
             "cũng có thể dễ dàng kích hoạt hiệu ứng"
         ],
         "ability": [
-            "Khi sử dụng, ban Phép Lành của Phượng Hoàng"
+            "Khi sử dụng, ban phép lành của Hỏa Điểu"
         ]
     },
     "67": {
         "name": [
-            "The World (Thế Giới)"
+            "Thế Giới"
         ],
         "subtitle": [
             " \"Mời bạn đến với thế giới vườn mini bí ẩn...\""
@@ -777,7 +777,7 @@
     },
     "80": {
         "name": [
-            "Phong Ấn Quyển"
+            "Cuộn Phép Phong Ấn"
         ],
         "beIndependent": true,		
         "subtitle": "",		
@@ -1141,7 +1141,7 @@
     },
     "132": {
         "name": [
-            "Cá Vẹt Nhật Bản"
+            "Cá Vẹt"
         ],
         "subtitle": "",
         "description": [
@@ -1283,20 +1283,20 @@
     },
     "185": {
         "name": [
-            "Personal Jesus"
+            "Sự Cứu Rỗi Cá Nhân"
         ],
         "beIndependent": true,
         "subtitle": [
-            "\"Dirty Deeds Done Dirt Cheap...\""
+            "\"Những việc dơ bẩn thật rẻ mạc...\""
         ],
         "description": [
-            "Một tạo vật tà ác do một Ác Quỷ chế tác sau khi quan sát",
+            "Một tạo vật tà ác do một Đại Ác Ma chế tác sau khi quan sát",
             "nền văn minh nhân loại. Mọi tội lỗi của kẻ mang theo đều được",
             "ghi chép trung thực và chuyển hóa thành điểm. Những điểm này sau đó",
             "có thể dâng cho ác quỷ để đổi lấy các ân huệ tà dị—"
         ],
         "ability": [
-            "Ghi nhận tội lỗi thành điểm. Mở khóa Giao Dịch Ác Quỷ"
+            "Ghi nhận tội lỗi thành điểm. Mở khóa Giao Dịch Ma Quỷ"
         ]
     },
     "187": {
