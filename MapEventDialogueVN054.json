@@ -447,7 +447,7 @@
 		    "có phải em vẫn còn đau vì vị cay hay không."
 		],
         "34": [
-            "\\nl< >\"O-\\str[121]——— xong chưa thế?\"",
+            "\\nl< >\"\\str[121]——— xong chưa thế?\"",
 			"\\w[150]"
 		],
         "35": [
@@ -459,7 +459,7 @@
 		    "khó kiểm soát trào dâng trong lồng ngực."
 		],
         "37": [
-            "\"\\str[121] sẽ giúp em thấy dễ chịu hơn, được không? ",
+            "\"Anh sẽ giúp em thấy dễ chịu hơn, được không? ",
 			"Sẽ hết đau ngay thôi...\""
 		],
         "38": [

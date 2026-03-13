@@ -1944,6 +1944,832 @@
 		    "Bộ sưu tập đã hoàn chỉnh! Vận may tăng vĩnh viễn!"
 		]
     },
+    "240": {
+        "name": [
+            "Curry Rice"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },  
+    "241": {
+        "name": [
+            "Apple Pie"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "242": {
+        "name": [
+            "Baked Apple"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "243": {
+        "name": [
+            "Stir Fried Shellfish"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "244": {
+        "name": [
+            "Grilled Fish"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "245": {
+        "name": [
+            "Sautéed Mushrooms"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "246": {
+        "name": [
+            "Grilled Meat Skewers"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "247": {
+        "name": [
+            "Onigiri"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "248": {
+        "name": [
+            "Pork Cutlet Curry"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "249": {
+        "name": [
+            "Braised Pork Belly"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "250": {
+        "name": [
+            "Sliced Meat Soup"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "251": {
+        "name": [
+            "Roast Beef"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "252": {
+        "name": [
+            "Pork Cutlet Onigiri"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "253": {
+        "name": [
+            "Slime Jelly"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "254": {
+        "name": [
+            "Dark Jelly"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "255": {
+        "name": [
+            "Blaze Jelly"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "256": {
+        "name": [
+            "Rainbow Jelly?"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "257": {
+        "name": [
+            "Grilled Banana"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "258": {
+        "name": [
+            "Borscht"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "259": {
+        "name": [
+            "Grilled Octopus Skewers"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "260": {
+        "name": [
+            "Vegetable Salad"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+        ""
+        ]
+    },
+    "261": {
+        "name": [
+            "Mashed Potatoes"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "262": {
+        "name": [
+            "Radish and Mushroom Soup"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "263": {
+        "name": [
+            "Pasta"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "264": {
+        "name": [
+            "Tomato Pasta"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "265": {
+        "name": [
+            "Seafood Pasta"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "266": {
+        "name": [
+            "Egg Curry Rice"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "267": {
+        "name": [
+            "Omurice"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "268": {
+        "name": [
+            "Tomato Omurice"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "269": {
+        "name": [
+            "Seafood Risotto"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "270": {
+        "name": [
+            "Pineapple Drink"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "271": {
+        "name": [
+            "Okinawa Stir-Fry"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "272": {
+        "name": [
+            "Fried Chicken Bucket"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "273": {
+        "name": [
+            "Fried Chicken Leg"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "274": {
+        "name": [
+            "Tempura Onigiri"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "275": {
+        "name": [
+            "Baked Lobster"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "276": {
+        "name": [
+            "Stewed Crab"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "277": {
+        "name": [
+            "Tuna Head"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "278": {
+        "name": [
+            "Takoyaki"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "279": {
+        "name": [
+            "Hamburg Steak"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "280": {
+        "name": [
+            "Spicy Mashed Potatoes"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "281": {
+        "name": [
+            "Chili Soup"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "282": {
+        "name": [
+            "Sea Monster Gummies"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "283": {
+        "name": [
+            "Sea Monster Shaved Ice"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "284": {
+        "name": [
+            "Red Sea Monster Gummies"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "285": {
+        "name": [
+            "Pancake"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "286": {
+        "name": [
+            "Strawberry Pancake"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "287": {
+        "name": [
+            "Tomato Soup"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "288": {
+        "name": [
+            "Washed Strawberries"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "289": {
+        "name": [
+            "Smoked Chicken Onigiri"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "290": {
+        "name": [
+            "Chicken Curry Rice"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "291": {
+        "name": [
+            "Grilled Carrot Skewers"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "292": {
+        "name": [
+            "Sacabambaspis Sushi"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "293": {
+        "name": [
+            "Sacabambaspis Shrimp Sushi"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "294": {
+        "name": [
+            "Sacabambaspis Meat Sushi"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "295": {
+        "name": [
+            "Lava Roast Duck"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "296": {
+        "name": [
+            "Shark Onigiri"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "298": {
+        "name": [
+            "Hell Ramen"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "300": {
+        "name": [
+            "Hot Cup Noodles"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
     "311": {
         "name": [
             "Lam Thạch Phát Sáng"

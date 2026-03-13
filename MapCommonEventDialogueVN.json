@@ -22,6 +22,12 @@
             "Vứt bỏ"
         ]
     },
+    "gameAnnouncement": {
+        "0": [
+            "Take a look",
+            "Never mind"
+        ]
+    },
     "skillOnCooldown": {
         "0": [
             "Đang hồi kỹ năng!"
