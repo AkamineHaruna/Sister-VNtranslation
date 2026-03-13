@@ -100,11 +100,11 @@
         ],
         "subtitle": "",
         "description": [
-            "Lông vũ của một loài chim kỳ lạ. Cực kỳ nhẹ và có thể",
-            "tạo ra lực đủ mạnh để thổi bay ai đó"
+            "Lông vũ của một loài chim kỳ lạ. Cực kỳ nhẹ và có thể tạo ra lực đủ mạnh ",
+            "để thổi bay ai đó"
         ],
         "ability": [
-            "Tốc độ di chuyển tăng khi dùng Phong Trảm",
+            "Tốc độ di chuyển tăng khi dùng Trảm Cuồng Phong",
             "Khi xoay liên tục, bước vào trạng thái lơ lửng, miễn nhiễm với việc bị rơi."
         ]
     },
@@ -444,7 +444,7 @@
             "Đoạt Hồn Liềm Den"
         ],
         "subtitle": [
-		    "\"Nhớ nhé, Phong Trảm dùng như thế này! \""
+		    "\"Nhớ nhé, Trảm Cuồng Phong dùng như thế này! \""
 		],
         "description": [
             "Lưỡi hái cán ngắn của người ngoài với thiết kế đáng sợ",
@@ -508,7 +508,7 @@
         "description": [
             "Cà rốt hảo hạng được Thỏ Hầu Gái bí mật trồng.",
             "Được truyền sức mạnh của Đá Hiền Triết, phát triển thành",
-            "món ngon khiến Thỏ Hầu Gái thèm đến phát khóc"
+            "món ngon khiến Thỏ Hầu Gái cũng thèm đến phát khóc"
         ],
         "ability": [
             "Có thể bị ăn mất khi tấn công...",

@@ -580,7 +580,7 @@
 		],	  
         "description": [
             "Có vẻ đây là một cỗ máy được vận hành và  ",
-			"quản lý bởi Hầu Gái Thỏ.",
+			"quản lý bởi Thỏ Hầu Gái.",
 			"Không ai thực sự rõ vì sao quái vật lại muốn bắt chước",
 			"con người và kinh doanh buôn bán, nhưng mọi người",
 			"dường như đã tự nhiên chấp nhận chuyện đó.",
@@ -680,7 +680,7 @@
     },
 	"22": {
 		"objectName": [
-			"\\c[116]Tháp Cuồng Tín"
+			"\\c[116]Kẻ Cuồng Tín Tòa Tháp"
 		],
 		"sentouryoku": [
 			"800"
@@ -695,7 +695,7 @@
   	},
   	"24": {
 		"objectName": [
-		    "\\c[114]Hầu Gái Thỏ"
+		    "\\c[114]Thỏ Hầu Gái"
 		],	  
 		"sentouryoku": [
 		    "?77"
@@ -808,7 +808,7 @@
 		    "Hàng hóa chủ yếu là rác từ Vực Thẳm mà họ tìm được.",
 		    "Cẩn thận, giá có thể đắt cắt cổ.",
 		    "Khinh thường họ, là sẽ bị đánh...",
-		    "PS:\\c[2]Bị các Hầu Gái Thỏ đưa vào danh sách đen ",
+		    "PS:\\c[2]Bị nhóm Thỏ Hầu Gái đưa vào danh sách đen ",
 			"\\c[2]vì chèo kéo khách hàng của họ."
 		],
 		"1": [

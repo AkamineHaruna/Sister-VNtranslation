@@ -22,15 +22,15 @@
     },	
     "2": {
         "name": [
-            "Tốc Hành"
+            "Thiểm Bộ"
         ],
         "subtitle": [
 		    ""
 		],
         "description": [
             "Một pha lướt nhanh qua một khoảng cách ngắn,",
-            "cho phép bạn né tránh một số đòn tấn công. Đây chỉ là một kỹ thuật ",
-			"tăng tốc, nhưng người dùng lại khăng khăng đặt cho nó một cái tên ngầu."
+            "cho phép bạn né tránh một số đòn tấn công. Đây chỉ là một kỹ thuật tăng tốc,",
+			"nhưng người dùng lại khăng khăng đặt cho nó một cái tên ngầu."
         ],
         "ability": [
 		    "Giữ phím Space để kích hoạt"
@@ -38,19 +38,19 @@
     },
     "3": {
         "name": [
-            " Cuồng Đao Tốc Hành"
+            "Nhất Thiểm Trảm"
         ],
         "subtitle": [
 		    ""
 		],
         "description": [
             "Một kỹ thuật rút kiếm học được từ vị Kiếm Sư trẻ tuổi.",
-            "Khi kết hợp với Tốc Hành, bạn tung ra một nhát chém được tăng cường tốc độ, ",
+            "Khi kết hợp với Thiểm Bộ, bạn tung ra một nhát chém được tăng cường tốc độ, ",
 			"đủ sức hất văng kẻ địch nếu căn đúng thời điểm."
         ],
         "ability": [
-		    "Chuột trái trong khi dùng Tốc Hành: Chém, sát thương tỉ lệ với tốc độ",
-		    "Giữ chuột phải trong khi dùng Tốc Hành: Tích tụ, hiệu ứng tỉ lệ với đà di chuyển"
+		    "Chuột trái trong khi dùng Thiểm Bộ: Chém, sát thương tỉ lệ với tốc độ",
+		    "Giữ chuột phải trong khi dùng Thiểm Bộ: Tích tụ, hiệu ứng tỉ lệ với đà di chuyển"
 		],
         "mobileAbility": [
 		    "Chạm nút kỹ năng để chém, sát thương tỉ lệ với tốc độ di chuyển",
@@ -59,7 +59,7 @@
     },
     "4": {
         "name": [
-            "Phong Trảm Cuồng Lốc"
+            "Trảm Cuồng Phong"
         ],
         "subtitle": [
 		    ""
