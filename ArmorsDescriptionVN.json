@@ -11,7 +11,7 @@
             "những người chưa quen..."
         ],
         "ability": [
-            "Kỹ năng Tốc Hành thay đổi thành rút đe ra để sửa chữa vũ khí",
+            "Kỹ năng Thiểm Bộ thay đổi thành rút đe ra để sửa chữa vũ khí",
             "Không thể sửa vũ khí ma pháp hoặc vũ khí có độ hiếm cấp Vàng"
         ]
     },
@@ -171,7 +171,7 @@
             "được chứa đựng linh hồn của mèo. Khi trang bị sẽ tăng sự nhanh nhẹn của bạn!"
         ],
         "ability": [
-            "Tăng tốc độ tấn công và di chuyển, giảm thời gian hồi kỹ năng Tốc Hành"
+            "Tăng tốc độ tấn công và di chuyển, giảm thời gian hồi kỹ năng Thiểm Bộ"
         ]
     },
     "14": {
@@ -693,7 +693,7 @@
 			"cho đến khi trở thành một ngôi sao chổi lao vụt qua bầu trời!"
         ],
         "ability": [
-            "Khi nạp đầy, Tốc Hành không có thời gian hồi và di chuyển nhanh hơn",
+            "Khi nạp đầy, Thiểm Bộ không có thời gian hồi và di chuyển nhanh hơn",
 			"Khi năng lượng cạn, nó sẽ tự động nạp lại"
         ]
     },
@@ -843,7 +843,7 @@
             "bị ám bởi vong linh khao khát được báo thù"
         ],
         "ability": [
-            "Tàn ảnh tạo ra bởi Tốc Hành tồn tại lâu hơn",
+            "Tàn ảnh tạo ra bởi Thiểm Bộ tồn tại lâu hơn",
             "Những vật thể chạm vào chúng sẽ bị đóng băng tại chỗ"
         ]
     },
@@ -870,7 +870,7 @@
             "chứa đựng một linh hồn đầy thù hận, ban cho sự nhanh nhẹn như bóng ma"
         ],
         "ability": [
-            "Tăng tốc độ di chuyển, nhận trạng thái hư vô khi sử dụng Tốc Hành"
+            "Tăng tốc độ di chuyển, nhận trạng thái hư vô khi sử dụng Thiểm Bộ"
         ]
     },
     "65": {
@@ -913,7 +913,7 @@
             "kỹ năng, tỏa ra hào quang mạnh mẽ"
         ],
         "ability": [
-            "Tăng tốc độ di chuyển. Nâng cấp hiệu quả Tốc Hành"
+            "Tăng tốc độ di chuyển. Nâng cấp hiệu quả Thiểm Bộ"
         ]
     },
     "69": {

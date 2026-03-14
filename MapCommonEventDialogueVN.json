@@ -17,15 +17,15 @@
             "nên làm gì đây…?"
         ],
         "1": [
-            "Dùng",
+            "Sử dụng",
             "Thôi vậy",
             "Vứt bỏ"
         ]
     },
     "gameAnnouncement": {
         "0": [
-            "Take a look",
-            "Never mind"
+            "Hãy xem thử",
+            "không có gì"
         ]
     },
     "skillOnCooldown": {
