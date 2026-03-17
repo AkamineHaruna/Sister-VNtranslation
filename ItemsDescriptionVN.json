@@ -158,10 +158,10 @@
             "Một tấm bản đồ được các Thỏ Hầu Gái sử dụng, vẫn còn dính vụn cà rốt.",
 			"Chúng đào những Hố Thỏ và di chuyển khắp nơi — gần như một đội shipper thực thụ.",
             "Kể từ khi người lãnh đạo quỷ quyệt và sắc sảo xuất hiện cách đây mười năm,",
-            "bầy thỏ đã chiếm lĩnh Vực Thẳm và bắt đầu giao thương với quái vật."
+            "bầy thỏ đã chiếm lĩnh Vực Sâu và bắt đầu giao thương với quái vật."
         ],
         "ability": [
-            "Cho phép bạn xem bản đồ Vực Thẳm và tất cả các vật thể có thể tương tác"
+            "Cho phép bạn xem bản đồ Vực Sâu và tất cả các vật thể có thể tương tác"
         ]
     },
     "14": {
@@ -172,7 +172,7 @@
         "subtitle": "",
         "description": [
             "Được cho là một bảo vật phương Đông, chế tác tinh xảo nhưng bị thất lạc",
-            "trong Vực Thẳm... Nó đóng băng cảnh vật thành hình ảnh, nhưng",
+            "trong Vực Sâu... Nó đóng băng cảnh vật thành hình ảnh, nhưng",
             "dễ bị ảnh hưởng bởi ma thuật, đôi khi chụp được những thứ kỳ lạ"
         ],
         "ability": [
@@ -622,7 +622,7 @@
             "Hòa Hợp"
         ],
         "subtitle": [
-            "\"Chiếc Hộp Pandora của Vực Thẳm\""
+            "\"Chiếc Hộp Pandora của Vực Sâu\""
         ],
         "description": [
             "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
@@ -637,7 +637,7 @@
             "Tòa Tháp"
         ],
         "subtitle": [
-            "\"Lời mời đến yến tiệc Vực Thẳm\""
+            "\"Lời mời đến yến tiệc Vực Sâu\""
         ],
         "description": [
             "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
@@ -901,7 +901,7 @@
         ],
         "subtitle": "",
         "description": [
-            "Một loại rau phổ biến, nhưng thật lạ khi tìm thấy nó trong Vực Thẳm",
+            "Một loại rau phổ biến, nhưng thật lạ khi tìm thấy nó trong Vực Sâu",
             "Cần chuẩn bị đúng cách trước khi ăn"
         ],
         "ability": ""
@@ -912,7 +912,7 @@
         ],
         "subtitle": "",
         "description": [
-            "Một loại rau phổ biến, nhưng thật lạ khi tìm thấy nó trong Vực Thẳm",
+            "Một loại rau phổ biến, nhưng thật lạ khi tìm thấy nó trong Vực Sâu",
             "Cần chuẩn bị đúng cách trước khi ăn"
         ],
         "ability": ""
@@ -923,7 +923,7 @@
         ],
         "subtitle": "",
         "description": [
-            "Một loại quả phổ biến, nhưng thật lạ khi tìm thấy nó trong Vực Thẳm",
+            "Một loại quả phổ biến, nhưng thật lạ khi tìm thấy nó trong Vực Sâu",
             "Cần chuẩn bị đúng cách trước khi ăn"
         ],
         "ability": ""
@@ -934,7 +934,7 @@
         ],
         "subtitle": "",
         "description": [
-            "Một loại rau phổ biến, nhưng thật lạ khi tìm thấy nó trong Vực Thẳm",
+            "Một loại rau phổ biến, nhưng thật lạ khi tìm thấy nó trong Vực Sâu",
             "Cần chuẩn bị đúng cách trước khi ăn"
         ],
         "ability": ""
@@ -1033,7 +1033,7 @@
         "subtitle": "",
         "description": [
             "Một loại nấm phổ biến thường thấy ngoài tự nhiên",
-            "Tuy nhiên, tìm thấy nó trong Vực Thẳm là khá hiếm"
+            "Tuy nhiên, tìm thấy nó trong Vực Sâu là khá hiếm"
         ],
         "ability": ""
     },
@@ -1044,7 +1044,7 @@
         "subtitle": "",
         "description": [
             "Một loại nấm phổ biến thường thấy ngoài tự nhiên",
-            "Tuy nhiên, tìm thấy nó trong Vực Thẳm là khá hiếm"
+            "Tuy nhiên, tìm thấy nó trong Vực Sâu là khá hiếm"
         ],
         "ability": ""
     },
@@ -1055,7 +1055,7 @@
         "subtitle": "",
         "description": [
             "Một loại nấm phổ biến thường thấy ngoài tự nhiên",
-            "Tuy nhiên, tìm thấy nó trong Vực Thẳm là khá hiếm"
+            "Tuy nhiên, tìm thấy nó trong Vực Sâu là khá hiếm"
         ],
         "ability": ""
     },
@@ -1066,7 +1066,7 @@
         "subtitle": "",
         "description": [
             "Một loại nấm phổ biến thường thấy ngoài tự nhiên",
-            "Tuy nhiên, tìm thấy nó trong Vực Thẳm là khá hiếm"
+            "Tuy nhiên, tìm thấy nó trong Vực Sâu là khá hiếm"
         ],
         "ability": ""
     },
@@ -1077,7 +1077,7 @@
         "subtitle": "",
         "description": [
             "Một loại nấm phổ biến thường thấy ngoài tự nhiên",
-            "Tuy nhiên, tìm thấy nó trong Vực Thẳm là khá hiếm"
+            "Tuy nhiên, tìm thấy nó trong Vực Sâu là khá hiếm"
         ],
         "ability": ""
     },
@@ -1088,7 +1088,7 @@
         "subtitle": "",
         "description": [
             "Một loại nấm phổ biến thường thấy ngoài tự nhiên",
-            "Tuy nhiên, tìm thấy nó trong Vực Thẳm là khá hiếm"
+            "Tuy nhiên, tìm thấy nó trong Vực Sâu là khá hiếm"
         ],
         "ability": ""
     },
@@ -1256,7 +1256,7 @@
         ],
         "subtitle": "",
         "description": [
-            "Một quả trứng khổng lồ từ Vực Thẳm. Đây là trứng của sinh vật gì?",
+            "Một quả trứng khổng lồ từ Vực Sâu. Đây là trứng của sinh vật gì?",
             "Tôi không suy nghĩ quá nhiều, trứng là trứng mà"
         ],
         "ability": ""
@@ -2828,7 +2828,7 @@
             "Anh ta đã từ chối việc đặt tên theo mình vì nghe quá chuuni—\""
         ],
         "description": [
-            "Một loại quặng đặc biệt chỉ được tìm thấy ở những tầng sâu của Vực Thẳm.",
+            "Một loại quặng đặc biệt chỉ được tìm thấy ở những tầng sâu của Vực Sâu.",
             "Nó chứa nguồn ma lực bỏng rát, nhưng lại cứng một cách khác thường, ",
             "và chỉ có thể được khai thác cũng như gia công bằng những phương pháp nhất định."
         ],

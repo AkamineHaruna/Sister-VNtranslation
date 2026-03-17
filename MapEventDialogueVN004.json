@@ -1602,7 +1602,7 @@
         ],	
 		"44": [
             "\"Nhìn này, em gái yêu dấu! Với trang bị này,",
-			"\\str[121] có thể đi bất cứ đâu trong Vực Thẳm mà không gặp vấn đề gì!\""
+			"\\str[121] có thể đi bất cứ đâu trong Vực Sâu mà không gặp vấn đề gì!\""
         ],
 		"45": [
             "\\nl< >(\\str[121]... ",
@@ -1811,7 +1811,7 @@
 		],
         "6": [
             "\"Sâu trong hầm ngục—\"",
-	        "Tôi trò chuyện với \\str[120] về những cuộc phiêu lưu trong Vực Thẳm."
+	        "Tôi trò chuyện với \\str[120] về những cuộc phiêu lưu trong Vực Sâu."
 		],
         "7": [
             "\"Thực ra có rất nhiều vật phẩm mang hiệu ứng ma pháp—\"",
@@ -1828,7 +1828,7 @@
 		],
         "10": [
             "\"Em có biết không? Có những cây nấm thật sự có thể chạy được đấy!\"",
-	        "Tôi kể cho \\str[120] nghe về những con quái vật kỳ lạ anh đã gặp trong Vực Thẳm."
+	        "Tôi kể cho \\str[120] nghe về những con quái vật kỳ lạ anh đã gặp trong Vực Sâu."
 		],
         "11": [
             "\"Thật ra anh thích...\""

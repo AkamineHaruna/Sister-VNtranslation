@@ -61,7 +61,7 @@
 		"Cái này thật sự ổn chứ?"
 	],
 	"11": [
-		"✦Một loại dầu gội hương trái cây mà \\str[120] rất thích.",
+		"✦Loại dầu gội hương trái cây mà \\str[120] rất thích.",
 		"Nó giúp tóc em ấy óng ả mượt mà như sunsilk,",
 		"nhưng lại hết quá nhanh.",
 		"Hiện tại còn lại:\\c[20]${$gameSelfVariables.value([6, 8, 'shampoo'])}%"
@@ -91,7 +91,7 @@
 		"cho phép trở về một cách an toàn.",
 		"Việc đây có phải là sự sắp đặt có chủ ý của cha, ",
 		"để phòng trước cho việc đứa con mình lạc vào ",
-		"Vực Thẳm, giờ vẫn là điều không rõ.."
+		"Vực Sâu, giờ vẫn là điều không rõ.."
 	],
 	"16": [
 		"\\fr\\fs[28]\\c[114]Đại Mê Cung",

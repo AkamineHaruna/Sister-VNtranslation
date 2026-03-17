@@ -231,7 +231,7 @@
 			"cảm hứng sáng tạo, thường hỏi các nhà thám hiểm",
 			"về những chuyến hành trình của họ ",
 			"và đổi lại sẽ cung cấp sự hỗ trợ về vật chất. ",
-			"Ngoài ra, họ dường như cũng rất am hiểu về Vực Thẳm—"
+			"Ngoài ra, họ dường như cũng rất am hiểu về Vực Sâu—"
 		],
         "1": [
 		    "……Ohhh! Cậu cũng đến đây để ",
@@ -344,7 +344,7 @@
         ],
         "36": [
     	    "Với trình độ chiến đấu và trang bị hiện tại của cậu,",
-    	    "việc tiến sâu xuống Vực Thẳm sẽ không phải là một thử thách dễ dàng đâu."
+    	    "việc tiến sâu xuống Vực Sâu sẽ không phải là một thử thách dễ dàng đâu."
         ],
         "37": [
     	    "Tôi khuyên anh bạn nên chuẩn bị thêm vật tư,",
@@ -686,7 +686,7 @@
 			"800"
 		],
 		"description": [
-			"Những kẻ cuồng tín hiến dâng cho sức mạnh Vực Thẳm ",
+			"Những kẻ cuồng tín hiến dâng cho sức mạnh Vực Sâu ",
 			"và lời nguyền của Tòa Tháp.",
 			"Chúng tin rằng nguồn lực không thể thuần phục ấy sẽ ",
 			"mang lại sự tái sinh cho thế giới, dù nó được xây dựng ",
@@ -805,7 +805,7 @@
         "description": [
 		    "Một cửa hàng di động do hai cô nàng mèo điều hành.",
 		    "Họ xuất hiện một cách lộng lẫy khi mạo hiểm giả gọi.",
-		    "Hàng hóa chủ yếu là rác từ Vực Thẳm mà họ tìm được.",
+		    "Hàng hóa chủ yếu là rác từ Vực Sâu mà họ tìm được.",
 		    "Cẩn thận, giá có thể đắt cắt cổ.",
 		    "Khinh thường họ, là sẽ bị đánh...",
 		    "PS:\\c[2]Bị nhóm Thỏ Hầu Gái đưa vào danh sách đen ",
@@ -989,7 +989,7 @@
 		],	  
         "description": [
             "Một sinh vật...? có hình dáng giống quả chuối.",
-            "Được sinh ra từ sức ảnh hưởng của Vực Thẳm. ",
+            "Được sinh ra từ sức ảnh hưởng của Vực Sâu. ",
             "Nó hầu như không gây nguy hiểm cho mạo hiểm giả.",
             "Tuy nhiên, có tin đồn rằng nó có thể ",
 			"dễ dàng làm người ta bay vút đi..."
@@ -1004,7 +1004,7 @@
 		],	  
         "description": [
             "Một sinh vật...? có hình dáng giống quả táo.",
-            "Được sinh ra từ sức ảnh hưởng của Vực Thẳm. ",
+            "Được sinh ra từ sức ảnh hưởng của Vực Sâu. ",
             "Nó hầu như không gây nguy hiểm cho mạo hiểm giả.",
             "Tuy nhiên, có tin đồn rằng nó có thể ",
 			"dễ dàng làm người ta bay vút đi..."
@@ -1091,7 +1091,7 @@
 		],	  
         "description": [
         	"Một quái phổ biến thường xuất hiện ở vùng ngoại ô ",
-        	"của Vực Thẳm. Nó biến đổi thành màu xanh do ",
+        	"của Vực Sâu. Nó biến đổi thành màu xanh do ",
        	    "thói quen ăn thực vật. Khi bị tiếp cận ",
         	"bất ngờ, nó sẽ trở nên kích động và bắt đầu ",
 			"phun chất nhầy ăn mòn."
@@ -1226,7 +1226,7 @@
         ],
         "10": [
 		    "Vậy thì, em là~ Đại Ác Ma từ",
-            "sâu trong Vực Thẳm! Tên là Aki~!"
+            "sâu trong Vực Sâu! Tên là Aki~!"
         ],
         "11": [
 		    "Này! Đừng làm mặt sợ hãi thế chứ~",
@@ -1566,7 +1566,7 @@
 		    "???"
 		],	  
         "description": [
-            "Ngay cả ở Vực Thẳm chết chóc, việc xả rác cũng không hay.",
+            "Ngay cả ở Vực Sâu chết chóc, việc xả rác cũng không hay.",
 			"Dù sao, bất cứ thứ gì bạn ném đi sẽ biến mất vào ngày hôm sau...",
 			"Cảm giác như có ai đó đang dọn dẹp.",
 			"Nhưng cẩn thận, đừng nên ném đồ dễ cháy vào.",
