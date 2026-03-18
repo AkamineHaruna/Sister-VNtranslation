@@ -1,0 +1,39 @@
+{
+    "categories": {
+        "SLG": {
+            "Category Name": "Kí ức cùng với \\str[120]",
+            "New Scene Name": "",
+            "Trophy Description": "\\str[120] sẽ luôn là người quan trọng nhất"
+        },
+        "RPG": {
+            "Category Name": "Ký ức chiến đấu trong Vực Sâu",
+            "New Scene Name": "",
+            "Trophy Description": "Chiến đấu... tiếp tục chiến đấu!"
+        },
+        "Gacha": {
+            "Category Name": "Ký ức về những bộ sưu tập khác",
+            "New Scene Name": "",
+            "Trophy Description": "Nghe nói nếu thu thập tất cả, bạn có thể triệu hồi—"
+        },
+        "Ryouri": {
+            "Category Name": "Ký ức nấu ăn",
+            "New Scene Name": "",
+            "Trophy Description": "Nấu ăn mang lại hạnh phúc cho mọi người"
+        }
+    },
+    "achievements": {
+        "JoyStation V": {
+            "Name": "Đã có máy chơi game!",
+            "Description": "Giờ bạn có thể chơi game cùng \\str[120]!",
+            "Pop Up Desc": "Đã có máy chơi game!"
+        },
+        "AirKing": {
+            "Name": "Vua Bầu Trời",
+            "Description": "\"Ngươi không muốn làm bạn với bầu trời sao!\"",
+            "Pop Up Desc": [
+                "\\fs[22]\"Ngươi không muốn trở thành ",
+                "bạn với bầu trời sao!\""
+            ]
+        }
+    }
+}

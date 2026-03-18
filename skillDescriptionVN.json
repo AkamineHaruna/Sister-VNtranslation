@@ -113,7 +113,22 @@
         "mobileAbility": [
 		    "Chạm vào mục tiêu để xem thông tin chi tiết"
 		]		
-    },	
+    },
+    "9": {
+        "name": [
+            "Vua Bầu Trời"
+        ],
+        "description": [
+            "Hang động, vách đá, bầu trời rộng mở... anh ta đã rơi từ đủ mọi nơi.",
+            "Ngay cả khi bị đánh đến cận kề cái chết hết lần này đến lần khác, ",
+            "anh ta vẫn luôn bằng cách nào đó bám trụ được hơi thở cuối cùng.",
+            "Một ngày nào đó, người đàn ông này sẽ thoát khỏi trọng lực và thực sự chinh phục bầu trời...!"
+        ],
+        "ability": [
+            "Khi chịu sát thương rơi chí mạng, cưỡng chế sống sót với 1 HP",
+            "Chỉ có thể kích hoạt tối đa một lần mỗi ngày"
+        ]
+    },
     "10": {
         "name": [
             "Ẩn Thân Chi Thuật"
